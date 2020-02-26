@@ -182,8 +182,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **AdderNet: Do We Really Need Multiplications in Deep Learning?** 
 
 - 论文：https://arxiv.org/abs/1912.13200 
+- 代码：https://github.com/huawei-noah/AdderNet
 
-- 代码：https://github.com/huawei-noah/AdderNet 
+**Deep Image Harmonization via Domain Verification** 
+
+- 论文：https://arxiv.org/abs/1911.13239 
+
+- 代码：https://github.com/bcmi/Image_Harmonization_Datasets 
 
 https://github.com/charlesCXK/3D-SketchAware-SSC
 
