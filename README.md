@@ -58,8 +58,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **CenterMask : Real-Time Anchor-Free Instance Segmentation**
 
 - 论文：https://arxiv.org/abs/1911.06667 
-
 - 代码：https://github.com/youngwanLEE/CenterMask 
+
+**Deep Snake for Real-Time Instance Segmentation**
+
+- 论文：https://arxiv.org/abs/2001.01629
+
+- 代码：https://github.com/zju3dv/snake 
 
 <a name="GAN"></a>
 
