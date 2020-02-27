@@ -148,6 +148,17 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2002.10200 
 - 代码（即将开源）：https://github.com/aim-uofa/adet 
 
+<a name="Super-Resolution"></a>
+
+# 超分辨率
+
+## 视频超分辨率
+
+**Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution**
+
+- 论文：https://arxiv.org/abs/2002.11616 
+- 代码：https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020 
+
 <a name="Action-Recognition"></a>
 
 # 行为识别
