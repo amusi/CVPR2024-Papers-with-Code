@@ -176,6 +176,14 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 深度估计
 
+## 单目深度估计
+
+**Domain Decluttering: Simplifying Images to Mitigate Synthetic-Real Domain Shift and Improve Depth Estimation**
+
+- 论文：https://arxiv.org/abs/2002.12114
+
+- 代码：https://github.com/yzhao520/ARC
+
 <a name="VLN"></a>
 
 # 视觉语言导航
