@@ -211,8 +211,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Deep Image Harmonization via Domain Verification** 
 
 - 论文：https://arxiv.org/abs/1911.13239 
+- 代码：https://github.com/bcmi/Image_Harmonization_Datasets
 
-- 代码：https://github.com/bcmi/Image_Harmonization_Datasets 
+**Blurry Video Frame Interpolation**
+
+- 论文：https://arxiv.org/abs/2002.12259 
+- 代码：https://github.com/laomao0/BIN 
 
 https://github.com/charlesCXK/3D-SketchAware-SSC
 
