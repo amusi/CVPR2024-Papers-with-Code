@@ -6,6 +6,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [目标跟踪](#Object-Tracking)
 - [语义分割](#Semantic-Segmentation)
 - [实例分割](#Instance-Segmentation)
+- [NAS](#NAS)
 - [GAN](#GAN)
 - [人脸检测](#Face-Detection)
 - [人脸表情识别](#Facial-Expression-Recognition)
@@ -65,16 +66,24 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码：https://github.com/zju3dv/snake 
 
-<a name="GAN"></a>
-
-# GAN
+<a name="NAS"></a>
 
 # NAS
+
+**Rethinking Performance Estimation in Neural Architecture Search**
+
+- 论文：准备中
+- 代码：https://github.com/zhengxiawu/rethinking_performance_estimation_in_NAS
+- 解读：https://www.zhihu.com/question/372070853/answer/1035234510
 
 **CARS: Continuous Evolution for Efficient Neural Architecture Search**
 
 - 论文：https://arxiv.org/abs/1909.04977 
 - 代码（即将开源）：https://github.com/huawei-noah/CARS 
+
+<a name="GAN"></a>
+
+# GAN
 
 <a name="Face-Detection"></a>
 
