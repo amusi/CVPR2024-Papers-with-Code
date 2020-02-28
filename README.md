@@ -15,6 +15,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [行为识别](#Action-Recognition)
 - [人群计数](#Crowd-Counting)
 - [深度估计](#Depth-Estimation)
+- [视觉问答](#VQA)
 - [视觉语言导航](#VLN)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
@@ -183,6 +184,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2002.12114
 
 - 代码：https://github.com/yzhao520/ARC
+
+<a name="VQA"></a>
+
+# 视觉问答
+
+**VC R-CNN：Visual Commonsense R-CNN** 
+
+- 论文：https://arxiv.org/abs/2002.12204
+- 代码：https://github.com/Wangt-CN/VC-R-CNN
 
 <a name="VLN"></a>
 
