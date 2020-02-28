@@ -36,8 +36,6 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **MAST: A Memory-Augmented Self-supervised Tracker**
 
-- 不确定中没中
-
 - 论文：https://arxiv.org/abs/2002.07793
 
 - 代码：https://github.com/zlai0/MAST
@@ -227,12 +225,6 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2002.12259 
 - 代码：https://github.com/laomao0/BIN
-
-**Replacing Mobile Camera ISP with a Single Deep Learning Model**
-
-- 论文：https://arxiv.org/abs/2002.05509 
-- 代码：https://github.com/aiff22/PyNET 
-- 解读：https://mp.weixin.qq.com/s/DBeuv6-LYGJRPVzqCncu0w
 
 https://github.com/charlesCXK/3D-SketchAware-SSC
 
