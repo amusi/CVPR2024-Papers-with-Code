@@ -19,6 +19,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [深度估计](#Depth-Estimation)
 - [视觉问答](#VQA)
 - [视觉语言导航](#VLN)
+- [行为轨迹预测](#HTP)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
 
@@ -219,8 +220,17 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training**
 
-- 论文：https://github.com/weituo12321/PREVALENT
-- 代码（即将开源）：https://arxiv.org/abs/2002.10638
+- 论文：https://arxiv.org/abs/2002.10638
+- 代码（即将开源）：https://github.com/weituo12321/PREVALENT
+
+<a name="HTP"></a>
+
+# 行人轨迹预测
+
+**Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction**
+
+- 论文：https://arxiv.org/abs/2002.11927 
+- 代码：https://github.com/abduallahmohamed/Social-STGCNN 
 
 <a name="Others"></a>
 
