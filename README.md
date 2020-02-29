@@ -13,6 +13,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [人体姿态估计](#Human-Pose-Estimation)
 - [场景文本检测](#Scene-Text-Detection)
 - [场景文本识别](#Scene-Text-Recognition)
+- [模型剪枝](#Model-Pruning)
 - [行为识别](#Action-Recognition)
 - [人群计数](#Crowd-Counting)
 - [深度估计](#Depth-Estimation)
@@ -172,6 +173,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2002.11616 
 - 代码：https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020 
 
+<a name="Model-Pruning"></a>
+
+# 模型剪枝
+
+**HRank: Filter Pruning using High-Rank Feature Map**
+
+- 论文：http://arxiv.org/abs/2002.10179
+- 代码：https://github.com/lmbxmu/HRank 
+
 <a name="Action-Recognition"></a>
 
 # 行为识别
@@ -181,6 +191,8 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 # 人群计数
 
 <a name="Depth-Estimation"></a>
+
+# 深度估计
 
 # 深度估计
 
