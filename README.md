@@ -132,8 +132,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **VIBE: Video Inference for Human Body Pose and Shape Estimation**
 
 - 论文：https://arxiv.org/abs/1912.05656 
+- 代码：https://github.com/mkocabas/VIBE
 
-- 代码：https://github.com/mkocabas/VIBE 
+**Back to the Future: Joint Aware Temporal Deep Learning 3D Human Pose Estimation**
+
+- 论文：https://arxiv.org/abs/2002.11251 
+- 代码：https://github.com/vnmr/JointVideoPose3D
 
 <a name="Scene-Text-Detection"></a>
 
