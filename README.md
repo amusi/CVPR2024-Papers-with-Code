@@ -8,6 +8,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [实例分割](#Instance-Segmentation)
 - [NAS](#NAS)
 - [GAN](#GAN)
+- [Re-ID](#Re-ID)
 - [人脸检测](#Face-Detection)
 - [人脸表情识别](#Facial-Expression-Recognition)
 - [人体姿态估计](#Human-Pose-Estimation)
@@ -86,6 +87,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="GAN"></a>
 
 # GAN
+
+<a name="Re-ID"></a>
+
+# Re-ID
+
+**Weakly supervised discriminative feature learning with state information for person identification**
+
+- 论文：https://arxiv.org/abs/2002.11939 
+- 代码：https://github.com/KovenYu/state-information 
 
 <a name="Face-Detection"></a>
 
