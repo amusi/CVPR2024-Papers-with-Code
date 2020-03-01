@@ -97,6 +97,17 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2002.11939 
 - 代码：https://github.com/KovenYu/state-information 
 
+<a name="3D-PointCloud"></a>
+
+# 3D点云
+
+## 点云卷积
+
+**FPConv: Learning Local Flattening for Point Convolution**
+
+- 论文：https://arxiv.org/abs/2002.10701
+- 代码：https://github.com/lyqun/FPConv
+
 <a name="Face-Detection"></a>
 
 # 人脸检测
