@@ -2,6 +2,7 @@
 
 CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分享CVPR 2020开源项目
 
+- [图像分类](#Image-Classification)
 - [目标检测](#Object-Detection)
 - [目标跟踪](#Object-Tracking)
 - [语义分割](#Semantic-Segmentation)
@@ -23,6 +24,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [行为轨迹预测](#HTP)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
+
+<a name="Image-Classification"></a>
+
+# 图像分类
+
+**Spatially Attentive Output Layer for Image Classification**
+
+- 论文：还没有公布
+
+- 代码： https://github.com/ildoonet/spatially-attentive-output-layer 
 
 <a name="Object-Detection"></a>
 
