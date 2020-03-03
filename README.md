@@ -85,6 +85,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 视频目标分割
 
+**State-Aware Tracker for Real-Time Video Object Segmentation**
+
+- 论文：https://arxiv.org/abs/2003.00482
+
+- 代码：https://github.com/MegviiDetection/video_analyst
+
 **Learning Fast and Robust Target Models for Video Object Segmentation**
 
 - 论文：https://arxiv.org/abs/2003.00908 
