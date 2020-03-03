@@ -7,6 +7,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [目标跟踪](#Object-Tracking)
 - [语义分割](#Semantic-Segmentation)
 - [实例分割](#Instance-Segmentation)
+- [视频目标分割](#VOS)
 - [NAS](#NAS)
 - [GAN](#GAN)
 - [Re-ID](#Re-ID)
@@ -79,6 +80,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2001.01629
 
 - 代码：https://github.com/zju3dv/snake 
+
+<a name="VOS"></a>
+
+# 视频目标分割
+
+**Learning Fast and Robust Target Models for Video Object Segmentation**
+
+- 论文：https://arxiv.org/abs/2003.00908 
+- 代码：https://github.com/andr345/frtm-vos 
 
 <a name="NAS"></a>
 
