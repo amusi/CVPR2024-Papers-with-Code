@@ -309,6 +309,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2002.12259 
 - 代码：https://github.com/laomao0/BIN
 
+**Extremely Dense Point Correspondences using a Learned Feature Descriptor**
+
+- 论文：https://arxiv.org/abs/2003.00619 
+- 代码：https://github.com/lppllppl920/DenseDescriptorLearning-Pytorch 
+
 https://github.com/charlesCXK/3D-SketchAware-SSC
 
 https://github.com/Anonymous20192020/Anonymous_CVPR5767
