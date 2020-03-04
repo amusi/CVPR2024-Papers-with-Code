@@ -320,7 +320,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Extremely Dense Point Correspondences using a Learned Feature Descriptor**
 
 - 论文：https://arxiv.org/abs/2003.00619 
-- 代码：https://github.com/lppllppl920/DenseDescriptorLearning-Pytorch 
+- 代码：https://github.com/lppllppl920/DenseDescriptorLearning-Pytorch
+
+**Filter Grafting for Deep Neural Networks**
+
+- 论文：https://arxiv.org/abs/2001.05868
+- 代码：https://github.com/fxmeng/filter-grafting
+- 论文解读：https://www.zhihu.com/question/372070853/answer/1041569335
 
 https://github.com/charlesCXK/3D-SketchAware-SSC
 
