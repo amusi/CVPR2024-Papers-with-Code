@@ -43,8 +43,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection**
 
 - 论文：https://arxiv.org/abs/1912.02424 
+- 代码：https://github.com/sfzhang15/ATSS
 
-- 代码：https://github.com/sfzhang15/ATSS 
+<a name="3D-Object-Detection"></a>
+
+# 3D目标检测
+
+**Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud**
+
+- 论文：https://arxiv.org/abs/2003.01251 
+- 代码：https://github.com/WeijingShi/Point-GNN 
 
 <a name="Object-Tracking"></a>
 
