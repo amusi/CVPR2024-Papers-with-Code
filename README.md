@@ -22,6 +22,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [深度估计](#Depth-Estimation)
 - [视觉问答](#VQA)
 - [视觉语言导航](#VLN)
+- [视频压缩](#Video-Compression)
 - [行为轨迹预测](#HTP)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
@@ -282,6 +283,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2002.10638
 - 代码（即将开源）：https://github.com/weituo12321/PREVALENT
+
+<a name="Video-Compression"></a>
+
+# 视频压缩
+
+**Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement**
+
+- 论文：https://arxiv.org/abs/2003.01966 
+- 代码：https://github.com/RenYang-home/HLVC 
 
 <a name="HTP"></a>
 
