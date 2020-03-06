@@ -352,7 +352,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2003.02501 
 
-- 代码：https://github.com/ejcgt/attention-target-detection 
+- 代码：https://github.com/ejcgt/attention-target-detection
+
+**Deep Image Spatial Transformation for Person Image Generation**
+
+- 论文：https://arxiv.org/abs/2003.00696 
+
+- 代码：https://github.com/RenYurui/Global-Flow-Local-Attention 
 
 https://github.com/charlesCXK/3D-SketchAware-SSC
 
