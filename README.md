@@ -346,7 +346,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Action Segmentation with Joint Self-Supervised Temporal Domain Adaptation**
 
 - 论文：https://arxiv.org/abs/2003.02824 
-- 代码：https://github.com/cmhungsteve/SSTDA 
+- 代码：https://github.com/cmhungsteve/SSTDA
+
+**Detecting Attended Visual Targets in Video**
+
+- 论文：https://arxiv.org/abs/2003.02501 
+
+- 代码：https://github.com/ejcgt/attention-target-detection 
 
 https://github.com/charlesCXK/3D-SketchAware-SSC
 
