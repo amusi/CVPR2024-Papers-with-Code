@@ -343,6 +343,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 代码：https://github.com/fxmeng/filter-grafting
 - 论文解读：https://www.zhihu.com/question/372070853/answer/1041569335
 
+**Action Segmentation with Joint Self-Supervised Temporal Domain Adaptation**
+
+- 论文：https://arxiv.org/abs/2003.02824 
+- 代码：https://github.com/cmhungsteve/SSTDA 
+
 https://github.com/charlesCXK/3D-SketchAware-SSC
 
 https://github.com/Anonymous20192020/Anonymous_CVPR5767
