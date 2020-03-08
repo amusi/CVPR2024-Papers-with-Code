@@ -357,8 +357,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Deep Image Spatial Transformation for Person Image Generation**
 
 - 论文：https://arxiv.org/abs/2003.00696 
+- 代码：https://github.com/RenYurui/Global-Flow-Local-Attention
 
-- 代码：https://github.com/RenYurui/Global-Flow-Local-Attention 
+ **Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications** 
+
+- 论文：https://arxiv.org/abs/2003.01455
+- 代码：https://github.com/bbrattoli/ZeroShotVideoClassification
 
 https://github.com/charlesCXK/3D-SketchAware-SSC
 
