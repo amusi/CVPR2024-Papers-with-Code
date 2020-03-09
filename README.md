@@ -4,6 +4,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - [图像分类](#Image-Classification)
 - [目标检测](#Object-Detection)
+- [3D目标检测](#3D-Object-Detection)
 - [目标跟踪](#Object-Tracking)
 - [语义分割](#Semantic-Segmentation)
 - [实例分割](#Instance-Segmentation)
@@ -11,6 +12,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [NAS](#NAS)
 - [GAN](#GAN)
 - [Re-ID](#Re-ID)
+- [3D点云](#3D-PointCloud)
 - [人脸检测](#Face-Detection)
 - [人脸表情识别](#Facial-Expression-Recognition)
 - [人体姿态估计](#Human-Pose-Estimation)
@@ -149,6 +151,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2002.10701
 - 代码：https://github.com/lyqun/FPConv
+
+## 3D点云配准
+
+**D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features**
+
+- 论文：https://arxiv.org/abs/2003.03164
+- 代码：https://github.com/XuyangBai/D3Feat
 
 <a name="Face-Detection"></a>
 
