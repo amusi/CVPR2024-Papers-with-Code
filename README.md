@@ -50,6 +50,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/1912.02424 
 - 代码：https://github.com/sfzhang15/ATSS
 
+**BiDet: An Efficient Binarized Object Detector**
+
+- 论文：https://arxiv.org/abs/2003.03961 
+- 代码：https://github.com/ZiweiWangTHU/BiDet 
+
 <a name="3D-Object-Detection"></a>
 
 # 3D目标检测
