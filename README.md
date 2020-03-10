@@ -131,7 +131,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Watch your Up-Convolution: CNN Based Generative Deep Neural Networks are Failing to Reproduce Spectral Distributions**
 
 - 论文：https://arxiv.org/abs/2003.01826 
-- 代码：https://github.com/cc-hpc-itwm/UpConv 
+- 代码：https://github.com/cc-hpc-itwm/UpConv (PyTorch)
 
 <a name="Re-ID"></a>
 
@@ -268,7 +268,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **HRank: Filter Pruning using High-Rank Feature Map**
 
 - 论文：http://arxiv.org/abs/2002.10179
-- 代码：https://github.com/lmbxmu/HRank 
+- 代码：https://github.com/lmbxmu/HRank (PyTorch)
 
 <a name="Action-Recognition"></a>
 
