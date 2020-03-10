@@ -222,6 +222,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2002.11251 
 - 代码：https://github.com/vnmr/JointVideoPose3D
 
+**Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS**
+
+- 论文：https://arxiv.org/abs/2003.03972
+- 数据集：暂无
+
 <a name="Scene-Text-Detection"></a>
 
 # 点云
@@ -332,9 +337,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 数据集
 
-- 论文：https://arxiv.org/abs/2003.02920
+**IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning**
 
+- 论文：https://arxiv.org/abs/2003.02920
 - 数据集：https://github.com/intra3d2019/IntrA
+
+**Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS**
+
+- 论文：https://arxiv.org/abs/2003.03972
+- 数据集：暂无
 
 <a name="Others"></a>
 
