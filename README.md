@@ -14,6 +14,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [Re-ID](#Re-ID)
 - [3D点云](#3D-PointCloud)
 - [人脸检测](#Face-Detection)
+- [活体检测](#FAS)
 - [人脸表情识别](#Facial-Expression-Recognition)
 - [人体姿态估计](#Human-Pose-Estimation)
 - [场景文本检测](#Scene-Text-Detection)
@@ -165,7 +166,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="FAS"></a>
 
-# 人脸活体检测
+# 活体检测
 
 **Searching Central Difference Convolutional Networks for Face Anti-Spoofing**
 
