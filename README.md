@@ -163,6 +163,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 人脸检测
 
+<a name="FAS"></a>
+
+# 人脸活体检测
+
+**Searching Central Difference Convolutional Networks for Face Anti-Spoofing**
+
+- 论文：https://arxiv.org/abs/2003.04092
+
+- 代码：https://github.com/ZitongYu/CDCN
+
 <a name="Facial-Expression-Recognition"></a>
 
 # 人脸表情识别
