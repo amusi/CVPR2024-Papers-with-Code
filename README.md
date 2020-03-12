@@ -118,7 +118,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Learning Fast and Robust Target Models for Video Object Segmentation**
 
 - 论文：https://arxiv.org/abs/2003.00908 
-- 代码：https://github.com/andr345/frtm-vos 
+- 代码：https://github.com/andr345/frtm-vos
+
+**Learning Video Object Segmentation from Unlabeled Videos**
+
+- 论文：https://arxiv.org/abs/2003.05020
+- 代码：https://github.com/carrierlxk/MuG
 
 <a name="NAS"></a>
 
