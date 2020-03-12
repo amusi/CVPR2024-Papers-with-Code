@@ -78,6 +78,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**Cars Can't Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks**
+
+- 论文：https://arxiv.org/abs/2003.05128
+
+- 代码：https://github.com/shachoi/HANet
+
 <a name="Instance-Segmentation"></a>
 
 # 实例分割
