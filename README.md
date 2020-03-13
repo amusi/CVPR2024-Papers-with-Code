@@ -12,7 +12,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [NAS](#NAS)
 - [GAN](#GAN)
 - [Re-ID](#Re-ID)
-- [3D点云](#3D-PointCloud)
+- [3D点云（含语义分割等）](#3D-PointCloud)
 - [人脸检测](#Face-Detection)
 - [活体检测](#FAS)
 - [人脸表情识别](#Facial-Expression-Recognition)
@@ -160,14 +160,22 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="3D-PointCloud"></a>
 
-# 3D点云
+# 3D点云（含语义分割等）
 
-## 点云卷积
+## 3D点云卷积
 
 **FPConv: Learning Local Flattening for Point Convolution**
 
 - 论文：https://arxiv.org/abs/2002.10701
 - 代码：https://github.com/lyqun/FPConv
+
+## 3D点云语义分割
+
+**Learning to Segment 3D Point Clouds in 2D Image Space**
+
+- 论文：https://arxiv.org/abs/2003.05593
+
+- 代码：https://github.com/WPI-VISLab/Learning-to-Segment-3D-Point-Clouds-in-2D-Image-Space
 
 ## 3D点云配准
 
