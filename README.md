@@ -26,6 +26,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [视觉问答](#VQA)
 - [视觉语言导航](#VLN)
 - [视频压缩](#Video-Compression)
+- [视频插值](#Video-Frame-Interpolation)
 - [行为轨迹预测](#HTP)
 - [数据集](#Datasets)
 - [其他](#Others)
@@ -369,7 +370,17 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement**
 
 - 论文：https://arxiv.org/abs/2003.01966 
-- 代码：https://github.com/RenYang-home/HLVC 
+- 代码：https://github.com/RenYang-home/HLVC
+
+<a name="Video-Frame-Interpolation"></a>
+
+# 视频插值
+
+**Softmax Splatting for Video Frame Interpolation**
+
+- 主页：http://sniklaus.com/papers/softsplat
+- 论文：https://arxiv.org/abs/2003.05534
+- 代码：https://github.com/sniklaus/softmax-splatting 
 
 <a name="HTP"></a>
 
