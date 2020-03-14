@@ -27,6 +27,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [视觉语言导航](#VLN)
 - [视频压缩](#Video-Compression)
 - [视频插值](#Video-Frame-Interpolation)
+- ["人-物"交互(HOI)检测](#HOI)
 - [行为轨迹预测](#HTP)
 - [数据集](#Datasets)
 - [其他](#Others)
@@ -380,7 +381,22 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 主页：http://sniklaus.com/papers/softsplat
 - 论文：https://arxiv.org/abs/2003.05534
-- 代码：https://github.com/sniklaus/softmax-splatting 
+- 代码：https://github.com/sniklaus/softmax-splatting
+
+<a name="HOI"></a>
+
+# "人-物"交互(HOT)检测
+
+**Cascaded Human-Object Interaction Recognition**
+
+- 论文：https://arxiv.org/abs/2003.04262
+
+- 代码：https://github.com/tfzhou/C-HOI
+
+**VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions**
+
+- 论文：https://arxiv.org/abs/2003.05541
+- 代码：https://github.com/ASMIftekhar/VSGNet
 
 <a name="HTP"></a>
 
