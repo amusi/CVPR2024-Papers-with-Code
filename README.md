@@ -411,6 +411,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 数据集
 
+**PANDA: A Gigapixel-level Human-centric Video Dataset**
+
+- 论文：https://arxiv.org/abs/2003.04852
+
+- 数据集：http://www.panda-dataset.com/
+
 **IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning**
 
 - 论文：https://arxiv.org/abs/2003.02920
