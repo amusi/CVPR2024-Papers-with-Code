@@ -55,7 +55,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **BiDet: An Efficient Binarized Object Detector**
 
 - 论文：https://arxiv.org/abs/2003.03961 
-- 代码：https://github.com/ZiweiWangTHU/BiDet 
+- 代码：https://github.com/ZiweiWangTHU/BiDet
+
+**Harmonizing Transferability and Discriminability for Adapting Object Detectors**
+
+- 论文：https://arxiv.org/abs/2003.06297
+- 代码：https://github.com/chaoqichen/HTCN
 
 <a name="3D-Object-Detection"></a>
 
