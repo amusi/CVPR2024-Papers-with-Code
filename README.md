@@ -29,6 +29,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [视频插值](#Video-Frame-Interpolation)
 - ["人-物"交互(HOI)检测](#HOI)
 - [行为轨迹预测](#HTP)
+- [运动预测](#Motion-Predication)
 - [数据集](#Datasets)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
@@ -417,6 +418,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2002.11927 
 - 代码：https://github.com/abduallahmohamed/Social-STGCNN 
+
+<a name="Motion-Predication"></a>
+
+# 运动预测
+
+**Collaborative Motion Prediction via Neural Motion Message Passing**
+
+- 论文：https://arxiv.org/abs/2003.06594
+
+- 代码：https://github.com/PhyllisH/NMMP
 
 <a name="Datasets"></a>
 
