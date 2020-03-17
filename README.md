@@ -66,6 +66,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**
+
+- 论文：https://arxiv.org/abs/1912.13192
+
+- 代码：https://github.com/sshaoshuai/PV-RCNN
+
 **Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud**
 
 - 论文：https://arxiv.org/abs/2003.01251 
