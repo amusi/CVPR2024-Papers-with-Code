@@ -453,6 +453,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location**
+
+- 论文：https://arxiv.org/abs/2003.07064
+
+- 代码：https://github.com/oskyhn/CNNs-Without-Borders
+
 **GhostNet: More Features from Cheap Operations**
 
 - 论文：https://arxiv.org/abs/1911.11907
