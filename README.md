@@ -297,7 +297,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network**
 
 - 论文：https://arxiv.org/abs/2002.10200 
-- 代码（即将开源）：https://github.com/aim-uofa/adet 
+- 代码（即将开源）：https://github.com/aim-uofa/adet
+
+**Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition**
+
+- 论文：https://arxiv.org/abs/2003.06606
+
+- 代码：https://github.com/Canjie-Luo/Text-Image-Augmentation
 
 <a name="Super-Resolution"></a>
 
