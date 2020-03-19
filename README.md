@@ -14,8 +14,9 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [Re-ID](#Re-ID)
 - [3D点云（含语义分割等）](#3D-PointCloud)
 - [人脸检测](#Face-Detection)
-- [活体检测](#FAS)
+- [人脸活体检测](#FAS)
 - [人脸表情识别](#Facial-Expression-Recognition)
+- [人脸转正](#Face-Rotation)
 - [人体姿态估计](#Human-Pose-Estimation)
 - [场景文本检测](#Scene-Text-Detection)
 - [场景文本识别](#Scene-Text-Recognition)
@@ -215,7 +216,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="FAS"></a>
 
-# 活体检测
+# 人脸活体检测
 
 **Searching Central Difference Convolutional Networks for Face Anti-Spoofing**
 
@@ -232,6 +233,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2002.10392 
 
 - 代码（即将开源）：https://github.com/kaiwang960112/Self-Cure-Network 
+
+<a name="Face-Rotation"></a>
+
+# 人脸转正
+
+**Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images**
+
+- 论文：https://arxiv.org/abs/2003.08124
+
+- 代码：https://github.com/Hangz-nju-cuhk/Rotate-and-Render
 
 <a name="Human-Pose-Estimation"></a>
 
