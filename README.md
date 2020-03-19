@@ -288,7 +288,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2002.10200 
 - 代码（即将开源）：https://github.com/Yuliang-Liu/bezier_curve_text_spotting
-- 代码（即将开源）：https://github.com/aim-uofa/adet 
+- 代码（即将开源）：https://github.com/aim-uofa/adet
+
+**Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection**
+
+- 论文：https://arxiv.org/abs/2003.07493
+
+- 代码：https://github.com/GXYM/DRRG
 
 <a name="Scene-Text-Recognition"></a>
 
