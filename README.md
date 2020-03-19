@@ -85,8 +85,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **MAST: A Memory-Augmented Self-supervised Tracker**
 
 - 论文：https://arxiv.org/abs/2002.07793
-
 - 代码：https://github.com/zlai0/MAST
+
+**Siamese Box Adaptive Network for Visual Tracking**
+
+- 论文：https://arxiv.org/abs/2003.06761
+
+- 代码：https://github.com/hqucv/siamban
 
 <a name="Semantic-Segmentation"></a>
 
