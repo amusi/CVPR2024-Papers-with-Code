@@ -20,6 +20,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [人体姿态估计](#Human-Pose-Estimation)
 - [场景文本检测](#Scene-Text-Detection)
 - [场景文本识别](#Scene-Text-Recognition)
+- [模型压缩](#Model-Compression)
 - [模型剪枝](#Model-Pruning)
 - [行为识别](#Action-Recognition)
 - [人群计数](#Crowd-Counting)
@@ -337,6 +338,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2002.11616 
 - 代码：https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020 
+
+<a name="Model-Compression"></a>
+
+# 模型压缩
+
+**Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression**
+
+- 论文：https://arxiv.org/abs/2003.08935
+
+- 代码：https://github.com/ofsoundof/group_sparsity
 
 <a name="Model-Pruning"></a>
 
