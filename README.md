@@ -165,6 +165,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # GAN
 
+**GAN Compression: Efficient Architectures for Interactive Conditional GANs**
+
+- 论文：https://arxiv.org/abs/2003.08936
+
+- 代码：https://github.com/mit-han-lab/gan-compression
+
 **Watch your Up-Convolution: CNN Based Generative Deep Neural Networks are Failing to Reproduce Spectral Distributions**
 
 - 论文：https://arxiv.org/abs/2003.01826 
@@ -342,6 +348,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Model-Compression"></a>
 
 # 模型压缩
+
+**GAN Compression: Efficient Architectures for Interactive Conditional GANs**
+
+- 论文：https://arxiv.org/abs/2003.08936
+
+- 代码：https://github.com/mit-han-lab/gan-compression
 
 **Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression**
 
