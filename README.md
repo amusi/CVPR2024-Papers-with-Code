@@ -192,6 +192,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 3D点云卷积
 
+**Grid-GCN for Fast and Scalable Point Cloud Learning**
+
+- 论文：https://arxiv.org/abs/1912.02984
+
+- 代码：https://github.com/Xharlie/Grid-GCN
+
 **FPConv: Learning Local Flattening for Point Convolution**
 
 - 论文：https://arxiv.org/abs/2002.10701
