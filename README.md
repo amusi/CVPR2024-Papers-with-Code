@@ -29,6 +29,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [视觉语言导航](#VLN)
 - [视频压缩](#Video-Compression)
 - [视频插值](#Video-Frame-Interpolation)
+- [风格迁移](#Style-Transfer)
 - ["人-物"交互(HOI)检测](#HOI)
 - [行为轨迹预测](#HTP)
 - [运动预测](#Motion-Predication)
@@ -445,6 +446,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 主页：http://sniklaus.com/papers/softsplat
 - 论文：https://arxiv.org/abs/2003.05534
 - 代码：https://github.com/sniklaus/softmax-splatting
+
+<a name="Style-Transfer"></a>
+
+# 风格迁移
+
+**Collaborative Distillation for Ultra-Resolution Universal Style Transfer**
+
+- 论文：https://arxiv.org/abs/2003.08436
+
+- 代码：https://github.com/mingsun-tse/collaborative-distillation
 
 <a name="HOI"></a>
 
