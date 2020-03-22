@@ -25,6 +25,8 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [行为识别](#Action-Recognition)
 - [人群计数](#Crowd-Counting)
 - [深度估计](#Depth-Estimation)
+- [去噪](#Denoising)
+- [去模糊](#Deblurring)
 - [视觉问答](#VQA)
 - [视觉语言导航](#VLN)
 - [视频压缩](#Video-Compression)
@@ -401,6 +403,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2002.12114
 
 - 代码：https://github.com/yzhao520/ARC
+
+<a name="Denoising"></a>
+
+# 去噪
+
+**CycleISP: Real Image Restoration via Improved Data Synthesis**
+
+- 论文：https://arxiv.org/abs/2003.07761
+
+- 代码：https://github.com/swz30/CycleISP
 
 <a name="Deblurring"></a>
 
