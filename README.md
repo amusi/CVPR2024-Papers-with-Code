@@ -68,6 +68,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2003.06297
 - 代码：https://github.com/chaoqichen/HTCN
 
+**CentripetalNet: Pursuing High-quality Keypoint Pairs for Object Detection**
+
+- 论文：https://arxiv.org/abs/2003.09119
+
+- 代码：https://github.com/KiveeDong/CentripetalNet
+
 <a name="3D-Object-Detection"></a>
 
 # 3D目标检测
