@@ -512,8 +512,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Collaborative Motion Prediction via Neural Motion Message Passing**
 
 - 论文：https://arxiv.org/abs/2003.06594
-
 - 代码：https://github.com/PhyllisH/NMMP
+
+**MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps**
+
+- 论文：https://arxiv.org/abs/2003.06754
+
+- 代码：https://github.com/pxiangwu/MotionNet
 
 <a name="Datasets"></a>
 
