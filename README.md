@@ -111,8 +111,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Cars Can't Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks**
 
 - 论文：https://arxiv.org/abs/2003.05128
-
 - 代码：https://github.com/shachoi/HANet
+
+**Learning Dynamic Routing for Semantic Segmentation**
+
+- 论文：https://arxiv.org/abs/2003.10401
+
+- 代码：https://github.com/yanwei-li/DynamicRouting
 
 <a name="Instance-Segmentation"></a>
 
