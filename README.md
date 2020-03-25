@@ -425,6 +425,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码：https://github.com/swz30/CycleISP
 
+<a name="Deraining"></a>
+
+# 去雨
+
+**Multi-Scale Progressive Fusion Network for Single Image Deraining**
+
+- 论文：https://arxiv.org/abs/2003.10985
+
+- 代码：https://github.com/kuihua/MSPFN
+
 <a name="Deblurring"></a>
 
 # 去模糊
