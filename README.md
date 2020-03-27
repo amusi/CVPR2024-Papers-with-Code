@@ -154,8 +154,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Deep Snake for Real-Time Instance Segmentation**
 
 - 论文：https://arxiv.org/abs/2001.01629
+- 代码：https://github.com/zju3dv/snake
 
-- 代码：https://github.com/zju3dv/snake 
+**Mask Encoding for Single Shot Instance Segmentation**
+
+- 论文：https://arxiv.org/abs/2003.11712
+
+- 代码：https://github.com/aim-uofa/AdelaiDet
 
 <a name="VOS"></a>
 
