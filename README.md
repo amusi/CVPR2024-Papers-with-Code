@@ -71,8 +71,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **CentripetalNet: Pursuing High-quality Keypoint Pairs for Object Detection**
 
 - 论文：https://arxiv.org/abs/2003.09119
-
 - 代码：https://github.com/KiveeDong/CentripetalNet
+
+**Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection**
+
+- 论文：https://arxiv.org/abs/2003.11818
+
+- 代码：https://github.com/ggjy/HitDet.pytorch
 
 <a name="3D-Object-Detection"></a>
 
