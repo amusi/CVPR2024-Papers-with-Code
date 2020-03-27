@@ -14,6 +14,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [GAN](#GAN)
 - [Re-ID](#Re-ID)
 - [3D点云（含语义分割等）](#3D-PointCloud)
+- [人脸识别](#Face-Recognition)
 - [人脸检测](#Face-Detection)
 - [人脸活体检测](#FAS)
 - [人脸表情识别](#Facial-Expression-Recognition)
@@ -252,6 +253,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：未放出
 
 - 代码：https://github.com/yewzijian/RPMNet 
+
+<a name="Face-Recognition"></a>
+
+# 人脸识别
+
+**Learning Meta Face Recognition in Unseen Domains**
+
+- 论文：https://arxiv.org/abs/2003.07733
+- 代码：https://github.com/cleardusk/MFR
+- 解读：https://mp.weixin.qq.com/s/YZoEnjpnlvb90qSI3xdJqQ 
 
 <a name="Face-Detection"></a>
 
