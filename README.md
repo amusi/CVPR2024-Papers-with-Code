@@ -5,6 +5,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [图像分类](#Image-Classification)
 - [目标检测](#Object-Detection)
 - [3D目标检测](#3D-Object-Detection)
+- [视频目标检测](#Video-Object-Detection)
 - [目标跟踪](#Object-Tracking)
 - [语义分割](#Semantic-Segmentation)
 - [实例分割](#Instance-Segmentation)
@@ -93,6 +94,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2003.01251 
 - 代码：https://github.com/WeijingShi/Point-GNN 
+
+<a name="Video-Object-Detection"></a>
+
+# 视频目标检测
+
+**Memory Enhanced Global-Local Aggregation for Video Object Detection**
+
+论文：https://arxiv.org/abs/2003.12063
+
+代码：https://github.com/Scalsol/mega.pytorch
 
 <a name="Object-Tracking"></a>
 
