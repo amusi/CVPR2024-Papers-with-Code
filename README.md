@@ -29,6 +29,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [深度估计](#Depth-Estimation)
 - [去噪](#Denoising)
 - [去模糊](#Deblurring)
+- [特征点检测与描述](#Feature)
 - [视觉问答](#VQA)
 - [视觉语言导航](#VLN)
 - [视频压缩](#Video-Compression)
@@ -479,7 +480,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：准备中
 - 代码：https://github.com/csbhr/CDVD-TSP
 
-# 视觉问答
+<a name="Feature"></a>
+
+# 特征点检测与描述
+
+**ASLFeat: Learning Local Features of Accurate Shape and Localization**
+
+- 论文：https://arxiv.org/abs/2003.10071
+
+- 代码：https://github.com/lzx551402/aslfeat
 
 <a name="VQA"></a>
 
