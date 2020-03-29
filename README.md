@@ -27,6 +27,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [行为识别](#Action-Recognition)
 - [人群计数](#Crowd-Counting)
 - [深度估计](#Depth-Estimation)
+- [6D目标姿态估计](#6DOF)
 - [去噪](#Denoising)
 - [去模糊](#Deblurring)
 - [特征点检测与描述](#Feature)
@@ -449,8 +450,17 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Domain Decluttering: Simplifying Images to Mitigate Synthetic-Real Domain Shift and Improve Depth Estimation**
 
 - 论文：https://arxiv.org/abs/2002.12114
-
 - 代码：https://github.com/yzhao520/ARC
+
+<a name="6DOF"></a>
+
+# 6D目标姿态估计
+
+**G2L-Net: Global to Local Network for Real-time 6D Pose Estimation with Embedding Vector Features**
+
+- 论文：https://arxiv.org/abs/2003.11089
+
+- 代码：https://github.com/DC1991/G2L_Net
 
 <a name="Denoising"></a>
 
