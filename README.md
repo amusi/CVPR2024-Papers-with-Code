@@ -600,7 +600,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
-**Look-into-Object: Self-supervised Structure Modeling for Object Recognition**
+**What Deep CNNs Benefit from Global Covariance Pooling: An Optimization Perspective**
+
+- 论文：https://arxiv.org/abs/2003.11241
+
+- 代码：https://github.com/ZhangLi-CS/GCP_Optimization
+
+Look-into-Object: Self-supervised Structure Modeling for Object Recognition**
 
 - 论文：暂无
 - 代码：https://github.com/JDAI-CV/LIO 
