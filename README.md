@@ -600,9 +600,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+ **Video Object Grounding using Semantic Roles in Language Description**
+
+- 论文：https://arxiv.org/abs/2003.10606
+- 代码：https://github.com/TheShadow29/vognet-pytorch 
+
 **Dynamic Hierarchical Mimicking Towards Consistent Optimization Objectives**
-论文：https://arxiv.org/abs/2003.10739
-代码：https://github.com/d-li14/DHM 
+
+- 论文：https://arxiv.org/abs/2003.10739
+- 代码：https://github.com/d-li14/DHM 
 
 **SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization**
 
