@@ -600,6 +600,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Look-into-Object: Self-supervised Structure Modeling for Object Recognition**
+
+- 论文：暂无
+- 代码：https://github.com/JDAI-CV/LIO 
+
  **Video Object Grounding using Semantic Roles in Language Description**
 
 - 论文：https://arxiv.org/abs/2003.10606
