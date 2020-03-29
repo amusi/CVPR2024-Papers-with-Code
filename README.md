@@ -79,8 +79,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection**
 
 - 论文：https://arxiv.org/abs/2003.11818
-
 - 代码：https://github.com/ggjy/HitDet.pytorch
+
+**EfficientDet: Scalable and Efficient Object Detection**
+
+- 论文：https://arxiv.org/abs/1911.09070
+- 代码：https://github.com/google/automl/tree/master/efficientdet 
 
 <a name="3D-Object-Detection"></a>
 
@@ -606,7 +610,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码：https://github.com/ZhangLi-CS/GCP_Optimization
 
-Look-into-Object: Self-supervised Structure Modeling for Object Recognition**
+**Look-into-Object: Self-supervised Structure Modeling for Object Recognition**
 
 - 论文：暂无
 - 代码：https://github.com/JDAI-CV/LIO 
