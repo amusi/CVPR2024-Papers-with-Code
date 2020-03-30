@@ -375,6 +375,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 场景文本检测
 
+**UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World**
+
+- 论文：https://arxiv.org/abs/2003.10608
+- 代码和数据集：https://github.com/Jyouhou/UnrealText/
+
 **ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network**
 
 - 论文：https://arxiv.org/abs/2002.10200 
@@ -390,6 +395,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Scene-Text-Recognition"></a>
 
 # 场景文本识别
+
+**UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World**
+
+- 论文：https://arxiv.org/abs/2003.10608
+- 代码和数据集：https://github.com/Jyouhou/UnrealText/
 
 **ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network**
 
@@ -613,6 +623,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World**
+
+- 论文：https://arxiv.org/abs/2003.10608
+- 代码和数据集：https://github.com/Jyouhou/UnrealText/
 
 **PANDA: A Gigapixel-level Human-centric Video Dataset**
 
