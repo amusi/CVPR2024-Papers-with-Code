@@ -28,6 +28,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [人群计数](#Crowd-Counting)
 - [深度估计](#Depth-Estimation)
 - [6D目标姿态估计](#6DOF)
+- [手势估计](#Hand-Pose)
 - [去噪](#Denoising)
 - [去模糊](#Deblurring)
 - [特征点检测与描述](#Feature)
@@ -461,6 +462,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2003.11089
 
 - 代码：https://github.com/DC1991/G2L_Net
+
+<a name="Hand-Pose"></a>
+
+# 手势估计
+
+**Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data**
+
+- 论文：https://arxiv.org/abs/2003.09572
+
+- 代码：https://github.com/CalciferZh/minimal-hand
 
 <a name="Denoising"></a>
 
