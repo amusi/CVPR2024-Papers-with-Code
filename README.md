@@ -117,6 +117,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标跟踪
 
+**Probabilistic Regression for Visual Tracking**
+
+- 论文：https://arxiv.org/abs/2003.12565
+- 代码：https://github.com/visionml/pytracking
+
 **MAST: A Memory-Augmented Self-supervised Tracker**
 
 - 论文：https://arxiv.org/abs/2002.07793
