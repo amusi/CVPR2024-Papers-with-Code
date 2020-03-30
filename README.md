@@ -208,6 +208,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # GAN
 
+**Learning to Cartoonize Using White-box Cartoon Representations**
+
+- 论文：https://github.com/SystemErrorWang/White-box-Cartoonization/blob/master/paper/06791.pdf
+
+- 主页：https://systemerrorwang.github.io/White-box-Cartoonization/
+- 代码：https://github.com/SystemErrorWang/White-box-Cartoonization
+- 解读：https://zhuanlan.zhihu.com/p/117422157
+- Demo视频：https://www.bilibili.com/video/av56708333
+
 **GAN Compression: Efficient Architectures for Interactive Conditional GANs**
 
 - 论文：https://arxiv.org/abs/2003.08936
