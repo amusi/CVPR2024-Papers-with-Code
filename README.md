@@ -523,6 +523,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 去噪
 
+**A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising**
+
+- 论文：https://arxiv.org/abs/2003.12751
+
+- 代码：https://github.com/Vandermode/NoiseModel
+
 **CycleISP: Real Image Restoration via Improved Data Synthesis**
 
 - 论文：https://arxiv.org/abs/2003.07761
