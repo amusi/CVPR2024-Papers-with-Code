@@ -2,6 +2,7 @@
 
 CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分享CVPR 2020开源项目
 
+- [CNN](#CNN)
 - [图像分类](#Image-Classification)
 - [目标检测](#Object-Detection)
 - [3D目标检测](#3D-Object-Detection)
@@ -43,6 +44,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [数据集](#Datasets)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
+
+<a name="CNN"></a>
+
+# CNN
+
+**Rethinking Depthwise Separable Convolutions: How Intra-Kernel Correlations Lead to Improved MobileNets**
+
+- 论文：https://arxiv.org/abs/2003.13549
+- 代码：https://github.com/zeiss-microscopy/BSConv
 
 <a name="Image-Classification"></a>
 
