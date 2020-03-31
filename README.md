@@ -11,6 +11,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [语义分割](#Semantic-Segmentation)
 - [实例分割](#Instance-Segmentation)
 - [视频目标分割](#VOS)
+- [超像素分割](#Superpixel)
 - [NAS](#NAS)
 - [GAN](#GAN)
 - [Re-ID](#Re-ID)
@@ -215,6 +216,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2003.05020
 - 代码：https://github.com/carrierlxk/MuG
+
+<a name="Superpixel"></a>
+
+# 超像素分割
+
+**Superpixel Segmentation with Fully Convolutional Networks**
+
+- 论文：https://arxiv.org/abs/2003.12929
+- 代码：https://github.com/fuy34/superpixel_fcn
 
 <a name="NAS"></a>
 
