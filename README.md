@@ -286,7 +286,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **RPM-Net: Robust Point Matching using Learned Features**
 
-- 论文：未放出
+- 论文：https://arxiv.org/abs/2003.13479
 
 - 代码：https://github.com/yewzijian/RPMNet 
 
