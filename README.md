@@ -147,6 +147,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**Strip Pooling: Rethinking Spatial Pooling for Scene Parsing**
+
+- 论文：https://arxiv.org/abs/2003.13328
+
+- 代码：https://github.com/Andrew-Qibin/SPNet
+
 **Cars Can't Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks**
 
 - 论文：https://arxiv.org/abs/2003.05128
