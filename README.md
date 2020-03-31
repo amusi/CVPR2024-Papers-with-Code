@@ -127,6 +127,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标跟踪
 
+**AutoTrack: Towards High-Performance Visual Tracking for UAV with Automatic Spatio-Temporal Regularization**
+
+- 论文：https://arxiv.org/abs/2003.12949
+
+- 代码：https://github.com/vision4robotics/AutoTrack
+
 **Probabilistic Regression for Visual Tracking**
 
 - 论文：https://arxiv.org/abs/2003.12565
