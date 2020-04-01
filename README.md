@@ -304,6 +304,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 3D点云语义分割
 
+**PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation**
+
+- 论文：https://arxiv.org/abs/2003.14032
+- 代码：https://github.com/edwardzhou130/PolarSeg
+
 **Learning to Segment 3D Point Clouds in 2D Image Space**
 
 - 论文：https://arxiv.org/abs/2003.05593
