@@ -10,6 +10,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [目标跟踪](#Object-Tracking)
 - [语义分割](#Semantic-Segmentation)
 - [实例分割](#Instance-Segmentation)
+- [全景分割](#Panoptic-Segmentation)
 - [视频目标分割](#VOS)
 - [超像素分割](#Superpixel)
 - [NAS](#NAS)
@@ -196,6 +197,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2003.11712
 
 - 代码：https://github.com/aim-uofa/AdelaiDet
+
+<a name="Panoptic-Segmentation"></a>
+
+# 全景分割
+
+**BANet: Bidirectional Aggregation Network with Occlusion Handling for Panoptic Segmentation**
+
+论文：https://arxiv.org/abs/2003.14031
+
+代码：https://github.com/Mooonside/BANet
 
 <a name="VOS"></a>
 
