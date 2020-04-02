@@ -539,6 +539,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 手势估计
 
+**HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation**
+
+- 论文：https://arxiv.org/abs/2004.00060
+
+- 主页：http://vision.sice.indiana.edu/projects/hopenet
+
 **Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data**
 
 - 论文：https://arxiv.org/abs/2003.09572
