@@ -25,6 +25,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [人体姿态估计](#Human-Pose-Estimation)
 - [场景文本检测](#Scene-Text-Detection)
 - [场景文本识别](#Scene-Text-Recognition)
+- [超分辨率](#Super-Resolution)
 - [模型压缩](#Model-Compression)
 - [模型剪枝](#Model-Pruning)
 - [行为识别](#Action-Recognition)
@@ -484,6 +485,14 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Super-Resolution"></a>
 
 # 超分辨率
+
+## 图像超分辨率
+
+**Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy**
+
+论文：https://arxiv.org/abs/2004.00448
+
+代码：https://github.com/clovaai/cutblur
 
 ## 视频超分辨率
 
