@@ -343,6 +343,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 人脸识别
 
+**CurricularFace: Adaptive Curriculum Learning Loss for Deep Face Recognition**
+
+- 论文：https://arxiv.org/abs/2004.00288
+
+- 代码：https://github.com/HuangYG123/CurricularFace
+
 **Learning Meta Face Recognition in Unseen Domains**
 
 - 论文：https://arxiv.org/abs/2003.07733
