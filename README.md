@@ -129,6 +129,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标跟踪
 
+**High-Performance Long-Term Tracking with Meta-Updater**
+
+- 论文：https://arxiv.org/abs/2004.00305
+
+- 代码：https://github.com/Daikenan/LTMU
+
 **AutoTrack: Towards High-Performance Visual Tracking for UAV with Automatic Spatio-Temporal Regularization**
 
 - 论文：https://arxiv.org/abs/2003.12949
