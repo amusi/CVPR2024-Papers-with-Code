@@ -286,6 +286,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # Re-ID
 
+**Pose-guided Visible Part Matching for Occluded Person ReID**
+
+- 论文：https://arxiv.org/abs/2004.00230
+- 代码：https://github.com/hh23333/PVPM
+
 **Weakly supervised discriminative feature learning with state information for person identification**
 
 - 论文：https://arxiv.org/abs/2002.11939 
