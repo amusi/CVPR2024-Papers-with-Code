@@ -413,9 +413,8 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation**
 
-- 论文：暂无
-
-- 代码：https://github.com/anonymous-goat/CVPR-2020 
+- 论文：https://arxiv.org/abs/2004.00329
+- 代码：https://github.com/fabbrimatteo/LoCO
 
 **VIBE: Video Inference for Human Body Pose and Shape Estimation**
 
