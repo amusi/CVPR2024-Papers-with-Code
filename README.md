@@ -769,6 +769,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Polarized Reflection Removal with Perfect Alignment in the Wild** 
+
+- 主页：https://leichenyang.weebly.com/project-polarized.html
+- 代码：https://github.com/ChenyangLEI/CVPR2020-Polarized-Reflection-Removal-with-Perfect-Alignment 
+
 **Background Matting: The World is Your Green Screen**
 
 - 论文：https://arxiv.org/abs/2004.00626
