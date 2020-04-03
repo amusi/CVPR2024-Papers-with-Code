@@ -746,6 +746,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Background Matting: The World is Your Green Screen**
+
+- 论文：https://arxiv.org/abs/2004.00626
+- 代码：http://github.com/senguptaumd/Background-Matting
+
 **What Deep CNNs Benefit from Global Covariance Pooling: An Optimization Perspective**
 
 - 论文：https://arxiv.org/abs/2003.11241
