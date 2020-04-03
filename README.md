@@ -662,6 +662,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 视频插值
 
+**Scene-Adaptive Video Frame Interpolation via Meta-Learning**
+
+- 论文：https://arxiv.org/abs/2004.00779
+- 代码：https://github.com/myungsub/meta-interpolation
+
 **Softmax Splatting for Video Frame Interpolation**
 
 - 主页：http://sniklaus.com/papers/softsplat
