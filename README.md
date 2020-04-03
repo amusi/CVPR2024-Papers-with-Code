@@ -131,6 +131,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标跟踪
 
+Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
+
+- 论文：https://arxiv.org/abs/2003.09595 
+- 代码：https://github.com/MasterBin-IIAU/CSA 
+
 **High-Performance Long-Term Tracking with Meta-Updater**
 
 - 论文：https://arxiv.org/abs/2004.00305
