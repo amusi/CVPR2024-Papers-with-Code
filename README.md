@@ -396,6 +396,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 2D人体姿态估计
 
+**HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation**
+
+- 论文：https://arxiv.org/abs/1908.10357
+- 代码：https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation
+
 **The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation**
 
 - 论文：https://arxiv.org/abs/1911.07524 
