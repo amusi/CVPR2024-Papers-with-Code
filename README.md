@@ -749,6 +749,11 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 # 数据集
 
+**Assessing Image Quality Issues for Real-World Problems**
+
+- 主页：https://vizwiz.org/tasks-and-datasets/image-quality-issues/
+- 论文：https://arxiv.org/abs/2003.12511
+
 **UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World**
 
 - 论文：https://arxiv.org/abs/2003.10608
