@@ -563,6 +563,12 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 ## 单目深度估计
 
+**3D Packing for Self-Supervised Monocular Depth Estimation**
+
+- 论文：https://arxiv.org/abs/1905.02693
+- 代码：https://arxiv.org/abs/1905.02693
+- Demo视频：https://www.bilibili.com/video/av70562892/
+
 **Domain Decluttering: Simplifying Images to Mitigate Synthetic-Real Domain Shift and Improve Depth Estimation**
 
 - 论文：https://arxiv.org/abs/2002.12114
