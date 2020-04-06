@@ -22,6 +22,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [人脸活体检测](#FAS)
 - [人脸表情识别](#Facial-Expression-Recognition)
 - [人脸转正](#Face-Rotation)
+- [人脸3D重建](#Face-Reconstruction)
 - [人体姿态估计](#Human-Pose-Estimation)
 - [场景文本检测](#Scene-Text-Detection)
 - [场景文本识别](#Scene-Text-Recognition)
@@ -395,6 +396,16 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 - 论文：https://arxiv.org/abs/2003.08124
 
 - 代码：https://github.com/Hangz-nju-cuhk/Rotate-and-Render
+
+<a name="Face-Reconstruction"></a>
+
+# 人脸3D重建
+
+**FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction**
+
+- 论文: https://arxiv.org/abs/2003.13989
+- 代码: https://github.com/zhuhao-nju/facescape
+
 
 <a name="Human-Pose-Estimation"></a>
 
