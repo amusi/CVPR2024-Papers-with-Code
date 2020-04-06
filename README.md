@@ -168,6 +168,12 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 # 语义分割
 
+**Context Prior for Scene Segmentation**
+
+- 论文：https://arxiv.org/abs/2004.01547
+
+- 代码：https://git.io/ContextPrior
+
 **Strip Pooling: Rethinking Spatial Pooling for Scene Parsing**
 
 - 论文：https://arxiv.org/abs/2003.13328
