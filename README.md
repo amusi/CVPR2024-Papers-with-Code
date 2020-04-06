@@ -106,6 +106,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**DSGN: Deep Stereo Geometry Network for 3D Object Detection**
+
+- 论文：https://arxiv.org/abs/2001.03398
+- 代码：https://github.com/chenyilun95/DSGN
+
 **LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention**
 
 - 论文：https://arxiv.org/abs/2004.01389
