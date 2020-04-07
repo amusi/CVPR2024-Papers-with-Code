@@ -270,6 +270,11 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 # NAS
 
+**Neural Architecture Search for Lightweight Non-Local Networks**
+
+- 论文：https://arxiv.org/abs/2004.01961
+- 代码：https://github.com/LiYingwei/AutoNL
+
 **Rethinking Performance Estimation in Neural Architecture Search**
 
 - 论文：准备中
