@@ -178,6 +178,12 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 # 语义分割
 
+**Temporally Distributed Networks for Fast Video Segmentation**
+
+- 论文：https://arxiv.org/abs/2004.01800
+
+- 代码：https://github.com/feinanshan/TDNet
+
 **Context Prior for Scene Segmentation**
 
 - 论文：https://arxiv.org/abs/2004.01547
