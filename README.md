@@ -668,7 +668,7 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 **Cascaded Deep Video Deblurring Using Temporal Sharpness Prior**
 
 - 主页：https://csbhr.github.io/projects/cdvd-tsp/index.html 
-- 论文：准备中
+- 论文：https://arxiv.org/abs/2004.02501 
 - 代码：https://github.com/csbhr/CDVD-TSP
 
 <a name="Feature"></a>
