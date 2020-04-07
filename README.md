@@ -812,6 +812,12 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 # 其他
 
+**Self-Supervised Scene De-occlusion**
+
+- 主页：https://xiaohangzhan.github.io/projects/deocclusion/
+- 论文：https://arxiv.org/abs/2004.02788
+- 代码：https://github.com/XiaohangZhan/deocclusion
+
 **Polarized Reflection Removal with Perfect Alignment in the Wild** 
 
 - 主页：https://leichenyang.weebly.com/project-polarized.html
