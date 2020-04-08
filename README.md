@@ -106,6 +106,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection**
+
+- 论文：https://arxiv.org/abs/2004.03080
+
+- 代码：https://github.com/mileyan/pseudo-LiDAR_e2e
+
 **DSGN: Deep Stereo Geometry Network for 3D Object Detection**
 
 - 论文：https://arxiv.org/abs/2001.03398
