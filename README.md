@@ -106,6 +106,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation**
+
+- 论文：https://arxiv.org/abs/2004.03572
+
+- 代码：https://github.com/zju3dv/disprcn
+
 **End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection**
 
 - 论文：https://arxiv.org/abs/2004.03080
