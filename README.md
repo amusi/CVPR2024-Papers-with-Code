@@ -382,8 +382,14 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 **RPM-Net: Robust Point Matching using Learned Features**
 
 - 论文：https://arxiv.org/abs/2003.13479
-
 - 代码：https://github.com/yewzijian/RPMNet 
+
+## 3D点云补全
+
+**Cascaded Refinement Network for Point Cloud Completion**
+
+- 论文：https://arxiv.org/abs/2004.03327
+- 代码：https://github.com/xiaogangw/cascaded-point-completion
 
 <a name="Face-Recognition"></a>
 
