@@ -570,8 +570,10 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 **Temporal Pyramid Network for Action Recognition**
 
-- 论文：准备中
-- 代码：https://github.com/limbo0000/TPN
+- 主页：https://decisionforce.github.io/TPN
+
+- 论文：https://arxiv.org/abs/2004.03548 
+- 代码：https://github.com/decisionforce/TPN 
 
 ## 基于骨架的动作识别
 
