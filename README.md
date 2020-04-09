@@ -106,6 +106,14 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**3DSSD: Point-based 3D Single Stage Object Detector**
+
+- CVPR 2020 Oral
+
+- 论文：https://arxiv.org/abs/2002.10187
+
+- 代码：https://github.com/tomztyang/3DSSD
+
 **Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation**
 
 - 论文：https://arxiv.org/abs/2004.03572
@@ -248,6 +256,11 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 <a name="Panoptic-Segmentation"></a>
 
 # 全景分割
+
+**Pixel Consensus Voting for Panoptic Segmentation**
+
+- 论文：https://arxiv.org/abs/2004.01849
+- 代码：还未公布
 
 **BANet: Bidirectional Aggregation Network with Occlusion Handling for Panoptic Segmentation**
 
