@@ -567,6 +567,12 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 ## 图像超分辨率
 
+**Structure-Preserving Super Resolution with Gradient Guidance**
+
+- 论文：https://arxiv.org/abs/2003.13081
+
+- 代码：https://github.com/Maclory/SPSR
+
 **Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy**
 
 论文：https://arxiv.org/abs/2004.00448
