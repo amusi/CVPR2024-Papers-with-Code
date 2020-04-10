@@ -887,6 +887,11 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 # 其他
 
+**Self-Supervised Monocular Scene Flow Estimation**
+
+- 论文：https://arxiv.org/abs/2004.04143
+- 代码：https://github.com/visinf/self-mono-sf
+
 **Quasi-Newton Solver for Robust Non-Rigid Registration**
 
 - 论文：https://arxiv.org/abs/2004.04322
