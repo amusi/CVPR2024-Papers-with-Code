@@ -198,6 +198,11 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 # 语义分割
 
+**Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation**
+
+- 论文：https://arxiv.org/abs/2004.04581
+- 代码：https://github.com/YudeWang/SEAM
+
 **Temporally Distributed Networks for Fast Video Segmentation**
 
 - 论文：https://arxiv.org/abs/2004.01800
