@@ -486,6 +486,11 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 ## 3D人体姿态估计
 
+**Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis**
+
+- 主页：http://val.cds.iisc.ac.in/pgp-human/
+- 论文：https://arxiv.org/abs/2004.04400
+
 **Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation**
 
 - 论文：https://arxiv.org/abs/2004.00329
