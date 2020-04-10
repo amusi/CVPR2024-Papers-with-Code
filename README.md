@@ -28,7 +28,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [超分辨率](#Super-Resolution)
 - [模型压缩](#Model-Compression)
 - [模型剪枝](#Model-Pruning)
-- [行为识别](#Action-Recognition)
+- [视频理解/行为识别](#Action-Recognition)
 - [人群计数](#Crowd-Counting)
 - [深度估计](#Depth-Estimation)
 - [6D目标姿态估计](#6DOF)
@@ -597,7 +597,13 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 <a name="Action-Recognition"></a>
 
-# 行为识别
+# 视频理解/行为识别
+
+**X3D: Expanding Architectures for Efficient Video Recognition**
+
+- 论文：https://arxiv.org/abs/2004.04730
+
+- 代码：https://github.com/facebookresearch/SlowFast
 
 **Temporal Pyramid Network for Action Recognition**
 
