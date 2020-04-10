@@ -871,6 +871,11 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 # 其他
 
+**Quasi-Newton Solver for Robust Non-Rigid Registration**
+
+- 论文：https://arxiv.org/abs/2004.04322
+- 代码：https://github.com/Juyong/Fast_RNRR
+
 **A Local-to-Global Approach to Multi-modal Movie Scene Segmentation**
 
 - 主页：https://anyirao.com/projects/SceneSeg.html
