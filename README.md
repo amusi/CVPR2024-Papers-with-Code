@@ -379,6 +379,12 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 
 ## 3D点云语义分割
 
+**Weakly Supervised Semantic Point Cloud Segmentation:Towards 10X Fewer Labels**
+
+- 论文：https://arxiv.org/abs/2004.0409
+
+- 代码：https://github.com/alex-xun-xu/WeakSupPointCloudSeg
+
 **PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation**
 
 - 论文：https://arxiv.org/abs/2003.14032
