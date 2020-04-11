@@ -161,6 +161,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标跟踪
 
+**Siam R-CNN: Visual Tracking by Re-Detection**
+
+- 主页：https://www.vision.rwth-aachen.de/page/siamrcnn
+- 论文：https://arxiv.org/abs/1911.12836
+- 论文2：https://www.vision.rwth-aachen.de/media/papers/192/siamrcnn.pdf
+- 代码：https://github.com/VisualComputingInstitute/SiamR-CNN
+
 **Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises**
 
 - 论文：https://arxiv.org/abs/2003.09595 
