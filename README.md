@@ -161,7 +161,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标跟踪
 
-Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
+**Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises**
 
 - 论文：https://arxiv.org/abs/2003.09595 
 - 代码：https://github.com/MasterBin-IIAU/CSA 
@@ -620,6 +620,12 @@ Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises
 <a name="Action-Recognition"></a>
 
 # 视频理解/行为识别
+
+**TEA: Temporal Excitation and Aggregation for Action Recognition**
+
+- 论文：https://arxiv.org/abs/2004.01398
+
+- 代码：https://github.com/Phoenix1327/tea-action-recognition
 
 **X3D: Expanding Architectures for Efficient Video Recognition**
 
