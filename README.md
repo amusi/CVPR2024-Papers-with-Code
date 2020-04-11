@@ -72,6 +72,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标检测
 
+**Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection**
+
+- 论文：https://arxiv.org/abs/2004.04725
+- 代码：https://github.com/NVlabs/wetectron
+
 **Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection**
 
 - 论文：https://arxiv.org/abs/1912.02424 
