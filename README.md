@@ -667,6 +667,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 深度估计
 
+**Towards Better Generalization: Joint Depth-Pose Learning without PoseNet**
+
+- 论文：https://github.com/B1ueber2y/TrianFlow
+
+- 代码：https://github.com/B1ueber2y/TrianFlow
+
 ## 单目深度估计
 
 **3D Packing for Self-Supervised Monocular Depth Estimation**
