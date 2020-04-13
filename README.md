@@ -26,8 +26,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [场景文本检测](#Scene-Text-Detection)
 - [场景文本识别](#Scene-Text-Recognition)
 - [超分辨率](#Super-Resolution)
-- [模型压缩](#Model-Compression)
-- [模型剪枝](#Model-Pruning)
+- [模型压缩/剪枝](#Model-Compression)
 - [视频理解/行为识别](#Action-Recognition)
 - [人群计数](#Crowd-Counting)
 - [深度估计](#Depth-Estimation)
@@ -606,7 +605,17 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Model-Compression"></a>
 
-# 模型压缩
+# 模型压缩/剪枝
+
+**Towards Efficient Model Compression via Learned Global Ranking**
+
+- 论文：https://arxiv.org/abs/1904.12368
+- 代码：https://github.com/cmu-enyac/LeGR
+
+**HRank: Filter Pruning using High-Rank Feature Map**
+
+- 论文：http://arxiv.org/abs/2002.10179
+- 代码：https://github.com/lmbxmu/HRank 
 
 **GAN Compression: Efficient Architectures for Interactive Conditional GANs**
 
@@ -619,15 +628,6 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2003.08935
 
 - 代码：https://github.com/ofsoundof/group_sparsity
-
-<a name="Model-Pruning"></a>
-
-# 模型剪枝
-
-**HRank: Filter Pruning using High-Rank Feature Map**
-
-- 论文：http://arxiv.org/abs/2002.10179
-- 代码：https://github.com/lmbxmu/HRank 
 
 <a name="Action-Recognition"></a>
 
