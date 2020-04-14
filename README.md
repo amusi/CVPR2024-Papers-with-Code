@@ -111,6 +111,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**MLCVNet: Multi-Level Context VoteNet for 3D Object Detection**
+
+- 论文：https://arxiv.org/abs/2004.05679
+- 代码：https://github.com/NUAAXQ/MLCVNet
+
 **3DSSD: Point-based 3D Single Stage Object Detector**
 
 - CVPR 2020 Oral
