@@ -32,6 +32,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [深度估计](#Depth-Estimation)
 - [6D目标姿态估计](#6DOF)
 - [手势估计](#Hand-Pose)
+- [显著性检测](#Saliency)
 - [去噪](#Denoising)
 - [去模糊](#Deblurring)
 - [特征点检测与描述](#Feature)
@@ -717,6 +718,17 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2003.09572
 
 - 代码：https://github.com/CalciferZh/minimal-hand
+
+<a name="Saliency"></a>
+
+# 显著性检测
+
+**UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders**
+
+- 主页：http://dpfan.net/d3netbenchmark/
+
+- 论文：https://arxiv.org/abs/2004.05763
+- 代码：https://github.com/JingZhang617/UCNet
 
 <a name="Denoising"></a>
 
