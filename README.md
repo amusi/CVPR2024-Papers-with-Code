@@ -44,6 +44,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - ["人-物"交互(HOI)检测](#HOI)
 - [行为轨迹预测](#HTP)
 - [运动预测](#Motion-Predication)
+- [虚拟试衣](#Virtual-Try-On)
 - [HDR](#HDR)
 - [数据集](#Datasets)
 - [其他](#Others)
@@ -873,6 +874,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2003.06754
 
 - 代码：https://github.com/pxiangwu/MotionNet
+
+<a name="Virtual-Try-On"></a>
+
+# 虚拟试衣
+
+**Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content**
+
+- 论文：https://arxiv.org/abs/2003.05863
+- 代码：https://github.com/switchablenorms/DeepFashion_Try_On
 
 <a name="HDR"></a>
 
