@@ -41,6 +41,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [视频压缩](#Video-Compression)
 - [视频插值](#Video-Frame-Interpolation)
 - [风格迁移](#Style-Transfer)
+- [车道线检测](#Lane-Detection)
 - ["人-物"交互(HOI)检测](#HOI)
 - [行为轨迹预测](#HTP)
 - [运动预测](#Motion-Predication)
@@ -841,6 +842,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2003.08436
 
 - 代码：https://github.com/mingsun-tse/collaborative-distillation
+
+<a name="Lane-Detection"></a>
+
+# 车道线检测
+
+**Inter-Region Affinity Distillation for Road Marking Segmentation**
+
+- 论文：https://arxiv.org/abs/2004.05304
+- 代码：https://github.com/cardwing/Codes-for-IntRA-KD
 
 <a name="HOI"></a>
 
