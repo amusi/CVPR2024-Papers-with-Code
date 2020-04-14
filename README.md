@@ -324,6 +324,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # NAS
 
+**FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions**
+
+- 论文下载链接：https://arxiv.org/abs/2004.05565
+
+- 代码：https://github.com/facebookresearch/mobile-vision
+
 **Neural Architecture Search for Lightweight Non-Local Networks**
 
 - 论文：https://arxiv.org/abs/2004.01961
