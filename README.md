@@ -296,6 +296,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 视频目标分割
 
+**A Transductive Approach for Video Object Segmentation**
+
+- 论文：https://arxiv.org/abs/2004.07193
+
+- 代码：https://github.com/microsoft/transductive-vos.pytorch
+
 **State-Aware Tracker for Real-Time Video Object Segmentation**
 
 - 论文：https://arxiv.org/abs/2003.00482
@@ -647,6 +653,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 视频理解/行为识别
 
+**FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding**
+
+- 主页：https://sdolivia.github.io/FineGym/
+- 论文：https://arxiv.org/abs/2004.06704
+
 **TEA: Temporal Excitation and Aggregation for Action Recognition**
 
 - 论文：https://arxiv.org/abs/2004.01398
@@ -915,6 +926,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding**
+
+- 主页：https://sdolivia.github.io/FineGym/
+- 论文：https://arxiv.org/abs/2004.06704
 
 **A Local-to-Global Approach to Multi-modal Movie Scene Segmentation**
 
