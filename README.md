@@ -976,6 +976,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Footprints and Free Space from a Single Color Image**
+
+- 论文：https://arxiv.org/abs/2004.06376
+
+- 代码：https://github.com/nianticlabs/footprints
+
 **Self-Supervised Monocular Scene Flow Estimation**
 
 - 论文：https://arxiv.org/abs/2004.04143
