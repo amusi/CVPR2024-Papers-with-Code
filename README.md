@@ -217,6 +217,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision**
+
+- Oral
+- 论文：https://arxiv.org/abs/2004.07703
+- 代码：https://github.com/feipan664/IntraDA
+
 **Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation**
 
 - 论文：https://arxiv.org/abs/2004.04581
