@@ -529,6 +529,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 3D人体姿态估计
 
+**Bodies at Rest: 3D Human Pose and Shape Estimation from a Pressure Image using Synthetic Data**
+
+- 论文下载链接：https://arxiv.org/abs/2004.01166
+
+- 代码：https://github.com/Healthcare-Robotics/bodies-at-rest
+- 数据集：https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KOA4ML
+
 **Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis**
 
 - 主页：http://val.cds.iisc.ac.in/pgp-human/
@@ -932,6 +939,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**Bodies at Rest: 3D Human Pose and Shape Estimation from a Pressure Image using Synthetic Data**
+
+- 论文下载链接：https://arxiv.org/abs/2004.01166
+
+- 代码：https://github.com/Healthcare-Robotics/bodies-at-rest
+- 数据集：https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KOA4ML
 
 **FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding**
 
