@@ -996,6 +996,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Lightweight Photometric Stereo for Facial Details Recovery**
+
+- 论文：https://arxiv.org/abs/2003.12307
+- 代码：https://github.com/Juyong/FacePSNet
+
 **Footprints and Free Space from a Single Color Image**
 
 - 论文：https://arxiv.org/abs/2004.06376
