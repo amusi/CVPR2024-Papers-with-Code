@@ -403,6 +403,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 3D点云卷积
 
+**Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds**
+
+- 论文下载链接：https://arxiv.org/abs/2003.12971
+
+- 代码：https://github.com/raoyongming/PointGLR
+
 **Grid-GCN for Fast and Scalable Point Cloud Learning**
 
 - 论文：https://arxiv.org/abs/1912.02984
