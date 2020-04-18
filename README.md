@@ -996,6 +996,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Plug-and-Play Algorithms for Large-scale Snapshot Compressive Imaging**
+
+- Oral
+- 论文：https://arxiv.org/abs/2003.13654
+
+- 代码：https://github.com/liuyang12/PnP-SCI
+
 **Lightweight Photometric Stereo for Facial Details Recovery**
 
 - 论文：https://arxiv.org/abs/2003.12307
