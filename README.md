@@ -996,6 +996,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Towards Learning Structure via Consensus for Face Segmentation and Parsing**
+
+- 论文：https://arxiv.org/abs/1911.00957
+- 代码：https://github.com/isi-vista/structure_via_consensus
+
 **Plug-and-Play Algorithms for Large-scale Snapshot Compressive Imaging**
 
 - Oral
