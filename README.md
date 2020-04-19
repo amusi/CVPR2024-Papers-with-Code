@@ -1019,6 +1019,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Towards Discriminability and Diversity: Batch Nuclear-norm Maximization under Label Insufficient Situations**
+
+- Oral
+
+- 论文：https://arxiv.org/abs/2003.12237 
+- 代码：https://github.com/cuishuhao/BNM 
+
 **Towards Learning Structure via Consensus for Face Segmentation and Parsing**
 
 - 论文：https://arxiv.org/abs/1911.00957
