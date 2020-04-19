@@ -654,6 +654,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 视频超分辨率
 
+**Space-Time-Aware Multi-Resolution Video Enhancement**
+
+- 主页：https://alterzero.github.io/projects/STAR.html
+- 论文：http://arxiv.org/abs/2003.13170
+- 代码：https://github.com/alterzero/STARnet
+
 **Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution**
 
 - 论文：https://arxiv.org/abs/2002.11616 
@@ -868,6 +874,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Video-Frame-Interpolation"></a>
 
 # 视频插值
+
+**Space-Time-Aware Multi-Resolution Video Enhancement**
+
+- 主页：https://alterzero.github.io/projects/STAR.html
+- 论文：http://arxiv.org/abs/2003.13170
+- 代码：https://github.com/alterzero/STARnet
 
 **Scene-Adaptive Video Frame Interpolation via Meta-Learning**
 
