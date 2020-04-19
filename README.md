@@ -369,6 +369,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # GAN
 
+**Unpaired Portrait Drawing Generation via Asymmetric Cycle Mapping**
+
+- 论文：https://yiranran.github.io/files/CVPR2020_Unpaired%20Portrait%20Drawing%20Generation%20via%20Asymmetric%20Cycle%20Mapping.pdf
+- 代码：https://github.com/yiranran/Unpaired-Portrait-Drawing
+
 **Learning to Cartoonize Using White-box Cartoon Representations**
 
 - 论文：https://github.com/SystemErrorWang/White-box-Cartoonization/blob/master/paper/06791.pdf
