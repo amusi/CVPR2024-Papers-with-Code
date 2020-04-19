@@ -173,6 +173,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标跟踪
 
+**ROAM: Recurrently Optimizing Tracking Model**
+
+- 论文：https://arxiv.org/abs/1907.12006
+
+- 代码：https://github.com/skyoung/ROAM
+
 **Siam R-CNN: Visual Tracking by Re-Detection**
 
 - 主页：https://www.vision.rwth-aachen.de/page/siamrcnn
