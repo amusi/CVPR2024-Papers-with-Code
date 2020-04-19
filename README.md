@@ -1019,6 +1019,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Self-Supervised Viewpoint Learning from Image Collections**
+
+- 论文：https://arxiv.org/abs/2004.01793
+- 论文2：https://research.nvidia.com/sites/default/files/pubs/2020-03_Self-Supervised-Viewpoint-Learning/SSV-CVPR2020.pdf 
+- 代码：https://github.com/NVlabs/SSV 
+
 **Towards Discriminability and Diversity: Batch Nuclear-norm Maximization under Label Insufficient Situations**
 
 - Oral
