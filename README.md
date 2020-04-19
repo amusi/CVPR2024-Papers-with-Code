@@ -369,6 +369,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # GAN
 
+**Semantically Mutil-modal Image Synthesis**
+
+- 主页：http://seanseattle.github.io/SMIS
+- 论文：https://arxiv.org/abs/2003.12697
+- 代码：https://github.com/Seanseattle/SMIS
+
 **Unpaired Portrait Drawing Generation via Asymmetric Cycle Mapping**
 
 - 论文：https://yiranran.github.io/files/CVPR2020_Unpaired%20Portrait%20Drawing%20Generation%20via%20Asymmetric%20Cycle%20Mapping.pdf
