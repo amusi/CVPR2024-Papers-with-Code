@@ -1031,6 +1031,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask**
+
+- 论文：https://arxiv.org/abs/2003.10955 
+
+- 代码：https://github.com/microsoft/MaskFlownet 
+
 **Self-Supervised Viewpoint Learning from Image Collections**
 
 - 论文：https://arxiv.org/abs/2004.01793
