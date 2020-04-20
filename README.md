@@ -915,6 +915,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # "人-物"交互(HOT)检测
 
+**Detailed 2D-3D Joint Representation for Human-Object Interaction**
+
+- 论文：https://arxiv.org/abs/2004.08154
+
+- 代码：https://github.com/DirtyHarryLYL/DJ-RN
+
 **Cascaded Human-Object Interaction Recognition**
 
 - 论文：https://arxiv.org/abs/2003.04262
