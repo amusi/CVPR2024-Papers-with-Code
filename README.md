@@ -1037,6 +1037,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Bringing Old Photos Back to Life**
+
+- 主页：http://raywzy.com/Old_Photo/
+- 论文：https://arxiv.org/abs/2004.09484
+
 **MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask**
 
 - 论文：https://arxiv.org/abs/2003.10955 
