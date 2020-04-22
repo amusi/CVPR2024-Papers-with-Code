@@ -343,6 +343,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # NAS
 
+**MTL-NAS: Task-Agnostic Neural Architecture Search towards General-Purpose Multi-Task Learning**
+
+- 论文：https://arxiv.org/abs/2003.14058
+
+- 代码：https://github.com/bhpfelix/MTLNAS
+
 **FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions**
 
 - 论文下载链接：https://arxiv.org/abs/2004.05565
