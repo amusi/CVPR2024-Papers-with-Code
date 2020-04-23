@@ -74,6 +74,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标检测
 
+**Detection in Crowded Scenes: One Proposal, Multiple Predictions**
+
+- 论文：https://arxiv.org/abs/2003.09163
+- 代码：https://github.com/megvii-model/CrowdDetection
+
 **Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection**
 
 - 论文：https://arxiv.org/abs/2004.04725
