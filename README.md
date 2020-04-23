@@ -805,6 +805,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 显著性检测
 
+**JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection**
+
+- 论文：https://arxiv.org/abs/2004.08515
+
+- 代码：https://github.com/kerenfu/JLDCF/
+
 **UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders**
 
 - 主页：http://dpfan.net/d3netbenchmark/
