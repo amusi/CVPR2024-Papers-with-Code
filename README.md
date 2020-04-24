@@ -178,6 +178,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标跟踪
 
+**D3S -- A Discriminative Single Shot Segmentation Tracker**
+
+- 论文：https://arxiv.org/abs/1911.08862
+- 代码：https://github.com/alanlukezic/d3s
+
 **ROAM: Recurrently Optimizing Tracking Model**
 
 - 论文：https://arxiv.org/abs/1907.12006
