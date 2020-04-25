@@ -74,6 +74,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标检测
 
+**Scale-equalizing Pyramid Convolution for Object Detection**
+
+- 论文：暂无
+- 代码：https://github.com/jshilong/SEPC 
+
 **Detection in Crowded Scenes: One Proposal, Multiple Predictions**
 
 - 论文：https://arxiv.org/abs/2003.09163
