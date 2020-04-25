@@ -74,6 +74,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标检测
 
+**Revisiting the Sibling Head in Object Detector**
+
+- 论文：https://arxiv.org/abs/2003.07540
+
+- 代码：https://github.com/Sense-X/TSD 
+
 **Scale-equalizing Pyramid Convolution for Object Detection**
 
 - 论文：暂无
