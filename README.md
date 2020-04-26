@@ -17,11 +17,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [GAN](#GAN)
 - [Re-ID](#Re-ID)
 - [3D点云（含语义分割等）](#3D-PointCloud)
-- [人脸识别](#Face-Recognition)
-- [人脸检测](#Face-Detection)
-- [人脸活体检测](#FAS)
-- [人脸表情识别](#Facial-Expression-Recognition)
-- [人脸转正](#Face-Rotation)
+- [人脸（识别/检测/重建等）](#Face)
 - [人体姿态估计](#Human-Pose-Estimation)
 - [场景文本检测](#Scene-Text-Detection)
 - [场景文本识别](#Scene-Text-Recognition)
@@ -502,9 +498,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2004.03327
 - 代码：https://github.com/xiaogangw/cascaded-point-completion
 
-<a name="Face-Recognition"></a>
+<a name="Face"></a>
 
-# 人脸识别
+# 人脸
+
+## 人脸识别
 
 **CurricularFace: Adaptive Curriculum Learning Loss for Deep Face Recognition**
 
@@ -518,13 +516,9 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 代码：https://github.com/cleardusk/MFR
 - 解读：https://mp.weixin.qq.com/s/YZoEnjpnlvb90qSI3xdJqQ 
 
-<a name="Face-Detection"></a>
+## 人脸检测
 
-# 人脸检测
-
-<a name="FAS"></a>
-
-# 人脸活体检测
+## 人脸活体检测
 
 **Searching Central Difference Convolutional Networks for Face Anti-Spoofing**
 
@@ -532,9 +526,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码：https://github.com/ZitongYu/CDCN
 
-<a name="Facial-Expression-Recognition"></a>
-
-# 人脸表情识别
+## 人脸表情识别
 
 **Suppressing Uncertainties for Large-Scale Facial Expression Recognition**
 
@@ -542,15 +534,19 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码（即将开源）：https://github.com/kaiwang960112/Self-Cure-Network 
 
-<a name="Face-Rotation"></a>
-
-# 人脸转正
+## 人脸转正
 
 **Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images**
 
 - 论文：https://arxiv.org/abs/2003.08124
-
 - 代码：https://github.com/Hangz-nju-cuhk/Rotate-and-Render
+
+## 人脸3D重建
+
+**FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction**
+
+- 论文：https://arxiv.org/abs/2003.13989
+- 代码：https://github.com/zhuhao-nju/facescape
 
 <a name="Human-Pose-Estimation"></a>
 
@@ -1018,6 +1014,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+## 人脸3D重建
+
+**FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction**
+
+- 论文：https://arxiv.org/abs/2003.13989
+- 代码：https://github.com/zhuhao-nju/facescape
 
 **Bodies at Rest: 3D Human Pose and Shape Estimation from a Pressure Image using Synthetic Data**
 
