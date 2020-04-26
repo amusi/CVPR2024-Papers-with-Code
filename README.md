@@ -43,6 +43,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [运动预测](#Motion-Predication)
 - [虚拟试衣](#Virtual-Try-On)
 - [HDR](#HDR)
+- [对抗样本](#AE)
 - [数据集](#Datasets)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
@@ -1010,6 +1011,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文下载链接：https://www.cmlab.csie.ntu.edu.tw/~yulunliu/SingleHDR_/00942.pdf
 
 - 代码：https://github.com/alex04072000/SingleHDR
+
+<a name="AE"></a>
+
+# 对抗样本
+
+**Towards Large yet Imperceptible Adversarial Image Perturbations with Perceptual Color Distance**
+
+- 论文：https://arxiv.org/abs/1911.02466
+- 代码：https://github.com/ZhengyuZhao/PerC-Adversarial 
 
 <a name="Datasets"></a>
 
