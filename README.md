@@ -63,9 +63,9 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **Spatially Attentive Output Layer for Image Classification**
 
-- 论文：还没有公布
+- 论文：https://arxiv.org/abs/2004.07570 
 
-- 代码： https://github.com/ildoonet/spatially-attentive-output-layer 
+- 代码（好像被原作者删除了）：https://github.com/ildoonet/spatially-attentive-output-layer 
 
 <a name="Object-Detection"></a>
 
