@@ -693,6 +693,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 模型压缩/剪枝
 
+**Forward and Backward Information Retention for Accurate Binary Neural Networks**
+
+- 论文：https://arxiv.org/abs/1909.10788
+
+- 代码：https://github.com/htqin/IR-Net
+
 **Towards Efficient Model Compression via Learned Global Ranking**
 
 - 论文：https://arxiv.org/abs/1904.12368
@@ -900,12 +906,6 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Video-Compression"></a>
 
 # 视频压缩
-
-**Forward and Backward Information Retention for Accurate Binary Neural Networks**
-
-- 论文：https://arxiv.org/abs/1909.10788
-
-- 代码：https://github.com/htqin/IR-Net
 
 **Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement**
 
