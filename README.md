@@ -1031,7 +1031,10 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 数据集
 
-## 人脸3D重建
+**Learning to Autofocus**
+
+- 论文：https://arxiv.org/abs/2004.12260
+- 数据集：暂无
 
 **FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction**
 
