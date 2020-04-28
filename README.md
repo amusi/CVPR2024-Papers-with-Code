@@ -61,6 +61,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 图像分类
 
+**Compositional Convolutional Neural Networks: A Deep Architecture with Innate Robustness to Partial Occlusion**
+
+- 论文：https://arxiv.org/abs/2003.04490
+
+- 代码：https://github.com/AdamKortylewski/CompositionalNets
+
 **Spatially Attentive Output Layer for Image Classification**
 
 - 论文：https://arxiv.org/abs/2004.07570 
