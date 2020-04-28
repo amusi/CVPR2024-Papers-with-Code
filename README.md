@@ -52,6 +52,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # CNN
 
+**Improving Convolutional Networks with Self-Calibrated Convolutions**
+
+- 主页：https://mmcheng.net/scconv/
+
+- 论文：http://mftp.mmcheng.net/Papers/20cvprSCNet.pdf
+- 代码：https://github.com/backseason/SCNet
+
 **Rethinking Depthwise Separable Convolutions: How Intra-Kernel Correlations Lead to Improved MobileNets**
 
 - 论文：https://arxiv.org/abs/2003.13549
