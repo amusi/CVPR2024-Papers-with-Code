@@ -52,6 +52,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # CNN
 
+**Exploring Self-attention for Image Recognition**
+
+- 论文：https://hszhao.github.io/papers/cvpr20_san.pdf
+
+- 代码：https://github.com/hszhao/SAN
+
 **Improving Convolutional Networks with Self-Calibrated Convolutions**
 
 - 主页：https://mmcheng.net/scconv/
