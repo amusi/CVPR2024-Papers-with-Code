@@ -31,6 +31,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [显著性检测](#Saliency)
 - [去噪](#Denoising)
 - [去模糊](#Deblurring)
+- [去雾](#Dehazing)
 - [特征点检测与描述](#Feature)
 - [视觉问答](#VQA)
 - [视觉语言导航](#VLN)
@@ -898,6 +899,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 主页：https://csbhr.github.io/projects/cdvd-tsp/index.html 
 - 论文：https://arxiv.org/abs/2004.02501 
 - 代码：https://github.com/csbhr/CDVD-TSP
+
+<a name="Dehazing"></a>
+
+# 去雾
+
+**Multi-Scale Boosted Dehazing Network with Dense Feature Fusion**
+
+- 论文：https://arxiv.org/abs/2004.13388
+
+- 代码：https://github.com/BookerDeWitt/MSBDN-DFF
 
 <a name="Feature"></a>
 
