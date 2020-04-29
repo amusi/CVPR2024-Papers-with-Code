@@ -563,6 +563,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 人脸3D重建
 
+**AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"**
+
+- 论文：https://arxiv.org/abs/2003.13845
+- 数据集：https://github.com/lattas/AvatarMe
+
 **FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction**
 
 - 论文：https://arxiv.org/abs/2003.13989
@@ -1049,6 +1054,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"**
+
+- 论文：https://arxiv.org/abs/2003.13845
+- 数据集：https://github.com/lattas/AvatarMe
 
 **Learning to Autofocus**
 
