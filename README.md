@@ -1147,6 +1147,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Epipolar Transformers**
+
+- 论文：暂无
+
+- 代码：https://github.com/yihui-he/epipolar-transformers 
+
 **Bringing Old Photos Back to Life**
 
 - 主页：http://raywzy.com/Old_Photo/
