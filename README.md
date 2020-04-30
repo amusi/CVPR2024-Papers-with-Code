@@ -33,7 +33,8 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [去模糊](#Deblurring)
 - [去雾](#Dehazing)
 - [特征点检测与描述](#Feature)
-- [视觉问答](#VQA)
+- [视觉问答(VQA)](#VQA)
+- [视频问答(VideoQA)](#VideoQA)
 - [视觉语言导航](#VLN)
 - [视频压缩](#Video-Compression)
 - [视频插值](#Video-Frame-Interpolation)
@@ -922,12 +923,21 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="VQA"></a>
 
-# 视觉问答
+# 视觉问答(VQA)
 
 **VC R-CNN：Visual Commonsense R-CNN** 
 
 - 论文：https://arxiv.org/abs/2002.12204
 - 代码：https://github.com/Wangt-CN/VC-R-CNN
+
+<a name="VideoQA"></a>
+
+# 视频问答(VideoQA)
+
+**Hierarchical Conditional Relation Networks for Video Question Answering**
+
+- 论文：https://arxiv.org/abs/2002.10698
+- 代码：https://github.com/thaolmk54/hcrn-videoqa
 
 <a name="VLN"></a>
 
