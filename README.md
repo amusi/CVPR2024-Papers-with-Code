@@ -501,6 +501,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码：https://github.com/WPI-VISLab/Learning-to-Segment-3D-Point-Clouds-in-2D-Image-Space
 
+## 3D点云实例分割
+
+PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
+
+- 论文：https://arxiv.org/abs/2004.01658
+- 代码：https://github.com/Jia-Research-Lab/PointGroup
+
 ## 3D点云配准
 
 **D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features**
