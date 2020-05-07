@@ -262,6 +262,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentation via Global and Local Refinement**
+
+- 论文：https://arxiv.org/abs/2005.02551
+- 代码：https://github.com/hkchengrex/CascadePSP
+
 **Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision**
 
 - Oral
