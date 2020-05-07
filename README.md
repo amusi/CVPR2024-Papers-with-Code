@@ -495,6 +495,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 3D点云语义分割
 
+**RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds**
+
+- 论文：https://arxiv.org/abs/1911.11236
+- 代码：https://github.com/QingyongHu/RandLA-Net
+
+- 解读：https://zhuanlan.zhihu.com/p/105433460
+
 **Weakly Supervised Semantic Point Cloud Segmentation:Towards 10X Fewer Labels**
 
 - 论文：https://arxiv.org/abs/2004.0409
