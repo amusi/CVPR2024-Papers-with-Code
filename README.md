@@ -744,6 +744,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 模型压缩/剪枝
 
+**DMCP: Differentiable Markov Channel Pruning for Neural Networks**
+
+- 论文：https://arxiv.org/abs/2005.03354
+- 代码：https://github.com/zx55/dmcp
+
 **Forward and Backward Information Retention for Accurate Binary Neural Networks**
 
 - 论文：https://arxiv.org/abs/1909.10788
