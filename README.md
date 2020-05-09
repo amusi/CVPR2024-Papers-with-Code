@@ -16,9 +16,10 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [NAS](#NAS)
 - [GAN](#GAN)
 - [Re-ID](#Re-ID)
-- [3D点云（含语义分割等）](#3D-PointCloud)
+- [3D点云（分类/分割/配准等）](#3D-PointCloud)
 - [人脸（识别/检测/重建等）](#Face)
-- [人体姿态估计](#Human-Pose-Estimation)
+- [人体姿态估计(2D/3D)](#Human-Pose-Estimation)
+- [人体解析](#Human-Parsing)
 - [场景文本检测](#Scene-Text-Detection)
 - [场景文本识别](#Scene-Text-Recognition)
 - [超分辨率](#Super-Resolution)
@@ -478,7 +479,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="3D-PointCloud"></a>
 
-# 3D点云（含语义分割等）
+# 3D点云（分类/分割/配准等）
 
 ## 3D点云卷积
 
@@ -498,6 +499,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2002.10701
 - 代码：https://github.com/lyqun/FPConv
+
+## 3D点云分类
+
+**PointAugment: an Auto-Augmentation Framework for Point Cloud Classification**
+
+- 论文：https://arxiv.org/abs/2002.10876 
+- 代码（即将开源）： https://github.com/liruihui/PointAugment/ 
 
 ## 3D点云语义分割
 
@@ -608,7 +616,7 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 <a name="Human-Pose-Estimation"></a>
 
-# 人体姿态估计
+# 人体姿态估计(2D/3D)
 
 ## 2D人体姿态估计
 
@@ -665,16 +673,17 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - 论文：https://arxiv.org/abs/2003.03972
 - 数据集：暂无
 
+<a name="Human-Parsing"></a>
+
+# 人体解析
+
+**Correlating Edge, Pose with Parsing**
+
+- 论文：https://arxiv.org/abs/2005.01431
+
+- 代码：https://github.com/ziwei-zh/CorrPM
+
 <a name="Scene-Text-Detection"></a>
-
-# 点云
-
-## 点云分类
-
-**PointAugment: an Auto-Augmentation Framework for Point Cloud Classification**
-
-- 论文：https://arxiv.org/abs/2002.10876 
-- 代码（即将开源）： https://github.com/liruihui/PointAugment/ 
 
 # 场景文本检测
 
