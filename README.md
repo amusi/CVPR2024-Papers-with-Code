@@ -269,6 +269,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**MSeg: A Composite Dataset for Multi-domain Semantic Segmentation**
+
+- 论文：http://vladlen.info/papers/MSeg.pdf
+- 代码：https://github.com/mseg-dataset/mseg-api
+
 **CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentation via Global and Local Refinement**
 
 - 论文：https://arxiv.org/abs/2005.02551
@@ -1125,6 +1130,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 <a name="Datasets"></a>
 
 # 数据集
+
+**MSeg: A Composite Dataset for Multi-domain Semantic Segmentation**
+
+- 论文：http://vladlen.info/papers/MSeg.pdf
+- 代码：https://github.com/mseg-dataset/mseg-api
 
 **AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"**
 
