@@ -269,6 +269,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**Learning Texture Invariant Representation for Domain Adaptation of Semantic Segmentation**
+
+- 论文：https://arxiv.org/abs/2003.00867
+- 代码：https://github.com/MyeongJin-Kim/Learning-Texture-Invariant-Representation
+
 **MSeg: A Composite Dataset for Multi-domain Semantic Segmentation**
 
 - 论文：http://vladlen.info/papers/MSeg.pdf
