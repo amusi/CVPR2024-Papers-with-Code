@@ -339,6 +339,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/1911.06667 
 - 代码：https://github.com/youngwanLEE/CenterMask 
 
+**BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation**
+
+- 论文：https://arxiv.org/abs/2001.00309
+- 代码：https://github.com/aim-uofa/AdelaiDet
+
 **Deep Snake for Real-Time Instance Segmentation**
 
 - 论文：https://arxiv.org/abs/2001.01629
