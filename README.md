@@ -1219,7 +1219,7 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 **Epipolar Transformers**
 
-- 论文：暂无
+- 论文：https://arxiv.org/abs/2005.04551
 
 - 代码：https://github.com/yihui-he/epipolar-transformers 
 
