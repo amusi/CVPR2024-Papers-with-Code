@@ -1157,6 +1157,12 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 数据集
 
+**KeypointNet: A Large-scale 3D Keypoint Dataset Aggregated from Numerous Human Annotations**
+
+- 论文：https://arxiv.org/abs/2002.12687
+
+- 数据集：https://github.com/qq456cvb/KeypointNet
+
 **MSeg: A Composite Dataset for Multi-domain Semantic Segmentation**
 
 - 论文：http://vladlen.info/papers/MSeg.pdf
