@@ -861,6 +861,12 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 深度估计
 
+**Bi3D: Stereo Depth Estimation via Binary Classifications**
+
+- 论文：https://arxiv.org/abs/2005.07274
+
+- 代码：https://github.com/NVlabs/Bi3D
+
 **AANet: Adaptive Aggregation Network for Efficient Stereo Matching**
 
 - 论文：https://arxiv.org/abs/2004.09548
