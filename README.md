@@ -47,6 +47,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [虚拟试衣](#Virtual-Try-On)
 - [HDR](#HDR)
 - [对抗样本](#AE)
+- [语义场景补全](#SSC)
 - [数据集](#Datasets)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
@@ -674,7 +675,7 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 ## 3D人体姿态估计
 
-Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach
+**Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach**
 
 - 主页：https://www.zhe-zhang.com/cvpr2020
 - 论文：https://arxiv.org/abs/2003.11163
@@ -1177,6 +1178,15 @@ Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometr
 
 - 论文：https://arxiv.org/abs/1911.02466
 - 代码：https://github.com/ZhengyuZhao/PerC-Adversarial 
+
+<a name="SSC"></a>
+
+# 语义场景补全
+
+**3D Sketch-aware Semantic Scene Completion via Semi-supervised Structure Prior**
+
+- 论文：https://arxiv.org/abs/2003.14052
+- 代码：https://github.com/charlesCXK/3D-SketchAware-SSC 
 
 <a name="Datasets"></a>
 
