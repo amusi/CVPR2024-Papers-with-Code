@@ -275,6 +275,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**Single-Stage Semantic Segmentation from Image Labels**
+
+- 论文：https://arxiv.org/abs/2005.08104
+
+- 代码：https://github.com/visinf/1-stage-wseg
+
 **Learning Texture Invariant Representation for Domain Adaptation of Semantic Segmentation**
 
 - 论文：https://arxiv.org/abs/2003.00867
