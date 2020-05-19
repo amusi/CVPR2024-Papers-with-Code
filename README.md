@@ -674,6 +674,13 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 ## 3D人体姿态估计
 
+Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach
+
+- 主页：https://www.zhe-zhang.com/cvpr2020
+- 论文：https://arxiv.org/abs/2003.11163
+
+- 代码：https://github.com/CHUNYUWANG/imu-human-pose-pytorch
+
 **Bodies at Rest: 3D Human Pose and Shape Estimation from a Pressure Image using Synthetic Data**
 
 - 论文下载链接：https://arxiv.org/abs/2004.01166
