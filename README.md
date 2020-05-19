@@ -154,6 +154,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**Train in Germany, Test in The USA: Making 3D Object Detectors Generalize**
+
+- 论文：https://arxiv.org/abs/2005.08139
+
+- 代码：https://github.com/cxy1997/3D_adapt_auto_driving
+
 **MLCVNet: Multi-Level Context VoteNet for 3D Object Detection**
 
 - 论文：https://arxiv.org/abs/2004.05679
