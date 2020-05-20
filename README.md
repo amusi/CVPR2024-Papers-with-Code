@@ -495,6 +495,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # Re-ID
 
+**COCAS: A Large-Scale Clothes Changing Person Dataset for Re-identification**
+
+- 论文：https://arxiv.org/abs/2005.07862
+
+- 数据集：暂无
+
 **Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking**
 
 - 论文：https://arxiv.org/abs/2004.04199
@@ -1191,6 +1197,12 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 <a name="Datasets"></a>
 
 # 数据集
+
+**COCAS: A Large-Scale Clothes Changing Person Dataset for Re-identification**
+
+- 论文：https://arxiv.org/abs/2005.07862
+
+- 数据集：暂无
 
 **KeypointNet: A Large-scale 3D Keypoint Dataset Aggregated from Numerous Human Annotations**
 
