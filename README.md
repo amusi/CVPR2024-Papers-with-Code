@@ -94,6 +94,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标检测
 
+**Dynamic Refinement Network for Oriented and Densely Packed Object Detection**
+
+- 论文下载链接：https://arxiv.org/abs/2005.09973
+
+- 代码和数据集：https://github.com/Anymake/DRN_CVPR2020
+
 **Scale-Equalizing Pyramid Convolution for Object Detection**
 
 论文：https://arxiv.org/abs/2005.03101
@@ -1197,6 +1203,12 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 <a name="Datasets"></a>
 
 # 数据集
+
+**Dynamic Refinement Network for Oriented and Densely Packed Object Detection**
+
+- 论文下载链接：https://arxiv.org/abs/2005.09973
+
+- 代码和数据集：https://github.com/Anymake/DRN_CVPR2020
 
 **COCAS: A Large-Scale Clothes Changing Person Dataset for Re-identification**
 
