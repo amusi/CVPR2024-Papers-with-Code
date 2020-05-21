@@ -453,9 +453,10 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **Rethinking Performance Estimation in Neural Architecture Search**
 
-- 论文：准备中
+- 论文：https://arxiv.org/abs/2005.09917
 - 代码：https://github.com/zhengxiawu/rethinking_performance_estimation_in_NAS
-- 解读：https://www.zhihu.com/question/372070853/answer/1035234510
+- 解读1：https://www.zhihu.com/question/372070853/answer/1035234510
+- 解读2：https://zhuanlan.zhihu.com/p/111167409
 
 **CARS: Continuous Evolution for Efficient Neural Architecture Search**
 
