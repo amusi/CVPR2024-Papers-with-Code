@@ -428,6 +428,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # NAS
 
+**AOWS: Adaptive and optimal network width search with latency constraints**
+
+- 论文：https://arxiv.org/abs/2005.10481
+- 代码：https://github.com/bermanmaxim/AOWS
+
 **Densely Connected Search Space for More Flexible Neural Architecture Search**
 
 - 论文：https://arxiv.org/abs/1906.09607
