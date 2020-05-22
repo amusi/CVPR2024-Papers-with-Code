@@ -1299,6 +1299,12 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 其他
 
+**Instance-aware Image Colorization**
+
+- 主页：https://ericsujw.github.io/InstColorization/
+- 论文：https://arxiv.org/abs/2005.10825
+- 代码：https://github.com/ericsujw/InstColorization
+
 **Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting**
 
 - 论文：https://arxiv.org/abs/2005.09704
