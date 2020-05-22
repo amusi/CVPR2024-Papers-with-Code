@@ -1299,6 +1299,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 其他
 
+**Equalization Loss for Long-Tailed Object Recognition**
+
+- 论文：https://arxiv.org/abs/2003.05176
+- 代码：https://github.com/tztztztztz/eql.detectron2
+
 **Instance-aware Image Colorization**
 
 - 主页：https://ericsujw.github.io/InstColorization/
