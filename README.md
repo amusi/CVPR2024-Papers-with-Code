@@ -921,7 +921,7 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 **3D Packing for Self-Supervised Monocular Depth Estimation**
 
 - 论文：https://arxiv.org/abs/1905.02693
-- 代码：https://arxiv.org/abs/1905.02693
+- 代码：https://github.com/TRI-ML/packnet-sfm
 - Demo视频：https://www.bilibili.com/video/av70562892/
 
 **Domain Decluttering: Simplifying Images to Mitigate Synthetic-Real Domain Shift and Improve Depth Estimation**
