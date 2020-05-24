@@ -899,6 +899,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 深度估计
 
+**Focus on defocus: bridging the synthetic to real domain gap for depth estimation**
+
+- 论文：https://arxiv.org/abs/2005.09623
+- 代码：https://github.com/dvl-tum/defocus-net
+
 **Bi3D: Stereo Depth Estimation via Binary Classifications**
 
 - 论文：https://arxiv.org/abs/2005.07274
