@@ -855,6 +855,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 视频理解/行为识别
 
+**Intra- and Inter-Action Understanding via Temporal Action Parsing**
+
+- 论文：https://arxiv.org/abs/2005.10229
+- 主页和数据集：https://sdolivia.github.io/TAPOS/
+
 **3DV: 3D Dynamic Voxel for Action Recognition in Depth Video**
 
 - 论文：https://arxiv.org/abs/2005.05501
@@ -1214,6 +1219,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 <a name="Datasets"></a>
 
 # 数据集
+
+**Intra- and Inter-Action Understanding via Temporal Action Parsing**
+
+- 论文：https://arxiv.org/abs/2005.10229
+- 主页和数据集：https://sdolivia.github.io/TAPOS/
 
 **Dynamic Refinement Network for Oriented and Densely Packed Object Detection**
 
