@@ -959,6 +959,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 6D目标姿态估计
 
+**MoreFusion: Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion**
+
+- 论文：https://arxiv.org/abs/2004.04336
+- 代码：https://github.com/wkentaro/morefusion
+
 **EPOS: Estimating 6D Pose of Objects with Symmetries**
 
 主页：http://cmp.felk.cvut.cz/epos
