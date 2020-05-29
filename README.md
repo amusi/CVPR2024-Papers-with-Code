@@ -16,7 +16,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [NAS](#NAS)
 - [GAN](#GAN)
 - [Re-ID](#Re-ID)
-- [3D点云（分类/分割/配准等）](#3D-PointCloud)
+- [3D点云（分类/分割/配准/跟踪等）](#3D-PointCloud)
 - [人脸（识别/检测/重建等）](#Face)
 - [人体姿态估计(2D/3D)](#Human-Pose-Estimation)
 - [人体解析](#Human-Parsing)
@@ -616,6 +616,13 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 - 论文：https://arxiv.org/abs/2004.03327
 - 代码：https://github.com/xiaogangw/cascaded-point-completion
+
+## 3D点云目标跟踪
+
+**P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds**
+
+- 论文：https://arxiv.org/abs/2005.13888
+- 代码：https://github.com/HaozheQi/P2B
 
 <a name="Face"></a>
 
