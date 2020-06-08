@@ -1248,6 +1248,13 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 数据集
 
+**Open Compound Domain Adaptation**
+
+- 主页：https://liuziwei7.github.io/projects/CompoundDomain.html
+- 数据集：https://drive.google.com/drive/folders/1_uNTF8RdvhS_sqVTnYx17hEOQpefmE2r?usp=sharing
+- 论文：https://arxiv.org/abs/1909.03403
+- 代码：https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA
+
 **Intra- and Inter-Action Understanding via Temporal Action Parsing**
 
 - 论文：https://arxiv.org/abs/2005.10229
@@ -1346,6 +1353,13 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 <a name="Others"></a>
 
 # 其他
+
+**Open Compound Domain Adaptation**
+
+- 主页：https://liuziwei7.github.io/projects/CompoundDomain.html
+- 数据集：https://drive.google.com/drive/folders/1_uNTF8RdvhS_sqVTnYx17hEOQpefmE2r?usp=sharing
+- 论文：https://arxiv.org/abs/1909.03403
+- 代码：https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA
 
 **Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision**
 
