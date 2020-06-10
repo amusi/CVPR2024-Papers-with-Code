@@ -95,6 +95,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标检测
 
+**D2Det: Towards High Quality Object Detection and Instance Segmentation**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf
+
+- 代码：https://github.com/JialeCao001/D2Det
+
 **Dynamic Refinement Network for Oriented and Densely Packed Object Detection**
 
 - 论文下载链接：https://arxiv.org/abs/2005.09973
@@ -353,6 +359,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Instance-Segmentation"></a>
 
 # 实例分割
+
+**D2Det: Towards High Quality Object Detection and Instance Segmentation**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf
+
+- 代码：https://github.com/JialeCao001/D2Det
 
 **PolarMask: Single Shot Instance Segmentation with Polar Representation**
 
