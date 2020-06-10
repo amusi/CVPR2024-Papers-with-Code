@@ -234,6 +234,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标跟踪
 
+**SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking**
+
+- 论文：https://arxiv.org/abs/1911.07241
+- 代码：https://github.com/ohhhyeahhh/SiamCAR
+
 **D3S -- A Discriminative Single Shot Segmentation Tracker**
 
 - 论文：https://arxiv.org/abs/1911.08862
