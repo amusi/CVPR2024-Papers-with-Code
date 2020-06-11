@@ -2,6 +2,8 @@
 
 CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分享CVPR 2020开源项目
 
+关于往年CV顶会论文（如CVPR 2019、ICCV 2019、ECCV 2018）以及其他优质CV论文和大盘点，详见： https://github.com/amusi/daily-paper-computer-vision 
+
 - [CNN](#CNN)
 - [图像分类](#Image-Classification)
 - [目标检测](#Object-Detection)
