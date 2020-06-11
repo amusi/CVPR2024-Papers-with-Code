@@ -496,6 +496,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # GAN
 
+**PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer**
+
+- 论文：https://arxiv.org/abs/1909.06956
+- 代码：https://github.com/wtjiang98/PSGAN
+
 **Semantically Mutil-modal Image Synthesis**
 
 - 主页：http://seanseattle.github.io/SMIS
