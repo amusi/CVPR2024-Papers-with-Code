@@ -1198,6 +1198,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # "人-物"交互(HOT)检测
 
+**PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection**
+
+- 论文：https://arxiv.org/abs/1912.12898
+- 代码：https://github.com/YueLiao/PPDM
+
 **Detailed 2D-3D Joint Representation for Human-Object Interaction**
 
 - 论文：https://arxiv.org/abs/2004.08154
