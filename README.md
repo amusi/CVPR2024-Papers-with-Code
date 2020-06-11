@@ -496,6 +496,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # GAN
 
+**Distribution-induced Bidirectional Generative Adversarial Network for Graph Representation Learning**
+
+- 论文：https://arxiv.org/abs/1912.01899
+- 代码：https://github.com/SsGood/DBGAN 
+
 **PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer**
 
 - 论文：https://arxiv.org/abs/1909.06956
