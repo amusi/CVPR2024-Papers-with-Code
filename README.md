@@ -860,6 +860,16 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 ## 视频超分辨率
 
+**Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution**
+
+- 论文：https://arxiv.org/abs/2002.11616
+- 代码：https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020
+
+**TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution**
+
+- 论文：https://arxiv.org/abs/1812.02898
+- 代码：https://github.com/YapengTian/TDAN-VSR-CVPR-2020
+
 **Space-Time-Aware Multi-Resolution Video Enhancement**
 
 - 主页：https://alterzero.github.io/projects/STAR.html
@@ -1152,6 +1162,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 <a name="Video-Frame-Interpolation"></a>
 
 # 视频插值
+
+**Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution**
+
+- 论文：https://arxiv.org/abs/2002.11616
+- 代码：https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020
 
 **Space-Time-Aware Multi-Resolution Video Enhancement**
 
