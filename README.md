@@ -564,6 +564,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 3D点云卷积
 
+**PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling**
+
+- 论文：https://arxiv.org/abs/2003.00492
+- 代码：https://github.com/yanx27/PointASNL 
+
 **Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds**
 
 - 论文下载链接：https://arxiv.org/abs/2003.12971
