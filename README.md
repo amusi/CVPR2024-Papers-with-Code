@@ -97,6 +97,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标检测
 
+**Learning a Unified Sample Weighting Network for Object Detection**
+
+- 论文：https://arxiv.org/abs/2006.06568
+- 代码：https://github.com/caiqi/sample-weighting-network
+
 **D2Det: Towards High Quality Object Detection and Instance Segmentation**
 
 - 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf
