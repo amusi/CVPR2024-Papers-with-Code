@@ -46,6 +46,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - ["人-物"交互(HOI)检测](#HOI)
 - [轨迹预测](#TP)
 - [运动预测](#Motion-Predication)
+- [光流估计](#OF)
 - [虚拟试衣](#Virtual-Try-On)
 - [HDR](#HDR)
 - [对抗样本](#AE)
@@ -1284,6 +1285,15 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - 论文：https://arxiv.org/abs/2003.06754
 
 - 代码：https://github.com/pxiangwu/MotionNet
+
+<a name="OF"></a>
+
+# 光流估计
+
+**Learning by Analogy: Reliable Supervision from Transformations for Unsupervised Optical Flow Estimation**
+
+- 论文：https://arxiv.org/abs/2003.13045
+- 代码：https://github.com/lliuz/ARFlow 
 
 <a name="Virtual-Try-On"></a>
 
