@@ -51,6 +51,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [对抗样本](#AE)
 - [深度补全](#DC)
 - [语义场景补全](#SSC)
+- [图像/视频描述](#Captioning)
 - [线框解析](#WP)
 - [数据集](#Datasets)
 - [其他](#Others)
@@ -1332,6 +1333,15 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 - 论文：https://arxiv.org/abs/2003.14052
 - 代码：https://github.com/charlesCXK/3D-SketchAware-SSC 
+
+<a name="Captioning"></a>
+
+# 图像/视频描述
+
+**Syntax-Aware Action Targeting for Video Captioning**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Syntax-Aware_Action_Targeting_for_Video_Captioning_CVPR_2020_paper.pdf
+- 代码：https://github.com/SydCaption/SAAT 
 
 <a name="WP"></a>
 
