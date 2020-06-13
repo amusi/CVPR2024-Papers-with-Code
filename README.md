@@ -51,6 +51,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [对抗样本](#AE)
 - [深度补全](#DC)
 - [语义场景补全](#SSC)
+- [线框解析](#WP)
 - [数据集](#Datasets)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
@@ -878,11 +879,6 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 ## 视频超分辨率
 
-**Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution**
-
-- 论文：https://arxiv.org/abs/2002.11616
-- 代码：https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020
-
 **TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution**
 
 - 论文：https://arxiv.org/abs/1812.02898
@@ -1325,6 +1321,16 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 - 论文：https://arxiv.org/abs/2003.14052
 - 代码：https://github.com/charlesCXK/3D-SketchAware-SSC 
+
+<a name="WP"></a>
+
+# 线框解析
+
+**Holistically-Attracted Wireframe Parser**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/html/Xue_Holistically-Attracted_Wireframe_Parsing_CVPR_2020_paper.html
+
+- 代码：https://github.com/cherubicXN/hawp
 
 <a name="Datasets"></a>
 
