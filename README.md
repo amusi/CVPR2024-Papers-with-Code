@@ -175,6 +175,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**IDA-3D: Instance-Depth-Aware 3D Object Detection from Stereo Vision for Autonomous Driving**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_IDA-3D_Instance-Depth-Aware_3D_Object_Detection_From_Stereo_Vision_for_Autonomous_CVPR_2020_paper.pdf
+
+- 代码：https://github.com/swords123/IDA-3D
+
 **Train in Germany, Test in The USA: Making 3D Object Detectors Generalize**
 
 - 论文：https://arxiv.org/abs/2005.08139
