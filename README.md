@@ -936,6 +936,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 视频理解/行为识别
 
+**PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition**
+
+- 论文：https://arxiv.org/abs/1911.12409
+- 代码：https://github.com/shlizee/Predict-Cluster 
+
 **Intra- and Inter-Action Understanding via Temporal Action Parsing**
 
 - 论文：https://arxiv.org/abs/2005.10229
