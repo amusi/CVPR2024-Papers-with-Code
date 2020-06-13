@@ -44,7 +44,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [风格迁移](#Style-Transfer)
 - [车道线检测](#Lane-Detection)
 - ["人-物"交互(HOI)检测](#HOI)
-- [行为轨迹预测](#HTP)
+- [轨迹预测](#TP)
 - [运动预测](#Motion-Predication)
 - [虚拟试衣](#Virtual-Try-On)
 - [HDR](#HDR)
@@ -1249,9 +1249,15 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - 论文：https://arxiv.org/abs/2003.05541
 - 代码：https://github.com/ASMIftekhar/VSGNet
 
-<a name="HTP"></a>
+<a name="TP"></a>
 
-# 行人轨迹预测
+# 轨迹预测
+
+**The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction**
+
+- 论文：https://arxiv.org/abs/1912.06445
+- 代码：https://github.com/JunweiLiang/Multiverse
+- 数据集：https://next.cs.cmu.edu/multiverse/
 
 **Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction**
 
@@ -1335,6 +1341,12 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 <a name="Datasets"></a>
 
 # 数据集
+
+**The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction**
+
+- 论文：https://arxiv.org/abs/1912.06445
+- 代码：https://github.com/JunweiLiang/Multiverse
+- 数据集：https://next.cs.cmu.edu/multiverse/
 
 **Open Compound Domain Adaptation**
 
