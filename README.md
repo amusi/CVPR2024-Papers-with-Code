@@ -40,7 +40,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [视频问答(VideoQA)](#VideoQA)
 - [视觉语言导航](#VLN)
 - [视频压缩](#Video-Compression)
-- [视频插值](#Video-Frame-Interpolation)
+- [视频插帧](#Video-Frame-Interpolation)
 - [风格迁移](#Style-Transfer)
 - [车道线检测](#Lane-Detection)
 - ["人-物"交互(HOI)检测](#HOI)
@@ -1182,7 +1182,13 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 <a name="Video-Frame-Interpolation"></a>
 
-# 视频插值
+# 视频插帧
+
+**FeatureFlow: Robust Video Interpolation via Structure-to-Texture Generation**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/html/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.html
+
+- 代码：https://github.com/CM-BF/FeatureFlow
 
 **Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution**
 
