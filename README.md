@@ -100,6 +100,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标检测
 
+**Noise-Aware Fully Webly Supervised Object Detection**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Noise-Aware_Fully_Webly_Supervised_Object_Detection_CVPR_2020_paper.html
+- 代码：https://github.com/shenyunhang/NA-fWebSOD/
+
 **Learning a Unified Sample Weighting Network for Object Detection**
 
 - 论文：https://arxiv.org/abs/2006.06568
