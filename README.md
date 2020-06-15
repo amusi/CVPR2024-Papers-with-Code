@@ -24,6 +24,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [人体解析](#Human-Parsing)
 - [场景文本检测](#Scene-Text-Detection)
 - [场景文本识别](#Scene-Text-Recognition)
+- [特征(点)检测和描述](#Feature)
 - [超分辨率](#Super-Resolution)
 - [模型压缩/剪枝](#Model-Compression)
 - [视频理解/行为识别](#Action-Recognition)
@@ -859,6 +860,15 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - 论文：https://arxiv.org/abs/2003.06606
 
 - 代码：https://github.com/Canjie-Luo/Text-Image-Augmentation
+
+<a name="Feature"></a>
+
+# 特征(点)检测和描述
+
+**SuperGlue: Learning Feature Matching with Graph Neural Networks**
+
+- 论文：https://arxiv.org/abs/1911.11763
+- 代码：https://github.com/magicleap/SuperGluePretrainedNetwork
 
 <a name="Super-Resolution"></a>
 
