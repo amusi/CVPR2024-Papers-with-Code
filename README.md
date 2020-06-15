@@ -808,6 +808,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 场景文本检测
 
+**ContourNet: Taking a Further Step Toward Accurate Arbitrary-Shaped Scene Text Detection**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_ContourNet_Taking_a_Further_Step_Toward_Accurate_Arbitrary-Shaped_Scene_Text_CVPR_2020_paper.pdf
+- 代码：https://github.com/wangyuxin87/ContourNet 
+
 **UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World**
 
 - 论文：https://arxiv.org/abs/2003.10608
