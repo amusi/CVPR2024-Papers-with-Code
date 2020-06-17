@@ -1334,6 +1334,15 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - 论文：https://arxiv.org/abs/2003.13045
 - 代码：https://github.com/lliuz/ARFlow 
 
+<a name="IR"></a>
+
+# 图像检索
+
+**Evade Deep Image Retrieval by Stashing Private Images in the Hash Space**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/html/Xiao_Evade_Deep_Image_Retrieval_by_Stashing_Private_Images_in_the_CVPR_2020_paper.html
+- 代码：https://github.com/sugarruy/hashstash
+
 <a name="Virtual-Try-On"></a>
 
 # 虚拟试衣
