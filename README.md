@@ -1363,6 +1363,17 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - 论文：https://arxiv.org/abs/1911.02466
 - 代码：https://github.com/ZhengyuZhao/PerC-Adversarial 
 
+<a name="3D-Reconstructing"></a>
+
+# 三维重建
+
+**Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild**
+
+- CVPR 2020 Best Paper
+- 主页：https://elliottwu.com/projects/unsup3d/
+- 论文：https://arxiv.org/abs/1911.11130
+- 代码：https://github.com/elliottwu/unsup3d
+
 <a name="DC"></a>
 
 # 深度补全
