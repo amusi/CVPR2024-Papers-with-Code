@@ -1566,6 +1566,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 其他
 
+**CONSAC: Robust Multi-Model Fitting by Conditional Sample Consensus**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/html/Kluger_CONSAC_Robust_Multi-Model_Fitting_by_Conditional_Sample_Consensus_CVPR_2020_paper.html
+- 代码：https://github.com/fkluger/consac
+
 **Learning to Learn Single Domain Generalization**
 
 - 论文：https://arxiv.org/abs/2003.13216
