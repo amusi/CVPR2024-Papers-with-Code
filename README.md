@@ -1545,6 +1545,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 其他
 
+**Learning to Learn Single Domain Generalization**
+
+- 论文：https://arxiv.org/abs/2003.13216
+- 代码：https://github.com/joffery/M-ADA
+
 **Open Compound Domain Adaptation**
 
 - 主页：https://liuziwei7.github.io/projects/CompoundDomain.html
