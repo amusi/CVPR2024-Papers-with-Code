@@ -884,6 +884,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 ## 图像超分辨率
 
+**Closed-Loop Matters: Dual Regression Networks for Single Image Super-Resolution**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Closed-Loop_Matters_Dual_Regression_Networks_for_Single_Image_Super-Resolution_CVPR_2020_paper.html
+- 代码：https://github.com/guoyongcs/DRN
+
 **Learning Texture Transformer Network for Image Super-Resolution**
 
 - 论文：https://arxiv.org/abs/2006.04139
