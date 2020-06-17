@@ -48,6 +48,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [轨迹预测](#TP)
 - [运动预测](#Motion-Predication)
 - [光流估计](#OF)
+- [图像检索](#IR)
 - [虚拟试衣](#Virtual-Try-On)
 - [HDR](#HDR)
 - [对抗样本](#AE)
@@ -1017,6 +1018,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 <a name="Depth-Estimation"></a>
 
 # 深度估计
+
+**BiFuse: Monocular 360◦ Depth Estimation via Bi-Projection Fusion**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_BiFuse_Monocular_360_Depth_Estimation_via_Bi-Projection_Fusion_CVPR_2020_paper.pdf
+- 代码：https://github.com/Yeh-yu-hsuan/BiFuse
 
 **Focus on defocus: bridging the synthetic to real domain gap for depth estimation**
 
