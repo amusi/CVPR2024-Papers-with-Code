@@ -103,6 +103,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标检测
 
+**AugFPN: Improving Multi-scale Feature Learning for Object Detection**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_AugFPN_Improving_Multi-Scale_Feature_Learning_for_Object_Detection_CVPR_2020_paper.pdf 
+- 代码：https://github.com/Gus-Guo/AugFPN
+
 **Noise-Aware Fully Webly Supervised Object Detection**
 
 - 论文：http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Noise-Aware_Fully_Webly_Supervised_Object_Detection_CVPR_2020_paper.html
