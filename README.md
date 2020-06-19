@@ -716,6 +716,13 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - 论文：https://arxiv.org/abs/2005.13888
 - 代码：https://github.com/HaozheQi/P2B
 
+## 其他
+
+**An Efficient PointLSTM for Point Clouds Based Gesture Recognition**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/html/Min_An_Efficient_PointLSTM_for_Point_Clouds_Based_Gesture_Recognition_CVPR_2020_paper.html
+- 代码：https://github.com/Blueprintf/pointlstm-gesture-recognition-pytorch
+
 <a name="Face"></a>
 
 # 人脸
