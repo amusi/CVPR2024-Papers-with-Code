@@ -191,6 +191,13 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**What You See is What You Get: Exploiting Visibility for 3D Object Detection**
+
+- 主页：https://www.cs.cmu.edu/~peiyunh/wysiwyg/
+
+- 论文：https://arxiv.org/abs/1912.04986
+- 代码：https://github.com/peiyunh/wysiwyg
+
 **Learning Depth-Guided Convolutions for Monocular 3D Object Detection**
 
 - 论文：https://arxiv.org/abs/1912.04799
