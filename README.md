@@ -1428,7 +1428,7 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 **Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild**
 
-- CVPR 2020 Best Paper
+- **CVPR 2020 Best Paper**
 - 主页：https://elliottwu.com/projects/unsup3d/
 - 论文：https://arxiv.org/abs/1911.11130
 - 代码：https://github.com/elliottwu/unsup3d
@@ -1438,6 +1438,18 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - 主页：https://shunsukesaito.github.io/PIFuHD/
 - 论文：https://arxiv.org/abs/2004.00452
 - 代码：https://github.com/facebookresearch/pifuhd
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Patel_TailorNet_Predicting_Clothing_in_3D_as_a_Function_of_Human_CVPR_2020_paper.pdf
+- 代码：https://github.com/chaitanya100100/TailorNet
+- 数据集：https://github.com/zycliao/TailorNet_dataset
+
+**Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Chibane_Implicit_Functions_in_Feature_Space_for_3D_Shape_Reconstruction_and_CVPR_2020_paper.pdf
+- 代码：https://github.com/jchibane/if-net
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Mir_Learning_to_Transfer_Texture_From_Clothing_Images_to_3D_Humans_CVPR_2020_paper.pdf
+- 代码：https://github.com/aymenmir1/pix2surf
 
 <a name="DC"></a>
 
@@ -1480,6 +1492,12 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 <a name="Datasets"></a>
 
 # 数据集
+
+**TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Patel_TailorNet_Predicting_Clothing_in_3D_as_a_Function_of_Human_CVPR_2020_paper.pdf
+- 代码：https://github.com/chaitanya100100/TailorNet
+- 数据集：https://github.com/zycliao/TailorNet_dataset
 
 **Oops! Predicting Unintentional Action in Video**
 
