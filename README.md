@@ -191,6 +191,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection**
+
+- 论文： https://arxiv.org/abs/2006.04356
+
+- 代码：https://github.com/dleam/Associate-3Ddet
+
 **What You See is What You Get: Exploiting Visibility for 3D Object Detection**
 
 - 主页：https://www.cs.cmu.edu/~peiyunh/wysiwyg/
