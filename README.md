@@ -191,6 +191,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**SESS: Self-Ensembling Semi-Supervised 3D Object Detection**
+
+- 论文： https://arxiv.org/abs/1912.11803
+
+- 代码：https://github.com/Na-Z/sess
+
 **Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection**
 
 - 论文： https://arxiv.org/abs/2006.04356
