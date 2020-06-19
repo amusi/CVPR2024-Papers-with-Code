@@ -191,6 +191,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**Learning Depth-Guided Convolutions for Monocular 3D Object Detection**
+
+- 论文：https://arxiv.org/abs/1912.04799
+- 代码：https://github.com/dingmyu/D4LCN
+
 **Structure Aware Single-stage 3D Object Detection from Point Cloud**
 
 - 论文：http://openaccess.thecvf.com/content_CVPR_2020/html/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.html
