@@ -103,6 +103,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标检测
 
+**Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Overcoming_Classifier_Imbalance_for_Long-Tail_Object_Detection_With_Balanced_Group_CVPR_2020_paper.pdf
+- 代码：https://github.com/FishYuLi/BalancedGroupSoftmax
+
 **AugFPN: Improving Multi-scale Feature Learning for Object Detection**
 
 - 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_AugFPN_Improving_Multi-Scale_Feature_Learning_for_Object_Detection_CVPR_2020_paper.pdf 
