@@ -474,6 +474,12 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 全景分割
 
+**Video Panoptic Segmentation**
+
+- 论文：https://arxiv.org/abs/2006.11339
+- 代码：https://github.com/mcahny/vps
+- 数据集：https://www.dropbox.com/s/ecem4kq0fdkver4/cityscapes-vps-dataset-1.0.zip?dl=0
+
 **Pixel Consensus Voting for Panoptic Segmentation**
 
 - 论文：https://arxiv.org/abs/2004.01849
@@ -1505,6 +1511,12 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 <a name="Datasets"></a>
 
 # 数据集
+
+**Video Panoptic Segmentation**
+
+- 论文：https://arxiv.org/abs/2006.11339
+- 代码：https://github.com/mcahny/vps
+- 数据集：https://www.dropbox.com/s/ecem4kq0fdkver4/cityscapes-vps-dataset-1.0.zip?dl=0
 
 **FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation**
 
