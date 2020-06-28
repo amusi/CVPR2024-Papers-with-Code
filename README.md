@@ -6,6 +6,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - [CNN](#CNN)
 - [图像分类](#Image-Classification)
+- [视频分类](#Video-Classification)
 - [目标检测](#Object-Detection)
 - [3D目标检测](#3D-Object-Detection)
 - [视频目标检测](#Video-Object-Detection)
@@ -96,8 +97,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Spatially Attentive Output Layer for Image Classification**
 
 - 论文：https://arxiv.org/abs/2004.07570 
-
 - 代码（好像被原作者删除了）：https://github.com/ildoonet/spatially-attentive-output-layer 
+
+<a name="Video-Classification"></a>
+
+# 视频分类
+
+**SmallBigNet: Integrating Core and Contextual Views for Video Classification**
+
+- 论文：https://arxiv.org/abs/2006.14582
+- 代码：https://github.com/xhl-video/SmallBigNet
 
 <a name="Object-Detection"></a>
 
