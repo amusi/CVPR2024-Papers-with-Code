@@ -639,6 +639,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # Re-ID
 
+ **High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/html/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.html
+- 代码：https://github.com/wangguanan/HOReID 
+
 **COCAS: A Large-Scale Clothes Changing Person Dataset for Re-identification**
 
 - 论文：https://arxiv.org/abs/2005.07862
