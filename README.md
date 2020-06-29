@@ -1305,6 +1305,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 视频插帧
 
+**AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation**
+
+- 论文：https://arxiv.org/abs/1907.10244
+- 代码：https://github.com/HyeongminLEE/AdaCoF-pytorch
+
 **FeatureFlow: Robust Video Interpolation via Structure-to-Texture Generation**
 
 - 论文：http://openaccess.thecvf.com/content_CVPR_2020/html/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.html
