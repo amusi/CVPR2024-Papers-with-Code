@@ -1471,6 +1471,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - 论文：https://arxiv.org/abs/1911.02466
 - 代码：https://github.com/ZhengyuZhao/PerC-Adversarial 
 
+**Enhancing Cross-Task Black-Box Transferability of Adversarial Examples With Dispersion Reduction**
+
+- 论文：https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Enhancing_Cross-Task_Black-Box_Transferability_of_Adversarial_Examples_With_Dispersion_Reduction_CVPR_2020_paper.pdf
+- 代码：https://github.com/erbloo/dr_cvpr20
+
 <a name="3D-Reconstructing"></a>
 
 # 三维重建
