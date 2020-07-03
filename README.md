@@ -744,6 +744,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 ## 3D点云配准
 
+**Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences**
+
+- 论文：https://arxiv.org/abs/2005.01014
+- 代码：https://github.com/XiaoshuiHuang/fmr 
+
 **D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features**
 
 - 论文：https://arxiv.org/abs/2003.03164
