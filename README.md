@@ -602,6 +602,11 @@ ECCV 2020 论文开源项目合集来了：https://github.com/amusi/ECCV2020-Cod
 
 # GAN
 
+**Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation**
+
+- 论文地址：http://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Reusing_Discriminators_for_Encoding_Towards_Unsupervised_Image-to-Image_Translation_CVPR_2020_paper.html
+- 代码地址：https://github.com/alpc91/NICE-GAN-pytorch 
+
 **Distribution-induced Bidirectional Generative Adversarial Network for Graph Representation Learning**
 
 - 论文：https://arxiv.org/abs/1912.01899
