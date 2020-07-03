@@ -91,6 +91,12 @@ ECCV 2020 论文开源项目合集来了：https://github.com/amusi/ECCV2020-Cod
 
 # 图像分类
 
+**Interpretable and Accurate Fine-grained Recognition via Region Grouping**
+
+- 论文：https://arxiv.org/abs/2005.10411
+
+- 代码：https://github.com/zxhuang1698/interpretability-by-parts
+
 **Compositional Convolutional Neural Networks: A Deep Architecture with Innate Robustness to Partial Occlusion**
 
 - 论文：https://arxiv.org/abs/2003.04490
