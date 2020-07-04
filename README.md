@@ -602,6 +602,11 @@ ECCV 2020 论文开源项目合集来了：https://github.com/amusi/ECCV2020-Cod
 
 # GAN
 
+**SEAN: Image Synthesis with Semantic Region-Adaptive Normalization**
+
+- 论文：https://arxiv.org/abs/1911.12861
+- 代码：https://github.com/ZPdesu/SEAN
+
 **Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation**
 
 - 论文地址：http://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Reusing_Discriminators_for_Encoding_Towards_Unsupervised_Image-to-Image_Translation_CVPR_2020_paper.html
