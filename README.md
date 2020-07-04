@@ -1192,6 +1192,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 6D目标姿态估计
 
+ **PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation**
+
+- 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf
+- 代码：https://github.com/ethnhe/PVN3D
+
 **MoreFusion: Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion**
 
 - 论文：https://arxiv.org/abs/2004.04336
