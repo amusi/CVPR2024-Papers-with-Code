@@ -851,6 +851,13 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 ## 2D人体姿态估计
 
+**TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting**
+
+- 主页：https://yzhq97.github.io/transmomo/
+
+- 论文：https://arxiv.org/abs/2003.14401
+- 代码：https://github.com/yzhq97/transmomo.pytorch
+
 **HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation**
 
 - 论文：https://arxiv.org/abs/1908.10357
