@@ -879,6 +879,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 ## 3D人体姿态估计
 
+ **Cascaded Deep Monocular 3D Human Pose Estimation With Evolutionary Training Data**
+
+- 论文：https://arxiv.org/abs/2006.07778
+- 代码：https://github.com/Nicholasli1995/EvoSkeleton 
+
 **Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach**
 
 - 主页：https://www.zhe-zhang.com/cvpr2020
