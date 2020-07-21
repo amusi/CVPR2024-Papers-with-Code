@@ -38,6 +38,7 @@ ECCV 2020 论文开源项目合集来了：https://github.com/amusi/ECCV2020-Cod
 - [手势估计](#Hand-Pose)
 - [显著性检测](#Saliency)
 - [去噪](#Denoising)
+- [去雨](#Deraining)
 - [去模糊](#Deblurring)
 - [去雾](#Dehazing)
 - [特征点检测与描述](#Feature)
@@ -1283,8 +1284,12 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 **Multi-Scale Progressive Fusion Network for Single Image Deraining**
 
 - 论文：https://arxiv.org/abs/2003.10985
-
 - 代码：https://github.com/kuihua/MSPFN
+
+**Detail-recovery Image Deraining via Context Aggregation Networks**
+
+- 论文：https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_Detail-recovery_Image_Deraining_via_Context_Aggregation_Networks_CVPR_2020_paper.html
+- 代码：https://github.com/Dengsgithub/DRD-Net
 
 <a name="Deblurring"></a>
 
