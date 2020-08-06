@@ -1612,6 +1612,11 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
 # 数据集
 
+**OASIS: A Large-Scale Dataset for Single Image 3D in the Wild**
+
+- 论文：https://arxiv.org/abs/2007.13215
+- 数据集：https://oasis.cs.princeton.edu/
+
 **STEFANN: Scene Text Editor using Font Adaptive Neural Network**
 
 - 主页：https://prasunroy.github.io/stefann/
