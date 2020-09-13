@@ -2,9 +2,14 @@
 
 [CVPR 2020](https://openaccess.thecvf.com/CVPR2020) 论文开源项目合集，同时欢迎各位大佬提交issue，分享CVPR 2020开源项目
 
-ECCV 2020 论文开源项目合集来了：https://github.com/amusi/ECCV2020-Code
+**【推荐阅读】**
 
-关于往年CV顶会论文（如ECCV 2020、CVPR 2019、ICCV 2019）以及其他优质CV论文和大盘点，详见： https://github.com/amusi/daily-paper-computer-vision 
+- [CVPR 2020 virtual](http://cvpr20.com/)
+- ECCV 2020 论文开源项目合集来了：https://github.com/amusi/ECCV2020-Code
+
+- 关于往年CV顶会论文（如ECCV 2020、CVPR 2019、ICCV 2019）以及其他优质CV论文和大盘点，详见： https://github.com/amusi/daily-paper-computer-vision
+
+**【CVPR 2020 论文开源目录】**
 
 - [CNN](#CNN)
 - [图像分类](#Image-Classification)
