@@ -182,11 +182,17 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 数据集(Datasets)
 
+**Scan2Cap: Context-aware Dense Captioning in RGB-D Scans**
+
+- Paper: https://arxiv.org/abs/2012.02206
+- Code: https://github.com/daveredrum/Scan2Cap
+
+- Dataset: https://github.com/daveredrum/ScanRefer
+
 **There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**
 
 - Paper: https://arxiv.org/abs/2103.01353
 - Code: http://rl.uni-freiburg.de/research/multimodal-distill
-
 - Dataset: http://rl.uni-freiburg.de/research/multimodal-distill
 
 <a name="Others"></a>
