@@ -1592,7 +1592,7 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 **3D Sketch-aware Semantic Scene Completion via Semi-supervised Structure Prior**
 
 - 论文：https://arxiv.org/abs/2003.14052
-- 代码：https://github.com/charlesCXK/3D-SketchAware-SSC 
+- 代码：https://github.com/charlesCXK/TorchSSC
 
 <a name="Captioning"></a>
 
