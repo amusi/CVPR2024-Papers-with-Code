@@ -17,10 +17,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [自监督(Self-Supervised)](#Self-Supervised)
 - [目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
-- [人脸活体检测(Face Anti-Spoofing)](#Face Anti-Spoofing)
+- [人脸活体检测(Face Anti-Spoofing)](#Face-Anti-Spoofing)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
+- [视觉推理(Visual Reasoning)](#Visual-Reasoning)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
 - [数据集(Datasets)](#Datasets)
 - [其他(Others)](#Others)
@@ -71,9 +72,9 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: None
 - Code: https://github.com/CVPR2021-pape-id-1395/CVPR2021-paper-id-1395
 
-<a name=" Face Anti-Spoofing"></a>
+<a name="Face-Anti-Spoofing"></a>
 
-# 人脸活体检测
+# 人脸活体检测(Face Anti-Spoofing)
 
 **Cross Modal Focal Loss for RGBD Face Anti-Spoofing**
 
@@ -106,6 +107,17 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2011.13005
 - Code: https://github.com/ShengyuH/OverlapPredator
+
+<a name="Visual-Reasoning"></a>
+
+# 视觉推理(Visual Reasoning)
+
+**Transformation Driven Visual Reasoning**
+
+- homepage: https://hongxin2019.github.io/TVR/
+
+- Paper: https://arxiv.org/abs/2011.13160
+- Code: https://github.com/hughplay/TVR
 
 <a name="Shadow-Removal"></a>
 
