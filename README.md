@@ -209,6 +209,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 其他(Others)
 
+**Diffusion Probabilistic Models for 3D Point Cloud Generation**
+
+- Paper: https://arxiv.org/abs/2103.01458
+- Code: https://github.com/luost26/diffusion-point-cloud
+
 **Scan2Cap: Context-aware Dense Captioning in RGB-D Scans**
 
 - Paper: https://arxiv.org/abs/2012.02206
