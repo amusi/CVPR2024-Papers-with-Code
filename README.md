@@ -76,6 +76,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 目标检测(Object Detection)
 
+**There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**
+
+- Homepage: http://rl.uni-freiburg.de/research/multimodal-distill
+- Paper: https://arxiv.org/abs/2103.01353
+- Code: http://rl.uni-freiburg.de/research/multimodal-distill
+
 **Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection**
 
 - Paper: https://arxiv.org/abs/2011.12885
@@ -191,6 +197,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**
+
+- Homepage: http://rl.uni-freiburg.de/research/multimodal-distill
+- Paper: https://arxiv.org/abs/2103.01353
+- Code: http://rl.uni-freiburg.de/research/multimodal-distill
 
 **Scan2Cap: Context-aware Dense Captioning in RGB-D Scans**
 
