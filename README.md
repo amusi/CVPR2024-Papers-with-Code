@@ -13,6 +13,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 ## 【CVPR 2021 论文开源目录】
 
 - [Backbone](#Backbone)
+- [NAS](#NAS)
 - [GAN](#GAN)
 - [自监督(Self-Supervised)](#Self-Supervised)
 - [目标检测(Object Detection)](#Object-Detection)
@@ -32,10 +33,24 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Backbone
 
+**Inception Convolution with Efficient Dilation Search**
+
+- Paper:  https://arxiv.org/abs/2012.13587 
+- Code: None
+
 **RepVGG: Making VGG-style ConvNets Great Again**
 
 - Paper: https://arxiv.org/abs/2101.03697
 - Code: https://github.com/DingXiaoH/RepVGG
+
+<a name="NAS"></a>
+
+# NAS
+
+**Inception Convolution with Efficient Dilation Search**
+
+- Paper:  https://arxiv.org/abs/2012.13587 
+- Code: None
 
 <a name="GAN"></a>
 
