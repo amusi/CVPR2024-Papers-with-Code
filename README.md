@@ -76,6 +76,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 目标检测(Object Detection)
 
+**Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.01903
+- Code: None
+
 **There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**
 
 - Homepage: http://rl.uni-freiburg.de/research/multimodal-distill
