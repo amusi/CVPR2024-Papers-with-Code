@@ -20,6 +20,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [人脸活体检测(Face Anti-Spoofing)](#Face-Anti-Spoofing)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
+- [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
@@ -94,10 +95,24 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 3D目标检测(3D Object Detection)
 
+**Center-based 3D Object Detection and Tracking**
+
+- Paper: https://arxiv.org/abs/2006.11275
+- Code: https://github.com/tianweiy/CenterPoint
+
 **Categorical Depth Distribution Network for Monocular 3D Object Detection**
 
 - Paper: https://arxiv.org/abs/2103.01100
 - Code: None
+
+<a name="3D-Object-Tracking"></a>
+
+# 3D目标跟踪(3D Object Trancking)
+
+**Center-based 3D Object Detection and Tracking**
+
+- Paper: https://arxiv.org/abs/2006.11275
+- Code: https://github.com/tianweiy/CenterPoint
 
 <a name="3D-PointCloud"></a>
 
