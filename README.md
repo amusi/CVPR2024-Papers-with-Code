@@ -75,6 +75,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 目标检测(Object Detection)
 
+**Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection**
+
+- Paper: https://arxiv.org/abs/2011.12885
+- Code: https://github.com/implus/GFocalV2
+
 **Multiple Instance Active Learning for Object Detection**
 
 - Paper: https://github.com/yuantn/MIAL/raw/master/paper.pdf
