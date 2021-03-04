@@ -59,6 +59,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 目标检测(Object Detection)
 
+**Multiple Instance Active Learning for Object Detection**
+
+- Paper: https://github.com/yuantn/MIAL/raw/master/paper.pdf
+- Code: https://github.com/yuantn/MIAL
+
 **Towards Open World Object Detection**
 
 - Paper: https://arxiv.org/abs/2103.02603
