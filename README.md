@@ -19,6 +19,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [人脸活体检测(Face Anti-Spoofing)](#Face-Anti-Spoofing)
+- [Deepfake检测(Deepfake Detection)](#Deepfake-Detection)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
@@ -100,6 +101,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Cross Modal Focal Loss for RGBD Face Anti-Spoofing**
 
 - Paper: https://arxiv.org/abs/2103.00948
+- Code: None
+
+<a name="Deepfake-Detection"></a>
+
+# Deepfake检测(Deepfake Detection)
+
+**Multi-attentional Deepfake Detection**
+
+- Paper：https://arxiv.org/abs/2103.02406
 - Code: None
 
 <a name="Image-Restoration"></a>
