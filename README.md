@@ -18,6 +18,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [自监督(Self-Supervised)](#Self-Supervised)
 - [目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
+- [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [人脸活体检测(Face Anti-Spoofing)](#Face-Anti-Spoofing)
 - [Deepfake检测(Deepfake Detection)](#Deepfake-Detection)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
@@ -110,6 +111,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: None
 - Code: https://github.com/CVPR2021-pape-id-1395/CVPR2021-paper-id-1395
+
+<a name="Panoptic-Segmentation"></a>
+
+# 全景分割(Panoptic Segmentation)
+
+**Cross-View Regularization for Domain Adaptive Panoptic Segmentation**
+
+- Paper: https://arxiv.org/abs/2103.02584
+- Code: None
 
 <a name="Face-Anti-Spoofing"></a>
 
