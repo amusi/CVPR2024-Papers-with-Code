@@ -742,7 +742,7 @@
 
 **Weakly Supervised Semantic Point Cloud Segmentation:Towards 10X Fewer Labels**
 
-- 论文：https://arxiv.org/abs/2004.0409
+- 论文：https://arxiv.org/abs/2004.04091
 
 - 代码：https://github.com/alex-xun-xu/WeakSupPointCloudSeg
 
