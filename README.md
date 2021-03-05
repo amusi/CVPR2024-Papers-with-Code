@@ -37,6 +37,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Backbone
 
+**Coordinate Attention for Efficient Mobile Network Design**
+
+- Paper:  https://arxiv.org/abs/2103.02907
+- Code: https://github.com/Andrew-Qibin/CoordAttention
+
 **Inception Convolution with Efficient Dilation Search**
 
 - Paper:  https://arxiv.org/abs/2012.13587 
