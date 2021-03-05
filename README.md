@@ -65,6 +65,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # GAN
 
+**Anycost GANs for Interactive Image Synthesis and Editing**
+
+- Paper: https://arxiv.org/abs/2103.03243
+- Code: https://github.com/mit-han-lab/anycost-gan
+
 **Image-to-image Translation via Hierarchical Style Disentanglement**
 
 - Paper: https://arxiv.org/abs/2103.01456
