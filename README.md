@@ -21,6 +21,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [人脸活体检测(Face Anti-Spoofing)](#Face-Anti-Spoofing)
 - [Deepfake检测(Deepfake Detection)](#Deepfake-Detection)
+- [人脸年龄估计(Age-Estimation)](#Age-Estimation)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
@@ -137,6 +138,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Multi-attentional Deepfake Detection**
 
 - Paper：https://arxiv.org/abs/2103.02406
+- Code: None
+
+<a name="Age-Estimation"></a>
+
+# 人脸年龄估计(Age Estimation)
+
+**PML: Progressive Margin Loss for Long-tailed Age Classification**
+
+- Paper: https://arxiv.org/abs/2103.02140
 - Code: None
 
 <a name="Super-Resolution"></a>
