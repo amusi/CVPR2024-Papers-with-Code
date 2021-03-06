@@ -27,6 +27,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
+- [深度估计(Depth Estimation)](#Depth-Estimation)
 - [Zero-Shot Learning](#Zero-Shot-Learning)
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
@@ -210,6 +211,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2011.13005
 - Code: https://github.com/ShengyuH/OverlapPredator
 
+<a name="Depth-Estimation"></a>
+
+# 深度估计
+
+**Depth from Camera Motion and Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.01468
+- Code: https://github.com/griffbr/ODMD
+- Dataset: https://github.com/griffbr/ODMD
+
 <a name="Zero-Shot-Learning"></a>
 
 #  Zero-Shot Learning
@@ -242,6 +253,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**Depth from Camera Motion and Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.01468
+- Code: https://github.com/griffbr/ODMD
+- Dataset: https://github.com/griffbr/ODMD
 
 **There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**
 
