@@ -19,6 +19,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
+- [人脸识别](#Face-Recognition)
 - [人脸活体检测(Face Anti-Spoofing)](#Face-Anti-Spoofing)
 - [Deepfake检测(Deepfake Detection)](#Deepfake-Detection)
 - [人脸年龄估计(Age-Estimation)](#Age-Estimation)
@@ -133,6 +134,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.02584
 - Code: None
+
+<a name="Face-Recognition"></a>
+
+# 人脸识别
+
+**When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework**
+
+- Paper(Oral): https://arxiv.org/abs/2103.01520
+- Code: https://github.com/Hzzone/MTLFace
+- Dataset: https://github.com/Hzzone/MTLFace
 
 <a name="Face-Anti-Spoofing"></a>
 
@@ -253,6 +264,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework**
+
+- Paper(Oral): https://arxiv.org/abs/2103.01520
+- Code: https://github.com/Hzzone/MTLFace
+- Dataset: https://github.com/Hzzone/MTLFace
 
 **Depth from Camera Motion and Object Detection**
 
