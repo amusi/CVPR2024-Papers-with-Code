@@ -27,6 +27,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
+- [Zero-Shot Learning](#Zero-Shot-Learning)
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
 - [数据集(Datasets)](#Datasets)
@@ -208,6 +209,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2011.13005
 - Code: https://github.com/ShengyuH/OverlapPredator
+
+<a name="Zero-Shot-Learning"></a>
+
+#  Zero-Shot Learning
+
+**Counterfactual Zero-Shot and Open-Set Visual Recognition**
+
+- Paper: https://arxiv.org/abs/2103.00887
+- Code: https://github.com/yue-zhongqi/gcm-cf
 
 <a name="Visual-Reasoning"></a>
 
