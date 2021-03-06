@@ -164,6 +164,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Deepfake检测(Deepfake Detection)
 
+**Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain**
+
+- Paper：https://arxiv.org/abs/2103.01856
+- Code: None
+
 **Multi-attentional Deepfake Detection**
 
 - Paper：https://arxiv.org/abs/2103.02406
