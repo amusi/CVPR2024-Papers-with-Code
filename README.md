@@ -29,6 +29,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
+- [图像检索(Image Retrieval)](#Image-Retrieval)
 - [Zero-Shot Learning](#Zero-Shot-Learning)
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
@@ -231,6 +232,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.01468
 - Code: https://github.com/griffbr/ODMD
 - Dataset: https://github.com/griffbr/ODMD
+
+<a name="Image-Retrieval"></a>
+
+# 图像检索(Image Retrieval)
+
+**QAIR: Practical Query-efficient Black-Box Attacks for Image Retrieval**
+
+- Paper: https://arxiv.org/abs/2103.02927
+- Code: None
 
 <a name="Zero-Shot-Learning"></a>
 
