@@ -92,6 +92,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 目标检测(Object Detection)
 
+**General Instance Distillation for Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.02340
+- Code: None
+
 **Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection**
 
 - Paper: https://arxiv.org/abs/2103.01903
@@ -194,6 +199,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="3D-Object-Detection"></a>
 
 # 3D目标检测(3D Object Detection)
+
+**SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud**
+
+- Paper: None
+- Code: https://github.com/Vegeta2020/SE-SSD
 
 **Center-based 3D Object Detection and Tracking**
 
