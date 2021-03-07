@@ -71,6 +71,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # GAN
 
+**Closed-Form Factorization of Latent Semantics in GANs**
+
+- Homepage: https://genforce.github.io/sefa/
+- Paper: https://arxiv.org/abs/2007.06600
+- Code: https://github.com/genforce/sefa
+
 **Anycost GANs for Interactive Image Synthesis and Editing**
 
 - Paper: https://arxiv.org/abs/2103.03243
