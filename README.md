@@ -27,6 +27,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
+- [3D语义分割(3D Semantic Segmentation)](#3D-Semantic-Segmentation)
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
@@ -230,6 +231,17 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.01100
 - Code: None
 
+<a name="3D-Semantic-Segmentation"></a>
+
+# 3D语义分割(3D Semantic Segmentation)
+
+ **Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges**
+
+- Homepage: https://github.com/QingyongHu/SensatUrban
+- Paper: http://arxiv.org/abs/2009.03137
+- Code: https://github.com/QingyongHu/SensatUrban
+- Dataset: https://github.com/QingyongHu/SensatUrban
+
 <a name="3D-Object-Tracking"></a>
 
 # 3D目标跟踪(3D Object Trancking)
@@ -299,6 +311,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+ **Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges**
+
+- Homepage: https://github.com/QingyongHu/SensatUrban
+- Paper: http://arxiv.org/abs/2009.03137
+- Code: https://github.com/QingyongHu/SensatUrban
+- Dataset: https://github.com/QingyongHu/SensatUrban
 
 **When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework**
 
