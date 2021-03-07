@@ -72,6 +72,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # GAN
 
+**Training Generative Adversarial Networks in One Stage**
+
+- Paper: https://arxiv.org/abs/2103.00430
+- Code: None
+
 **Closed-Form Factorization of Latent Semantics in GANs**
 
 - Homepage: https://genforce.github.io/sefa/
