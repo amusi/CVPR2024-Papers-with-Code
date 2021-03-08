@@ -333,6 +333,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 数据集(Datasets)
 
+**Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food**
+
+- Paper: https://arxiv.org/abs/2103.03375
+- Dataset: None
+
  **Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges**
 
 - Homepage: https://github.com/QingyongHu/SensatUrban
