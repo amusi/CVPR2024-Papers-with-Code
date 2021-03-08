@@ -15,6 +15,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [Backbone](#Backbone)
 - [NAS](#NAS)
 - [GAN](#GAN)
+- [Visual Transformer](#Visual-Transformer)
 - [自监督(Self-Supervised)](#Self-Supervised)
 - [目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
@@ -92,6 +93,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.01456
 - Code: https://github.com/imlixinyang/HiSD
+
+<a name="Visual Transformer"></a>
+
+# Visual Transformer
+
+ **Transformer Interpretability Beyond Attention Visualization** 
+
+- Paper: https://arxiv.org/abs/2012.09838
+- Code: https://github.com/hila-chefer/Transformer-Explainability 
 
 <a name="Self-Supervised"></a>
 
