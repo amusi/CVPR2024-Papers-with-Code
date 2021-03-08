@@ -400,6 +400,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 其他(Others)
 
+**Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning**
+
+- Paper: https://arxiv.org/abs/2103.02148
+- Code: https://github.com/guopengf/FLMRCM
+
 **SGP: Self-supervised Geometric Perception**
 
 - Oral
