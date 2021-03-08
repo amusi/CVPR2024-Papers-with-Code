@@ -31,6 +31,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [3D语义分割(3D Semantic Segmentation)](#3D-Semantic-Segmentation)
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
+- [6D位姿估计(6D Pose Estimation)](#6D-Pose-Estimation)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [对抗样本(Adversarial-Examples)](#AE)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
@@ -281,6 +282,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2011.13005
 - Code: https://github.com/ShengyuH/OverlapPredator
+
+<a name="6D-Pose-Estimation"></a>
+
+# 6D位姿估计(6D Pose Estimation)
+
+**FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation**
+
+- Paper: https://arxiv.org/abs/2103.02242
+- Code: https://github.com/ethnhe/FFB6D
 
 <a name="Depth-Estimation"></a>
 
