@@ -256,7 +256,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic**
 
 - Paper: https://arxiv.org/abs/2103.04039
-- Code: None
+- Code: https://github.com/Xiangtaokong/ClassSR
 
 **AdderSR: Towards Energy Efficient Image Super-Resolution**
 
