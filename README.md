@@ -101,6 +101,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
+**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
+
+- Paper(Oral): https://arxiv.org/abs/2011.09094
+- Code: https://github.com/dddzg/up-detr
+
 **End-to-End Human Object Interaction Detection with HOI Transformer**
 
 - Paper: https://arxiv.org/abs/2103.04503
@@ -123,6 +128,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Object-Detection"></a>
 
 # 目标检测(Object Detection)
+
+**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
+
+- Paper(Oral): https://arxiv.org/abs/2011.09094
+- Code: https://github.com/dddzg/up-detr
 
 **General Instance Distillation for Object Detection**
 
