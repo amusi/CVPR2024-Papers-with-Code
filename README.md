@@ -38,6 +38,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [图像检索(Image Retrieval)](#Image-Retrieval)
 - [Zero-Shot Learning](#Zero-Shot-Learning)
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
+- ["人-物"交互(HOI)检测](#HOI)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
 - [数据集(Datasets)](#Datasets)
 - [其他(Others)](#Others)
@@ -99,6 +100,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Visual Transformer"></a>
 
 # Visual Transformer
+
+**End-to-End Human Object Interaction Detection with HOI Transformer**
+
+- Paper: https://arxiv.org/abs/2103.04503
+- Code: https://github.com/bbepoch/HoiTransformer
 
  **Transformer Interpretability Beyond Attention Visualization** 
 
@@ -355,6 +361,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2011.13160
 - Code: https://github.com/hughplay/TVR
+
+<a name="HOI"></a>
+
+# "人-物"交互(HOI)检测
+
+**End-to-End Human Object Interaction Detection with HOI Transformer**
+
+- Paper: https://arxiv.org/abs/2103.04503
+- Code: https://github.com/bbepoch/HoiTransformer
 
 <a name="Shadow-Removal"></a>
 
