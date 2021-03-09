@@ -25,6 +25,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [人脸活体检测(Face Anti-Spoofing)](#Face-Anti-Spoofing)
 - [Deepfake检测(Deepfake Detection)](#Deepfake-Detection)
 - [人脸年龄估计(Age-Estimation)](#Age-Estimation)
+- [人脸解析(Human Parsing)](#Human-Parsing)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
@@ -222,6 +223,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.02140
 - Code: None
+
+<a name="Human-Parsing"></a>
+
+# 人体解析(Human Parsing)
+
+**Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing**
+
+- Paper: https://arxiv.org/abs/2103.04570
+- Code: https://github.com/tfzhou/MG-HumanParsing
 
 <a name="Super-Resolution"></a>
 
