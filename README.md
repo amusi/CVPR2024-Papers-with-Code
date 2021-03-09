@@ -21,7 +21,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [视频理解/行为识别(Video Understanding)](#Video-Understanding)
-- [人脸识别](#Face-Recognition)
+- [人脸识别(Face Recognition)](#Face-Recognition)
 - [人脸活体检测(Face Anti-Spoofing)](#Face-Anti-Spoofing)
 - [Deepfake检测(Deepfake Detection)](#Deepfake-Detection)
 - [人脸年龄估计(Age-Estimation)](#Age-Estimation)
@@ -177,7 +177,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 <a name="Face-Recognition"></a>
 
-# 人脸识别
+# 人脸识别(Face Recognition)
+
+**WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition**
+
+- Homepage: https://www.face-benchmark.org/
+- Paper: https://arxiv.org/abs/2103.04098 
+- Dataset: https://www.face-benchmark.org/
 
 **When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework**
 
