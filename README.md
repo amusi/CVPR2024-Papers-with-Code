@@ -101,6 +101,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
+**End-to-End Video Instance Segmentation with Transformers**
+
+- Paper(Oral): https://arxiv.org/abs/2011.14503
+- Code: None
+
 **UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
 
 - Paper(Oral): https://arxiv.org/abs/2011.09094
@@ -168,6 +173,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Instance-Segmentation"></a>
 
 # 实例分割(Instance Segmentation)
+
+**End-to-End Video Instance Segmentation with Transformers**
+
+- Paper(Oral): https://arxiv.org/abs/2011.14503
+- Code: None
 
 **Zero-shot instance segmentation（Not Sure）**
 
