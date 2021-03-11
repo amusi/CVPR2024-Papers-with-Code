@@ -27,6 +27,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [Deepfake检测(Deepfake Detection)](#Deepfake-Detection)
 - [人脸年龄估计(Age-Estimation)](#Age-Estimation)
 - [人脸解析(Human Parsing)](#Human-Parsing)
+- [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
@@ -42,8 +43,10 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
 - ["人-物"交互(HOI)检测](#HOI)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
+- [虚拟试衣](#Virtual-Try-On)
 - [数据集(Datasets)](#Datasets)
 - [其他(Others)](#Others)
+- [待添加(TODO)](#TO-DO)
 - [不确定中没中(Not Sure)](#Not-Sure)
 
 <a name="Backbone"></a>
@@ -132,6 +135,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 无监督/自监督(Un/Self-Supervised)
 
+**VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples**
+
+- Paper: https://arxiv.org/abs/2103.05905
+- Code: https://github.com/tinapan-pt/VideoMoCo
+
 **Exploring Simple Siamese Representation Learning**
 
 - Paper(Oral): https://arxiv.org/abs/2011.10566
@@ -145,6 +153,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Object-Detection"></a>
 
 # 目标检测(Object Detection)
+
+**YOLOF：You Only Look One-level Feature**
+
+- Paper(Oral): None
+- Code: https://github.com/megvii-model/YOLOF
 
 **UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
 
@@ -280,6 +293,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.04570
 - Code: https://github.com/tfzhou/MG-HumanParsing
 
+<a name="Human-Pose-Estimation"></a>
+
+# 2D/3D人体姿态估计(2D/3D Human Pose Estimation)
+
+**HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation**
+
+- Homepage: https://jeffli.site/HybrIK/ 
+- Paper: https://arxiv.org/abs/2011.14672
+- Code: https://github.com/Jeff-sjtu/HybrIK
+
 <a name="Super-Resolution"></a>
 
 # 超分辨率(Super-Resolution)
@@ -346,6 +369,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 3D点云配准(3D Point Cloud Registration)
 
+**PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency**
+
+- Paper: https://arxiv.org/abs/2103.05465
+- Code: https://github.com/XuyangBai/PointDSC 
+
 **PREDATOR: Registration of 3D Point Clouds with Low Overlap**
 
 - Paper: https://arxiv.org/abs/2011.13005
@@ -354,6 +382,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="6D-Pose-Estimation"></a>
 
 # 6D位姿估计(6D Pose Estimation)
+
+**GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation**
+
+- Paper: http://arxiv.org/abs/2102.12145
+- code: https://git.io/GDR-Net
 
 **FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation**
 
@@ -434,6 +467,17 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.01255
 - Code: https://github.com/tsingqguo/exposure-fusion-shadow-removal
+
+<a name="Virtual-Try-On"></a>
+
+# 虚拟换衣(Virtual Try-On)
+
+**Parser-Free Virtual Try-on via Distilling Appearance Flows**
+
+**基于外观流蒸馏的无需人体解析的虚拟换装**
+
+- Paper: https://arxiv.org/abs/2103.04559
+- Code: https://github.com/geyuying/PF-AFN 
 
 <a name="Datasets"></a>
 
@@ -526,6 +570,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Code: http://rl.uni-freiburg.de/research/multimodal-distill
 
 - Dataset: http://rl.uni-freiburg.de/research/multimodal-distill
+
+<a name="TO-DO"></a>
+
+# 待添加(TODO)
+
+- [重磅！腾讯优图20篇论文入选CVPR 2021](https://mp.weixin.qq.com/s/McAtOVh0osWZ3uppEoHC8A)
+- [MePro团队三篇论文被CVPR 2021接收](https://mp.weixin.qq.com/s/GD5Zb6u_MQ8GZIAGeCGo3Q)
 
 <a name="Not-Sure"></a>
 
