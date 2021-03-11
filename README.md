@@ -20,6 +20,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
+- [医学图像分割(Medical Image Segmentation)](#Medical-Image-Segmentation)
 - [视频理解/行为识别(Video Understanding)](#Video-Understanding)
 - [人脸识别(Face Recognition)](#Face-Recognition)
 - [人脸活体检测(Face Anti-Spoofing)](#Face-Anti-Spoofing)
@@ -37,6 +38,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [对抗样本(Adversarial-Examples)](#AE)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
 - [Zero-Shot Learning](#Zero-Shot-Learning)
+- [联邦学习(Federated Learning)](#Federated-Learning)
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
 - ["人-物"交互(HOI)检测](#HOI)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
@@ -202,6 +204,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.02584
 - Code: None
+
+<a name="Medical-Image-Segmentation"></a>
+
+# 医学图像分割
+
+**FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space**
+
+- Paper: https://arxiv.org/abs/2103.06030
+- Code: https://github.com/liuquande/FedDG-ELCFS
 
 <a name="Video-Understanding"></a>
 
@@ -385,6 +396,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.00887
 - Code: https://github.com/yue-zhongqi/gcm-cf
+
+<a name="Federated-Learning"></a>
+
+# 联邦学习(Federated Learning)
+
+**FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space**
+
+- Paper: https://arxiv.org/abs/2103.06030
+- Code: https://github.com/liuquande/FedDG-ELCFS
 
 <a name="Visual-Reasoning"></a>
 
