@@ -16,7 +16,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [NAS](#NAS)
 - [GAN](#GAN)
 - [Visual Transformer](#Visual-Transformer)
-- [自监督(Self-Supervised)](#Self-Supervised)
+- [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
@@ -121,13 +121,18 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2012.09838
 - Code: https://github.com/hila-chefer/Transformer-Explainability 
 
-<a name="Self-Supervised"></a>
+<a name="Un/Self-Supervised"></a>
 
-# 自监督
+# 无监督/自监督(Un/Self-Supervised)
+
+**Exploring Simple Siamese Representation Learning**
+
+- Paper(Oral): https://arxiv.org/abs/2011.10566
+- Code: None
 
 **Dense Contrastive Learning for Self-Supervised Visual Pre-Training**
 
-- Paper: https://arxiv.org/abs/2011.09157
+- Paper(Oral): https://arxiv.org/abs/2011.09157
 - Code: https://github.com/WXinlong/DenseCL
 
 <a name="Object-Detection"></a>
