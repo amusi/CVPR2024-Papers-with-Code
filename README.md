@@ -26,8 +26,9 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [人脸活体检测(Face Anti-Spoofing)](#Face-Anti-Spoofing)
 - [Deepfake检测(Deepfake Detection)](#Deepfake-Detection)
 - [人脸年龄估计(Age-Estimation)](#Age-Estimation)
-- [人脸解析(Human Parsing)](#Human-Parsing)
+- [人体解析(Human Parsing)](#Human-Parsing)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
+- [场景文本识别(Scene Text Recognition)](#Scene-Text-Recognition)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
@@ -312,6 +313,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Homepage: https://jeffli.site/HybrIK/ 
 - Paper: https://arxiv.org/abs/2011.14672
 - Code: https://github.com/Jeff-sjtu/HybrIK
+
+<a name="Scene-Text-Recognition"></a>
+
+# 场景文本识别(Scene Text Recognition)
+
+**Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition**
+
+- Paper: https://arxiv.org/abs/2103.06495
+- Code: https://github.com/FangShancheng/ABINet
 
 <a name="Super-Resolution"></a>
 
