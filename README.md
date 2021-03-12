@@ -86,6 +86,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # GAN
 
+**CoMoGAN: continuous model-guided image-to-image translation**
+
+- Paper: https://arxiv.org/abs/2103.06879
+- Code: https://github.com/cv-rits/CoMoGAN
+
 **Training Generative Adversarial Networks in One Stage**
 
 - Paper: https://arxiv.org/abs/2103.00430
