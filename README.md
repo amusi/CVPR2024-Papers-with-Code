@@ -245,6 +245,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 人脸识别(Face Recognition)
 
+**MagFace: A Universal Representation for Face Recognition and Quality Assessment**
+
+- Paper(Oral): https://arxiv.org/abs/2103.06627
+- Code: https://github.com/IrvingMeng/MagFace
+
 **WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition**
 
 - Homepage: https://www.face-benchmark.org/
