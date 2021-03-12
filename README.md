@@ -41,6 +41,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [图像检索(Image Retrieval)](#Image-Retrieval)
 - [Zero-Shot Learning](#Zero-Shot-Learning)
 - [联邦学习(Federated Learning)](#Federated-Learning)
+- [视频插帧(Video Frame Interpolation)](#Video-Frame-Interpolation)
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
 - ["人-物"交互(HOI)检测](#HOI)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
@@ -208,7 +209,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **End-to-End Video Instance Segmentation with Transformers**
 
 - Paper(Oral): https://arxiv.org/abs/2011.14503
-- Code: None
+- Code: https://github.com/Epiphqny/VisTR
 
 **Zero-shot instance segmentation（Not Sure）**
 
@@ -458,6 +459,17 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.06030
 - Code: https://github.com/liuquande/FedDG-ELCFS
+
+<a name="Video-Frame-Interpolation"></a>
+
+# 视频插帧(Video Frame Interpolation)
+
+**FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation**
+
+- Homepage: https://tarun005.github.io/FLAVR/
+
+- Paper: https://arxiv.org/abs/2012.08512
+- Code: https://github.com/tarun005/FLAVR
 
 <a name="Visual-Reasoning"></a>
 
