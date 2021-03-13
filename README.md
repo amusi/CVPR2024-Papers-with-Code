@@ -34,7 +34,8 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D语义分割(3D Semantic Segmentation)](#3D-Semantic-Segmentation)
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
-- [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
+- [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud-Registration)
+- [3D点云补全(3D-Point-Cloud-Completion)](#3D-Point-Cloud-Completion)
 - [6D位姿估计(6D Pose Estimation)](#6D-Pose-Estimation)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [对抗样本(Adversarial-Examples)](#AE)
@@ -401,7 +402,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2006.11275
 - Code: https://github.com/tianweiy/CenterPoint
 
-<a name="3D-PointCloud"></a>
+<a name="3D-PointCloud-Registration"></a>
 
 # 3D点云配准(3D Point Cloud Registration)
 
@@ -414,6 +415,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2011.13005
 - Code: https://github.com/ShengyuH/OverlapPredator
+
+<a name="3D-Point-Cloud-Completion"></a>
+
+# 3D点云补全(3D Point Cloud Completion)
+
+**Style-based Point Generator with Adversarial Rendering for Point Cloud Completion**
+
+- Paper: https://arxiv.org/abs/2103.02535
+- Code: None
 
 <a name="6D-Pose-Estimation"></a>
 
