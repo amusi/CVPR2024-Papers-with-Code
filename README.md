@@ -79,6 +79,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # NAS
 
+**OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.04507
+- Code: https://github.com/VDIGPKU/OPANAS
+
 **Inception Convolution with Efficient Dilation Search**
 
 - Paper:  https://arxiv.org/abs/2012.13587 
@@ -165,6 +170,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Object-Detection"></a>
 
 # 目标检测(Object Detection)
+
+**OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.04507
+- Code: https://github.com/VDIGPKU/OPANAS
 
 **YOLOF：You Only Look One-level Feature**
 
