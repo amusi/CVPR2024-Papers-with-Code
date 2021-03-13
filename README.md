@@ -142,6 +142,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 无监督/自监督(Un/Self-Supervised)
 
+**Spatially Consistent Representation Learning**
+
+- Paper: https://arxiv.org/abs/2103.06122
+- Code: None
+
 **VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples**
 
 - Paper: https://arxiv.org/abs/2103.05905
