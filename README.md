@@ -148,6 +148,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 无监督/自监督(Un/Self-Supervised)
 
+**Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning**
+
+- Homepage: https://fingerrec.github.io/index_files/jinpeng/papers/CVPR2021/project_website.html
+- Paper: https://arxiv.org/abs/2009.05769
+- Code: https://github.com/FingerRec/BE
+
 **Spatially Consistent Representation Learning**
 
 - Paper: https://arxiv.org/abs/2103.06122
@@ -253,6 +259,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Video-Understanding"></a>
 
 # 视频理解/行为识别(Video Understanding)
+
+**Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning**
+
+- Homepage: https://fingerrec.github.io/index_files/jinpeng/papers/CVPR2021/project_website.html
+- Paper: https://arxiv.org/abs/2009.05769
+- Code: https://github.com/FingerRec/BE
 
 **TDN: Temporal Difference Networks for Efficient Action Recognition**
 
