@@ -455,6 +455,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 深度估计
 
+**S3: Learnable Sparse Signal Superdensity for Guided Depth Estimation**
+
+- Paper: https://arxiv.org/abs/2103.02396
+- Code: None
+
 **Depth from Camera Motion and Object Detection**
 
 - Paper: https://arxiv.org/abs/2103.01468
