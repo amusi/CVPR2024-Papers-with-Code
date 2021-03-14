@@ -94,6 +94,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # GAN
 
+**ID-Unet: Iterative Soft and Hard Deformation for View Synthesis**
+
+- Paper: https://arxiv.org/abs/2103.02264
+- Code: https://github.com/MingyuY/Iterative-view-synthesis
+
 **CoMoGAN: continuous model-guided image-to-image translation**
 
 - Paper: https://arxiv.org/abs/2103.06879
