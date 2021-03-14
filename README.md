@@ -17,6 +17,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [GAN](#GAN)
 - [Visual Transformer](#Visual-Transformer)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
+- [半监督(Semi-Supervised)](#Semi-Supervised)
 - [目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
@@ -178,6 +179,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper(Oral): https://arxiv.org/abs/2011.09157
 - Code: https://github.com/WXinlong/DenseCL
+
+<a name="Semi-Supervised"></a>
+
+# 半监督学习(Semi-Supervised )
+
+**Adaptive Consistency Regularization for Semi-Supervised Transfer Learning**
+
+- Paper: https://arxiv.org/abs/2103.02193
+- Code: https://github.com/SHI-Labs/Semi-Supervised-Transfer-Learning
 
 <a name="Object-Detection"></a>
 
