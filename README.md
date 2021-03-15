@@ -275,6 +275,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 视频理解/行为识别(Video Understanding)
 
+**ACTION-Net: Multipath Excitation for Action Recognition**
+
+- Paper: https://arxiv.org/abs/2103.07372
+- Code: https://github.com/V-Sense/ACTION-Net
+
 **Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning**
 
 - Homepage: https://fingerrec.github.io/index_files/jinpeng/papers/CVPR2021/project_website.html
