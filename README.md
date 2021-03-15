@@ -97,6 +97,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # GAN
 
+**HumanGAN: A Generative Model of Humans Images**
+
+- Paper: https://arxiv.org/abs/2103.06902
+- Code: None
+
 **ID-Unet: Iterative Soft and Hard Deformation for View Synthesis**
 
 - Paper: https://arxiv.org/abs/2103.02264
