@@ -24,6 +24,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [医学图像分割(Medical Image Segmentation)](#Medical-Image-Segmentation)
 - [视频理解/行为识别(Video Understanding)](#Video-Understanding)
 - [人脸识别(Face Recognition)](#Face-Recognition)
+- [人脸检测(Face Detection)](#Face-Detection)
 - [人脸活体检测(Face Anti-Spoofing)](#Face-Anti-Spoofing)
 - [Deepfake检测(Deepfake Detection)](#Deepfake-Detection)
 - [人脸年龄估计(Age-Estimation)](#Age-Estimation)
@@ -311,6 +312,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper(Oral): https://arxiv.org/abs/2103.01520
 - Code: https://github.com/Hzzone/MTLFace
 - Dataset: https://github.com/Hzzone/MTLFace
+
+<a name="Face-Detection"></a>
+
+# 人脸检测(Face Detection)
+
+**CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement**
+
+- Paper: https://arxiv.org/abs/2103.07017
+- Code: None
 
 <a name="Face-Anti-Spoofing"></a>
 
