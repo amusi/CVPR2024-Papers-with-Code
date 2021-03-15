@@ -31,6 +31,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [人体解析(Human Parsing)](#Human-Parsing)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [场景文本识别(Scene Text Recognition)](#Scene-Text-Recognition)
+- [模型压缩/剪枝/量化](#Model-Compression)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
@@ -381,6 +382,17 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.06495
 - Code: https://github.com/FangShancheng/ABINet
+
+<a name="Model-Compression"></a>
+
+# 模型压缩/剪枝/量化
+
+## 模型量化
+
+**Learnable Companding Quantization for Accurate Low-bit Neural Networks**
+
+- Paper: https://arxiv.org/abs/2103.07156
+- Code: None
 
 <a name="Super-Resolution"></a>
 
