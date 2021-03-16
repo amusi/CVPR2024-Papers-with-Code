@@ -545,8 +545,9 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **Beyond Image to Depth: Improving Depth Prediction using Echoes**
 
+- Homepage: https://krantiparida.github.io/projects/bimgdepth.html
 - Paper: https://arxiv.org/abs/2103.08468
-- Code: None
+- Code: https://github.com/krantiparida/beyond-image-to-depth
 
 **S3: Learnable Sparse Signal Superdensity for Guided Depth Estimation**
 
