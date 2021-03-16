@@ -205,6 +205,8 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 目标检测(Object Detection)
 
+## 2D目标检测
+
 **OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection**
 
 - Paper: https://arxiv.org/abs/2103.04507
@@ -250,6 +252,14 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.02603
 - Code: https://github.com/JosephKJ/OWOD
+
+## 旋转目标检测
+
+**ReDet: A Rotation-equivariant Detector for Aerial Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.07733
+
+- Code: https://github.com/csuhan/ReDet
 
 <a name="Instance-Segmentation"></a>
 
