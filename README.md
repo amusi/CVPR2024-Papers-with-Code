@@ -59,6 +59,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Backbone
 
+**ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network**
+
+- Paper: https://arxiv.org/abs/2007.00992
+- Code:  https://github.com/clovaai/rexnet
+
 **Involution: Inverting the Inherence of Convolution for Visual Recognition**
 
 - Paper: https://github.com/d-li14/involution
