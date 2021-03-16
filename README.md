@@ -16,6 +16,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [NAS](#NAS)
 - [GAN](#GAN)
 - [Visual Transformer](#Visual-Transformer)
+- [Regularization](#Regularization)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [半监督(Semi-Supervised)](#Semi-Supervised)
 - [目标检测(Object Detection)](#Object-Detection)
@@ -34,6 +35,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [模型压缩/剪枝/量化](#Model-Compression)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [图像恢复(Image Restoration)](#Image-Restoration)
+- [反光去除(Reflection Removal)](#Reflection-Removal)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D语义分割(3D Semantic Segmentation)](#3D-Semantic-Segmentation)
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
@@ -47,6 +49,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [联邦学习(Federated Learning)](#Federated-Learning)
 - [视频插帧(Video Frame Interpolation)](#Video-Frame-Interpolation)
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
+- [Domain Generalization](#Domain-Generalization)
 - ["人-物"交互(HOI)检测](#HOI)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
 - [虚拟试衣](#Virtual-Try-On)
@@ -77,7 +80,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Inception Convolution with Efficient Dilation Search**
 
 - Paper:  https://arxiv.org/abs/2012.13587 
-- Code: None
+- Code: https://github.com/yifan123/IC-Conv
 
 **RepVGG: Making VGG-style ConvNets Great Again**
 
@@ -145,7 +148,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **End-to-End Video Instance Segmentation with Transformers**
 
 - Paper(Oral): https://arxiv.org/abs/2011.14503
-- Code: None
+- Code: https://github.com/Epiphqny/VisTR
 
 **UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
 
@@ -157,10 +160,19 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.04503
 - Code: https://github.com/bbepoch/HoiTransformer
 
- **Transformer Interpretability Beyond Attention Visualization** 
+**Transformer Interpretability Beyond Attention Visualization** 
 
 - Paper: https://arxiv.org/abs/2012.09838
 - Code: https://github.com/hila-chefer/Transformer-Explainability 
+
+<a name="Regularization"></a>
+
+# Regularization
+
+**Regularizing Neural Networks via Adversarial Model Perturbation**
+
+- Paper: https://arxiv.org/abs/2010.04925
+- Code: https://github.com/hiyouga/AMP-Regularizer
 
 <a name="Un/Self-Supervised"></a>
 
@@ -437,6 +449,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2102.02808
 - Code: https://github.com/swz30/MPRNet
 
+<a name="Reflection-Removal"></a>
+
+# 反光去除(Reflection Removal)
+
+**Robust Reflection Removal with Reflection-free Flash-only Cues**
+
+- Paper: https://arxiv.org/abs/2103.04273
+- Code: https://github.com/ChenyangLEI/flash-reflection-removal
+
 <a name="3D-Object-Detection"></a>
 
 # 3D目标检测(3D Object Detection)
@@ -459,6 +480,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="3D-Semantic-Segmentation"></a>
 
 # 3D语义分割(3D Semantic Segmentation)
+
+**Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation**
+
+- Paper: https://arxiv.org/abs/2011.10033
+- Code:  https://github.com/xinge008/Cylinder3D 
 
  **Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges**
 
@@ -585,6 +611,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2011.13160
 - Code: https://github.com/hughplay/TVR
+
+<a name="Domain-Generalization"></a>
+
+# DomainGeneralization
+
+**FSDR: Frequency Space Domain Randomization for Domain Generalization**
+
+- Paper: https://arxiv.org/abs/2103.02370
+- Code: None
 
 <a name="HOI"></a>
 
