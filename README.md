@@ -19,7 +19,8 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [Regularization](#Regularization)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [半监督(Semi-Supervised)](#Semi-Supervised)
-- [目标检测(Object Detection)](#Object-Detection)
+- [2D/遥感目标检测(Object Detection)](#Object-Detection)
+- [单/多目标跟踪](#Object-Tracking)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [医学图像分割(Medical Image Segmentation)](#Medical-Image-Segmentation)
@@ -217,7 +218,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 <a name="Object-Detection"></a>
 
-# 目标检测(Object Detection)
+# 2D/遥感目标检测(Object Detection)
 
 ## 2D目标检测
 
@@ -274,6 +275,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.07733
 
 - Code: https://github.com/csuhan/ReDet
+
+<a name="Object-Tracking"></a>
+
+# 单/多目标跟踪(Object Tracking)
+
+**Track to Detect and Segment: An Online Multi-Object Tracker**
+
+- Homepage: https://jialianwu.com/projects/TraDeS.html
+- Paper: https://arxiv.org/abs/2103.08808
+- Code: https://github.com/JialianW/TraDeS
 
 <a name="Instance-Segmentation"></a>
 
