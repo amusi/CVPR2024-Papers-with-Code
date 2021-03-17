@@ -42,6 +42,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud-Registration)
 - [3D点云补全(3D-Point-Cloud-Completion)](#3D-Point-Cloud-Completion)
 - [6D位姿估计(6D Pose Estimation)](#6D-Pose-Estimation)
+- [相机姿态估计(Camera Pose Estimation)](#Camera-Pose-Estimation)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [对抗样本(Adversarial-Examples)](#AE)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
@@ -49,6 +50,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [联邦学习(Federated Learning)](#Federated-Learning)
 - [视频插帧(Video Frame Interpolation)](#Video-Frame-Interpolation)
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
+- [视图合成(Visual Synthesis)](#Visual-Synthesis)
 - [Domain Generalization](#Domain-Generalization)
 - ["人-物"交互(HOI)检测](#HOI)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
@@ -539,6 +541,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.02242
 - Code: https://github.com/ethnhe/FFB6D
 
+<a name="Camera-Pose-Estimation"></a>
+
+# 相机姿态估计
+
+**Back to the Feature: Learning Robust Camera Localization from Pixels to Pose**
+
+- Paper: https://arxiv.org/abs/2103.09213
+- Code: https://github.com/cvg/pixloc
+
 <a name="Depth-Estimation"></a>
 
 # 深度估计
@@ -614,9 +625,17 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Transformation Driven Visual Reasoning**
 
 - homepage: https://hongxin2019.github.io/TVR/
-
 - Paper: https://arxiv.org/abs/2011.13160
 - Code: https://github.com/hughplay/TVR
+
+<a name="Visual-Synthesis"></a>
+
+# 视图合成(View Synthesis)
+
+**NeX: Real-time View Synthesis with Neural Basis Expansion**
+
+- Homepage: https://nex-mpi.github.io/
+- Paper(Oral): https://arxiv.org/abs/2103.05606
 
 <a name="Domain-Generalization"></a>
 
