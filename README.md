@@ -500,6 +500,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 3D语义分割(3D Semantic Segmentation)
 
+**Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion**
+
+- Paper: https://arxiv.org/abs/2103.07074
+- Code: https://github.com/ShiQiu0419/BAAF-Net
+
 **Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation**
 
 - Paper: https://arxiv.org/abs/2011.10033
