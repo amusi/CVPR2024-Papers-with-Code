@@ -229,7 +229,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **YOLOF：You Only Look One-level Feature**
 
-- Paper(Oral): None
+- Paper: https://arxiv.org/abs/2103.09460
 - Code: https://github.com/megvii-model/YOLOF
 
 **UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
