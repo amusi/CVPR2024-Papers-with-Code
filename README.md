@@ -273,6 +273,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.02603
 - Code: https://github.com/JosephKJ/OWOD
 
+## Few-Shot目标检测
+
+**Few-Shot Object Detection via Contrastive Proposal Encoding**
+
+- Paper: https://arxiv.org/abs/2103.05950
+- Code: https://github.com/MegviiDetection/FSCE 
+
 ## 旋转目标检测
 
 **ReDet: A Rotation-equivariant Detector for Aerial Object Detection**
@@ -423,6 +430,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Human-Pose-Estimation"></a>
 
 # 2D/3D人体姿态估计(2D/3D Human Pose Estimation)
+
+## 2D 人体姿态估计
+
+**DCPose: Deep Dual Consecutive Network for Human Pose Estimation**
+
+-  Paper: https://arxiv.org/abs/2103.07254
+- Code: https://github.com/Pose-Group/DCPose 
+
+## 3D 人体姿态估计
 
 **HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation**
 
@@ -676,6 +692,21 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="HOI"></a>
 
 # "人-物"交互(HOI)检测
+
+**Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information**
+
+- Paper: https://arxiv.org/abs/2103.05399
+- Code: https://github.com/hitachi-rd-cv/qpic
+
+**Reformulating HOI Detection as Adaptive Set Prediction**
+
+- Paper: https://arxiv.org/abs/2103.05983
+- Code: https://github.com/yoyomimi/AS-Net
+
+**Detecting Human-Object Interaction via Fabricated Compositional Learning**
+
+- Paper: https://arxiv.org/abs/2103.08214
+- Code: https://github.com/zhihou7/FCL
 
 **End-to-End Human Object Interaction Detection with HOI Transformer**
 
