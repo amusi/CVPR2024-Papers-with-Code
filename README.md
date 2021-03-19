@@ -94,6 +94,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # NAS
 
+**Searching by Generating: Flexible and Efficient One-Shot NAS with Architecture Generator**
+
+- Paper: https://arxiv.org/abs/2103.07289
+- Code: https://github.com/eric8607242/SGNAS
+
 **OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection**
 
 - Paper: https://arxiv.org/abs/2103.04507
