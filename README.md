@@ -48,6 +48,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [对抗样本(Adversarial-Examples)](#AE)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
+- [视频检索(Video Retrieval)](#Video-Retrieval)
 - [Zero-Shot Learning](#Zero-Shot-Learning)
 - [联邦学习(Federated Learning)](#Federated-Learning)
 - [视频插帧(Video Frame Interpolation)](#Video-Frame-Interpolation)
@@ -642,6 +643,17 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.02927
 - Code: None
+
+<a name="Video-Retrieval"></a>
+
+# 视频检索(Video Retrieval)
+
+**On Semantic Similarity in Video Retrieval**
+
+- Paper: https://arxiv.org/abs/2103.10095
+
+- Homepage: https://mwray.github.io/SSVR/
+- Code: https://github.com/mwray/Semantic-Video-Retrieval
 
 <a name="Zero-Shot-Learning"></a>
 
