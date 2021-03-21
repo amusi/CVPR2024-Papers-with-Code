@@ -24,6 +24,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [医学图像分割(Medical Image Segmentation)](#Medical-Image-Segmentation)
+- [交互式视频目标分割(Interactive-Video-Object-Segmentation)](#IVOS)
 - [视频理解/行为识别(Video Understanding)](#Video-Understanding)
 - [人脸识别(Face Recognition)](#Face-Recognition)
 - [人脸检测(Face Detection)](#Face-Detection)
@@ -335,6 +336,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.06030
 - Code: https://github.com/liuquande/FedDG-ELCFS
+
+<a name="IVOS"></a>
+
+# 交互式视频目标分割(Interactive-Video-Object-Segmentation)
+
+**Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild**
+
+- Paper: https://arxiv.org/abs/2103.10391
+
+- Code: https://github.com/svip-lab/IVOS-W
 
 <a name="Video-Understanding"></a>
 
