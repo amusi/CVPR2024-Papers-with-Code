@@ -760,6 +760,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 数据集(Datasets)
 
+**Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark**
+
+- Homepage: https://vap.aau.dk/sewer-ml/
+
+- Paper: https://arxiv.org/abs/2103.10895
+
 **Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food**
 
 - Paper: https://arxiv.org/abs/2103.03375
