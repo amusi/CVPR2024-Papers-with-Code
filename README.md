@@ -327,6 +327,10 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.08808
 - Code: https://github.com/JialianW/TraDeS
 
+**TransT - Transformer Tracking**
+
+- Code: https://github.com/chenxin-dlut/TransT
+
 <a name="Instance-Segmentation"></a>
 
 # 实例分割(Instance Segmentation)
