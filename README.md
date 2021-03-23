@@ -229,6 +229,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 半监督学习(Semi-Supervised )
 
+**Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework**
+
+- Paper: https://arxiv.org/abs/2103.11402
+- Code: None
+
 **Adaptive Consistency Regularization for Semi-Supervised Transfer Learning**
 
 - Paper: https://arxiv.org/abs/2103.02193
@@ -239,6 +244,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 # 2D/遥感目标检测(Object Detection)
 
 ## 2D目标检测
+
+**Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework**
+
+- Paper: https://arxiv.org/abs/2103.11402
+- Code: None
 
 **OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection**
 
