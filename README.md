@@ -20,7 +20,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [半监督(Semi-Supervised)](#Semi-Supervised)
 - [2D/遥感目标检测(Object Detection)](#Object-Detection)
-- [单/多目标跟踪](#Object-Tracking)
+- [单/多目标跟踪(Object Tracking)](#Object-Tracking)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [医学图像分割(Medical Image Segmentation)](#Medical-Image-Segmentation)
@@ -154,6 +154,17 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Visual Transformer"></a>
 
 # Visual Transformer
+
+**Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking**
+
+- Paper(Oral): https://arxiv.org/abs/2103.11681
+
+- Code: https://github.com/594422814/TransformerTrack
+
+**Pre-Trained Image Processing Transformer**
+
+- Paper:  https://arxiv.org/abs/2012.00364 
+- Code: None
 
 **End-to-End Video Instance Segmentation with Transformers**
 
@@ -293,6 +304,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Object-Tracking"></a>
 
 # 单/多目标跟踪(Object Tracking)
+
+**Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking**
+
+- Paper(Oral): https://arxiv.org/abs/2103.11681
+
+- Code: https://github.com/594422814/TransformerTrack
 
 **Track to Detect and Segment: An Online Multi-Object Tracker**
 
