@@ -855,6 +855,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 其他(Others)
 
+**Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks**
+
+- Homepage: https://paschalidoud.github.io/neural_parts
+- Paper: None 
+- Code: https://github.com/paschalidoud/neural_parts 
+
 **Knowledge Evolution in Neural Networks**
 
 - Paper(Oral): https://arxiv.org/abs/2103.05152
