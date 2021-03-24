@@ -67,6 +67,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Backbone
 
+**Scaling Local Self-Attention For Parameter Efficient Visual Backbones**
+
+- Paper(Oral): https://arxiv.org/abs/2103.12731
+
+- Code: None
+
 **ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network**
 
 - Paper: https://arxiv.org/abs/2007.00992
