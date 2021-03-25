@@ -518,6 +518,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 模型压缩/剪枝/量化
 
+## 模型剪枝
+
+**Dynamic Slimmable Network**
+
+- Paper: https://arxiv.org/abs/2103.13258
+- Code: https://github.com/changlin31/DS-Net
+
 ## 模型量化
 
 **Learnable Companding Quantization for Accurate Low-bit Neural Networks**
