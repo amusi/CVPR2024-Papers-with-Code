@@ -21,6 +21,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [半监督(Semi-Supervised)](#Semi-Supervised)
 - [2D/遥感目标检测(Object Detection)](#Object-Detection)
 - [单/多目标跟踪(Object Tracking)](#Object-Tracking)
+- [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [医学图像分割(Medical Image Segmentation)](#Medical-Image-Segmentation)
@@ -337,6 +338,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **TransT - Transformer Tracking**
 
 - Code: https://github.com/chenxin-dlut/TransT
+
+# 语义分割(Semantic Segmentation)
+
+**Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2101.10979
+- Code: https://github.com/microsoft/ProDA
 
 <a name="Instance-Segmentation"></a>
 
