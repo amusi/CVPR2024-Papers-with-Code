@@ -357,6 +357,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 实例分割(Instance Segmentation)
 
+**Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers**
+
+- Paper: https://arxiv.org/abs/2103.12340
+
+- Code: https://github.com/lkeab/BCNet 
+
 **End-to-End Video Instance Segmentation with Transformers**
 
 - Paper(Oral): https://arxiv.org/abs/2011.14503
