@@ -26,6 +26,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [医学图像分割(Medical Image Segmentation)](#Medical-Image-Segmentation)
 - [交互式视频目标分割(Interactive-Video-Object-Segmentation)](#IVOS)
+- [行人搜索(Person Search)](#Person-Search)
 - [视频理解/行为识别(Video Understanding)](#Video-Understanding)
 - [人脸识别(Face Recognition)](#Face-Recognition)
 - [人脸检测(Face Detection)](#Face-Detection)
@@ -407,14 +408,30 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Code: https://github.com/svip-lab/IVOS-W
 
+<a name="Person-Search"></a>
+
+# 行人搜索(Person Search)
+
+**Anchor-Free Person Search**
+
+- Paper: https://arxiv.org/abs/2103.11617
+- Code: https://github.com/daodaofr/AlignPS
+- Interpretation: [首个无需锚框（Anchor-Free）的行人搜索框架 | CVPR 2021](https://mp.weixin.qq.com/s/iqJkgp0JBanmeBPyHUkb-A)
+
 <a name="Video-Understanding"></a>
 
 # 视频理解/行为识别(Video Understanding)
+
+**Learning Salient Boundary Feature for Anchor-free Temporal Action Localization**
+
+- Paper: https://arxiv.org/abs/2103.13137
+- Code: None
 
 **Temporal Context Aggregation Network for Temporal Action Proposal Refinement**
 
 - Paper: https://arxiv.org/abs/2103.13141
 - Code: None
+- Interpretation: [CVPR 2021 | TCANet：最强时序动作提名修正网络](https://mp.weixin.qq.com/s/UOWMfpTljkyZznHtpkQBhA)
 
 **ACTION-Net: Multipath Excitation for Action Recognition**
 
