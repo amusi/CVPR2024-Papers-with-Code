@@ -31,6 +31,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [人脸活体检测(Face Anti-Spoofing)](#Face-Anti-Spoofing)
 - [Deepfake检测(Deepfake Detection)](#Deepfake-Detection)
 - [人脸年龄估计(Age-Estimation)](#Age-Estimation)
+- [人脸表情识别(Facial-Expression-Recognition)](#FER)
 - [人体解析(Human Parsing)](#Human-Parsing)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [场景文本识别(Scene Text Recognition)](#Scene-Text-Recognition)
@@ -465,6 +466,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **PML: Progressive Margin Loss for Long-tailed Age Classification**
 
 - Paper: https://arxiv.org/abs/2103.02140
+- Code: None
+
+<a name="FER"></a>
+
+# 人脸表情识别(Facial Expression Recognition)
+
+**Affective Processes: stochastic modelling of temporal context for emotion and facial expression recognition**
+
+- Paper: https://arxiv.org/abs/2103.13372
 - Code: None
 
 <a name="Human-Parsing"></a>
