@@ -51,6 +51,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [对抗样本(Adversarial-Examples)](#AE)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
 - [视频检索(Video Retrieval)](#Video-Retrieval)
+- [跨模态检索(Cross-modal Retrieval)](#Cross-modal-Retrieval) 
 - [Zero-Shot Learning](#Zero-Shot-Learning)
 - [联邦学习(Federated Learning)](#Federated-Learning)
 - [视频插帧(Video Frame Interpolation)](#Video-Frame-Interpolation)
@@ -162,6 +163,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Visual Transformer"></a>
 
 # Visual Transformer
+
+**Revamping cross-modal recipe retrieval with hierarchical Transformers and self-supervised learning**
+
+- Paper: https://www.amazon.science/publications/revamping-cross-modal-recipe-retrieval-with-hierarchical-transformers-and-self-supervised-learning
+
+- Code: https://github.com/amzn/image-to-recipe-transformers
 
 **Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking**
 
@@ -722,6 +729,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Homepage: https://mwray.github.io/SSVR/
 - Code: https://github.com/mwray/Semantic-Video-Retrieval
+
+<a name="Cross-modal-Retrieval"></a>
+
+# 跨模态检索(Cross-modal Retrieval)
+
+**Revamping cross-modal recipe retrieval with hierarchical Transformers and self-supervised learning**
+
+- Paper: https://www.amazon.science/publications/revamping-cross-modal-recipe-retrieval-with-hierarchical-transformers-and-self-supervised-learning
+
+- Code: https://github.com/amzn/image-to-recipe-transformers
 
 <a name="Zero-Shot-Learning"></a>
 
