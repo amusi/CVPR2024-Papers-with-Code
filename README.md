@@ -568,6 +568,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 3D目标检测(3D Object Detection)
 
+**M3DSSD: Monocular 3D Single Stage Object Detector**
+
+- Paper: https://arxiv.org/abs/2103.13164
+
+- Code: https://github.com/mumianyuxin/M3DSSD
+
 **SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud**
 
 - Paper: None
