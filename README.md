@@ -26,6 +26,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [医学图像分割(Medical Image Segmentation)](#Medical-Image-Segmentation)
 - [交互式视频目标分割(Interactive-Video-Object-Segmentation)](#IVOS)
+- [显著性检测(Saliency Detection)](#Saliency-Detection)
 - [行人搜索(Person Search)](#Person-Search)
 - [视频理解/行为识别(Video Understanding)](#Video-Understanding)
 - [人脸识别(Face Recognition)](#Face-Recognition)
@@ -407,6 +408,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.10391
 
 - Code: https://github.com/svip-lab/IVOS-W
+
+<a name="Saliency-Detection"></a>
+
+# 显著性检测(Saliency Detection)
+
+**Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion**
+
+- Paper(Oral): https://arxiv.org/abs/2103.11832
+- Code: https://github.com/sunpeng1996/DSA2F
 
 <a name="Person-Search"></a>
 
