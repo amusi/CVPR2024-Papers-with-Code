@@ -262,6 +262,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 2D目标检测
 
+**I^3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors**
+
+- Paper: https://arxiv.org/abs/2103.13757
+- Code: None 
+
 **Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework**
 
 - Paper: https://arxiv.org/abs/2103.11402
