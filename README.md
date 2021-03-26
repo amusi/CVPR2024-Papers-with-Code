@@ -72,6 +72,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Backbone
 
+**Diverse Branch Block: Building a Convolution as an Inception-like Unit**
+
+- Paper: https://arxiv.org/abs/2103.13425
+
+- Code: https://github.com/DingXiaoH/DiverseBranchBlock
+
 **Scaling Local Self-Attention For Parameter Efficient Visual Backbones**
 
 - Paper(Oral): https://arxiv.org/abs/2103.12731
