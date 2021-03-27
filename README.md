@@ -19,7 +19,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [Regularization](#Regularization)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [半监督(Semi-Supervised)](#Semi-Supervised)
-- [2D/遥感目标检测(Object Detection)](#Object-Detection)
+- [2D目标检测(Object Detection)](#Object-Detection)
 - [单/多目标跟踪(Object Tracking)](#Object-Tracking)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
@@ -264,9 +264,40 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 <a name="Object-Detection"></a>
 
-# 2D/遥感目标检测(Object Detection)
+# 2D目标检测(Object Detection)
 
 ## 2D目标检测
+
+**Sparse R-CNN: End-to-End Object Detection with Learnable Proposals**
+
+- Paper: https://arxiv.org/abs/2011.12450
+- Code: https://github.com/PeizeSun/SparseR-CNN
+
+**There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**
+
+- Homepage: https://rl.uni-freiburg.de/
+- Paper: https://arxiv.org/abs/2103.01353
+- Code: None
+
+**Positive-Unlabeled Data Purification in the Wild for Object Detection**
+
+- Paper: None
+- Code: None
+
+**Instance Localization for Self-supervised Detection Pretraining**
+
+- Paper: https://arxiv.org/abs/2102.08318
+- Code: https://github.com/limbo0000/InstanceLoc
+
+**MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.04224
+- Code: None
+
+**End-to-End Object Detection with Fully Convolutional Network**
+
+- Paper: https://arxiv.org/abs/2012.03544
+- Code: https://github.com/Megvii-BaseDetection/DeFCN
 
 **Robust and Accurate Object Detection via Adversarial Learning**
 
@@ -304,11 +335,6 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.02340
 - Code: None
 
-**Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection**
-
-- Paper: https://arxiv.org/abs/2103.01903
-- Code: None
-
 **There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**
 
 - Homepage: http://rl.uni-freiburg.de/research/multimodal-distill
@@ -327,10 +353,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **Towards Open World Object Detection**
 
-- Paper: https://arxiv.org/abs/2103.02603
+- Paper(Oral): https://arxiv.org/abs/2103.02603
 - Code: https://github.com/JosephKJ/OWOD
 
 ## Few-Shot目标检测
+
+**Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.01903
+- Code: None
 
 **Few-Shot Object Detection via Contrastive Proposal Encoding**
 
