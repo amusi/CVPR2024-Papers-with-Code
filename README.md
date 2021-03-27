@@ -313,10 +313,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
-**Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
+**MIST: Multiple Instance Spatial Transformer Network**
 
-- Paper: None
+- Paper: https://arxiv.org/abs/1811.10725
 - Code: None
+
+**Multimodal Motion Prediction with Stacked Transformers**
+
+- Paper: https://arxiv.org/abs/2103.11624
+- Code: https://decisionforce.github.io/mmTransformer
 
 **Revamping cross-modal recipe retrieval with hierarchical Transformers and self-supervised learning**
 
@@ -576,11 +581,6 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Semantic-Segmentation"></a>
 
 # 语义分割(Semantic Segmentation)
-
-**Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
-
-- Paper: None
-- Code: None
 
 **Cross-Dataset Collaborative Learning for Semantic Segmentation**
 
