@@ -268,6 +268,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 2D目标检测
 
+**Robust and Accurate Object Detection via Adversarial Learning**
+
+- Paper: https://arxiv.org/abs/2103.13886
+
+- Code: None
+
 **I^3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors**
 
 - Paper: https://arxiv.org/abs/2103.13757
