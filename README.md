@@ -172,6 +172,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
+**Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
+
+- Paper: None
+- Code: None
+
 **Revamping cross-modal recipe retrieval with hierarchical Transformers and self-supervised learning**
 
 - Paper: https://www.amazon.science/publications/revamping-cross-modal-recipe-retrieval-with-hierarchical-transformers-and-self-supervised-learning
@@ -396,7 +401,69 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Code: https://github.com/chenxin-dlut/TransT
 
+<a name="Semantic-Segmentation"></a>
+
 # 语义分割(Semantic Segmentation)
+
+**Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
+
+- Paper: None
+- Code: None
+
+**Cross-Dataset Collaborative Learning for Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2103.11351
+- Code: None
+
+**Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations**
+
+- Paper: https://arxiv.org/abs/2103.06342
+- Code: None
+
+**Capturing Omni-Range Context for Omnidirectional Segmentation**
+
+- Paper: https://arxiv.org/abs/2103.05687
+- Code: None
+
+**Learning Statistical Texture for Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2103.04133
+- Code: None
+
+**PLOP: Learning without Forgetting for Continual Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2011.11390
+- Code: None
+
+## 弱监督语义分割
+
+**BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation**
+
+- Paper: https://arxiv.org/abs/2103.08907
+- Code: None
+
+## 半监督语义分割
+
+**Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2103.04705
+
+## 域自适应语义分割
+
+**Coarse-to-Fine Domain Adaptive Semantic Segmentation with Photometric Alignment and Category-Center Regularization**
+
+- Paper: https://arxiv.org/abs/2103.13041
+- Code: None
+
+**MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2103.05254
+- Code: None
+
+**Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2103.04717
+- Code: None
 
 **Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation**
 
