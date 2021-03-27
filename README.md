@@ -15,6 +15,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [Backbone](#Backbone)
 - [NAS](#NAS)
 - [GAN](#GAN)
+- [VAE](#VAE)
 - [Visual Transformer](#Visual-Transformer)
 - [Regularization](#Regularization)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
@@ -41,6 +42,8 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [模型压缩/剪枝/量化](#Model-Compression)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [图像恢复(Image Restoration)](#Image-Restoration)
+- [图像补全(Image Inpainting)](#Image-Inpainting)
+- [图像编辑(Image Editing)](#Image-Editing)
 - [反光去除(Reflection Removal)](#Reflection-Removal)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D语义分割(3D Semantic Segmentation)](#3D-Semantic-Segmentation)
@@ -172,6 +175,93 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # GAN
 
+**TediGAN: Text-Guided Diverse Image Generation and Manipulation**
+
+- Homepage: https://xiaweihao.com/projects/tedigan/
+
+- Paper: https://arxiv.org/abs/2012.03308
+- Code: https://github.com/weihaox/TediGAN
+
+**Generative Hierarchical Features from Synthesizing Image**
+
+- Homepage: https://genforce.github.io/ghfeat/
+
+- Paper(Oral): https://arxiv.org/abs/2007.10379
+- Code: https://github.com/genforce/ghfeat
+
+**Teachers Do More Than Teach: Compressing Image-to-Image Models**
+
+- Paper: https://arxiv.org/abs/2103.03467
+- Code: https://github.com/snap-research/CAT
+
+**HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms**
+
+- Paper: https://arxiv.org/abs/2011.11731
+- Code: https://github.com/mahmoudnafifi/HistoGAN
+
+**pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis**
+
+- Homepage: https://marcoamonteiro.github.io/pi-GAN-website/
+
+- Paper(Oral): https://arxiv.org/abs/2012.00926
+- Code: None
+
+**DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network**
+
+- Paper: https://arxiv.org/abs/2103.07893
+- Code: None
+
+**Diverse Semantic Image Synthesis via Probability Distribution Modeling**
+
+- Paper: https://arxiv.org/abs/2103.06878
+- Code: https://github.com/tzt101/INADE.git
+
+**LOHO: Latent Optimization of Hairstyles via Orthogonalization**
+
+- Paper: https://arxiv.org/abs/2103.03891
+- Code: None
+
+**PISE: Person Image Synthesis and Editing with Decoupled GAN**
+
+- Paper: https://arxiv.org/abs/2103.04023
+- Code: https://github.com/Zhangjinso/PISE
+
+**DeFLOCNet: Deep Image Editing via Flexible Low-level Controls**
+
+- Paper: http://raywzy.com/
+- Code: http://raywzy.com/
+
+**PD-GAN: Probabilistic Diverse GAN for Image Inpainting**
+
+- Paper: http://raywzy.com/
+- Code: http://raywzy.com/
+
+**Efficient Conditional GAN Transfer with Knowledge Propagation across Classes**
+
+- Paper: https://www.researchgate.net/publication/349309756_Efficient_Conditional_GAN_Transfer_with_Knowledge_Propagation_across_Classes
+- Code: http://github.com/mshahbazi72/cGANTransfer
+
+**Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
+
+- Paper: None
+- Code: None
+
+**Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs**
+
+- Paper: https://arxiv.org/abs/2011.14107
+- Code: None
+
+**Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**
+
+- Homepage: https://eladrich.github.io/pixel2style2pixel/
+- Paper: https://arxiv.org/abs/2008.00951
+- Code: https://github.com/eladrich/pixel2style2pixel
+
+**A 3D GAN for Improved Large-pose Facial Recognition**
+
+- Paper: https://arxiv.org/abs/2012.10545
+- Code: None
+
 **HumanGAN: A Generative Model of Humans Images**
 
 - Paper: https://arxiv.org/abs/2103.06902
@@ -184,7 +274,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **CoMoGAN: continuous model-guided image-to-image translation**
 
-- Paper: https://arxiv.org/abs/2103.06879
+- Paper(Oral): https://arxiv.org/abs/2103.06879
 - Code: https://github.com/cv-rits/CoMoGAN
 
 **Training Generative Adversarial Networks in One Stage**
@@ -195,7 +285,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Closed-Form Factorization of Latent Semantics in GANs**
 
 - Homepage: https://genforce.github.io/sefa/
-- Paper: https://arxiv.org/abs/2007.06600
+- Paper(Oral): https://arxiv.org/abs/2007.06600
 - Code: https://github.com/genforce/sefa
 
 **Anycost GANs for Interactive Image Synthesis and Editing**
@@ -207,6 +297,17 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.01456
 - Code: https://github.com/imlixinyang/HiSD
+
+<a name="VAE"></a>
+
+# VAE
+
+**Soft-IntroVAE: Analyzing and Improving Introspective Variational Autoencoders**
+
+- Homepage: https://taldatech.github.io/soft-intro-vae-web/
+
+- Paper: https://arxiv.org/abs/2012.13253
+- Code: https://github.com/taldatech/soft-intro-vae-pytorch
 
 <a name="Visual Transformer"></a>
 
@@ -649,6 +750,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 人脸识别(Face Recognition)
 
+**A 3D GAN for Improved Large-pose Facial Recognition**
+
+- Paper: https://arxiv.org/abs/2012.10545
+- Code: None
+
 **MagFace: A Universal Representation for Face Recognition and Quality Assessment**
 
 - Paper(Oral): https://arxiv.org/abs/2103.06627
@@ -757,6 +863,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 模型压缩/剪枝/量化
 
+**Teachers Do More Than Teach: Compressing Image-to-Image Models**
+
+- Paper: https://arxiv.org/abs/2103.03467
+- Code: https://github.com/snap-research/CAT
+
 ## 模型剪枝
 
 **Dynamic Slimmable Network**
@@ -793,6 +904,39 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2102.02808
 - Code: https://github.com/swz30/MPRNet
+
+<a name="Image-Inpainting"></a>
+
+# 图像补全(Image Inpainting)
+
+**PD-GAN: Probabilistic Diverse GAN for Image Inpainting**
+
+- Paper: http://raywzy.com/
+- Code: http://raywzy.com/
+
+<a name="Image-Editing"></a>
+
+# 图像编辑(Image Editing)
+
+**Anycost GANs for Interactive Image Synthesis and Editing**
+
+- Paper: https://arxiv.org/abs/2103.03243
+- Code: https://github.com/mit-han-lab/anycost-gan
+
+**PISE: Person Image Synthesis and Editing with Decoupled GAN**
+
+- Paper: https://arxiv.org/abs/2103.04023
+- Code: https://github.com/Zhangjinso/PISE
+
+**DeFLOCNet: Deep Image Editing via Flexible Low-level Controls**
+
+- Paper: http://raywzy.com/
+- Code: http://raywzy.com/
+
+**Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
+
+- Paper: None
+- Code: None
 
 <a name="Reflection-Removal"></a>
 
