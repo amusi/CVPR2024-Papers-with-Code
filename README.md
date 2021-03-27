@@ -113,6 +113,46 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # NAS
 
+**Neural Architecture Search with Random Labels**
+
+- Paper: https://arxiv.org/abs/2101.11834
+- Code: None
+
+**Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search**
+
+- Paper: https://arxiv.org/abs/2101.11342
+- Code: None
+
+**Joint-DetNAS: Upgrade Your Detector with NAS, Pruning and Dynamic Distillation**
+
+- Paper: None
+- Code: None
+
+**Prioritized Architecture Sampling with Monto-Carlo Tree Search**
+
+- Paper: https://arxiv.org/abs/2103.11922
+- Code: https://github.com/xiusu/NAS-Bench-Macro
+
+**Contrastive Neural Architecture Search with Neural Architecture Comparators**
+
+- Paper: https://arxiv.org/abs/2103.05471
+- Code: https://github.com/chenyaofo/CTNAS
+
+**AttentiveNAS: Improving Neural Architecture Search via Attentive** 
+
+- Paper: https://arxiv.org/abs/2011.09011
+- Code: None
+
+**ReNAS: Relativistic Evaluation of Neural Architecture Search**
+
+- Paper: https://arxiv.org/abs/1910.01523
+- Code: None
+
+**HourNAS: Extremely Fast Neural Architecture**
+
+- Paper: https://arxiv.org/abs/2005.14446
+- Code: None
+
 **Searching by Generating: Flexible and Efficient One-Shot NAS with Architecture Generator**
 
 - Paper: https://arxiv.org/abs/2103.07289
