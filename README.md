@@ -385,21 +385,52 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 单/多目标跟踪(Object Tracking)
 
+## 单目标跟踪
+
+**Graph Attention Tracking**
+
+- Paper: https://arxiv.org/abs/2011.11204
+- Code: https://github.com/ohhhyeahhh/SiamGAT
+
+**Rotation Equivariant Siamese Networks for Tracking**
+
+- Paper: https://arxiv.org/abs/2012.13078
+- Code: None
+
+**Track to Detect and Segment: An Online Multi-Object Tracker**
+
+- Homepage: https://jialianwu.com/projects/TraDeS.html
+- Paper: None
+- Code: None
+
 **Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking**
 
 - Paper(Oral): https://arxiv.org/abs/2103.11681
 
 - Code: https://github.com/594422814/TransformerTrack
 
+**TransT - Transformer Tracking**
+
+- Paper: None
+- Code: https://github.com/chenxin-dlut/TransT
+
+## 多目标跟踪
+
+**Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking**
+
+- Paper: https://arxiv.org/abs/2012.02337
+- Code: None
+
+**Learning a Proposal Classifier for Multiple Object Tracking**
+
+- Paper: https://arxiv.org/abs/2103.07889
+- Code: https://github.com/daip13/LPC_MOT.git
+
 **Track to Detect and Segment: An Online Multi-Object Tracker**
 
 - Homepage: https://jialianwu.com/projects/TraDeS.html
 - Paper: https://arxiv.org/abs/2103.08808
 - Code: https://github.com/JialianW/TraDeS
-
-**TransT - Transformer Tracking**
-
-- Code: https://github.com/chenxin-dlut/TransT
 
 <a name="Semantic-Segmentation"></a>
 
