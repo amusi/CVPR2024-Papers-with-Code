@@ -116,6 +116,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # NAS
 
+**HR-NAS: Searching Efficient High-Resolution Neural Architectures with Transformers**
+
+- Paper(Oral): None
+- Code: https://github.com/dingmyu/HR-NAS
+
 **Neural Architecture Search with Random Labels**
 
 - Paper: https://arxiv.org/abs/2101.11834
@@ -312,6 +317,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Visual Transformer"></a>
 
 # Visual Transformer
+
+**HR-NAS: Searching Efficient High-Resolution Neural Architectures with Transformers**
+
+- Paper(Oral): None
+- Code: https://github.com/dingmyu/HR-NAS
 
 **MIST: Multiple Instance Spatial Transformer Network**
 
