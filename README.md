@@ -896,6 +896,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2009.08891
 - Code: None
 
+## 视频超分辨率
+
+**Temporal Modulation Network for Controllable Space-Time Video Super-Resolution**
+
+- Paper: None
+- Code: https://github.com/CS-GangXu/TMNet
+
 <a name="Image-Restoration"></a>
 
 # 图像恢复(Image Restoration)
