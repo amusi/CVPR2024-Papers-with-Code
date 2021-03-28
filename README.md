@@ -1238,6 +1238,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark**
 
 - Homepage: https://vap.aau.dk/sewer-ml/
+- Paper: https://arxiv.org/abs/2103.10619
+
+**Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark**
+
+- Homepage: https://vap.aau.dk/sewer-ml/
 
 - Paper: https://arxiv.org/abs/2103.10895
 
