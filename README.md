@@ -1046,6 +1046,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 6D位姿估计(6D Pose Estimation)
 
+**FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism**
+
+- Paper(Oral): https://arxiv.org/abs/2103.07054
+- Code: None
+
 **GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation**
 
 - Paper: http://arxiv.org/abs/2102.12145
