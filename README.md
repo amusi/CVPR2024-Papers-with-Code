@@ -18,6 +18,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [VAE](#VAE)
 - [Visual Transformer](#Visual-Transformer)
 - [Regularization](#Regularization)
+- [长尾分布(Long-Tailed)](#Long-Tailed)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [半监督(Semi-Supervised)](#Semi-Supervised)
 - [2D目标检测(Object Detection)](#Object-Detection)
@@ -36,15 +37,18 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [Deepfake检测(Deepfake Detection)](#Deepfake-Detection)
 - [人脸年龄估计(Age-Estimation)](#Age-Estimation)
 - [人脸表情识别(Facial-Expression-Recognition)](#FER)
+- [Deepfakes](#Deepfakes)
 - [人体解析(Human Parsing)](#Human-Parsing)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [场景文本识别(Scene Text Recognition)](#Scene-Text-Recognition)
 - [模型压缩/剪枝/量化](#Model-Compression)
+- [知识蒸馏(Knowledge Distillation)](#KD)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [图像补全(Image Inpainting)](#Image-Inpainting)
 - [图像编辑(Image Editing)](#Image-Editing)
 - [反光去除(Reflection Removal)](#Reflection-Removal)
+- [3D点云分类(3D Point Clouds Classification)](#3D-C)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D语义分割(3D Semantic Segmentation)](#3D-Semantic-Segmentation)
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
@@ -381,6 +385,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 <a name="Un/Self-Supervised"></a>
 
+# 长尾分布(Long-Tailed)
+
+**Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification**
+
+- Paper: https://arxiv.org/abs/2103.14267
+- Code: None
+
+<a name="Un/Self-Supervised"></a>
+
 # 无监督/自监督(Un/Self-Supervised)
 
 **Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning**
@@ -428,6 +441,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 # 2D目标检测(Object Detection)
 
 ## 2D目标检测
+
+**OTA: Optimal Transport Assignment for Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.14259
+- Code: https://github.com/Megvii-BaseDetection/OTA
+
+**Distilling Object Detectors via Decoupled Features**
+
+- Paper: https://arxiv.org/abs/2103.14475
+- Code: https://github.com/ggjy/DeFeat.pytorch
 
 **Sparse R-CNN: End-to-End Object Detection with Learnable Proposals**
 
@@ -592,6 +615,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 语义分割(Semantic Segmentation)
 
+**Bidirectional Projection Network for Cross Dimension Scene Understanding**
+
+- Paper(Oral): https://arxiv.org/abs/2103.14326
+- Code: https://github.com/wbhu/BPNet
+
 **Cross-Dataset Collaborative Learning for Semantic Segmentation**
 
 - Paper: https://arxiv.org/abs/2103.11351
@@ -618,6 +646,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Code: None
 
 ## 弱监督语义分割
+
+**Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2103.14581
+- Code: None
 
 **BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation**
 
@@ -832,6 +865,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.13372
 - Code: None
 
+<a name="Deepfakes"></a>
+
+# Deepfakes
+
+**MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes**
+
+- Paper: https://arxiv.org/abs/2103.14211
+- Code: None
+
 <a name="Human-Parsing"></a>
 
 # 人体解析(Human Parsing)
@@ -891,6 +933,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.07156
 - Code: None
+
+<a name="KD"></a>
+
+# 知识蒸馏(Knowledge Distillation)
+
+**Distilling Object Detectors via Decoupled Features**
+
+- Paper: https://arxiv.org/abs/2103.14475
+- Code: https://github.com/ggjy/DeFeat.pytorch
 
 <a name="Super-Resolution"></a>
 
@@ -964,6 +1015,20 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.04273
 - Code: https://github.com/ChenyangLEI/flash-reflection-removal
 
+<a name="3D-C"></a>
+
+# 3D点云分类(3D Point Clouds Classification)
+
+**Equivariant Point Network for 3D Point Cloud Analysis**
+
+- Paper: https://arxiv.org/abs/2103.14147
+- Code: None
+
+**PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds**
+
+- Paper: https://arxiv.org/abs/2103.14635
+- Code: https://github.com/CVMI-Lab/PAConv
+
 <a name="3D-Object-Detection"></a>
 
 # 3D目标检测(3D Object Detection)
@@ -992,6 +1057,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="3D-Semantic-Segmentation"></a>
 
 # 3D语义分割(3D Semantic Segmentation)
+
+**Bidirectional Projection Network for Cross Dimension Scene Understanding**
+
+- Paper(Oral): https://arxiv.org/abs/2103.14326
+- Code: https://github.com/wbhu/BPNet
 
 **Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion**
 
@@ -1297,6 +1367,30 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution**
+
+- Homepage: http://wellyzhang.github.io/project/prae.html
+
+- Paper: https://arxiv.org/abs/2103.14230
+- Code: None
+
+**ACRE: Abstract Causal REasoning Beyond Covariation**
+
+- Homepage: http://wellyzhang.github.io/project/acre.html
+
+- Paper: https://arxiv.org/abs/2103.14232
+- Code: None
+
+**Confluent Vessel Trees with Accurate Bifurcations**
+
+- Paper: https://arxiv.org/abs/2103.14268
+- Code: None
+
+**Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling**
+
+- Paper: https://arxiv.org/abs/2103.14338
+- Code: https://github.com/HuangZhiChao95/FewShotMotionTransfer
 
 **Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks**
 
