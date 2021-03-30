@@ -322,6 +322,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
+**Transformer Tracking**
+
+- Paper: https://arxiv.org/abs/2103.15436
+- Code: https://github.com/chenxin-dlut/TransT
+
 **HR-NAS: Searching Efficient High-Resolution Neural Architectures with Transformers**
 
 - Paper(Oral): None
@@ -588,9 +593,9 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Code: https://github.com/594422814/TransformerTrack
 
-**TransT - Transformer Tracking**
+**Transformer Tracking**
 
-- Paper: None
+- Paper: https://arxiv.org/abs/2103.15436
 - Code: https://github.com/chenxin-dlut/TransT
 
 ## 多目标跟踪
