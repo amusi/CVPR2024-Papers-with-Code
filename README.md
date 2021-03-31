@@ -750,6 +750,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 实例分割(Instance Segmentation)
 
+**Boundary IoU: Improving Object-Centric Image Segmentation Evaluation**
+
+- Homepage: https://bowenc0221.github.io/boundary-iou/
+- Paper: https://arxiv.org/abs/2103.16562
+
+- Code: https://github.com/bowenc0221/boundary-iou-api
+
 **Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers**
 
 - Paper: https://arxiv.org/abs/2103.12340
