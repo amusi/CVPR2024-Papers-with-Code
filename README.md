@@ -335,6 +335,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
+**Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
+
+- Paper: https://arxiv.org/abs/2012.15840
+- Code: https://github.com/fudan-zvg/SETR
+
 **Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**
 
 - Paper: https://arxiv.org/abs/2103.16553
@@ -660,6 +665,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Semantic-Segmentation"></a>
 
 # 语义分割(Semantic Segmentation)
+
+**Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
+
+- Paper: https://arxiv.org/abs/2012.15840
+- Code: https://github.com/fudan-zvg/SETR
 
 **Bidirectional Projection Network for Cross Dimension Scene Understanding**
 
