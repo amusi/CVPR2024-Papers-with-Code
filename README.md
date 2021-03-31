@@ -128,6 +128,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # NAS
 
+**DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation**
+
+- Paper(Oral): https://arxiv.org/abs/2103.15954
+- Code: None
+
 **HR-NAS: Searching Efficient High-Resolution Neural Architectures with Transformers**
 
 - Paper(Oral): None
@@ -769,6 +774,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.06030
 - Code: https://github.com/liuquande/FedDG-ELCFS
+
+## 3D医学图像分割
+
+**DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation**
+
+- Paper(Oral): https://arxiv.org/abs/2103.15954
+- Code: None
 
 <a name="IVOS"></a>
 
