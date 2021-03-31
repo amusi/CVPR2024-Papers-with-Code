@@ -1079,6 +1079,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 图像补全(Image Inpainting)
 
+**TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations**
+
+- Homepage: https://yzhouas.github.io/projects/TransFill/index.html
+- Paper: https://arxiv.org/abs/2103.15982
+- Code: None
+
 **PD-GAN: Probabilistic Diverse GAN for Image Inpainting**
 
 - Paper: http://raywzy.com/
