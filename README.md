@@ -335,6 +335,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
+**Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**
+
+- Paper: https://arxiv.org/abs/2103.16553
+- Code: None
+
 **Transformer Tracking**
 
 - Paper: https://arxiv.org/abs/2103.15436
@@ -1335,6 +1340,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Cross-modal-Retrieval"></a>
 
 # 跨模态检索(Cross-modal Retrieval)
+
+**Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**
+
+- Paper: https://arxiv.org/abs/2103.16553
+- Code: None
 
 **Revamping cross-modal recipe retrieval with hierarchical Transformers and self-supervised learning**
 
