@@ -53,6 +53,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [图像补全(Image Inpainting)](#Image-Inpainting)
 - [图像编辑(Image Editing)](#Image-Editing)
+- [图像匹配(Image Matching)](#Image-Matching)
 - [反光去除(Reflection Removal)](#Reflection-Removal)
 - [3D点云分类(3D Point Clouds Classification)](#3D-C)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
@@ -1156,6 +1157,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
 
 - Paper: None
+- Code: None
+
+<a name="Image-Matching"></a>
+
+# 图像匹配(Image Matcing)
+
+**Convolutional Hough Matching Networks**
+
+- Homapage: http://cvlab.postech.ac.kr/research/CHM/
+- Paper(Oral): https://arxiv.org/abs/2103.16831
 - Code: None
 
 <a name="Reflection-Removal"></a>
