@@ -20,6 +20,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [Regularization](#Regularization)
 - [SLAM](#SLAM)
 - [长尾分布(Long-Tailed)](#Long-Tailed)
+- [数据增广(Data Augmentation)](#DA)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [半监督(Semi-Supervised)](#Semi-Supervised)
 - [胶囊网络(Capsule Network)](#Capsule-Network)
@@ -429,6 +430,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.14267
 - Code: None
 
+<a name="DA"></a>
+
+# 数据增广(Data Augmentation)
+
+**Scale-aware Automatic Augmentation for Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.17220
+
+- Code: https://github.com/Jia-Research-Lab/SA-AutoAug
+
 <a name="Un/Self-Supervised"></a>
 
 # 无监督/自监督(Un/Self-Supervised)
@@ -487,6 +498,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 # 2D目标检测(Object Detection)
 
 ## 2D目标检测
+
+**Scale-aware Automatic Augmentation for Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.17220
+
+- Code: https://github.com/Jia-Research-Lab/SA-AutoAug
 
 **OTA: Optimal Transport Assignment for Object Detection**
 
