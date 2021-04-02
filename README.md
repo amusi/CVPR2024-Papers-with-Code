@@ -337,6 +337,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
+**LoFTR: Detector-Free Local Feature Matching with Transformers**
+
+- Homepage: https://zju3dv.github.io/loftr/
+- Paper: https://arxiv.org/abs/2104.00680
+- Code: https://github.com/zju3dv/LoFTR
+
 **Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
 
 - Paper: https://arxiv.org/abs/2012.15840
@@ -1162,6 +1168,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Image-Matching"></a>
 
 # 图像匹配(Image Matcing)
+
+**LoFTR: Detector-Free Local Feature Matching with Transformers**
+
+- Homepage: https://zju3dv.github.io/loftr/
+- Paper: https://arxiv.org/abs/2104.00680
+- Code: https://github.com/zju3dv/LoFTR
 
 **Convolutional Hough Matching Networks**
 
