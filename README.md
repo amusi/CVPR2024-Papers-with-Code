@@ -62,6 +62,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud-Registration)
 - [3D点云补全(3D-Point-Cloud-Completion)](#3D-Point-Cloud-Completion)
+- [3D重建(3D Reconstruction)](#3D-Reconstruction)
 - [6D位姿估计(6D Pose Estimation)](#6D-Pose-Estimation)
 - [相机姿态估计(Camera Pose Estimation)](#Camera-Pose-Estimation)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
@@ -1305,6 +1306,17 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.02535
 - Code: None
+
+<a name="3D-Reconstruction"></a>
+
+# 3D重建(3D Reconstruction)
+
+**NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video**
+
+- Homepage: https://zju3dv.github.io/neuralrecon/
+
+- Paper(Oral): https://arxiv.org/abs/2104.00681
+- Code: https://github.com/zju3dv/NeuralRecon
 
 <a name="6D-Pose-Estimation"></a>
 
