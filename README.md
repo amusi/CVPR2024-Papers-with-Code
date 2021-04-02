@@ -509,7 +509,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **VarifocalNet: An IoU-aware Dense Object Detector**
 
-- Paper: https://arxiv.org/abs/2008.13367
+- Paper(Oral): https://arxiv.org/abs/2008.13367
 
 - Code: https://github.com/hyz-xmaster/VarifocalNet
 
