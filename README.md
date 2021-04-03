@@ -643,6 +643,14 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 单目标跟踪
 
+**Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark**
+
+- Homepage: https://sites.google.com/view/langtrackbenchmark/
+
+- Paper: https://arxiv.org/abs/2103.16746
+- Evaluation Toolkit: https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit
+- Demo video: https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang 
+
 **IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking**
 
 - Paper: https://arxiv.org/abs/2103.14938
@@ -1274,7 +1282,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Panoptic-PolarNet: Proposal-free LiDAR Point Cloud Panoptic Segmentation**
 
 - Paper: https://arxiv.org/abs/2103.14962
-- Code: None
+- Code: https://github.com/edwardzhou130/Panoptic-PolarNet
 
 <a name="3D-Object-Tracking"></a>
 
@@ -1627,6 +1635,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Domain Consensus Clustering for Universal Domain Adaptation**
+
+- Paper: http://reler.net/papers/guangrui_cvpr2021.pdf
+- Code: https://github.com/Solacex/Domain-Consensus-Clustering 
+
+**Exploring intermediate representation for monocular vehicle pose estimation**
+
+- Paper: None
+- Code: https://github.com/Nicholasli1995/EgoNet
 
 **Tuning IR-cut Filter for Illumination-aware Spectral Reconstruction from RGB**
 
