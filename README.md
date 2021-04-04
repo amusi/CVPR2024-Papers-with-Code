@@ -1424,6 +1424,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 跨模态检索(Cross-modal Retrieval)
 
+**Cross-Modal Center Loss for 3D Cross-Modal Retrieval**
+
+- Paper: https://arxiv.org/abs/2008.03561
+- Code: https://github.com/LongLong-Jing/Cross-Modal-Center-Loss 
+
 **Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**
 
 - Paper: https://arxiv.org/abs/2103.16553
