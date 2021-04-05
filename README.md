@@ -433,6 +433,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 长尾分布(Long-Tailed)
 
+**Adaptive Class Suppression Loss for Long-Tail Object Detection**
+
+- Paper: https://arxiv.org/abs/2104.00885
+- Code: https://github.com/CASIA-IVA-Lab/ACSL
+
 **Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification**
 
 - Paper: https://arxiv.org/abs/2103.14267
@@ -506,6 +511,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 # 2D目标检测(Object Detection)
 
 ## 2D目标检测
+
+**Adaptive Class Suppression Loss for Long-Tail Object Detection**
+
+- Paper: https://arxiv.org/abs/2104.00885
+- Code: https://github.com/CASIA-IVA-Lab/ACSL
 
 **VarifocalNet: An IoU-aware Dense Object Detector**
 
