@@ -200,6 +200,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # GAN
 
+**Towards Real-World Blind Face Restoration with Generative Facial Prior**
+
+- Paper: https://arxiv.org/abs/2101.04061
+- Code: None
+
 **TediGAN: Text-Guided Diverse Image Generation and Manipulation**
 
 - Homepage: https://xiaweihao.com/projects/tedigan/
