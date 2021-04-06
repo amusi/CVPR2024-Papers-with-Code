@@ -953,6 +953,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 人脸检测(Face Detection)
 
+**HLA-Face: Joint High-Low Adaptation for Low Light Face Detection**
+
+- Homepage: https://daooshee.github.io/HLA-Face-Website/
+- Paper: https://arxiv.org/abs/2104.01984
+- Code: https://github.com/daooshee/HLA-Face-Code
+
 **CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement**
 
 - Paper: https://arxiv.org/abs/2103.07017
