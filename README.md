@@ -75,6 +75,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [视频插帧(Video Frame Interpolation)](#Video-Frame-Interpolation)
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
 - [视图合成(Visual Synthesis)](#Visual-Synthesis)
+- [布局生成(Layout Generation)](#Layout-Generation)
 - [Domain Generalization](#Domain-Generalization)
 - [Open-Set Recognition](#Open-Set-Recognition)
 - [Adversarial Attack](#Adversarial-Attack)
@@ -342,6 +343,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Visual Transformer"></a>
 
 # Visual Transformer
+
+**Variational Transformer Networks for Layout Generation**
+
+- Paper: https://arxiv.org/abs/2104.02416
+- Code: None
 
 **LoFTR: Detector-Free Local Feature Matching with Transformers**
 
@@ -1518,6 +1524,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Homepage: https://nex-mpi.github.io/
 - Paper(Oral): https://arxiv.org/abs/2103.05606
+
+<a name="Layout-Generation"></a>
+
+# Layout Generation
+
+**Variational Transformer Networks for Layout Generation**
+
+- Paper: https://arxiv.org/abs/2104.02416
+- Code: None
 
 <a name="Domain-Generalization"></a>
 
