@@ -32,6 +32,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [医学图像分割(Medical Image Segmentation)](#Medical-Image-Segmentation)
 - [交互式视频目标分割(Interactive-Video-Object-Segmentation)](#IVOS)
 - [显著性检测(Saliency Detection)](#Saliency-Detection)
+- [伪装物体检测(Camouflaged Object Detection)](#Camouflaged-Object-Detection)
 - [行人搜索(Person Search)](#Person-Search)
 - [视频理解/行为识别(Video Understanding)](#Video-Understanding)
 - [人脸识别(Face Recognition)](#Face-Recognition)
@@ -886,10 +887,26 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 显著性检测(Saliency Detection)
 
+**Uncertainty-aware Joint Salient Object and Camouflaged Object Detection**
+
+- Paper: https://arxiv.org/abs/2104.02628
+
+- Code: https://github.com/JingZhang617/Joint_COD_SOD
+
 **Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion**
 
 - Paper(Oral): https://arxiv.org/abs/2103.11832
 - Code: https://github.com/sunpeng1996/DSA2F
+
+<a name="Camouflaged-Object-Detection"></a>
+
+# 伪装物体检测(Camouflaged Object Detection)
+
+**Uncertainty-aware Joint Salient Object and Camouflaged Object Detection**
+
+- Paper: https://arxiv.org/abs/2104.02628
+
+- Code: https://github.com/JingZhang617/Joint_COD_SOD
 
 <a name="Person-Search"></a>
 
