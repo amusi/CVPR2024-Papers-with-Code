@@ -806,6 +806,14 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2101.10979
 - Code: https://github.com/microsoft/ProDA
 
+## 视频语义分割
+
+**VSPW: A Large-scale Dataset for Video Scene Parsing in the Wild**
+
+- Homepage: https://www.vspwdataset.com/
+- Paper: https://www.vspwdataset.com/CVPR2021__miao.pdf
+- GitHub: https://github.com/sssdddwww2/vspw_dataset_download
+
 <a name="Instance-Segmentation"></a>
 
 # 实例分割(Instance Segmentation)
@@ -1618,6 +1626,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**VSPW: A Large-scale Dataset for Video Scene Parsing in the Wild**
+
+- Homepage: https://www.vspwdataset.com/
+- Paper: https://www.vspwdataset.com/CVPR2021__miao.pdf
+- GitHub: https://github.com/sssdddwww2/vspw_dataset_download
 
 **Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark**
 
