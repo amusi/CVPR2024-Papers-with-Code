@@ -202,6 +202,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # GAN
 
+**Regularizing Generative Adversarial Networks under Limited Data**
+
+- Homepage: https://hytseng0509.github.io/lecam-gan/
+- Paper: https://faculty.ucmerced.edu/mhyang/papers/cvpr2021_gan_limited_data.pdf
+- Code: https://github.com/google/lecam-gan
+
 **Towards Real-World Blind Face Restoration with Generative Facial Prior**
 
 - Paper: https://arxiv.org/abs/2101.04061
