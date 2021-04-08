@@ -647,6 +647,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## Few-Shot目标检测
 
+**Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.17115
+- Code: https://github.com/hzhupku/DCNet 
+
 **Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection**
 
 - Paper: https://arxiv.org/abs/2103.01903
