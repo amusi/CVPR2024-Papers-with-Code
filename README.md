@@ -743,6 +743,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 语义分割(Semantic Segmentation)
 
+**Progressive Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2104.03778
+- Code: None
+
 **Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
 
 - Paper: https://arxiv.org/abs/2012.15840
