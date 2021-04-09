@@ -857,6 +857,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 全景分割(Panoptic Segmentation)
 
+**Panoptic Segmentation Forecasting**
+
+- Paper: https://arxiv.org/abs/2104.03962
+- Code: Code
+
 **Fully Convolutional Networks for Panoptic Segmentation**
 
 - Paper: https://arxiv.org/abs/2012.00720
