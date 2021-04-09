@@ -718,6 +718,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 多目标跟踪
 
+**Multiple Object Tracking with Correlation Learning**
+
+- Paper: https://arxiv.org/abs/2104.03541
+- Code: None
+
 **Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking**
 
 - Paper: https://arxiv.org/abs/2012.02337
