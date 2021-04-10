@@ -535,6 +535,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 2D目标检测
 
+**Multi-Scale Aligned Distillation for Low-Resolution Detection**
+
+- Paper: https://jiaya.me/papers/ms_align_distill_cvpr21.pdf
+
+- Code: https://github.com/Jia-Research-Lab/MSAD
+
 **Adaptive Class Suppression Loss for Long-Tail Object Detection**
 
 - Paper: https://arxiv.org/abs/2104.00885
@@ -844,6 +850,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Instance-Segmentation"></a>
 
 # 实例分割(Instance Segmentation)
+
+**Multi-Scale Aligned Distillation for Low-Resolution Detection**
+
+- Paper: https://jiaya.me/papers/ms_align_distill_cvpr21.pdf
+
+- Code: https://github.com/Jia-Research-Lab/MSAD
 
 **Boundary IoU: Improving Object-Centric Image Segmentation Evaluation**
 
