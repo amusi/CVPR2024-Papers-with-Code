@@ -451,6 +451,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 长尾分布(Long-Tailed)
 
+**Distribution Alignment: A Unified Framework for Long-tail Visual Recognition**
+
+- Paper: None
+- Code: https://github.com/Megvii-BaseDetection/DisAlign
+
 **Adaptive Class Suppression Loss for Long-Tail Object Detection**
 
 - Paper: https://arxiv.org/abs/2104.00885
