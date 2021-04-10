@@ -1734,6 +1734,14 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 其他(Others)
 
+**Visually Informed Binaural Audio Generation without Binaural Audios**
+
+- Homepage: https://sheldontsui.github.io/projects/PseudoBinaural
+- Paper: None
+
+- GitHub: https://github.com/SheldonTsui/PseudoBinaural_CVPR2021
+- Demo: https://www.youtube.com/watch?v=r-uC2MyAWQc
+
 **Domain Consensus Clustering for Universal Domain Adaptation**
 
 - Paper: http://reler.net/papers/guangrui_cvpr2021.pdf
