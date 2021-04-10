@@ -903,6 +903,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 交互式视频目标分割(Interactive-Video-Object-Segmentation)
 
+**Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion**
+
+- Homepage: https://hkchengrex.github.io/MiVOS/
+
+- Paper: https://arxiv.org/abs/2103.07941
+
+- Code: https://github.com/hkchengrex/MiVOS
+- Demo: https://hkchengrex.github.io/MiVOS/video.html#partb
+
 **Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild**
 
 - Paper: https://arxiv.org/abs/2103.10391
