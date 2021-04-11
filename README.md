@@ -1142,6 +1142,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 3D 人体姿态估计
 
+**Monocular 3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks**
+
+- Paper: https://arxiv.org/abs/2104.01797
+- https://github.com/3dpose/3D-Multi-Person-Pose
+
 **HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation**
 
 - Homepage: https://jeffli.site/HybrIK/ 
@@ -1367,8 +1372,10 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection**
 
+- Homepage:  https://cvlab.yonsei.ac.kr/projects/HVPR/ 
+
 - Paper: https://arxiv.org/abs/2104.00902
-- Code: None
+- Code:  https://github.com/cvlab-yonsei/HVPR 
 
 **LiDAR R-CNN: An Efficient and Universal 3D Object Detector**
 
