@@ -55,6 +55,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [图像补全(Image Inpainting)](#Image-Inpainting)
 - [图像编辑(Image Editing)](#Image-Editing)
 - [图像匹配(Image Matching)](#Image-Matching)
+- [图像融合(Image Blending)](#Image-Blending)
 - [反光去除(Reflection Removal)](#Reflection-Removal)
 - [3D点云分类(3D Point Clouds Classification)](#3D-C)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
@@ -1299,6 +1300,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Homapage: http://cvlab.postech.ac.kr/research/CHM/
 - Paper(Oral): https://arxiv.org/abs/2103.16831
 - Code: None
+
+<a name="Image-Blending"></a>
+
+# 图像融合(Image Blending)
+
+**Bridging the Visual Gap: Wide-Range Image Blending**
+
+- Paper: https://arxiv.org/abs/2103.15149
+
+- Code: https://github.com/julia0607/Wide-Range-Image-Blending
 
 <a name="Reflection-Removal"></a>
 
