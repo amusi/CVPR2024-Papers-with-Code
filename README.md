@@ -33,6 +33,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [交互式视频目标分割(Interactive-Video-Object-Segmentation)](#IVOS)
 - [显著性检测(Saliency Detection)](#Saliency-Detection)
 - [伪装物体检测(Camouflaged Object Detection)](#Camouflaged-Object-Detection)
+- [协同显著性检测(Co-Salient Object Detection)](#CoSOD)
 - [行人搜索(Person Search)](#Person-Search)
 - [视频理解/行为识别(Video Understanding)](#Video-Understanding)
 - [人脸识别(Face Recognition)](#Face-Recognition)
@@ -68,6 +69,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [6D位姿估计(6D Pose Estimation)](#6D-Pose-Estimation)
 - [相机姿态估计(Camera Pose Estimation)](#Camera-Pose-Estimation)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
+- [光流估计(Flow Estimation)](#Flow-Estimation)
 - [对抗样本(Adversarial-Examples)](#AE)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
 - [视频检索(Video Retrieval)](#Video-Retrieval)
@@ -79,6 +81,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [视图合成(Visual Synthesis)](#Visual-Synthesis)
 - [布局生成(Layout Generation)](#Layout-Generation)
 - [Domain Generalization](#Domain-Generalization)
+- [Domain Adaptation](#Domain-Adaptation)
 - [Open-Set Recognition](#Open-Set-Recognition)
 - [Adversarial Attack](#Adversarial-Attack)
 - ["人-物"交互(HOI)检测](#HOI)
@@ -481,6 +484,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 无监督/自监督(Un/Self-Supervised)
 
+**Self-supervised Video Representation Learning by Context and Motion Decoupling**
+
+- Paper: https://arxiv.org/abs/2104.00862
+- Code: None
+
 **Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning**
 
 - Homepage: https://fingerrec.github.io/index_files/jinpeng/papers/CVPR2021/project_website.html
@@ -797,6 +805,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 弱监督语义分割
 
+**Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2104.00905
+- Code: None
+
 **Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation**
 
 - Paper: https://arxiv.org/abs/2103.14581
@@ -960,6 +973,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2104.02628
 
 - Code: https://github.com/JingZhang617/Joint_COD_SOD
+
+<a name="CoSOD"></a>
+
+# 协同显著性检测(Co-Salient Object Detection)
+
+**Group Collaborative Learning for Co-Salient Object Detection**
+
+- Paper: https://arxiv.org/abs/2104.01108
+- Code: https://github.com/fanq15/GCoNet
 
 <a name="Person-Search"></a>
 
@@ -1192,6 +1214,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 模型量化
 
+**Network Quantization with Element-wise Gradient Scaling**
+
+- Paper: https://arxiv.org/abs/2104.00903
+- Code: None
+
 **Zero-shot Adversarial Quantization**
 
 - Paper(Oral): https://arxiv.org/abs/2103.15263
@@ -1338,6 +1365,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 3D目标检测(3D Object Detection)
 
+**HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2104.00902
+- Code: None
+
 **LiDAR R-CNN: An Efficient and Universal 3D Object Detector**
 
 - Paper: https://arxiv.org/abs/2103.15297
@@ -1440,6 +1472,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 3D重建(3D Reconstruction)
 
+**Fully Understanding Generic Objects: Modeling, Segmentation, and Reconstruction**
+
+- Paper: https://arxiv.org/abs/2104.00858
+- Code: None
+
 **NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video**
 
 - Homepage: https://zju3dv.github.io/neuralrecon/
@@ -1479,6 +1516,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 深度估计
 
+**S2R-DepthNet: Learning a Generalizable Depth-specific Structural Representation**
+
+- Paper(Oral): https://arxiv.org/abs/2104.00877
+- Code: None
+
 **Beyond Image to Depth: Improving Depth Prediction using Echoes**
 
 - Homepage: https://krantiparida.github.io/projects/bimgdepth.html
@@ -1495,6 +1537,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.01468
 - Code: https://github.com/griffbr/ODMD
 - Dataset: https://github.com/griffbr/ODMD
+
+<a name="Flow-Estimation"></a>
+
+# 光流估计(Flow Estimation)
+
+- Paper: https://arxiv.org/abs/2104.00798
+- Code: None
 
 <a name="AE"></a>
 
@@ -1641,6 +1690,20 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.02370
 - Code: None
 
+<a name="Domain-Adaptation"></a>
+
+# Domain Adaptation
+
+**Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation**
+
+- Paper: https://arxiv.org/abs/2104.00808
+- Code: None
+
+**Domain Consensus Clustering for Universal Domain Adaptation**
+
+- Paper: http://reler.net/papers/guangrui_cvpr2021.pdf
+- Code: https://github.com/Solacex/Domain-Consensus-Clustering 
+
 <a name="Open-Set-Recognition"></a>
 
 # Open-Set Recognition
@@ -1707,6 +1770,14 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 数据集(Datasets)
 
+**Visual Semantic Role Labeling for Video Understanding**
+
+- Homepage: https://vidsitu.org/
+
+- Paper: https://arxiv.org/abs/2104.00990
+- Code: https://github.com/TheShadow29/VidSitu
+- Dataset: https://github.com/TheShadow29/VidSitu
+
 **VSPW: A Large-scale Dataset for Video Scene Parsing in the Wild**
 
 - Homepage: https://www.vspwdataset.com/
@@ -1771,6 +1842,39 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 其他(Others)
 
+**Visual Semantic Role Labeling for Video Understanding**
+
+- Homepage: https://vidsitu.org/
+
+- Paper: https://arxiv.org/abs/2104.00990
+- Code: https://github.com/TheShadow29/VidSitu
+- Dataset: https://github.com/TheShadow29/VidSitu
+
+**UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles**
+
+- Paper: https://arxiv.org/abs/2104.00946
+- Code: None
+
+**Video Prediction Recalling Long-term Motion Context via Memory Alignment Learning**
+
+- Paper(Oral): https://arxiv.org/abs/2104.00924
+- Code: None
+
+**Fully Understanding Generic Objects: Modeling, Segmentation, and Reconstruction**
+
+- Paper: https://arxiv.org/abs/2104.00858
+- Code: None
+
+**Towards High Fidelity Face Relighting with Realistic Shadows**
+
+- Paper: https://arxiv.org/abs/2104.00825
+- Code: None
+
+**BRepNet: A topological message passing system for solid models**
+
+- Paper(Oral): https://arxiv.org/abs/2104.00706
+- Code: None
+
 **Visually Informed Binaural Audio Generation without Binaural Audios**
 
 - Homepage: https://sheldontsui.github.io/projects/PseudoBinaural
@@ -1778,11 +1882,6 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - GitHub: https://github.com/SheldonTsui/PseudoBinaural_CVPR2021
 - Demo: https://www.youtube.com/watch?v=r-uC2MyAWQc
-
-**Domain Consensus Clustering for Universal Domain Adaptation**
-
-- Paper: http://reler.net/papers/guangrui_cvpr2021.pdf
-- Code: https://github.com/Solacex/Domain-Consensus-Clustering 
 
 **Exploring intermediate representation for monocular vehicle pose estimation**
 
