@@ -1555,6 +1555,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 光流估计(Flow Estimation)
 
+**Learning Optical Flow From Still Images**
+
+- Homepage: https://mattpoggi.github.io/projects/cvpr2021aleotti/
+
+- Paper: https://mattpoggi.github.io/assets/papers/aleotti2021cvpr.pdf
+- Code: https://github.com/mattpoggi/depthstillation
+
+**FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds**
+
 - Paper: https://arxiv.org/abs/2104.00798
 - Code: None
 
