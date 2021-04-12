@@ -96,6 +96,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Backbone
 
+**CondenseNet V2: Sparse Feature Reactivation for Deep Networks**
+
+- Paper: https://arxiv.org/abs/2104.04382
+
+- Code: https://github.com/jianghaojun/CondenseNetV2
+
 **Diverse Branch Block: Building a Convolution as an Inception-like Unit**
 
 - Paper: https://arxiv.org/abs/2103.13425
