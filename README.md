@@ -34,6 +34,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [显著性检测(Saliency Detection)](#Saliency-Detection)
 - [伪装物体检测(Camouflaged Object Detection)](#Camouflaged-Object-Detection)
 - [协同显著性检测(Co-Salient Object Detection)](#CoSOD)
+- [行人重识别(Person Re-identification)](#Re-ID)
 - [行人搜索(Person Search)](#Person-Search)
 - [视频理解/行为识别(Video Understanding)](#Video-Understanding)
 - [人脸识别(Face Recognition)](#Face-Recognition)
@@ -142,6 +143,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="NAS"></a>
 
 # NAS
+
+**Combined Depth Space based Architecture Search For Person Re-identification**
+
+- Paper: https://arxiv.org/abs/2104.04163
+- Code: None
 
 **DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation**
 
@@ -988,6 +994,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2104.01108
 - Code: https://github.com/fanq15/GCoNet
+
+<a name="Re-ID"></a>
+
+# 行人重识别(Person Re-identification)
+
+**Combined Depth Space based Architecture Search For Person Re-identification**
+
+- Paper: https://arxiv.org/abs/2104.04163
+- Code: None
 
 <a name="Person-Search"></a>
 
