@@ -901,15 +901,22 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Code: https://github.com/lkeab/BCNet 
 
-**End-to-End Video Instance Segmentation with Transformers**
-
-- Paper(Oral): https://arxiv.org/abs/2011.14503
-- Code: https://github.com/Epiphqny/VisTR
-
 **Zero-shot instance segmentation（Not Sure）**
 
 - Paper: None
 - Code: https://github.com/CVPR2021-pape-id-1395/CVPR2021-paper-id-1395
+
+## 视频实例分割
+
+**STMask: Spatial Feature Calibration and Temporal Fusion for Effective One-stage Video Instance Segmentation**
+
+- Paper: http://www4.comp.polyu.edu.hk/~cslzhang/papers.htm
+- Code: https://github.com/MinghanLi/STMask
+
+**End-to-End Video Instance Segmentation with Transformers**
+
+- Paper(Oral): https://arxiv.org/abs/2011.14503
+- Code: https://github.com/Epiphqny/VisTR
 
 <a name="Panoptic-Segmentation"></a>
 
