@@ -877,6 +877,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 实例分割(Instance Segmentation)
 
+**Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation**
+
+- Paper: https://arxiv.org/abs/2104.05239
+- Code: None
+
 **Multi-Scale Aligned Distillation for Low-Resolution Detection**
 
 - Paper: https://jiaya.me/papers/ms_align_distill_cvpr21.pdf
