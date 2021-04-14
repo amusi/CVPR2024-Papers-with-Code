@@ -97,6 +97,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Backbone
 
+**Lite-HRNet: A Lightweight High-Resolution Network**
+
+- Paper: https://arxiv.org/abs/2104.06403
+- https://github.com/HRNet/Lite-HRNet
+
 **CondenseNet V2: Sparse Feature Reactivation for Deep Networks**
 
 - Paper: https://arxiv.org/abs/2104.04382
