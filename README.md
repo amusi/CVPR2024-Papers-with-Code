@@ -1723,6 +1723,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 视图合成(View Synthesis)
 
+**Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes**
+
+- Homepage: https://virtualhumans.mpi-inf.mpg.de/srf/
+- Paper: https://arxiv.org/abs/2104.06935
+
 **Self-Supervised Visibility Learning for Novel View Synthesis**
 
 - Paper: https://arxiv.org/abs/2103.15407
