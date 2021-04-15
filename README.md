@@ -1908,6 +1908,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 其他(Others)
 
+**LEAP: Learning Articulated Occupancy of People**
+
+- Paper: https://arxiv.org/abs/2104.06849
+- Code: None
+
 **Visual Semantic Role Labeling for Video Understanding**
 
 - Homepage: https://vidsitu.org/
