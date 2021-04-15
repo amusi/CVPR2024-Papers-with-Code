@@ -567,6 +567,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 2D目标检测
 
+**IQDet: Instance-wise Quality Distribution Sampling for Object Detection**
+
+- Paper: https://arxiv.org/abs/2104.06936
+- Code: None
+
 **Multi-Scale Aligned Distillation for Low-Resolution Detection**
 
 - Paper: https://jiaya.me/papers/ms_align_distill_cvpr21.pdf
