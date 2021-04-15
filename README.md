@@ -372,6 +372,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
+**Pose Recognition with Cascade Transformers**
+
+- Paper: https://arxiv.org/abs/2104.06976
+
+- Code: https://github.com/mlpc-ucsd/PRTR
+
 **Variational Transformer Networks for Layout Generation**
 
 - Paper: https://arxiv.org/abs/2104.02416
@@ -1172,6 +1178,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 # 2D/3D人体姿态估计(2D/3D Human Pose Estimation)
 
 ## 2D 人体姿态估计
+
+**Pose Recognition with Cascade Transformers**
+
+- Paper: https://arxiv.org/abs/2104.06976
+
+- Code: https://github.com/mlpc-ucsd/PRTR
 
 **DCPose: Deep Dual Consecutive Network for Human Pose Estimation**
 
