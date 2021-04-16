@@ -70,6 +70,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [6D位姿估计(6D Pose Estimation)](#6D-Pose-Estimation)
 - [相机姿态估计(Camera Pose Estimation)](#Camera-Pose-Estimation)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
+- [立体匹配(Stereo Matching)](#Stereo Matching)
 - [光流估计(Flow Estimation)](#Flow-Estimation)
 - [对抗样本(Adversarial-Examples)](#AE)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
@@ -1576,7 +1577,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 <a name="Depth-Estimation"></a>
 
-# 深度估计
+# 深度估计(Depth Estimation)
 
 **S2R-DepthNet: Learning a Generalizable Depth-specific Structural Representation**
 
@@ -1599,6 +1600,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.01468
 - Code: https://github.com/griffbr/ODMD
 - Dataset: https://github.com/griffbr/ODMD
+
+<a name=" Stereo-Matching"></a>
+
+# 深度估计(Stereo Matching)
+
+**A Decomposition Model for Stereo Matching**
+
+- Paper: https://arxiv.org/abs/2104.07516
+- Code: None
 
 <a name="Flow-Estimation"></a>
 
