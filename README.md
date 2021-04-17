@@ -1313,6 +1313,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 超分辨率(Super-Resolution)
 
+**Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline**
+
+- Homepage: http://mepro.bjtu.edu.cn/resource.html
+- Paper: https://arxiv.org/abs/2104.06174
+- Code: None
+
 **ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic**
 
 - Paper: https://arxiv.org/abs/2103.04039
@@ -1867,6 +1873,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline**
+
+- Homepage: http://mepro.bjtu.edu.cn/resource.html
+- Paper: https://arxiv.org/abs/2104.06174
+- Code: None
 
 **Visual Semantic Role Labeling for Video Understanding**
 
