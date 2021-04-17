@@ -30,6 +30,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [医学图像分割(Medical Image Segmentation)](#Medical-Image-Segmentation)
+- [视频目标分割(Video-Object-Segmentation)](#VOS)
 - [交互式视频目标分割(Interactive-Video-Object-Segmentation)](#IVOS)
 - [显著性检测(Saliency Detection)](#Saliency-Detection)
 - [伪装物体检测(Camouflaged Object Detection)](#Camouflaged-Object-Detection)
@@ -971,6 +972,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper(Oral): https://arxiv.org/abs/2103.15954
 - Code: None
 
+<a name="VOS"></a>
+
+# 视频目标分割(Video-Object-Segmentation)
+
+**Learning Position and Target Consistency for Memory-based Video Object Segmentation**
+
+- Paper: https://arxiv.org/abs/2104.04329
+- Code: None
+
 <a name="IVOS"></a>
 
 # 交互式视频目标分割(Interactive-Video-Object-Segmentation)
@@ -1528,8 +1538,10 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **Style-based Point Generator with Adversarial Rendering for Point Cloud Completion**
 
+- Homepage: https://alphapav.github.io/SpareNet/
+
 - Paper: https://arxiv.org/abs/2103.02535
-- Code: None
+- Code: https://github.com/microsoft/SpareNet
 
 <a name="3D-Reconstruction"></a>
 
@@ -1927,6 +1939,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Learning Probabilistic Ordinal Embeddings for Uncertainty-Aware Regression**
+
+- Homepage: https://li-wanhua.github.io/POEs/
+- Paper:  https://arxiv.org/abs/2103.13629
+- Code: https://github.com/Li-Wanhua/POEs
 
 **LEAP: Learning Articulated Occupancy of People**
 
