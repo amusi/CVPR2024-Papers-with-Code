@@ -837,6 +837,8 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation**
 
+- Homepage:  https://cvlab.yonsei.ac.kr/projects/BANA/ 
+
 - Paper: https://arxiv.org/abs/2104.00905
 - Code: None
 
