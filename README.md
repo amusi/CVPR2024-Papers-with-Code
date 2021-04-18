@@ -82,6 +82,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [视频插帧(Video Frame Interpolation)](#Video-Frame-Interpolation)
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
 - [视图合成(Visual Synthesis)](#Visual-Synthesis)
+- [风格迁移(Style Transfer)](#Style-Transfer)
 - [布局生成(Layout Generation)](#Layout-Generation)
 - [Domain Generalization](#Domain-Generalization)
 - [Domain Adaptation](#Domain-Adaptation)
@@ -224,6 +225,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="GAN"></a>
 
 # GAN
+
+**Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer**
+
+- Paper: https://arxiv.org/abs/2104.05376
+- Code: https://github.com/PaddlePaddle/PaddleGAN/
 
 **Regularizing Generative Adversarial Networks under Limited Data**
 
@@ -1768,9 +1774,18 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Homepage: https://nex-mpi.github.io/
 - Paper(Oral): https://arxiv.org/abs/2103.05606
 
+<a name="Style-Transfer"></a>
+
+# 风格迁移(Style Transfer)
+
+**Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer**
+
+- Paper: https://arxiv.org/abs/2104.05376
+- Code: https://github.com/PaddlePaddle/PaddleGAN/
+
 <a name="Layout-Generation"></a>
 
-# Layout Generation
+# 布局生成(Layout Generation)
 
 **Variational Transformer Networks for Layout Generation**
 
