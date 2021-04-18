@@ -900,7 +900,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation**
 
 - Paper: https://arxiv.org/abs/2104.05239
-- Code: None
+- Code:  https://github.com/tinyalpha/BPR 
 
 **Multi-Scale Aligned Distillation for Low-Resolution Detection**
 
