@@ -1954,6 +1954,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 其他(Others)
 
+**SOLD2: Self-supervised Occlusion-aware Line Description and Detection**
+
+- Paper(Oral): https://arxiv.org/abs/2104.03362
+- Code: https://github.com/cvg/SOLD2
+
 **Learning Probabilistic Ordinal Embeddings for Uncertainty-Aware Regression**
 
 - Homepage: https://li-wanhua.github.io/POEs/
