@@ -35,6 +35,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [显著性检测(Saliency Detection)](#Saliency-Detection)
 - [伪装物体检测(Camouflaged Object Detection)](#Camouflaged-Object-Detection)
 - [协同显著性检测(Co-Salient Object Detection)](#CoSOD)
+- [图像抠图(Image Matting)](#Matting)
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [行人搜索(Person Search)](#Person-Search)
 - [视频理解/行为识别(Video Understanding)](#Video-Understanding)
@@ -1042,6 +1043,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2104.01108
 - Code: https://github.com/fanq15/GCoNet
 
+<a name="Matting"></a>
+
+# 协同显著性检测(Image Matting)
+
+**Semantic Image Matting**
+
+- Paper: https://arxiv.org/abs/2104.08201
+- Code: https://github.com/nowsyn/SIM
+- Dataset: https://github.com/nowsyn/SIM
+
 <a name="Re-ID"></a>
 
 # 行人重识别(Person Re-identification)
@@ -1890,6 +1901,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**Semantic Image Matting**
+
+- Paper: https://arxiv.org/abs/2104.08201
+- Code: https://github.com/nowsyn/SIM
+- Dataset: https://github.com/nowsyn/SIM
 
 **Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline**
 
