@@ -1461,6 +1461,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 3D目标检测(3D Object Detection)
 
+**Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds**
+
+- Paper: https://arxiv.org/abs/2104.06114
+- Code: https://github.com/cheng052/BRNet
+
 **HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection**
 
 - Homepage:  https://cvlab.yonsei.ac.kr/projects/HVPR/ 
