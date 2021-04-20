@@ -1237,6 +1237,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 3D 人体姿态估计
 
+**Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration**
+
+- Paper: https://arxiv.org/abs/2103.02845
+- Code: https://github.com/SeanChenxy/HandMesh
+
 **Monocular 3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks**
 
 - Paper: https://arxiv.org/abs/2104.01797
