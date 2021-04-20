@@ -909,6 +909,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 实例分割(Instance Segmentation)
 
+**RefineMask: Towards High-Quality Instance Segmentation with Fine-Grained Features**
+
+- Paper: https://arxiv.org/abs/2104.08569
+- Code: https://github.com/zhanggang001/RefineMask/
+
 **Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation**
 
 - Paper: https://arxiv.org/abs/2104.05239
