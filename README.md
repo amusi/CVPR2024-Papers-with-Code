@@ -1922,6 +1922,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 数据集(Datasets)
 
+**Learning To Count Everything**
+
+- Paper: https://arxiv.org/abs/2104.08391
+
+- Code: https://github.com/cvlab-stonybrook/LearningToCountEverything
+
 **Semantic Image Matting**
 
 - Paper: https://arxiv.org/abs/2104.08201
