@@ -1925,8 +1925,8 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Learning To Count Everything**
 
 - Paper: https://arxiv.org/abs/2104.08391
-
 - Code: https://github.com/cvlab-stonybrook/LearningToCountEverything
+- Dataset: https://github.com/cvlab-stonybrook/LearningToCountEverything
 
 **Semantic Image Matting**
 
@@ -2011,6 +2011,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Learning To Count Everything**
+
+- Paper: https://arxiv.org/abs/2104.08391
+- Code: https://github.com/cvlab-stonybrook/LearningToCountEverything
+- Dataset: https://github.com/cvlab-stonybrook/LearningToCountEverything
 
 **SOLD2: Self-supervised Occlusion-aware Line Description and Detection**
 
