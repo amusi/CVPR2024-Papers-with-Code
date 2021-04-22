@@ -1275,6 +1275,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 <a name="Scene-Text-Recognition"></a>
 
+# 场景文本检测(Scene Text Detection)
+
+**Fourier Contour Embedding for Arbitrary-Shaped Text Detection**
+
+- Paper: https://arxiv.org/abs/2104.10442
+- Code: None
+
+<a name="Scene-Text-Recognition"></a>
+
 # 场景文本识别(Scene Text Recognition)
 
 **Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition**
