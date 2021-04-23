@@ -1590,6 +1590,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 3D点云补全(3D Point Cloud Completion)
 
+**Variational Relational Point Completion Network**
+
+- Homepage:  https://paul007pl.github.io/projects/VRCNet 
+- Paper: https://arxiv.org/abs/2104.10154
+- Code: https://github.com/paul007pl/VRCNet
+
 **Style-based Point Generator with Adversarial Rendering for Point Cloud Completion**
 
 - Homepage: https://alphapav.github.io/SpareNet/
