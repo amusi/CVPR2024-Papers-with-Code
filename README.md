@@ -2027,6 +2027,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 其他(Others)
 
+**KeypointDeformer: Unsupervised 3D Keypoint Discovery for Shape Control**
+
+- Homepage: http://tomasjakab.github.io/KeypointDeformer
+
+- Paper(Oral): https://arxiv.org/abs/2104.11224
+- Code: https://github.com/tomasjakab/keypoint_deformer/
+
 **Learning To Count Everything**
 
 - Paper: https://arxiv.org/abs/2104.08391
