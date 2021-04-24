@@ -1348,6 +1348,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 知识蒸馏(Knowledge Distillation)
 
+**Distilling Knowledge via Knowledge Review**
+
+- Paper: https://arxiv.org/abs/2104.09044
+- Code: https://github.com/Jia-Research-Lab/ReviewKD
+
 **Distilling Object Detectors via Decoupled Features**
 
 - Paper: https://arxiv.org/abs/2103.14475
