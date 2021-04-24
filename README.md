@@ -55,6 +55,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [模型压缩/剪枝/量化](#Model-Compression)
 - [知识蒸馏(Knowledge Distillation)](#KD)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
+- [去雾(Dehazing)](#Dehazing)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [图像补全(Image Inpainting)](#Image-Inpainting)
 - [图像编辑(Image Editing)](#Image-Editing)
@@ -1371,6 +1372,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2009.08891
 - Code: None
+
+<a name="Dehazing"></a>
+
+# 去雾(Dehazing)
+
+**Contrastive Learning for Compact Single Image Dehazing**
+
+- Paper: https://arxiv.org/abs/2104.09367
+- Code: https://github.com/GlassyWu/AECR-Net
 
 ## 视频超分辨率
 
