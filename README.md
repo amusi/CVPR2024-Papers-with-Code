@@ -1720,7 +1720,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction**
 
-- Paper: https://arxiv.org/abs/2104.08277
+- Paper(Oral): https://arxiv.org/abs/2104.08277
 - Code: None
 
 <a name="AE"></a>
