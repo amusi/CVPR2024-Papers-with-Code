@@ -75,6 +75,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [立体匹配(Stereo Matching)](#Stereo Matching)
 - [光流估计(Flow Estimation)](#Flow-Estimation)
+- [轨迹预测(Trajectory Prediction)](#Trajectory-Prediction)
 - [对抗样本(Adversarial-Examples)](#AE)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
 - [视频检索(Video Retrieval)](#Video-Retrieval)
@@ -1711,6 +1712,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds**
 
 - Paper: https://arxiv.org/abs/2104.00798
+- Code: None
+
+<a name="Trajectory-Prediction"></a>
+
+# 轨迹预测(Trajectory Prediction)
+
+**Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction**
+
+- Paper: https://arxiv.org/abs/2104.08277
 - Code: None
 
 <a name="AE"></a>
