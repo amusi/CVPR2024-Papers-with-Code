@@ -75,6 +75,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [立体匹配(Stereo Matching)](#Stereo Matching)
 - [光流估计(Flow Estimation)](#Flow-Estimation)
+- [车道线检测(Lane Detection)](#Lane-Detection)
 - [轨迹预测(Trajectory Prediction)](#Trajectory-Prediction)
 - [对抗样本(Adversarial-Examples)](#AE)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
@@ -493,6 +494,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Long-Tailed"></a>
 
 # 长尾分布(Long-Tailed)
+
+**Adversarial Robustness under Long-Tailed Distribution**
+
+- Paper(Oral): https://arxiv.org/abs/2104.02703
+- Code: https://github.com/wutong16/Adversarial_Long-Tail 
 
 **Distribution Alignment: A Unified Framework for Long-tail Visual Recognition**
 
@@ -1702,6 +1708,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 光流估计(Flow Estimation)
 
+**RAFT-3D: Scene Flow using Rigid-Motion Embeddings**
+
+- Paper: https://arxiv.org/abs/2012.00726v1
+- Code: None
+
 **Learning Optical Flow From Still Images**
 
 - Homepage: https://mattpoggi.github.io/projects/cvpr2021aleotti/
@@ -1713,6 +1724,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2104.00798
 - Code: None
+
+<a name="Lane-Detection"></a>
+
+# 车道线检测(Lane Detection)
+
+**Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection**
+
+- Paper: https://arxiv.org/abs/2010.12035
+- Code: https://github.com/lucastabelini/LaneATT 
 
 <a name="Trajectory-Prediction"></a>
 
