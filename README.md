@@ -813,6 +813,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 语义分割(Semantic Segmentation)
 
+**Rethinking BiSeNet For Real-time Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2104.13188
+
+- Code: https://github.com/MichaelFan01/STDC-Seg
+
 **Progressive Semantic Segmentation**
 
 - Paper: https://arxiv.org/abs/2104.03778
