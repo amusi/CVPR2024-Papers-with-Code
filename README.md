@@ -529,6 +529,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 无监督/自监督(Un/Self-Supervised)
 
+**Unsupervised Multi-Source Domain Adaptation for Person Re-Identification**
+
+- Paper: https://arxiv.org/abs/2104.12961
+- Code: None
+
 **Self-supervised Video Representation Learning by Context and Motion Decoupling**
 
 - Paper: https://arxiv.org/abs/2104.00862
@@ -1080,6 +1085,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Re-ID"></a>
 
 # 行人重识别(Person Re-identification)
+
+**Unsupervised Multi-Source Domain Adaptation for Person Re-Identification**
+
+- Paper: https://arxiv.org/abs/2104.12961
+- Code: None
 
 **Combined Depth Space based Architecture Search For Person Re-identification**
 
