@@ -823,6 +823,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 语义分割(Semantic Segmentation)
 
+**ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation**
+
+- Paper: https://arxiv.org/abs/2012.05258
+- Code: https://github.com/joe-siyuan-qiao/ViP-DeepLab
+- Dataset: https://github.com/joe-siyuan-qiao/ViP-DeepLab
+
 **Rethinking BiSeNet For Real-time Semantic Segmentation**
 
 - Paper: https://arxiv.org/abs/2104.13188
@@ -2007,6 +2013,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation**
+
+- Paper: https://arxiv.org/abs/2012.05258
+- Code: https://github.com/joe-siyuan-qiao/ViP-DeepLab
+- Dataset: https://github.com/joe-siyuan-qiao/ViP-DeepLab
 
 **Learning To Count Everything**
 
