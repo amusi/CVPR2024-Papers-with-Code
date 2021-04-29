@@ -384,6 +384,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
+**HOTR: End-to-End Human-Object Interaction Detection with Transformers**
+
+- Paper: https://arxiv.org/abs/2104.13682
+- Code: None
+
 **Multi-Modal Fusion Transformer for End-to-End Autonomous Driving**
 
 - Paper: https://arxiv.org/abs/2104.09224
@@ -1953,6 +1958,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="HOI"></a>
 
 # "人-物"交互(HOI)检测
+
+**HOTR: End-to-End Human-Object Interaction Detection with Transformers**
+
+- Paper: https://arxiv.org/abs/2104.13682
+- Code: None
 
 **Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information**
 
