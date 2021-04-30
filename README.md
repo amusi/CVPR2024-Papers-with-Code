@@ -762,6 +762,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 单目标跟踪
 
+**LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search**
+
+- Paper: https://arxiv.org/abs/2104.14545
+
+- Code: https://github.com/researchmm/LightTrack
+
 **Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark**
 
 - Homepage: https://sites.google.com/view/langtrackbenchmark/
