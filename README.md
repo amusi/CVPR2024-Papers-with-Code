@@ -104,6 +104,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Backbone
 
+**Decoupled Dynamic Filter Networks**
+
+- Homepage: https://thefoxofsky.github.io/project_pages/ddf
+- Paper: https://arxiv.org/abs/2104.14107
+- Code: https://github.com/thefoxofsky/DDF
+
 **Lite-HRNet: A Lightweight High-Resolution Network**
 
 - Paper: https://arxiv.org/abs/2104.06403
