@@ -534,6 +534,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 无监督/自监督(Un/Self-Supervised)
 
+**A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning**
+
+- Paper: https://arxiv.org/abs/2104.14558
+
+- Code: https://github.com/facebookresearch/SlowFast
+
 **Unsupervised Multi-Source Domain Adaptation for Person Re-Identification**
 
 - Paper: https://arxiv.org/abs/2104.12961
