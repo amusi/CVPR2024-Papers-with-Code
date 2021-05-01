@@ -1662,6 +1662,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 3D点云补全(3D Point Cloud Completion)
 
+**Unsupervised 3D Shape Completion through GAN Inversion**
+
+- Homepage: https://junzhezhang.github.io/projects/ShapeInversion/
+- Paper: https://arxiv.org/abs/2104.13366 
+- Code: https://github.com/junzhezhang/shape-inversion 
+
 **Variational Relational Point Completion Network**
 
 - Homepage:  https://paul007pl.github.io/projects/VRCNet 
