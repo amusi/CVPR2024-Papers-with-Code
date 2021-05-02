@@ -2139,6 +2139,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 其他(Others)
 
+**Deep Lucas-Kanade Homography for Multimodal Image Alignment**
+
+- Paper: https://arxiv.org/abs/2104.11693
+- Code: https://github.com/placeforyiming/CVPR21-Deep-Lucas-Kanade-Homography
+
 **Skip-Convolutions for Efficient Video Processing**
 
 - Paper: https://arxiv.org/abs/2104.11487
