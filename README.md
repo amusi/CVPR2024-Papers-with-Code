@@ -2046,7 +2046,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets**
 
 - Homepage: https://fidler-lab.github.io/efficient-annotation-cookbook/
-- Paper: https://arxiv.org/abs/2104.12690
+- Paper(Oral): https://arxiv.org/abs/2104.12690
 - Code: https://github.com/fidler-lab/efficient-annotation-cookbook
 
 论文下载链接：
@@ -2150,7 +2150,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets**
 
 - Homepage: https://fidler-lab.github.io/efficient-annotation-cookbook/
-- Paper: https://arxiv.org/abs/2104.12690
+- Paper(Oral): https://arxiv.org/abs/2104.12690
 - Code: https://github.com/fidler-lab/efficient-annotation-cookbook
 
 **Motion Representations for Articulated Animation**
