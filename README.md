@@ -2043,6 +2043,14 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 数据集(Datasets)
 
+**Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets**
+
+- Homepage: https://fidler-lab.github.io/efficient-annotation-cookbook/
+- Paper: https://arxiv.org/abs/2104.12690
+- Code: https://github.com/fidler-lab/efficient-annotation-cookbook
+
+论文下载链接：
+
 **ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation**
 
 - Paper: https://arxiv.org/abs/2012.05258
@@ -2138,6 +2146,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets**
+
+- Homepage: https://fidler-lab.github.io/efficient-annotation-cookbook/
+- Paper: https://arxiv.org/abs/2104.12690
+- Code: https://github.com/fidler-lab/efficient-annotation-cookbook
 
 **Motion Representations for Articulated Animation**
 
