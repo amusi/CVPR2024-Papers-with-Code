@@ -236,6 +236,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # GAN
 
+**StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
+
+- Paper: https://arxiv.org/abs/2104.14754
+- Code: https://github.com/naver-ai/StyleMapGAN
+- Demo Video: https://youtu.be/qCapNyRA_Ng
+
 **Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer**
 
 - Paper: https://arxiv.org/abs/2104.05376
@@ -780,7 +786,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.16746
 - Evaluation Toolkit: https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit
-- Demo video: https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang 
+- Demo Video: https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang 
 
 **IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking**
 
