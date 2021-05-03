@@ -1485,6 +1485,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 图像编辑(Image Editing)
 
+**StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
+
+- Paper: https://arxiv.org/abs/2104.14754
+- Code: https://github.com/naver-ai/StyleMapGAN
+- Demo Video: https://youtu.be/qCapNyRA_Ng
+
 **High-Fidelity and Arbitrary Face Editing**
 
 - Paper: https://arxiv.org/abs/2103.15814
