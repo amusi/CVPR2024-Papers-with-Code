@@ -926,6 +926,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 域自适应语义分割
 
+**Self-supervised Augmentation Consistency for Adapting Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2105.00097
+
+- Code: https://github.com/visinf/da-sac
+
 **RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening**
 
 - Paper: https://arxiv.org/abs/2103.15597
