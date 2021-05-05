@@ -1256,6 +1256,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 人脸年龄估计(Age Estimation)
 
+**Continuous Face Aging via Self-estimated Residual Age Embedding**
+
+- Paper: https://arxiv.org/abs/2105.00020
+- Code: None
+
 **PML: Progressive Margin Loss for Long-tailed Age Classification**
 
 - Paper: https://arxiv.org/abs/2103.02140
