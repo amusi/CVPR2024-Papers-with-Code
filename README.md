@@ -1787,6 +1787,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 光流估计(Flow Estimation)
 
+**Self-Supervised Multi-Frame Monocular Scene Flow**
+
+- Paper: https://arxiv.org/abs/2105.02216
+- Code: https://github.com/visinf/multi-mono-sf
+
 **RAFT-3D: Scene Flow using Rigid-Motion Embeddings**
 
 - Paper: https://arxiv.org/abs/2012.00726v1
