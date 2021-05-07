@@ -77,6 +77,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [光流估计(Flow Estimation)](#Flow-Estimation)
 - [车道线检测(Lane Detection)](#Lane-Detection)
 - [轨迹预测(Trajectory Prediction)](#Trajectory-Prediction)
+- [人群计数(Crowd Counting)](#Crowd-Counting)
 - [对抗样本(Adversarial-Examples)](#AE)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
 - [视频检索(Video Retrieval)](#Video-Retrieval)
@@ -1838,9 +1839,21 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper(Oral): https://arxiv.org/abs/2104.08277
 - Code: None
 
+<a name="Crowd-Counting"></a>
+
+# 人群计数(Crowd Counting)
+
+**Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark**
+
+- Paper: https://arxiv.org/abs/2105.02440
+
+- Code: https://github.com/VisDrone/DroneCrowd
+
+- Dataset: https://github.com/VisDrone/DroneCrowd
+
 <a name="AE"></a>
 
-# 对抗样本
+# 对抗样本(Adversarial Examples)
 
 **LiBRe: A Practical Bayesian Approach to Adversarial Detection**
 
@@ -2081,6 +2094,14 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark**
+
+- Paper: https://arxiv.org/abs/2105.02440
+
+- Code: https://github.com/VisDrone/DroneCrowd
+
+- Dataset: https://github.com/VisDrone/DroneCrowd
 
 **Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets**
 
