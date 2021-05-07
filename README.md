@@ -1317,6 +1317,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 3D 人体姿态估计
 
+**PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation**
+
+- Paper(Oral): https://arxiv.org/abs/2105.02465
+
+- Code: https://github.com/jfzhang95/PoseAug
+
 **Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration**
 
 - Paper: https://arxiv.org/abs/2103.02845
