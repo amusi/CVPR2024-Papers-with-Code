@@ -1786,7 +1786,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Code: https://github.com/griffbr/ODMD
 - Dataset: https://github.com/griffbr/ODMD
 
-<a name=" Stereo-Matching"></a>
+<a name="Stereo-Matching"></a>
 
 # 立体匹配(Stereo Matching)
 
