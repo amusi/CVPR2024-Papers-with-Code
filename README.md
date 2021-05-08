@@ -59,6 +59,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [图像补全(Image Inpainting)](#Image-Inpainting)
 - [图像编辑(Image Editing)](#Image-Editing)
+- [字体生成(Font Generation)](#Font-Generation)
 - [图像匹配(Image Matching)](#Image-Matching)
 - [图像融合(Image Blending)](#Image-Blending)
 - [反光去除(Reflection Removal)](#Reflection-Removal)
@@ -236,6 +237,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="GAN"></a>
 
 # GAN
+
+**DG-Font: Deformable Generative Networks for Unsupervised Font Generation**
+
+- Paper: https://arxiv.org/abs/2104.03064
+
+- Code: https://github.com/ecnuycxie/DG-Font
 
 **PD-GAN: Probabilistic Diverse GAN for Image Inpainting**
 
@@ -1538,6 +1545,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: None
 - Code: None
+
+<a name="Font-Generation"></a>
+
+# 字体生成(Font Generation)
+
+**DG-Font: Deformable Generative Networks for Unsupervised Font Generation**
+
+- Paper: https://arxiv.org/abs/2104.03064
+
+- Code: https://github.com/ecnuycxie/DG-Font
 
 <a name="Image-Matching"></a>
 
