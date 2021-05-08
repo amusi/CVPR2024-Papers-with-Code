@@ -73,7 +73,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [6D位姿估计(6D Pose Estimation)](#6D-Pose-Estimation)
 - [相机姿态估计(Camera Pose Estimation)](#Camera-Pose-Estimation)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
-- [立体匹配(Stereo Matching)](#Stereo Matching)
+- [立体匹配(Stereo Matching)](#Stereo-Matching)
 - [光流估计(Flow Estimation)](#Flow-Estimation)
 - [车道线检测(Lane Detection)](#Lane-Detection)
 - [轨迹预测(Trajectory Prediction)](#Trajectory-Prediction)
@@ -1788,7 +1788,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 <a name=" Stereo-Matching"></a>
 
-# 深度估计(Stereo Matching)
+# 立体匹配(Stereo Matching)
 
 **A Decomposition Model for Stereo Matching**
 
