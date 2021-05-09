@@ -409,6 +409,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
+**Kaleido-BERT：Vision-Language Pre-training on Fashion Domain**
+
+- Paper: https://arxiv.org/abs/2103.16110
+- Code: https://github.com/mczhuge/Kaleido-BERT
+
 **HOTR: End-to-End Human-Object Interaction Detection with Transformers**
 
 - Paper: https://arxiv.org/abs/2104.13682
