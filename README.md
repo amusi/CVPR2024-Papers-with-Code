@@ -987,6 +987,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 实例分割(Instance Segmentation)
 
+**A^2-FPN: Attention Aggregation based Feature Pyramid Network for Instance Segmentation**
+
+- Paper: https://arxiv.org/abs/2105.03186
+- Code: None
+
 **RefineMask: Towards High-Quality Instance Segmentation with Fine-Grained Features**
 
 - Paper: https://arxiv.org/abs/2104.08569
