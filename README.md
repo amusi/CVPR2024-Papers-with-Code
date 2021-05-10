@@ -59,6 +59,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [图像补全(Image Inpainting)](#Image-Inpainting)
 - [图像编辑(Image Editing)](#Image-Editing)
+- [图像描述(Image Captioning)](#Image-Captioning)
 - [字体生成(Font Generation)](#Font-Generation)
 - [图像匹配(Image Matching)](#Image-Matching)
 - [图像融合(Image Blending)](#Image-Blending)
@@ -1554,6 +1555,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
 
 - Paper: None
+- Code: None
+
+<a name="Image-Captioning"></a>
+
+# 图像描述(Image Captioning)
+
+**Towards Accurate Text-based Image Captioning with Content Diversity Exploration**
+
+- Paper: https://arxiv.org/abs/2105.03236
 - Code: None
 
 <a name="Font-Generation"></a>
