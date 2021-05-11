@@ -565,6 +565,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 无监督/自监督(Un/Self-Supervised)
 
+**Domain-Specific Suppression for Adaptive Object Detection**
+
+- Paper: https://arxiv.org/abs/2105.03570
+- Code: None
+
 **A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning**
 
 - Paper: https://arxiv.org/abs/2104.14558
@@ -635,6 +640,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 # 2D目标检测(Object Detection)
 
 ## 2D目标检测
+
+**Domain-Specific Suppression for Adaptive Object Detection**
+
+- Paper: https://arxiv.org/abs/2105.03570
+- Code: None
 
 **IQDet: Instance-wise Quality Distribution Sampling for Object Detection**
 
