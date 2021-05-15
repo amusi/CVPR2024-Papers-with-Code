@@ -998,6 +998,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 实例分割(Instance Segmentation)
 
+**Incremental Few-Shot Instance Segmentation**
+
+- Paper: https://arxiv.org/abs/2105.05312
+- Code: https://github.com/danganea/iMTFA
+
 **A^2-FPN: Attention Aggregation based Feature Pyramid Network for Instance Segmentation**
 
 - Paper: https://arxiv.org/abs/2105.03186
