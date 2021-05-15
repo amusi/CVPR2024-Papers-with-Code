@@ -998,6 +998,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 实例分割(Instance Segmentation)
 
+**DCT-Mask: Discrete Cosine Transform Mask Representation for Instance Segmentation**
+
+- Paper: https://arxiv.org/abs/2011.09876
+- Code: https://github.com/aliyun/DCT-Mask
+
 **Incremental Few-Shot Instance Segmentation**
 
 - Paper: https://arxiv.org/abs/2105.05312
