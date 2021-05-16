@@ -410,6 +410,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
+**End-to-End Human Pose and Mesh Reconstruction with Transformers**
+
+- Paper: https://arxiv.org/abs/2012.09760
+- Code: None
+
 **Temporal-Relational CrossTransformers for Few-Shot Action Recognition**
 
 - Paper: https://arxiv.org/abs/2101.06184
