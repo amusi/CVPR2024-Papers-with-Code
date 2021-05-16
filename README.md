@@ -88,6 +88,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [联邦学习(Federated Learning)](#Federated-Learning)
 - [视频插帧(Video Frame Interpolation)](#Video-Frame-Interpolation)
 - [视觉推理(Visual Reasoning)](#Visual-Reasoning)
+- [图像合成(Image Synthesis)](#Image-Synthesis)
 - [视图合成(Visual Synthesis)](#Visual-Synthesis)
 - [风格迁移(Style Transfer)](#Style-Transfer)
 - [布局生成(Layout Generation)](#Layout-Generation)
@@ -410,114 +411,226 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
-**End-to-End Human Pose and Mesh Reconstruction with Transformers**
+**1. End-to-End Human Pose and Mesh Reconstruction with Transformers**
 
 - Paper: https://arxiv.org/abs/2012.09760
 - Code: None
 
-**Temporal-Relational CrossTransformers for Few-Shot Action Recognition**
+**2. Temporal-Relational CrossTransformers for Few-Shot Action Recognition**
 
 - Paper: https://arxiv.org/abs/2101.06184
 - Code: https://github.com/tobyperrett/trx
 
-**Kaleido-BERT：Vision-Language Pre-training on Fashion Domain**
+**3. Kaleido-BERT：Vision-Language Pre-training on Fashion Domain**
 
 - Paper: https://arxiv.org/abs/2103.16110
 - Code: https://github.com/mczhuge/Kaleido-BERT
 
-**HOTR: End-to-End Human-Object Interaction Detection with Transformers**
+**4. HOTR: End-to-End Human-Object Interaction Detection with Transformers**
 
 - Paper: https://arxiv.org/abs/2104.13682
 - Code: None
 
-**Multi-Modal Fusion Transformer for End-to-End Autonomous Driving**
+**5. Multi-Modal Fusion Transformer for End-to-End Autonomous Driving**
 
 - Paper: https://arxiv.org/abs/2104.09224
 - Code: https://github.com/autonomousvision/transfuser
 
-**Pose Recognition with Cascade Transformers**
+**6. Pose Recognition with Cascade Transformers**
 
 - Paper: https://arxiv.org/abs/2104.06976
 
 - Code: https://github.com/mlpc-ucsd/PRTR
 
-**Variational Transformer Networks for Layout Generation**
+**7. Variational Transformer Networks for Layout Generation**
 
 - Paper: https://arxiv.org/abs/2104.02416
 - Code: None
 
-**LoFTR: Detector-Free Local Feature Matching with Transformers**
+**8. LoFTR: Detector-Free Local Feature Matching with Transformers**
 
 - Homepage: https://zju3dv.github.io/loftr/
 - Paper: https://arxiv.org/abs/2104.00680
 - Code: https://github.com/zju3dv/LoFTR
 
-**Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
+**9. Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
 
 - Paper: https://arxiv.org/abs/2012.15840
 - Code: https://github.com/fudan-zvg/SETR
 
-**Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**
+**10. Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**
 
 - Paper: https://arxiv.org/abs/2103.16553
 - Code: None
 
-**Transformer Tracking**
+**11. Transformer Tracking**
 
 - Paper: https://arxiv.org/abs/2103.15436
 - Code: https://github.com/chenxin-dlut/TransT
 
-**HR-NAS: Searching Efficient High-Resolution Neural Architectures with Transformers**
+**12. HR-NAS: Searching Efficient High-Resolution Neural Architectures with Transformers**
 
 - Paper(Oral): None
 - Code: https://github.com/dingmyu/HR-NAS
 
-**MIST: Multiple Instance Spatial Transformer Network**
+**13. MIST: Multiple Instance Spatial Transformer**
 
 - Paper: https://arxiv.org/abs/1811.10725
 - Code: None
 
-**Multimodal Motion Prediction with Stacked Transformers**
+**14. Multimodal Motion Prediction with Stacked Transformers**
 
 - Paper: https://arxiv.org/abs/2103.11624
 - Code: https://decisionforce.github.io/mmTransformer
 
-**Revamping cross-modal recipe retrieval with hierarchical Transformers and self-supervised learning**
+**15. Revamping cross-modal recipe retrieval with hierarchical Transformers and self-supervised learning**
 
 - Paper: https://www.amazon.science/publications/revamping-cross-modal-recipe-retrieval-with-hierarchical-transformers-and-self-supervised-learning
 
 - Code: https://github.com/amzn/image-to-recipe-transformers
 
-**Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking**
+**16. Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking**
 
 - Paper(Oral): https://arxiv.org/abs/2103.11681
 
 - Code: https://github.com/594422814/TransformerTrack
 
-**Pre-Trained Image Processing Transformer**
+**17. Pre-Trained Image Processing Transformer**
 
 - Paper:  https://arxiv.org/abs/2012.00364 
 - Code: None
 
-**End-to-End Video Instance Segmentation with Transformers**
+**18. End-to-End Video Instance Segmentation with Transformers**
 
 - Paper(Oral): https://arxiv.org/abs/2011.14503
 - Code: https://github.com/Epiphqny/VisTR
 
-**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
+**19. UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
 
 - Paper(Oral): https://arxiv.org/abs/2011.09094
 - Code: https://github.com/dddzg/up-detr
 
-**End-to-End Human Object Interaction Detection with HOI Transformer**
+**20. End-to-End Human Object Interaction Detection with HOI Transformer**
 
 - Paper: https://arxiv.org/abs/2103.04503
 - Code: https://github.com/bbepoch/HoiTransformer
 
-**Transformer Interpretability Beyond Attention Visualization** 
+**21. Transformer Interpretability Beyond Attention Visualization** 
 
 - Paper: https://arxiv.org/abs/2012.09838
-- Code: https://github.com/hila-chefer/Transformer-Explainability 
+- Code: https://github.com/hila-chefer/Transformer-Explainability
+
+**22. Diverse Part Discovery: Occluded Person Re-Identification With Part-Aware Transformer**
+
+- Paper: None
+- Code: None
+
+**23. LayoutTransformer: Scene Layout Generation With Conceptual and Spatial Diversity**
+
+- Paper: None
+- Code: None
+
+**24. Line Segment Detection Using Transformers without Edges**
+
+- Paper(Oral): https://arxiv.org/abs/2101.01909
+- Code: None
+
+**25. MaX-DeepLab: End-to-End Panoptic Segmentation With Mask Transformers**
+
+- Paper: MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers
+- Code: None
+
+**26. SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation**
+
+- Paper(Oral): https://arxiv.org/abs/2101.08833
+- Code: https://github.com/dukebw/SSTVOS
+
+**27. Facial Action Unit Detection With Transformers**
+
+- Paper: None
+- Code: None
+
+**28. Clusformer: A Transformer Based Clustering Approach to Unsupervised Large-Scale Face and Visual Landmark Recognition**
+
+- Paper: None
+- Code: None
+
+**29. Lesion-Aware Transformers for Diabetic Retinopathy Grading**
+
+- Paper: None
+- Code: None
+
+**30. Topological Planning With Transformers for Vision-and-Language Navigation**
+
+- Paper: https://arxiv.org/abs/2012.05292
+- Code: None
+
+**31. Adaptive Image Transformer for One-Shot Object Detection**
+
+- Paper: None
+- Code: None
+
+**32. Multi-Stage Aggregated Transformer Network for Temporal Language Localization in Videos**
+
+- Paper: None
+- Code: None
+
+**33. Taming Transformers for High-Resolution Image Synthesis**
+
+- Homepage: https://compvis.github.io/taming-transformers/
+- Paper(Oral): https://arxiv.org/abs/2012.09841
+- Code: https://github.com/CompVis/taming-transformers
+
+**34. Self-Supervised Video Hashing via Bidirectional Transformers**
+
+- Paper: None
+- Code: None
+
+**35. Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos**
+
+- Paper(Oral): https://hehefan.github.io/pdfs/p4transformer.pdf
+- Code: None
+
+**36. Gaussian Context Transformer**
+
+- Paper: None
+- Code: None
+
+**37. General Multi-Label Image Classification With Transformers**
+
+- Paper: https://arxiv.org/abs/2011.14027
+- Code: None
+
+**38. Bottleneck Transformers for Visual Recognition**
+
+- Paper: https://arxiv.org/abs/2101.11605
+- Code: None
+
+**39. VLN BERT: A Recurrent Vision-and-Language BERT for Navigation**
+
+- Paper(Oral): https://arxiv.org/abs/2011.13922
+- Code: https://github.com/YicongHong/Recurrent-VLN-BERT
+
+**40. Less Is More: ClipBERT for Video-and-Language Learning via Sparse Sampling**
+
+- Paper(Oral): https://arxiv.org/abs/2102.06183
+- Code: https://github.com/jayleicn/ClipBERT
+
+**41, Self-attention based Text Knowledge Mining for Text Detection**
+
+- Paper: None
+- Code: https://github.com/CVI-SZU/STKM
+
+**42. SSAN: Separable Self-Attention Network for Video Representation Learning**
+
+- Paper: None
+- Code: None
+
+**43. Scaling Local Self-Attention For Parameter Efficient Visual Backbones**
+
+- Paper(Oral): https://arxiv.org/abs/2103.12731
+
+- Code: None
 
 <a name="Regularization"></a>
 
@@ -783,6 +896,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Code: https://github.com/JosephKJ/OWOD
 
 ## Few-Shot目标检测
+
+**Adaptive Image Transformer for One-Shot Object Detection**
+
+- Paper: None
+- Code: None
 
 **Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection**
 
@@ -1073,6 +1191,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 全景分割(Panoptic Segmentation)
 
+**MaX-DeepLab: End-to-End Panoptic Segmentation With Mask Transformers**
+
+- Paper: MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers
+- Code: None
+
 **Panoptic Segmentation Forecasting**
 
 - Paper: https://arxiv.org/abs/2104.03962
@@ -1113,6 +1236,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2104.04329
 - Code: None
+
+**SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation**
+
+- Paper(Oral): https://arxiv.org/abs/2101.08833
+- Code: https://github.com/dukebw/SSTVOS
 
 <a name="IVOS"></a>
 
@@ -2026,6 +2154,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2011.13160
 - Code: https://github.com/hughplay/TVR
 
+<a name="Image-Synthesis"></a>
+
+# 图像合成(Image Synthesis)
+
+**Taming Transformers for High-Resolution Image Synthesis**
+
+- Homepage: https://compvis.github.io/taming-transformers/
+- Paper(Oral): https://arxiv.org/abs/2012.09841
+- Code: https://github.com/CompVis/taming-transformers
+
 <a name="Visual-Synthesis"></a>
 
 # 视图合成(View Synthesis)
@@ -2057,6 +2195,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Layout-Generation"></a>
 
 # 布局生成(Layout Generation)
+
+**LayoutTransformer: Scene Layout Generation With Conceptual and Spatial Diversity**
+
+- Paper: None
+- Code: None
 
 **Variational Transformer Networks for Layout Generation**
 
