@@ -616,7 +616,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper(Oral): https://arxiv.org/abs/2102.06183
 - Code: https://github.com/jayleicn/ClipBERT
 
-**41, Self-attention based Text Knowledge Mining for Text Detection**
+**41. Self-attention based Text Knowledge Mining for Text Detection**
 
 - Paper: None
 - Code: https://github.com/CVI-SZU/STKM
