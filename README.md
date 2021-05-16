@@ -410,6 +410,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Visual Transformer
 
+**Temporal-Relational CrossTransformers for Few-Shot Action Recognition**
+
+- Paper: https://arxiv.org/abs/2101.06184
+- Code: https://github.com/tobyperrett/trx
+
 **Kaleido-BERT：Vision-Language Pre-training on Fashion Domain**
 
 - Paper: https://arxiv.org/abs/2103.16110
@@ -1194,6 +1199,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Video-Understanding"></a>
 
 # 视频理解/行为识别(Video Understanding)
+
+**Temporal-Relational CrossTransformers for Few-Shot Action Recognition**
+
+- Paper: https://arxiv.org/abs/2101.06184
+- Code: https://github.com/tobyperrett/trx
 
 **FrameExit: Conditional Early Exiting for Efficient Video Recognition**
 
