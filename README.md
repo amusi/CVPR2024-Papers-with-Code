@@ -2422,6 +2422,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 其他(Others)
 
+**Omnimatte: Associating Objects and Their Effects in Video**
+
+- Homepage: https://omnimatte.github.io/
+
+- Paper(Oral): https://arxiv.org/abs/2105.06993
+- Code: https://omnimatte.github.io/#code
+
 **Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets**
 
 - Homepage: https://fidler-lab.github.io/efficient-annotation-cookbook/
