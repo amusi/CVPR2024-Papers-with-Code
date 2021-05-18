@@ -645,6 +645,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # SLAM
 
+**Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation**
+
+- Paper: https://arxiv.org/abs/2105.07593
+- Code: None
+
 **Generalizing to the Open World: Deep Visual Odometry with Online Adaptation**
 
 - Paper: https://arxiv.org/abs/2103.15279
