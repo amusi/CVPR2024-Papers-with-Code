@@ -94,7 +94,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [布局生成(Layout Generation)](#Layout-Generation)
 - [Domain Generalization](#Domain-Generalization)
 - [Domain Adaptation](#Domain-Adaptation)
-- [Open-Set Recognition](#Open-Set-Recognition)
+- [Open-Set](#Open-Set)
 - [Adversarial Attack](#Adversarial-Attack)
 - ["人-物"交互(HOI)检测](#HOI)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
@@ -1196,6 +1196,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 全景分割(Panoptic Segmentation)
 
+**Exemplar-Based Open-Set Panoptic Segmentation Network**
+
+- Homepage: https://cv.snu.ac.kr/research/EOPSN/
+- Paper: https://arxiv.org/abs/2105.08336
+- Code: https://github.com/jd730/EOPSN
+
 **MaX-DeepLab: End-to-End Panoptic Segmentation With Mask Transformers**
 
 - Paper: MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers
@@ -2244,9 +2250,20 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: http://reler.net/papers/guangrui_cvpr2021.pdf
 - Code: https://github.com/Solacex/Domain-Consensus-Clustering 
 
-<a name="Open-Set-Recognition"></a>
+<a name="Open-Set"></a>
 
-# Open-Set Recognition
+# Open-Set
+
+**Towards Open World Object Detection**
+
+- Paper(Oral): https://arxiv.org/abs/2103.02603
+- Code: https://github.com/JosephKJ/OWOD
+
+**Exemplar-Based Open-Set Panoptic Segmentation Network**
+
+- Homepage: https://cv.snu.ac.kr/research/EOPSN/
+- Paper: https://arxiv.org/abs/2105.08336
+- Code: https://github.com/jd730/EOPSN
 
 **Learning Placeholders for Open-Set Recognition**
 
