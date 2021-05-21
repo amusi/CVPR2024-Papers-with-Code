@@ -2071,6 +2071,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 对抗样本(Adversarial Examples)
 
+**Enhancing the Transferability of Adversarial Attacks through Variance Tuning**
+
+- Paper: https://arxiv.org/abs/2103.15571
+- Code: https://github.com/JHL-HUST/VT
+
 **LiBRe: A Practical Bayesian Approach to Adversarial Detection**
 
 - Paper: https://arxiv.org/abs/2103.14835
