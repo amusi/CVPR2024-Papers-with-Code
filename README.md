@@ -240,6 +240,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # GAN
 
+**High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network**
+
+- Paper: https://arxiv.org/abs/2105.09188
+- Code: https://github.com/csjliang/LPTN
+- Dataset: https://github.com/csjliang/LPTN
+
 **DG-Font: Deformable Generative Networks for Unsupervised Font Generation**
 
 - Paper: https://arxiv.org/abs/2104.03064
@@ -2341,6 +2347,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network**
+
+- Paper: https://arxiv.org/abs/2105.09188
+- Code: https://github.com/csjliang/LPTN
+- Dataset: https://github.com/csjliang/LPTN
 
 **Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark**
 
