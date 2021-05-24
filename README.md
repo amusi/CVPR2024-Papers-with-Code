@@ -24,6 +24,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [半监督(Semi-Supervised)](#Semi-Supervised)
 - [胶囊网络(Capsule Network)](#Capsule-Network)
+- [图像分类(Image Classification](#Image-Classification)
 - [2D目标检测(Object Detection)](#Object-Detection)
 - [单/多目标跟踪(Object Tracking)](#Object-Tracking)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
@@ -769,7 +770,14 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.15459
 - Code: None
 
-<a name="Object-Detection"></a>
+<a name="Image-Classification"></a>
+
+# 图像分类(Image Classification)
+
+**Correlated Input-Dependent Label Noise in Large-Scale Image Classification**
+
+- Paper(Oral): https://arxiv.org/abs/2105.10305
+- Code: https://github.com/google/uncertainty-baselines/tree/master/baselines/imagenet
 
 # 2D目标检测(Object Detection)
 
