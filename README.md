@@ -99,7 +99,8 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [Adversarial Attack](#Adversarial-Attack)
 - ["人-物"交互(HOI)检测](#HOI)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
-- [虚拟试衣](#Virtual-Try-On)
+- [虚拟试衣(Virtual Try-On)](#Virtual-Try-On)
+- [标签噪声(Label Noise)](#Label-Noise)
 - [数据集(Datasets)](#Datasets)
 - [其他(Others)](#Others)
 - [待添加(TODO)](#TO-DO)
@@ -2356,6 +2357,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.04559
 - Code: https://github.com/geyuying/PF-AFN 
+
+<a name="Label-Noise"></a>
+
+# 标签噪声(Label Noise)
+
+**A Second-Order Approach to Learning with Instance-Dependent Label Noise**
+
+- Paper(Oral): https://arxiv.org/abs/2012.11854
+- Code: https://github.com/UCSC-REAL/CAL
 
 <a name="Datasets"></a>
 
