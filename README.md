@@ -780,9 +780,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper(Oral): https://arxiv.org/abs/2105.10305
 - Code: https://github.com/google/uncertainty-baselines/tree/master/baselines/imagenet
 
+<a name="Object-Detection"></a>
+
 # 2D目标检测(Object Detection)
 
 ## 2D目标检测
+
+**PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery**
+
+- Paper: https://arxiv.org/abs/2105.12990
+- Code: None
 
 **Domain-Specific Suppression for Adaptive Object Detection**
 
