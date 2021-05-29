@@ -168,6 +168,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # NAS
 
+**ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search**
+
+- Paper: ttps://arxiv.org/abs/2105.10154
+- Code: None
+
 **Combined Depth Space based Architecture Search For Person Re-identification**
 
 - Paper: https://arxiv.org/abs/2104.04163
@@ -1523,6 +1528,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 # 2D/3D人体姿态估计(2D/3D Human Pose Estimation)
 
 ## 2D 人体姿态估计
+
+**ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search**
+
+- Paper: ttps://arxiv.org/abs/2105.10154
+- Code: None
 
 **When Human Pose Estimation Meets Robustness: Adversarial Algorithms and Benchmarks**
 
