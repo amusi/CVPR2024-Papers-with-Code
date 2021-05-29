@@ -195,7 +195,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **Joint-DetNAS: Upgrade Your Detector with NAS, Pruning and Dynamic Distillation**
 
-- Paper: None
+- Paper:  https://arxiv.org/abs/2105.12971 
 - Code: None
 
 **Prioritized Architecture Sampling with Monto-Carlo Tree Search**
@@ -785,6 +785,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 # 2D目标检测(Object Detection)
 
 ## 2D目标检测
+
+**Joint-DetNAS: Upgrade Your Detector with NAS, Pruning and Dynamic Distillation**
+
+- Paper:  https://arxiv.org/abs/2105.12971 
+- Code: None
 
 **PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery**
 
