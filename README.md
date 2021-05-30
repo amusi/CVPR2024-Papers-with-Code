@@ -110,6 +110,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Backbone
 
+**BCNet: Searching for Network Width with Bilaterally Coupled Network**
+
+- Paper: https://arxiv.org/abs/2105.10533
+- Code: None
+
 **Decoupled Dynamic Filter Networks**
 
 - Homepage: https://thefoxofsky.github.io/project_pages/ddf
@@ -167,6 +172,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="NAS"></a>
 
 # NAS
+
+BCNet: Searching for Network Width with Bilaterally Coupled Network
+
+- Paper: https://arxiv.org/abs/2105.10533
+- Code: None
 
 **ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search**
 
