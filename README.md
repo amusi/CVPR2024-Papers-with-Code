@@ -1362,6 +1362,11 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 
 # 行人重识别(Person Re-identification)
 
+**Generalizable Person Re-identification with Relevance-aware Mixture of Experts**
+
+- Paper: https://arxiv.org/abs/2105.09156
+- Code: None
+
 **Unsupervised Multi-Source Domain Adaptation for Person Re-Identification**
 
 - Paper: https://arxiv.org/abs/2104.12961
@@ -2282,6 +2287,11 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 <a name="Domain-Generalization"></a>
 
 # Domain Generalization
+
+**Generalizable Person Re-identification with Relevance-aware Mixture of Experts**
+
+- Paper: https://arxiv.org/abs/2105.09156
+- Code: None
 
 **RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening**
 
