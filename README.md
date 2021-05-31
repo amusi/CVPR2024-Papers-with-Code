@@ -2098,6 +2098,11 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 
 # 车道线检测(Lane Detection)
 
+**Focus on Local: Detecting Lane Marker from Bottom Up via Key Point**
+
+- Paper: https://arxiv.org/abs/2105.13680
+- Code: None
+
 **Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection**
 
 - Paper: https://arxiv.org/abs/2010.12035
