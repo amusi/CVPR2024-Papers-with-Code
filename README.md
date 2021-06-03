@@ -1124,9 +1124,15 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 
 ## 半监督语义分割
 
+**Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision**
+
+- Paper: https://arxiv.org/abs/2106.01226
+- Code: None
+
 **Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation**
 
 - Paper: https://arxiv.org/abs/2103.04705
+- Code: None
 
 ## 域自适应语义分割
 
