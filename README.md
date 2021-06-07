@@ -452,7 +452,7 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 **4. HOTR: End-to-End Human-Object Interaction Detection with Transformers**
 
 - Paper: https://arxiv.org/abs/2104.13682
-- Code: None
+- Code: https://github.com/kakaobrain/HOTR
 
 **5. Multi-Modal Fusion Transformer for End-to-End Autonomous Driving**
 
