@@ -966,10 +966,15 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 
 ## 旋转目标检测
 
+**Dense Label Encoding for Boundary Discontinuity Free Rotation Detection**
+
+- Paper: https://arxiv.org/abs/2011.09670
+- Code1: https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow
+- Code2: https://github.com/yangxue0827/RotationDetection 
+
 **ReDet: A Rotation-equivariant Detector for Aerial Object Detection**
 
 - Paper: https://arxiv.org/abs/2103.07733
-
 - Code: https://github.com/csuhan/ReDet
 
 <a name="Object-Tracking"></a>
