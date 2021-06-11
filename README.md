@@ -2429,6 +2429,16 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 
 # 数据集(Datasets)
 
+**Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos**
+
+- Homepage: https://www.yasamin.page/hdnet_tiktok
+
+- Paper(Oral): https://arxiv.org/abs/2103.03319
+
+- Code: https://github.com/yasaminjafarian/HDNet_TikTok
+
+- Dataset: https://www.yasamin.page/hdnet_tiktok#h.jr9ifesshn7v
+
 **High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network**
 
 - Paper: https://arxiv.org/abs/2105.09188
@@ -2546,6 +2556,16 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos**
+
+- Homepage: https://www.yasamin.page/hdnet_tiktok
+
+- Paper(Oral): https://arxiv.org/abs/2103.03319
+
+- Code: https://github.com/yasaminjafarian/HDNet_TikTok
+
+- Dataset: https://www.yasamin.page/hdnet_tiktok#h.jr9ifesshn7v
 
 **Omnimatte: Associating Objects and Their Effects in Video**
 
