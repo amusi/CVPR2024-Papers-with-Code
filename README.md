@@ -560,7 +560,7 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 
 **25. MaX-DeepLab: End-to-End Panoptic Segmentation With Mask Transformers**
 
-- Paper: MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Wang_MaX-DeepLab_End-to-End_Panoptic_Segmentation_With_Mask_Transformers_CVPR_2021_paper.html
 - Code: None
 
 **26. SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation**
@@ -1257,7 +1257,7 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 
 **MaX-DeepLab: End-to-End Panoptic Segmentation With Mask Transformers**
 
-- Paper: MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Wang_MaX-DeepLab_End-to-End_Panoptic_Segmentation_With_Mask_Transformers_CVPR_2021_paper.html
 - Code: None
 
 **Panoptic Segmentation Forecasting**
