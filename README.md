@@ -801,6 +801,12 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 
 ## 2D目标检测
 
+**Dynamic Head: Unifying Object Detection Heads with Attentions**
+
+- Paper: https://arxiv.org/abs/2106.08322
+
+- Code: https://github.com/microsoft/DynamicHead
+
 **Joint-DetNAS: Upgrade Your Detector with NAS, Pruning and Dynamic Distillation**
 
 - Paper:  https://arxiv.org/abs/2105.12971 
