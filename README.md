@@ -1255,6 +1255,12 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 
 # 全景分割(Panoptic Segmentation)
 
+**Part-aware Panoptic Segmentation**
+
+- Paper: https://arxiv.org/abs/2106.06351
+- Code: https://github.com/tue-mps/panoptic_parts
+- Dataset: https://github.com/tue-mps/panoptic_parts
+
 **Exemplar-Based Open-Set Panoptic Segmentation Network**
 
 - Homepage: https://cv.snu.ac.kr/research/EOPSN/
@@ -2434,6 +2440,12 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**Part-aware Panoptic Segmentation**
+
+- Paper: https://arxiv.org/abs/2106.06351
+- Code: https://github.com/tue-mps/panoptic_parts
+- Dataset: https://github.com/tue-mps/panoptic_parts
 
 **Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos**
 
