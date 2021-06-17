@@ -110,6 +110,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Backbone
 
+**HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers**
+
+- Paper(Oral): https://arxiv.org/abs/2106.06560
+
+- Code: https://github.com/dingmyu/HR-NAS
+
 **BCNet: Searching for Network Width with Bilaterally Coupled Network**
 
 - Paper: https://arxiv.org/abs/2105.10533
@@ -173,7 +179,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # NAS
 
-BCNet: Searching for Network Width with Bilaterally Coupled Network
+**HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers**
+
+- Paper(Oral): https://arxiv.org/abs/2106.06560
+
+- Code: https://github.com/dingmyu/HR-NAS
+
+**BCNet: Searching for Network Width with Bilaterally Coupled Network**
 
 - Paper: https://arxiv.org/abs/2105.10533
 - Code: None
@@ -493,7 +505,7 @@ BCNet: Searching for Network Width with Bilaterally Coupled Network
 
 **12. HR-NAS: Searching Efficient High-Resolution Neural Architectures with Transformers**
 
-- Paper(Oral): None
+- Paper(Oral):  https://arxiv.org/abs/2106.06560 
 - Code: https://github.com/dingmyu/HR-NAS
 
 **13. MIST: Multiple Instance Spatial Transformer**
