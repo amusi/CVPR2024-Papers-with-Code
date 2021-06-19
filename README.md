@@ -102,6 +102,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
 - [虚拟试衣(Virtual Try-On)](#Virtual-Try-On)
 - [标签噪声(Label Noise)](#Label-Noise)
+- [视频稳像(Video Stabilization)](#Video-Stabilization)
 - [数据集(Datasets)](#Datasets)
 - [其他(Others)](#Others)
 - [待添加(TODO)](#TO-DO)
@@ -2478,6 +2479,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper(Oral): https://arxiv.org/abs/2012.11854
 - Code: https://github.com/UCSC-REAL/CAL
+
+<a name="Video-Stabilization"></a>
+
+# 视频稳像(Video Stabilization)
+
+**Real-Time Selfie Video Stabilization**
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_Real-Time_Selfie_Video_Stabilization_CVPR_2021_paper.pdf
+
+- Code: https://github.com/jiy173/selfievideostabilization
 
 <a name="Datasets"></a>
 
