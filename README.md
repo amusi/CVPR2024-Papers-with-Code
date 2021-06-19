@@ -812,6 +812,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 2D目标检测(Object Detection)
 
+**MobileDets: Searching for Object Detection Architectures for Mobile Accelerators**
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Xiong_MobileDets_Searching_for_Object_Detection_Architectures_for_Mobile_Accelerators_CVPR_2021_paper.pdf
+- Code: https://github.com/tensorflow/models/tree/master/research/object_detection
+
+论文下载链接：
+
 ## 2D目标检测
 
 **Dynamic Head: Unifying Object Detection Heads with Attentions**
@@ -1074,6 +1081,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Semantic-Segmentation"></a>
 
 # 语义分割(Semantic Segmentation)
+
+**HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation**
+
+- Homepage: https://nirkin.com/hyperseg/
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Nirkin_HyperSeg_Patch-Wise_Hypernetwork_for_Real-Time_Semantic_Segmentation_CVPR_2021_paper.pdf
+
+- Code: https://github.com/YuvalNirkin/hyperseg
 
 **ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation**
 
@@ -2602,6 +2616,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Fast and Accurate Model Scaling**
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Dollar_Fast_and_Accurate_Model_Scaling_CVPR_2021_paper.html
+
+- Code: https://github.com/facebookresearch/pycls
 
 **Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos**
 
