@@ -50,6 +50,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [人体解析(Human Parsing)](#Human-Parsing)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [动物姿态估计(Animal Pose Estimation)](#Animal-Pose-Estimation)
+- [手部姿态估计(Hand Pose Estimation)](#Hand-Pose-Estimation)
 - [Human Volumetric Capture](#Human-Volumetric-Capture)
 - [场景文本识别(Scene Text Recognition)](#Scene-Text-Recognition)
 - [图像压缩(Image Compression)](#Image-Compression)
@@ -1637,6 +1638,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Paper: https://arxiv.org/abs/2103.14843
 - Code: None
+
+<a name="Hand-Pose-Estimation"></a>
+
+# 手部姿态估计(Hand Pose Estimation)
+
+**Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time**
+
+- Homepage: https://stevenlsw.github.io/Semi-Hand-Object/
+- Paper: https://arxiv.org/abs/2106.05266
+- Code: https://github.com/stevenlsw/Semi-Hand-Object
 
 <a name="Human-Volumetric-Capture"></a>
 
