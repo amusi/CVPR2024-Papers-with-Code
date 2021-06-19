@@ -2039,6 +2039,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 3D重建(3D Reconstruction)
 
+**Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection**
+
+- Paper: http://arxiv.org/abs/2106.07852
+- Code: https://github.com/TencentYoutuResearch/3DFaceReconstruction-LAP
+
 **Fully Understanding Generic Objects: Modeling, Segmentation, and Reconstruction**
 
 - Paper: https://arxiv.org/abs/2104.00858
