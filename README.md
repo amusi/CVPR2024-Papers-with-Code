@@ -813,14 +813,20 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 2D目标检测(Object Detection)
 
+## 2D目标检测
+
 **MobileDets: Searching for Object Detection Architectures for Mobile Accelerators**
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Xiong_MobileDets_Searching_for_Object_Detection_Architectures_for_Mobile_Accelerators_CVPR_2021_paper.pdf
 - Code: https://github.com/tensorflow/models/tree/master/research/object_detection
 
-论文下载链接：
+**Tracking Pedestrian Heads in Dense Crowd**
 
-## 2D目标检测
+- Homepage: https://project.inria.fr/crowdscience/project/dense-crowd-head-tracking/
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Sundararaman_Tracking_Pedestrian_Heads_in_Dense_Crowd_CVPR_2021_paper.html
+- Code1: https://github.com/Sentient07/HeadHunter
+- Code2: https://github.com/Sentient07/HeadHunter%E2%80%93T
+- Dataset: https://project.inria.fr/crowdscience/project/dense-crowd-head-tracking/
 
 **Dynamic Head: Unifying Object Detection Heads with Attentions**
 
@@ -1057,6 +1063,14 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Code: https://github.com/chenxin-dlut/TransT
 
 ## 多目标跟踪
+
+**Tracking Pedestrian Heads in Dense Crowd**
+
+- Homepage: https://project.inria.fr/crowdscience/project/dense-crowd-head-tracking/
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Sundararaman_Tracking_Pedestrian_Heads_in_Dense_Crowd_CVPR_2021_paper.html
+- Code1: https://github.com/Sentient07/HeadHunter
+- Code2: https://github.com/Sentient07/HeadHunter%E2%80%93T
+- Dataset: https://project.inria.fr/crowdscience/project/dense-crowd-head-tracking/
 
 **Multiple Object Tracking with Correlation Learning**
 
@@ -2493,6 +2507,14 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**Tracking Pedestrian Heads in Dense Crowd**
+
+- Homepage: https://project.inria.fr/crowdscience/project/dense-crowd-head-tracking/
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Sundararaman_Tracking_Pedestrian_Heads_in_Dense_Crowd_CVPR_2021_paper.html
+- Code1: https://github.com/Sentient07/HeadHunter
+- Code2: https://github.com/Sentient07/HeadHunter%E2%80%93T
+- Dataset: https://project.inria.fr/crowdscience/project/dense-crowd-head-tracking/
 
 **Part-aware Panoptic Segmentation**
 
