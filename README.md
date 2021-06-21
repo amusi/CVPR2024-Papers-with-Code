@@ -12,6 +12,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 【CVPR 2021 论文开源目录】
 
+- [Best Paper](#Best-Paper)
 - [Backbone](#Backbone)
 - [NAS](#NAS)
 - [GAN](#GAN)
@@ -107,6 +108,19 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - [其他(Others)](#Others)
 - [待添加(TODO)](#TO-DO)
 - [不确定中没中(Not Sure)](#Not-Sure)
+
+<a name="Best-Paper"></a>
+
+# Best Paper
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
 
 <a name="Backbone"></a>
 
@@ -2320,6 +2334,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Image-Synthesis"></a>
 
 # 图像合成(Image Synthesis)
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**
+
+- Homepage: https://m-niemeyer.github.io/project-pages/giraffe/index.html
+- Paper(Oral): https://arxiv.org/abs/2011.12100
+
+- Code: https://github.com/autonomousvision/giraffe
+
+- Demo: http://www.youtube.com/watch?v=fIaDXC-qRSg&vq=hd1080&autoplay=1
 
 **Taming Transformers for High-Resolution Image Synthesis**
 
