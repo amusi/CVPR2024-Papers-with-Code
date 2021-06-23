@@ -1791,6 +1791,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 超分辨率(Super-Resolution)
 
+**Image Super-Resolution with Non-Local Sparse Attention**
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Mei_Image_Super-Resolution_With_Non-Local_Sparse_Attention_CVPR_2021_paper.pdf
+- Code: https://github.com/HarukiYqM/Non-Local-Sparse-Attention
+
 **Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline**
 
 - Homepage: http://mepro.bjtu.edu.cn/resource.html
