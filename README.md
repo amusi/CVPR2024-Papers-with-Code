@@ -1954,6 +1954,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 3D目标检测(3D Object Detection)
 
+**3D-MAN: 3D Multi-frame Attention Network for Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.16054
+- Code: None
+
 **Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds**
 
 - Paper: https://arxiv.org/abs/2104.06114
