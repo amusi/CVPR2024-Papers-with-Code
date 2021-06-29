@@ -843,8 +843,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **End-to-End Object Detection with Fully Convolutional Network**
 
+- 作者单位: 旷视科技, 西安交通大学
+
 - Paper: https://arxiv.org/abs/2012.03544
 - Code: https://github.com/Megvii-BaseDetection/DeFCN
+- 中文解读: 
 
 **1. MobileDets: Searching for Object Detection Architectures for Mobile Accelerators**
 
@@ -861,13 +864,16 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Code2: https://github.com/Sentient07/HeadHunter%E2%80%93T
 - Dataset: https://project.inria.fr/crowdscience/project/dense-crowd-head-tracking/
 
-**3Dynamic Head: Unifying Object Detection Heads with Attentions**
+**3. Dynamic Head: Unifying Object Detection Heads with Attentions**
 
+- 作者单位: 微软
 - Paper: https://arxiv.org/abs/2106.08322
 - Code: https://github.com/microsoft/DynamicHead
+- 中文解读: 
 
 **Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection**
 
+- 作者单位: 南京理工大学, Momenta, 南京大学, 清华大学
 - Paper: https://arxiv.org/abs/2011.12885
 - Code: https://github.com/implus/GFocalV2
 
@@ -910,12 +916,6 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Code: https://github.com/hyz-xmaster/VarifocalNet
 
-**Scale-aware Automatic Augmentation for Object Detection**
-
-- Paper: https://arxiv.org/abs/2103.17220
-
-- Code: https://github.com/Jia-Research-Lab/SA-AutoAug
-
 **OTA: Optimal Transport Assignment for Object Detection**
 
 - 作者单位: 早稻田大学, 旷视科技
@@ -939,14 +939,9 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2102.08318
 - Code: https://github.com/limbo0000/InstanceLoc
 
-**MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection**
-
-- Paper: https://arxiv.org/abs/2103.04224
-- Code: None
-
 **Robust and Accurate Object Detection via Adversarial Learning**
 
-- 作者单位：谷歌, UCLA, UCSC
+- 作者单位: 谷歌, UCLA, UCSC
 
 - Paper: https://arxiv.org/abs/2103.13886
 
@@ -957,18 +952,15 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2103.13757
 - Code: None 
 
-**Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework**
-
-- Paper: https://arxiv.org/abs/2103.11402
-- Code: None
-
 **OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection**
 
+- 作者单位: 北京大学, Anyvision, 石溪大学
 - Paper: https://arxiv.org/abs/2103.04507
 - Code: https://github.com/VDIGPKU/OPANAS
 
 **UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
 
+- 作者单位: 华南理工大学, 腾讯微信AI
 - Paper(Oral): https://arxiv.org/abs/2011.09094
 - Code: https://github.com/dddzg/up-detr
 
@@ -991,9 +983,20 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **Towards Open World Object Detection**
 
 - 作者单位: 印度理工学院, MBZUAI, 澳大利亚国立大学, 林雪平大学
-
 - Paper(Oral): https://arxiv.org/abs/2103.02603
 - Code: https://github.com/JosephKJ/OWOD
+
+**RankDetNet: Delving Into Ranking Constraints for Object Detection**
+
+- 作者单位: 赛灵思
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Liu_RankDetNet_Delving_Into_Ranking_Constraints_for_Object_Detection_CVPR_2021_paper.html
+- Code: None
+
+**IQDet: Instance-Wise Quality Distribution Sampling for Object Detection**
+
+- 作者单位: 旷视科技
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Ma_IQDet_Instance-Wise_Quality_Distribution_Sampling_for_Object_Detection_CVPR_2021_paper.html
+- Code: 
 
 ## 弱监督目标检测
 
@@ -1008,13 +1011,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
  **Points As Queries: Weakly Semi-Supervised Object Detection by Points]**
 
-- 作者单位：旷视科技, 复旦大学
+- 作者单位: 旷视科技, 复旦大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Points_As_Queries_Weakly_Semi-Supervised_Object_Detection_by_Points_CVPR_2021_paper.html
 - Code: None
 
 **Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection**
 
-- 作者单位：清华大学
+- 作者单位: 清华大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Data-Uncertainty_Guided_Multi-Phase_Learning_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.html
 - Code: None
 
@@ -1031,11 +1034,23 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Interactive_Self-Training_With_Mean_Teachers_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.html
 - Code: None
 
+**Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework**
+
+- Paper: https://arxiv.org/abs/2103.11402
+- Code: None
+
+**Humble Teachers Teach Better Students for Semi-Supervised Object Detection**
+
+- 作者单位:  卡内基梅隆大学(CMU), 亚马逊
+- Homepage: https://yihet.com/humble-teacher
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Tang_Humble_Teachers_Teach_Better_Students_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.html
+- Code: https://github.com/lryta/HumbleTeacher
+
 ## Few-Shot目标检测
 
 **Accurate Few-Shot Object Detection With Support-Query Mutual Guidance and Hybrid Loss**
 
-- 作者单位：复旦大学, 同济大学, 浙江大学
+- 作者单位: 复旦大学, 同济大学, 浙江大学
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Accurate_Few-Shot_Object_Detection_With_Support-Query_Mutual_Guidance_and_Hybrid_CVPR_2021_paper.html
 - Code: None
@@ -1047,10 +1062,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection**
 
+- 作者单位: 北京大学, 北邮
 - Paper: https://arxiv.org/abs/2103.17115
 - Code: https://github.com/hzhupku/DCNet 
 
 **Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection**
+
+- 作者单位: 卡内基梅隆大学(CMU)
 
 - Paper: https://arxiv.org/abs/2103.01903
 - Code: None
@@ -1066,6 +1084,37 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Hallucination_Improves_Few-Shot_Object_Detection_CVPR_2021_paper.html
 - Code: https://github.com/pppplin/HallucFsDet
 
+**FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding**
+
+- 作者单位: 南加利福尼亚大学, 旷视科技
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Sun_FSCE_Few-Shot_Object_Detection_via_Contrastive_Proposal_Encoding_CVPR_2021_paper.html
+- Code:  https://github.com/MegviiDetection/FSCE 
+
+**Few-Shot Object Detection via Classification Refinement and Distractor Retreatment**
+
+- 作者单位: 新加坡国立大学, SIMTech
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Li_Few-Shot_Object_Detection_via_Classification_Refinement_and_Distractor_Retreatment_CVPR_2021_paper.html
+- Code: None
+
+**Generalized Few-Shot Object Detection Without Forgetting**
+
+- 作者单位: 旷视科技
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Fan_Generalized_Few-Shot_Object_Detection_Without_Forgetting_CVPR_2021_paper.html
+- Code: None
+
+**Transformation Invariant Few-Shot Object Detection**
+
+- 作者单位: 华为诺亚方舟实验室
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Li_Transformation_Invariant_Few-Shot_Object_Detection_CVPR_2021_paper.html
+- Code: None
+
+**UniT: Unified Knowledge Transfer for Any-Shot Object Detection and Segmentation**
+
+- 作者单位: 不列颠哥伦比亚大学, Vector AI, CIFAR AI Chair
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Khandelwal_UniT_Unified_Knowledge_Transfer_for_Any-Shot_Object_Detection_and_Segmentation_CVPR_2021_paper.html
+- Code: https://github.com/ubc-vision/UniT
+
 ## 旋转目标检测
 
 **Dense Label Encoding for Boundary Discontinuity Free Rotation Detection**
@@ -1076,6 +1125,8 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **ReDet: A Rotation-equivariant Detector for Aerial Object Detection**
 
+- 作者单位: 武汉大学
+
 - Paper: https://arxiv.org/abs/2103.07733
 - Code: https://github.com/csuhan/ReDet
 
@@ -1084,6 +1135,20 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - 作者单位: 国科大, 清华大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Guo_Beyond_Bounding-Box_Convex-Hull_Feature_Adaptation_for_Oriented_and_Densely_Packed_CVPR_2021_paper.html
 - Code: https://github.com/SDL-GuoZonghao/BeyondBoundingBox
+
+# 域自适应目标检测
+
+**Domain-Specific Suppression for Adaptive Object Detection**
+
+- 作者单位: 中科院, 寒武纪, 国科大
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Domain-Specific_Suppression_for_Adaptive_Object_Detection_CVPR_2021_paper.html
+- Code: None
+
+**MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection**
+
+- 作者单位: 约翰斯·霍普金斯大学, 梅赛德斯—奔驰
+- Paper: https://arxiv.org/abs/2103.04224
+- Code: None
 
 ## 其他
 
@@ -1106,6 +1171,48 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - 作者单位: 商汤科技, 国科大, 中科大
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Tian_Unsupervised_Object_Detection_With_LIDAR_Clues_CVPR_2021_paper.html
+- Code: None
+
+**GAIA: A Transfer Learning System of Object Detection That Fits Your Needs**
+
+- 作者单位: 国科大, 北理, 中科院, 商汤科技
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Bu_GAIA_A_Transfer_Learning_System_of_Object_Detection_That_Fits_CVPR_2021_paper.html
+- Code: https://github.com/GAIA-vision/GAIA-det
+
+**General Instance Distillation for Object Detection**
+
+- 作者单位: 旷视科技, 北航
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Dai_General_Instance_Distillation_for_Object_Detection_CVPR_2021_paper.html
+- Code: None
+
+**AQD: Towards Accurate Quantized Object Detection**
+
+- 作者单位: 蒙纳士大学, 阿德莱德大学, 华南理工大学
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Chen_AQD_Towards_Accurate_Quantized_Object_Detection_CVPR_2021_paper.html
+- Code: https://github.com/aim-uofa/model-quantization
+
+**Scale-Aware Automatic Augmentation for Object Detection**
+
+- 作者单位: 香港中文大学, 字节跳动AI Lab, 思谋科技
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Scale-Aware_Automatic_Augmentation_for_Object_Detection_CVPR_2021_paper.html
+- Code: https://github.com/Jia-Research-Lab/SA-AutoAug
+
+**There Is More Than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking With Sound by Distilling Multimodal Knowledge**
+
+- 作者单位: 弗莱堡大学
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Valverde_There_Is_More_Than_Meets_the_Eye_Self-Supervised_Multi-Object_Detection_CVPR_2021_paper.html
+- Code: http://rl.uni-freiburg.de/research/multimodal-distill
+
+**Equalization Loss v2: A New Gradient Balance Approach for Long-Tailed Object Detection**
+
+- 作者单位: 同济大学, 商汤科技, 清华大学
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Tan_Equalization_Loss_v2_A_New_Gradient_Balance_Approach_for_Long-Tailed_CVPR_2021_paper.html
+- Code: https://github.com/tztztztztz/eqlv2
+
+**Class-Aware Robust Adversarial Training for Object Detection**
+
+- 作者单位: 哥伦比亚大学,  中央研究院 
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Class-Aware_Robust_Adversarial_Training_for_Object_Detection_CVPR_2021_paper.html
 - Code: None
 
 <a name="Object-Tracking"></a>
