@@ -1356,12 +1356,6 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Code: https://github.com/YuvalNirkin/hyperseg
 
-**ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation**
-
-- Paper: https://arxiv.org/abs/2012.05258
-- Code: https://github.com/joe-siyuan-qiao/ViP-DeepLab
-- Dataset: https://github.com/joe-siyuan-qiao/ViP-DeepLab
-
 **Rethinking BiSeNet For Real-time Semantic Segmentation**
 
 - 作者单位: 美团
@@ -1383,21 +1377,6 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2012.15840
 - Code: https://github.com/fudan-zvg/SETR
 
-**Bidirectional Projection Network for Cross Dimension Scene Understanding**
-
-- Paper(Oral): https://arxiv.org/abs/2103.14326
-- Code: https://github.com/wbhu/BPNet
-
-**Cross-Dataset Collaborative Learning for Semantic Segmentation**
-
-- Paper: https://arxiv.org/abs/2103.11351
-- Code: None
-
-**Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations**
-
-- Paper: https://arxiv.org/abs/2103.06342
-- Code: None
-
 **Capturing Omni-Range Context for Omnidirectional Segmentation**
 
 - Paper: https://arxiv.org/abs/2103.05687
@@ -1407,11 +1386,6 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - 作者单位: 北航, 商汤科技
 - Paper: https://arxiv.org/abs/2103.04133
-- Code: None
-
-**PLOP: Learning without Forgetting for Continual Semantic Segmentation**
-
-- Paper: https://arxiv.org/abs/2011.11390
 - Code: None
 
 ## 弱监督语义分割
@@ -1586,6 +1560,36 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Michieli_Continual_Semantic_Segmentation_via_Repulsion-Attraction_of_Sparse_and_Disentangled_Latent_CVPR_2021_paper.html
 - Code: https://lttm.dei.unipd.it/paper_data/SDR/
 
+**Exploit Visual Dependency Relations for Semantic Segmentation**
+
+- 作者单位: 伊利诺伊大学芝加哥分校
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Exploit_Visual_Dependency_Relations_for_Semantic_Segmentation_CVPR_2021_paper.html
+- Code: None
+
+**Revisiting Superpixels for Active Learning in Semantic Segmentation With Realistic Annotation Costs**
+
+- 作者单位: Institute for Infocomm Research, 新加坡国立大学
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Cai_Revisiting_Superpixels_for_Active_Learning_in_Semantic_Segmentation_With_Realistic_CVPR_2021_paper.html
+- Code: None
+
+**PLOP: Learning without Forgetting for Continual Semantic Segmentation**
+
+- 作者单位: 索邦大学, Heuritech, Datakalab, Valeo.ai 
+- Paper: https://arxiv.org/abs/2011.11390
+- Code: https://github.com/arthurdouillard/CVPR2021_PLOP
+
+**3D-to-2D Distillation for Indoor Scene Parsing**
+
+- 作者单位: 香港中文大学, 香港大学
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Liu_3D-to-2D_Distillation_for_Indoor_Scene_Parsing_CVPR_2021_paper.html
+- Code: None
+
+**Bidirectional Projection Network for Cross Dimension Scene Understanding**
+
+- 作者单位: 香港中文大学, 牛津大学等
+- Paper(Oral): https://arxiv.org/abs/2103.14326
+- Code: https://github.com/wbhu/BPNet
+
 <a name="Instance-Segmentation"></a>
 
 # 实例分割(Instance Segmentation)
@@ -1654,6 +1658,12 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 <a name="Panoptic-Segmentation"></a>
 
 # 全景分割(Panoptic Segmentation)
+
+**ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation**
+
+- Paper: https://arxiv.org/abs/2012.05258
+- Code: https://github.com/joe-siyuan-qiao/ViP-DeepLab
+- Dataset: https://github.com/joe-siyuan-qiao/ViP-DeepLab
 
 **Part-aware Panoptic Segmentation**
 
