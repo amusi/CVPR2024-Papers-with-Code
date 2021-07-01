@@ -1151,6 +1151,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 **49. Instance Localization for Self-supervised Detection Pretraining**
 
+- 作者单位: 香港中文大学, 微软亚洲研究院
 - Paper: https://arxiv.org/abs/2102.08318
 - Code: https://github.com/limbo0000/InstanceLoc
 
@@ -1159,20 +1160,25 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 **50. Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection**
 
 - 作者单位: 北航, 鹏城实验室, 商汤科技
-
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Hou_Informative_and_Consistent_Correspondence_Mining_for_Cross-Domain_Weakly_Supervised_Object_CVPR_2021_paper.html
+- Code: None
+
+**51. DAP: Detection-Aware Pre-training with Weak Supervision** 
+
+- 作者单位: UIUC, 微软
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Zhong_DAP_Detection-Aware_Pre-Training_With_Weak_Supervision_CVPR_2021_paper.html
 - Code: None
 
 ## 其他
 
-**51. Open-Vocabulary Object Detection Using Captions**
+**52. Open-Vocabulary Object Detection Using Captions**
 
 - 作者单位：Snap, 哥伦比亚大学
 
 - Paper(Oral): https://openaccess.thecvf.com/content/CVPR2021/html/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.html
 - Code: https://github.com/alirezazareian/ovr-cnn
 
-**52. Depth From Camera Motion and Object Detection**
+**53. Depth From Camera Motion and Object Detection**
 
 - 作者单位:  密歇根大学, SIAI
 
@@ -1180,62 +1186,74 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Code: https://github.com/griffbr/ODMD
 - Dataset: https://github.com/griffbr/ODMD
 
-**53. Unsupervised Object Detection With LIDAR Clues**
+**54. Unsupervised Object Detection With LIDAR Clues**
 
 - 作者单位: 商汤科技, 国科大, 中科大
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Tian_Unsupervised_Object_Detection_With_LIDAR_Clues_CVPR_2021_paper.html
 - Code: None
 
-**54. GAIA: A Transfer Learning System of Object Detection That Fits Your Needs**
+**55. GAIA: A Transfer Learning System of Object Detection That Fits Your Needs**
 
 - 作者单位: 国科大, 北理, 中科院, 商汤科技
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Bu_GAIA_A_Transfer_Learning_System_of_Object_Detection_That_Fits_CVPR_2021_paper.html
 - Code: https://github.com/GAIA-vision/GAIA-det
 
-**General Instance Distillation for Object Detection**
+**56. General Instance Distillation for Object Detection**
 
 - 作者单位: 旷视科技, 北航
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Dai_General_Instance_Distillation_for_Object_Detection_CVPR_2021_paper.html
 - Code: None
 
-**AQD: Towards Accurate Quantized Object Detection**
+**57. AQD: Towards Accurate Quantized Object Detection**
 
 - 作者单位: 蒙纳士大学, 阿德莱德大学, 华南理工大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Chen_AQD_Towards_Accurate_Quantized_Object_Detection_CVPR_2021_paper.html
 - Code: https://github.com/aim-uofa/model-quantization
 
-**Scale-Aware Automatic Augmentation for Object Detection**
+**58. Scale-Aware Automatic Augmentation for Object Detection**
 
 - 作者单位: 香港中文大学, 字节跳动AI Lab, 思谋科技
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Scale-Aware_Automatic_Augmentation_for_Object_Detection_CVPR_2021_paper.html
 - Code: https://github.com/Jia-Research-Lab/SA-AutoAug
 
-**Equalization Loss v2: A New Gradient Balance Approach for Long-Tailed Object Detection**
+**59. Equalization Loss v2: A New Gradient Balance Approach for Long-Tailed Object Detection**
 
 - 作者单位: 同济大学, 商汤科技, 清华大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Tan_Equalization_Loss_v2_A_New_Gradient_Balance_Approach_for_Long-Tailed_CVPR_2021_paper.html
 - Code: https://github.com/tztztztztz/eqlv2
 
-**Class-Aware Robust Adversarial Training for Object Detection**
+**60. Class-Aware Robust Adversarial Training for Object Detection**
 
 - 作者单位: 哥伦比亚大学,  中央研究院 
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Class-Aware_Robust_Adversarial_Training_for_Object_Detection_CVPR_2021_paper.html
 - Code: None
 
-**Improved Handling of Motion Blur in Online Object Detection**
+**61. Improved Handling of Motion Blur in Online Object Detection**
 
 - 作者单位: 伦敦大学学院
 - Homepage: http://visual.cs.ucl.ac.uk/pubs/handlingMotionBlur/
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Sayed_Improved_Handling_of_Motion_Blur_in_Online_Object_Detection_CVPR_2021_paper.html
 - Code: None
 
-**Multiple Instance Active Learning for Object Detection**
+**62. Multiple Instance Active Learning for Object Detection**
 
 - 作者单位: 国科大, 华为诺亚
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Yuan_Multiple_Instance_Active_Learning_for_Object_Detection_CVPR_2021_paper.html
 - Code: https://github.com/yuantn/MI-AOD
 
-**Neural Auto-Exposure for High-Dynamic Range Object Detection**
+**63. Neural Auto-Exposure for High-Dynamic Range Object Detection**
+
+- 作者单位: Algolux, 普林斯顿大学
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Onzon_Neural_Auto-Exposure_for_High-Dynamic_Range_Object_Detection_CVPR_2021_paper.html
+- Code: None
+
+**64. Generalizable Pedestrian Detection: The Elephant in the Room**
+
+- 作者单位: IIAI, 阿尔托大学
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Hasan_Generalizable_Pedestrian_Detection_The_Elephant_in_the_Room_CVPR_2021_paper.html
+- Code: https://github.com/hasanirtiza/Pedestron
+
+**65. Neural Auto-Exposure for High-Dynamic Range Object Detection**
 
 - 作者单位: Algolux, 普林斯顿大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Onzon_Neural_Auto-Exposure_for_High-Dynamic_Range_Object_Detection_CVPR_2021_paper.html
