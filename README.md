@@ -1347,7 +1347,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 语义分割(Semantic Segmentation)
 
-**HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation**
+**1. HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation**
 
 - 作者单位: Facebook AI, 巴伊兰大学, 特拉维夫大学
 
@@ -1356,7 +1356,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Code: https://github.com/YuvalNirkin/hyperseg
 
-**Rethinking BiSeNet For Real-time Semantic Segmentation**
+**2. Rethinking BiSeNet For Real-time Semantic Segmentation**
 
 - 作者单位: 美团
 
@@ -1364,90 +1364,104 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 - Code: https://github.com/MichaelFan01/STDC-Seg
 
-**Progressive Semantic Segmentation**
+**3. Progressive Semantic Segmentation**
 
 - 作者单位: VinAI Research, VinUniversity, 阿肯色大学, 石溪大学
 - Paper: https://arxiv.org/abs/2104.03778
 - Code: https://github.com/VinAIResearch/MagNet
 
-**Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
+**4. Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
 
 - 作者单位: 复旦大学, 牛津大学, 萨里大学, 腾讯优图, Facebook AI
 - Homepage: https://fudan-zvg.github.io/SETR
 - Paper: https://arxiv.org/abs/2012.15840
 - Code: https://github.com/fudan-zvg/SETR
 
-**Capturing Omni-Range Context for Omnidirectional Segmentation**
+**5. Capturing Omni-Range Context for Omnidirectional Segmentation**
 
+- 作者单位: 卡尔斯鲁厄理工学院, 卡尔·蔡司, 华为
 - Paper: https://arxiv.org/abs/2103.05687
 - Code: None
 
-**Learning Statistical Texture for Semantic Segmentation**
+**6. Learning Statistical Texture for Semantic Segmentation**
 
 - 作者单位: 北航, 商汤科技
 - Paper: https://arxiv.org/abs/2103.04133
 - Code: None
 
+**7. InverseForm: A Loss Function for Structured Boundary-Aware Segmentation**
+
+- 作者单位: 高通AI研究院
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Borse_InverseForm_A_Loss_Function_for_Structured_Boundary-Aware_Segmentation_CVPR_2021_paper.html
+- Code: None
+
+**8. DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation**
+
+- 作者单位: Joyy Inc, 快手, 北航等
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_DCNAS_Densely_Connected_Neural_Architecture_Search_for_Semantic_Image_Segmentation_CVPR_2021_paper.html
+- Code: None
+
 ## 弱监督语义分割
 
-**Railroad Is Not a Train: Saliency As Pseudo-Pixel Supervision for Weakly Supervised Semantic Segmentation**
+**9. Railroad Is Not a Train: Saliency As Pseudo-Pixel Supervision for Weakly Supervised Semantic Segmentation**
 
 - 作者单位: 延世大学, 成均馆大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Lee_Railroad_Is_Not_a_Train_Saliency_As_Pseudo-Pixel_Supervision_for_CVPR_2021_paper.html
 - Code: https://github.com/halbielee/EPS
 
-**Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation**
+**10. Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation**
 
 - 作者单位: 延世大学
 - Homepage:  https://cvlab.yonsei.ac.kr/projects/BANA/ 
 - Paper: https://arxiv.org/abs/2104.00905
 - Code: None
 
-**Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation**
+**11. Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation**
 
 - 作者单位: 南京理工大学, MBZUAI, 电子科技大学, 阿德莱德大学, 悉尼科技大学
 
 - Paper: https://arxiv.org/abs/2103.14581
 - Code: https://github.com/NUST-Machine-Intelligence-Laboratory/nsrom
 
-**Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation**
+**12. Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation**
 
 - 作者单位: 北京理工大学, 美团
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Embedded_Discriminative_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2021_paper.html
 - Code: https://github.com/allenwu97/EDAM
 
-**BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation**
+**13. BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation**
 
+- 作者单位: 首尔大学
 - Paper: https://arxiv.org/abs/2103.08907
-- Code: None
+- Code: https://github.com/jbeomlee93/BBAM
 
 ## 半监督语义分割
 
-**Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision**
+**14. Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision**
 
 - 作者单位: 北京大学, 微软亚洲研究院
 - Paper: https://arxiv.org/abs/2106.01226
 - Code: https://github.com/charlesCXK/TorchSemiSeg
 
-**Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation**
+**15. Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation**
 
 - 作者单位: 华为, 大连理工大学, 北京大学
 - Paper: https://arxiv.org/abs/2103.04705
 - Code: None
 
-**Semi-Supervised Semantic Segmentation With Directional Context-Aware Consistency**
+**16. Semi-Supervised Semantic Segmentation With Directional Context-Aware Consistency**
 
 - 作者单位: 香港中文大学, 思谋科技, 牛津大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Lai_Semi-Supervised_Semantic_Segmentation_With_Directional_Context-Aware_Consistency_CVPR_2021_paper.html
 - Code: None
 
-**Semantic Segmentation With Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization**
+**17. Semantic Segmentation With Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization**
 
 - 作者单位: NVIDIA, 多伦多大学, 耶鲁大学, MIT, Vector Institute
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Li_Semantic_Segmentation_With_Generative_Models_Semi-Supervised_Learning_and_Strong_Out-of-Domain_CVPR_2021_paper.html
 - Code: https://nv-tlabs.github.io/semanticGAN/
 
-**Three Ways To Improve Semantic Segmentation With Self-Supervised Depth Estimation**
+**18. Three Ways To Improve Semantic Segmentation With Self-Supervised Depth Estimation**
 
 - 作者单位: ETH Zurich, 伯恩大学, 鲁汶大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Hoyer_Three_Ways_To_Improve_Semantic_Segmentation_With_Self-Supervised_Depth_Estimation_CVPR_2021_paper.html
@@ -1455,67 +1469,62 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 域自适应语义分割
 
-**Cluster, Split, Fuse, and Update: Meta-Learning for Open Compound Domain Adaptive Semantic Segmentation**
+**19. Cluster, Split, Fuse, and Update: Meta-Learning for Open Compound Domain Adaptive Semantic Segmentation**
 
 - 作者单位: ETH Zurich, 鲁汶大学, 电子科技大学
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Gong_Cluster_Split_Fuse_and_Update_Meta-Learning_for_Open_Compound_Domain_CVPR_2021_paper.html
 - Code: None
 
-**Source-Free Domain Adaptation for Semantic Segmentation**
+**20. Source-Free Domain Adaptation for Semantic Segmentation**
 
 - 作者单位: 华东师范大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Source-Free_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2021_paper.html
 - Code: None
 
-**Uncertainty Reduction for Model Adaptation in Semantic Segmentation**
+**21. Uncertainty Reduction for Model Adaptation in Semantic Segmentation**
 
 - 作者单位: Idiap Research Institute, EPFL, 日内瓦大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html
 - Code: https://git.io/JthPp
 
-**Self-Supervised Augmentation Consistency for Adapting Semantic Segmentation**
+**22. Self-Supervised Augmentation Consistency for Adapting Semantic Segmentation**
 
 - 作者单位: 达姆施塔特工业大学, hessian.AI
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Araslanov_Self-Supervised_Augmentation_Consistency_for_Adapting_Semantic_Segmentation_CVPR_2021_paper.html
 - Code: https://github.com/visinf/da-sac
 
-**Self-supervised Augmentation Consistency for Adapting Semantic Segmentation**
+**23. RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening**
 
-- Paper: https://arxiv.org/abs/2105.00097
-
-- Code: https://github.com/visinf/da-sac
-
-**RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening**
-
+- 作者单位: LG AI研究院, KAIST等
 - Paper: https://arxiv.org/abs/2103.15597
 - Code: https://github.com/shachoi/RobustNet
 
-**Coarse-to-Fine Domain Adaptive Semantic Segmentation with Photometric Alignment and Category-Center Regularization**
+**24. Coarse-to-Fine Domain Adaptive Semantic Segmentation with Photometric Alignment and Category-Center Regularization**
 
 - 作者单位: 香港大学, 深睿医疗
 - Paper: https://arxiv.org/abs/2103.13041
 - Code: None
 
-**MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation**
+**25. MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation**
 
 - 作者单位: 香港城市大学, 百度
 - Paper: https://arxiv.org/abs/2103.05254
 - Code: https://github.com/cyang-cityu/MetaCorrection
 
-**Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation**
+**26. Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation**
 
 - 作者单位: 华为云, 华为诺亚, 大连理工大学
 - Paper: https://arxiv.org/abs/2103.04717
 - Code: None
 
-**Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation**
+**27. Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation**
 
 - 作者单位: 中国科学技术大学, 微软亚洲研究院
 - Paper: https://arxiv.org/abs/2101.10979
 - Code: https://github.com/microsoft/ProDA
 
-**DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation**
+**28. DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation**
 
 - 作者单位: 南卡罗来纳大学, 天远视科技
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Wu_DANNet_A_One-Stage_Domain_Adaptation_Network_for_Unsupervised_Nighttime_Semantic_CVPR_2021_paper.html
@@ -1523,13 +1532,13 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## Few-Shot语义分割
 
-**Scale-Aware Graph Neural Network for Few-Shot Semantic Segmentation**
+**29. Scale-Aware Graph Neural Network for Few-Shot Semantic Segmentation**
 
 - 作者单位: MBZUAI, IIAI, 哈工大
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Xie_Scale-Aware_Graph_Neural_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2021_paper.html
 - Code: None
 
-**Anti-Aliasing Semantic Reconstruction for Few-Shot Semantic Segmentation**
+**30. Anti-Aliasing Semantic Reconstruction for Few-Shot Semantic Segmentation**
 
 - 作者单位: 国科大, 清华大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Anti-Aliasing_Semantic_Reconstruction_for_Few-Shot_Semantic_Segmentation_CVPR_2021_paper.html
@@ -1537,7 +1546,7 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 无监督语义分割
 
-**PiCIE: Unsupervised Semantic Segmentation Using Invariance and Equivariance in Clustering**
+**31. PiCIE: Unsupervised Semantic Segmentation Using Invariance and Equivariance in Clustering**
 
 - 作者单位: UT-Austin, 康奈尔大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Cho_PiCIE_Unsupervised_Semantic_Segmentation_Using_Invariance_and_Equivariance_in_Clustering_CVPR_2021_paper.html
@@ -1545,50 +1554,58 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 ## 视频语义分割
 
-**VSPW: A Large-scale Dataset for Video Scene Parsing in the Wild**
+**32. VSPW: A Large-scale Dataset for Video Scene Parsing in the Wild**
 
+- 作者单位: 浙江大学, 百度, 悉尼科技大学
 - Homepage: https://www.vspwdataset.com/
 - Paper: https://www.vspwdataset.com/CVPR2021__miao.pdf
 - GitHub: https://github.com/sssdddwww2/vspw_dataset_download
 
 ## 其它
 
-**Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations**
+**33. Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations**
 
 - 作者单位: 帕多瓦大学
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Michieli_Continual_Semantic_Segmentation_via_Repulsion-Attraction_of_Sparse_and_Disentangled_Latent_CVPR_2021_paper.html
 - Code: https://lttm.dei.unipd.it/paper_data/SDR/
 
-**Exploit Visual Dependency Relations for Semantic Segmentation**
+**34. Exploit Visual Dependency Relations for Semantic Segmentation**
 
 - 作者单位: 伊利诺伊大学芝加哥分校
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Exploit_Visual_Dependency_Relations_for_Semantic_Segmentation_CVPR_2021_paper.html
 - Code: None
 
-**Revisiting Superpixels for Active Learning in Semantic Segmentation With Realistic Annotation Costs**
+**35. Revisiting Superpixels for Active Learning in Semantic Segmentation With Realistic Annotation Costs**
 
 - 作者单位: Institute for Infocomm Research, 新加坡国立大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Cai_Revisiting_Superpixels_for_Active_Learning_in_Semantic_Segmentation_With_Realistic_CVPR_2021_paper.html
 - Code: None
 
-**PLOP: Learning without Forgetting for Continual Semantic Segmentation**
+**36. PLOP: Learning without Forgetting for Continual Semantic Segmentation**
 
 - 作者单位: 索邦大学, Heuritech, Datakalab, Valeo.ai 
 - Paper: https://arxiv.org/abs/2011.11390
 - Code: https://github.com/arthurdouillard/CVPR2021_PLOP
 
-**3D-to-2D Distillation for Indoor Scene Parsing**
+**37. 3D-to-2D Distillation for Indoor Scene Parsing**
 
 - 作者单位: 香港中文大学, 香港大学
 - Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Liu_3D-to-2D_Distillation_for_Indoor_Scene_Parsing_CVPR_2021_paper.html
 - Code: None
 
-**Bidirectional Projection Network for Cross Dimension Scene Understanding**
+**38. Bidirectional Projection Network for Cross Dimension Scene Understanding**
 
 - 作者单位: 香港中文大学, 牛津大学等
 - Paper(Oral): https://arxiv.org/abs/2103.14326
 - Code: https://github.com/wbhu/BPNet
+
+**39. PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation**
+
+- 作者单位: 北京大学, 中科院, 国科大, ETH Zurich, 商汤科技等
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Li_PointFlow_Flowing_Semantics_Through_Points_for_Aerial_Image_Segmentation_CVPR_2021_paper.html
+- Code: https://github.com/lxtGH/PFSegNets
 
 <a name="Instance-Segmentation"></a>
 
