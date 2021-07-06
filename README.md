@@ -1719,16 +1719,35 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # 医学图像分割
 
-**FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space**
+**1. Learning Calibrated Medical Image Segmentation via Multi-Rater Agreement Modeling**
 
+- 作者单位: 腾讯天衍实验室, 北京同仁医院
+- Paper(Best Paper Candidate): https://openaccess.thecvf.com/content/CVPR2021/html/Ji_Learning_Calibrated_Medical_Image_Segmentation_via_Multi-Rater_Agreement_Modeling_CVPR_2021_paper.html
+- Code: https://github.com/jiwei0921/MRNet/
+
+**2. Every Annotation Counts: Multi-Label Deep Supervision for Medical Image Segmentation**
+
+- 作者单位: 卡尔斯鲁厄理工学院, 卡尔·蔡司等
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_Every_Annotation_Counts_Multi-Label_Deep_Supervision_for_Medical_Image_Segmentation_CVPR_2021_paper.html
+- Code: None
+
+**3. FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space**
+
+- 作者单位: 香港中文大学, 香港理工大学
 - Paper: https://arxiv.org/abs/2103.06030
 - Code: https://github.com/liuquande/FedDG-ELCFS
 
-## 3D医学图像分割
+**4. DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation**
 
-**DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation**
-
+- 作者单位: 约翰斯·霍普金斯大大学, NVIDIA
 - Paper(Oral): https://arxiv.org/abs/2103.15954
+- Code: None
+
+**5. DARCNN: Domain Adaptive Region-Based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images**
+
+- 作者单位: 斯坦福大学
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2021/html/Hsu_DARCNN_Domain_Adaptive_Region-Based_Convolutional_Neural_Network_for_Unsupervised_Instance_CVPR_2021_paper.html
 - Code: None
 
 <a name="VOS"></a>
