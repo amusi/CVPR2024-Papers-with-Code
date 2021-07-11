@@ -8,7 +8,9 @@ CVPR 2021 收录列表：http://cvpr2021.thecvf.com/sites/default/files/2021-03/
 >
 > 注2：关于往年CV顶会论文以及其他优质CV论文和大盘点，详见： https://github.com/amusi/daily-paper-computer-vision
 
-CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CVer9999**，请备注：**CVPR2021已收录+姓名+学校/公司名称**！一定要根据格式申请，可以拉你进群沟通开会等事宜。
+如果你想了解最新最优质的的CV论文、开源项目和学习资料，欢迎扫码加入【CVer学术交流群】！互相学习，一起进步~ 
+
+![](CVer学术交流群.png)
 
 ## 【CVPR 2021 论文开源目录】
 
