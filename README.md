@@ -2796,6 +2796,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 
 # Domain Generalization
 
+**Generalization on Unseen Domains via Inference-time Label-Preserving Target Projections**
+
+- Paper(Oral): https://openaccess.thecvf.com/content/CVPR2021/papers/Pandey_Generalization_on_Unseen_Domains_via_Inference-Time_Label-Preserving_Target_Projections_CVPR_2021_paper.pdf
+- Code: https://github.com/VSumanth99/InferenceTimeDG
+
 **Generalizable Person Re-identification with Relevance-aware Mixture of Experts**
 
 - Paper: https://arxiv.org/abs/2105.09156
