@@ -211,7 +211,7 @@ CVPR 2021 收录列表：http://cvpr2021.thecvf.com/sites/default/files/2021-03/
 **ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search**
 
 - Paper: ttps://arxiv.org/abs/2105.10154
-- Code: None
+- Code: https://github.com/luminxu/ViPNAS
 
 **Combined Depth Space based Architecture Search For Person Re-identification**
 
@@ -2017,13 +2017,13 @@ CVPR 2021 收录列表：http://cvpr2021.thecvf.com/sites/default/files/2021-03/
 
 **ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search**
 
-- Paper: ttps://arxiv.org/abs/2105.10154
-- Code: None
+- Paper: https://arxiv.org/abs/2105.10154
+- Code: https://github.com/luminxu/ViPNAS
 
 **When Human Pose Estimation Meets Robustness: Adversarial Algorithms and Benchmarks**
 
 - Paper: https://arxiv.org/abs/2105.06152
-- Code: None
+- Code: https://github.com/AIprogrammer/AdvMix
 
 **Pose Recognition with Cascade Transformers**
 
