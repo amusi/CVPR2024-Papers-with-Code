@@ -1821,7 +1821,7 @@ CVPR 2021 收录列表：http://cvpr2021.thecvf.com/sites/default/files/2021-03/
 
 <a name="Matting"></a>
 
-# 协同显著性检测(Image Matting)
+# 图像抠图(Image Matting)
 
 **Semantic Image Matting**
 
