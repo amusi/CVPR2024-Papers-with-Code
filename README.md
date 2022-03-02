@@ -22,6 +22,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [CLIP](#CLIP)
 - [NeRF](#NeRF)
 - [Visual Transformer](#Visual-Transformer)
+- [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [3D点云(3D Point Cloud)](#3D-Point-Cloud)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
@@ -44,6 +45,18 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Homepage: https://xharlie.github.io/projects/project_sites/pointnerf/
 - Paper: https://arxiv.org/abs/2201.08845
 - Code: https://github.com/Xharlie/point-nerf
+
+<a name="Semantic-Segmentation"></a>
+
+# 语义分割(Semantic Segmentation)
+
+## 半监督语义分割
+
+**ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2106.05095
+
+- Code: https://github.com/LiheYoung/ST-PlusPlus
 
 <a name="3D-Point-Cloud"></a>
 
