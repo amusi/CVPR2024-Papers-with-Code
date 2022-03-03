@@ -22,6 +22,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [CLIP](#CLIP)
 - [NeRF](#NeRF)
 - [Visual Transformer](#Visual-Transformer)
+- [目标检测(Object Detection)](#Object-Detection)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [3D点云(3D Point Cloud)](#3D-Point-Cloud)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
@@ -48,6 +49,22 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2201.08845
 - Code: https://github.com/Xharlie/point-nerf
 
+<a name="Object-Detection"></a>
+
+# 目标检测(Object Detection)
+
+**DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**
+
+- Paper: https://arxiv.org/abs/2203.01305
+- Code: https://github.com/FengLi-ust/DN-DETR
+
+**Localization Distillation for Dense Object Detection**
+
+- Paper: https://arxiv.org/abs/2102.12252
+- Code: https://github.com/HikariTJU/LD
+- Code2: https://github.com/HikariTJU/LD
+- 中文解读：https://mp.weixin.qq.com/s/dxss8RjJH283h6IbPCT9vg
+
 <a name="Semantic-Segmentation"></a>
 
 # 语义分割(Semantic Segmentation)
@@ -63,6 +80,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 <a name="3D-Point-Cloud"></a>
 
 # 3D点云(3D Point Cloud)
+
+**A Unified Query-based Paradigm for Point Cloud Understanding**
+
+- Paper: https://arxiv.org/abs/2203.01252
+- Code: None 
 
 **CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**
 
