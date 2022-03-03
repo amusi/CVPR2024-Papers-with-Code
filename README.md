@@ -50,6 +50,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2201.08845
 - Code: https://github.com/Xharlie/point-nerf
 
+<a name="Visual-Transformer"></a>
+
+# Visual Transformer
+
+**Embracing Single Stride 3D Object Detector with Sparse Transformer**
+
+- Paper: https://arxiv.org/abs/2112.06375
+
+- Code: https://github.com/TuSimple/SST
+
 <a name="Object-Detection"></a>
 
 # 目标检测(Object Detection)
@@ -100,6 +110,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 <a name="3D-Object-Detection"></a>
 
 # 3D目标检测(3D Object Detection)
+
+**Embracing Single Stride 3D Object Detector with Sparse Transformer**
+
+- Paper: https://arxiv.org/abs/2112.06375
+
+- Code: https://github.com/TuSimple/SST
 
 **Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes** 
 
