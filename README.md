@@ -26,6 +26,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [3D点云(3D Point Cloud)](#3D-Point-Cloud)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
+- [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [数据集(Datasets)](#Datasets)
 - [其他(Others)](#Others)
@@ -104,6 +105,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2011.12001
 - Code: https://github.com/qq456cvb/CanonicalVoting
+
+<a name="3D-Human-Pose-Estimation"></a>
+
+# 3D人体姿态估计(3D Human Pose Estimation)
+
+**MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video**
+
+- Paper: https://arxiv.org/abs/2203.00859
+- Code: None
 
 <a name="Scene-Graph-Generation"></a>
 
