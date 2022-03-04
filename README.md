@@ -24,6 +24,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [Visual Transformer](#Visual-Transformer)
 - [目标检测(Object Detection)](#Object-Detection)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
+- [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [3D点云(3D Point Cloud)](#3D-Point-Cloud)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
@@ -87,6 +88,17 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2106.05095
 
 - Code: https://github.com/LiheYoung/ST-PlusPlus
+
+<a name="Instance-Segmentation"></a>
+
+# 实例分割(Instance Segmentation)
+
+## 自监督实例分割
+
+**FreeSOLO: Learning to Segment Objects without Annotations**
+
+- Paper: https://arxiv.org/abs/2202.12181
+- Code: None
 
 <a name="3D-Point-Cloud"></a>
 
