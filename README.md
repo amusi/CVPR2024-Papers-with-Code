@@ -27,6 +27,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [图像编辑(Image Editing)](#Image-Editing)
+- [超分辨率(Super-Resolution)](#Super-Resolution)
 - [3D点云(3D Point Cloud)](#3D-Point-Cloud)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
@@ -35,6 +36,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [水印(Watermarking)](#Watermarking)
 - [数据集(Datasets)](#Datasets)
+- [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
 
 <a name="Backbone"></a>
@@ -50,6 +52,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 <a name="CLIP"></a>
 
 # CLIP
+
+**HairCLIP: Design Your Hair by Text and Reference Image**
+
+- Paper: https://arxiv.org/abs/2112.05142
+
+- Code: https://github.com/wty-ustc/HairCLIP
 
 **PointCLIP: Point Cloud Understanding by CLIP**
 
@@ -92,6 +100,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Code: https://github.com/youngwanLEE/MPViT
 
 ## 应用
+
+**Language-based Video Editing via Multi-Modal Multi-Level Transformer**
+
+- Paper: https://arxiv.org/abs/2104.01122
+- Code: None
 
 **MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video**
 
@@ -174,6 +187,20 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2111.14818
 
 - Code: https://github.com/omriav/blended-diffusion
+
+<a name="Super-Resolution"></a>
+
+# 超分辨率(Super-Resolution)
+
+## 视频超分辨率
+
+**BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment**
+
+- Paper: https://arxiv.org/abs/2104.13371
+
+- Code: https://github.com/open-mmlab/mmediting
+
+- Code: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
 
 <a name="3D-Point-Cloud"></a>
 
@@ -269,9 +296,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Demo: https://youtu.be/cbiMACA6dRc
 
-<a name="Others"></a>
+<a name="New-Tasks"></a>
 
-# 其他(Others)
+# 新任务(New Task)
+
+**Language-based Video Editing via Multi-Modal Multi-Level Transformer**
+
+- Paper: https://arxiv.org/abs/2104.01122
+- Code: None
 
 **It's About Time: Analog Clock Reading in the Wild**
 
@@ -281,3 +313,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Code: https://github.com/charigyang/itsabouttime
 
 - Demo: https://youtu.be/cbiMACA6dRc
+
+<a name="Others"></a>
+
+# 其他(Others)
