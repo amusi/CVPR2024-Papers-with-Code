@@ -22,15 +22,30 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [CLIP](#CLIP)
 - [NeRF](#NeRF)
 - [Visual Transformer](#Visual-Transformer)
+- [数据增强(Data Augmentation)](#DA)
 - [目标检测(Object Detection)](#Object-Detection)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
+- [图像编辑(Image Editing)](#Image-Editing)
 - [3D点云(3D Point Cloud)](#3D-Point-Cloud)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
+- [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
+- [深度估计(Depth Estimation)](#Depth-Estimation)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
+- [水印(Watermarking)](#Watermarking)
 - [数据集(Datasets)](#Datasets)
 - [其他(Others)](#Others)
+
+<a name="Backbone"></a>
+
+# Backbone
+
+**MPViT : Multi-Path Vision Transformer for Dense Prediction**
+
+- Paper: https://arxiv.org/abs/2112.11010
+
+- Code: https://github.com/youngwanLEE/MPViT
 
 <a name="CLIP"></a>
 
@@ -41,9 +56,22 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2112.02413
 - Code: https://github.com/ZrrSkywalker/PointCLIP
 
+**Blended Diffusion for Text-driven Editing of Natural Images**
+
+- Paper: https://arxiv.org/abs/2111.14818
+
+- Code: https://github.com/omriav/blended-diffusion
+
 <a name="NeRF"></a>
 
 # NeRF
+
+**Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields**
+
+- Homepage: https://jonbarron.info/mipnerf360/
+- Paper: https://arxiv.org/abs/2111.12077
+
+- Demo: https://youtu.be/YStDS2-Ln1s
 
 **Point-NeRF: Point-based Neural Radiance Fields**
 
@@ -55,11 +83,40 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 # Visual Transformer
 
+## Backbone
+
+**MPViT : Multi-Path Vision Transformer for Dense Prediction**
+
+- Paper: https://arxiv.org/abs/2112.11010
+
+- Code: https://github.com/youngwanLEE/MPViT
+
+## 应用
+
+**MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video**
+
+- Paper: https://arxiv.org/abs/2203.00859
+- Code: None
+
 **Embracing Single Stride 3D Object Detector with Sparse Transformer**
 
 - Paper: https://arxiv.org/abs/2112.06375
 
 - Code: https://github.com/TuSimple/SST
+
+<a name="DA"></a>
+
+# 数据增强(Data Augmentation)
+
+**TeachAugment: Data Augmentation Optimization Using Teacher Knowledge**
+
+- Paper: https://arxiv.org/abs/2202.12513
+- Code: https://github.com/DensoITLab/TeachAugment
+
+**AlignMix: Improving representation by interpolating aligned features**
+
+- Paper: https://arxiv.org/abs/2103.15375
+- Code: None
 
 <a name="Object-Detection"></a>
 
@@ -99,6 +156,24 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2202.12181
 - Code: None
+
+## 视频实例分割
+
+**Efficient Video Instance Segmentation via Tracklet Query and Proposal**
+
+- Homepage: https://jialianwu.com/projects/EfficientVIS.html
+- Paper: https://arxiv.org/abs/2203.01853
+- Demo: https://youtu.be/sSPMzgtMKCE
+
+<a name="Image-Editing"></a>
+
+# 图像编辑(Image Editing)
+
+**Blended Diffusion for Text-driven Editing of Natural Images**
+
+- Paper: https://arxiv.org/abs/2111.14818
+
+- Code: https://github.com/omriav/blended-diffusion
 
 <a name="3D-Point-Cloud"></a>
 
@@ -143,6 +218,26 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.00859
 - Code: None
 
+<a name="3DSSC"></a>
+
+# 3D语义场景补全(3D Semantic Scene Completion)
+
+**MonoScene: Monocular 3D Semantic Scene Completion**
+
+- Paper: https://arxiv.org/abs/2112.00726
+- Code: https://github.com/cv-rits/MonoScene
+
+<a name="Depth-Estimation"></a>
+
+# 深度估计(Depth Estimation)
+
+## 单目深度估计
+
+**NeW CRFs: Neural Window Fully-connected CRFs for Monocular Depth Estimation**
+
+- Paper: https://arxiv.org/abs/2203.01502
+- Code: None
+
 <a name="Scene-Graph-Generation"></a>
 
 # 场景图生成(Scene Graph Generation)
@@ -150,6 +245,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
  **SGTR: End-to-end Scene Graph Generation with Transformer**
 
 - Paper: https://arxiv.org/abs/2112.12970
+- Code: None
+
+<a name=" Watermarking"></a>
+
+# 水印(Watermarking)
+
+**Deep 3D-to-2D Watermarking: Embedding Messages in 3D Meshes and Extracting Them from 2D Renderings**
+
+- Paper: https://arxiv.org/abs/2104.13450
 - Code: None
 
 <a name="Datasets"></a>
