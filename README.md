@@ -151,6 +151,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 # 语义分割(Semantic Segmentation)
 
+## 弱监督语义分割
+
+**Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.00962
+- Code: https://github.com/zhaozhengChen/ReCAM
+
 ## 半监督语义分割
 
 **ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation**
