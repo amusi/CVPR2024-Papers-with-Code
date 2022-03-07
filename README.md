@@ -33,6 +33,8 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
+- [图像修复(Image Inpainting)](#Image-Inpainting)
+- [人群计数(Crowd Counting)](#Crowd-Counting)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [水印(Watermarking)](#Watermarking)
 - [数据集(Datasets)](#Datasets)
@@ -272,6 +274,35 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.01502
 - Code: None
 
+**OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion**
+
+- Paper: https://arxiv.org/abs/2203.00838
+- Code: None
+
+**Toward Practical Self-Supervised Monocular Indoor Depth Estimation**
+
+- Paper: https://arxiv.org/abs/2112.02306
+- Code: None
+
+<a name="Image-Inpainting"></a>
+
+# 图像修复(Image Inpainting)
+
+**Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding**
+
+- Paper: https://arxiv.org/abs/2203.00867
+
+- Code: https://github.com/DQiaole/ZITS_inpainting
+
+<a name="Crowd-Counting"></a>
+
+# 人群计数(Crowd Counting)
+
+**Leveraging Self-Supervision for Cross-Domain Crowd Counting**
+
+- Paper: https://arxiv.org/abs/2103.16291
+- Code: None
+
 <a name="Scene-Graph-Generation"></a>
 
 # 场景图生成(Scene Graph Generation)
@@ -298,10 +329,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Homepage: https://charigyang.github.io/abouttime/
 - Paper: https://arxiv.org/abs/2111.09162
-
 - Code: https://github.com/charigyang/itsabouttime
-
 - Demo: https://youtu.be/cbiMACA6dRc
+
+**Toward Practical Self-Supervised Monocular Indoor Depth Estimation**
+
+- Paper: https://arxiv.org/abs/2112.02306
+- Code: None
 
 <a name="New-Tasks"></a>
 
