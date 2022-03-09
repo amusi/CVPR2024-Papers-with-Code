@@ -1,4 +1,4 @@
-# CVPR 2021 论文和开源项目合集(Papers with Code)
+# CVPR 2022 论文和开源项目合集(Papers with Code)
 
 [CVPR 2022](https://cvpr2022.thecvf.com/) 论文和开源项目合集(papers with code)！
 
@@ -23,6 +23,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [NAS](#NAS)
 - [NeRF](#NeRF)
 - [Visual Transformer](#Visual-Transformer)
+- [自监督学习(Self-supervised Learning)](#SSL)
 - [数据增强(Data Augmentation)](#DA)
 - [目标检测(Object Detection)](#Object-Detection)
 - [目标跟踪(Visual Tracking)](#VT)
@@ -33,6 +34,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [3D点云(3D Point Cloud)](#3D-Point-Cloud)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
+- [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
 - [3D重建(3D Reconstruction)](#3D-R)
@@ -40,6 +42,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [车道线检测(Lane Detection)](#Lane-Detection)
 - [图像修复(Image Inpainting)](#Image-Inpainting)
 - [人群计数(Crowd Counting)](#Crowd-Counting)
+- [医学图像(Medical Image)](#Medical-Image)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [水印(Watermarking)](#Watermarking)
 - [数据集(Datasets)](#Datasets)
@@ -49,6 +52,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 <a name="Backbone"></a>
 
 # Backbone
+
+**A ConvNet for the 2020s**
+
+- Paper: https://arxiv.org/abs/2201.03545
+
+- Code: https://github.com/facebookresearch/ConvNeXt
+- 中文解读：https://mp.weixin.qq.com/s/Xg5wPYExnvTqRo6s5-2cAw
 
 **MPViT : Multi-Path Vision Transformer for Dense Prediction**
 
@@ -137,8 +147,23 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Embracing Single Stride 3D Object Detector with Sparse Transformer**
 
 - Paper: https://arxiv.org/abs/2112.06375
-
 - Code: https://github.com/TuSimple/SST
+
+**Multi-class Token Transformer for Weakly Supervised Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.02891
+- Code: https://github.com/xulianuwa/MCTformer
+
+<a name="SSL"></a>
+
+# 自监督学习(Self-supervised Learning)
+
+**Crafting Better Contrastive Views for Siamese Representation Learning**
+
+- Paper: https://arxiv.org/abs/2202.03278
+
+- Code: https://github.com/xyupeng/ContrastiveCrop
+- 中文解读：https://mp.weixin.qq.com/s/VTP9D5f7KG9vg30U9kVI2A
 
 <a name="DA"></a>
 
@@ -170,9 +195,21 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Code2: https://github.com/HikariTJU/LD
 - 中文解读：https://mp.weixin.qq.com/s/dxss8RjJH283h6IbPCT9vg
 
+**Focal and Global Knowledge Distillation for Detectors**
+
+- Paper: https://arxiv.org/abs/2111.11837
+
+- Code: https://github.com/yzd-v/FGD
+- 中文解读：https://mp.weixin.qq.com/s/yDkreTudC8JL2V2ETsADwQ
+
 <a name="VT"></a>
 
 # 目标跟踪(Visual Tracking)
+
+**Correlation-Aware Deep Tracking**
+
+- Paper: https://arxiv.org/abs/2203.01666
+- Code: None
 
 **TCTrack: Temporal Contexts for Aerial Tracking**
 
@@ -191,17 +228,27 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.00962
 - Code: https://github.com/zhaozhengChen/ReCAM
 
+**Multi-class Token Transformer for Weakly Supervised Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.02891
+- Code: https://github.com/xulianuwa/MCTformer
+
 ## 半监督语义分割
 
 **ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation**
 
 - Paper: https://arxiv.org/abs/2106.05095
-
 - Code: https://github.com/LiheYoung/ST-PlusPlus
+- 中文解读：https://mp.weixin.qq.com/s/knSnlebdtEnmrkChGM_0CA
 
 <a name="Instance-Segmentation"></a>
 
 # 实例分割(Instance Segmentation)
+
+**E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.04074
+- Code: https://github.com/zhang-tao-whu/e2ec
 
 ## 自监督实例分割
 
@@ -246,10 +293,9 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment**
 
 - Paper: https://arxiv.org/abs/2104.13371
-
 - Code: https://github.com/open-mmlab/mmediting
-
 - Code: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
+- 中文解读：https://mp.weixin.qq.com/s/HZTwYfphixyLHxlbCAxx4g
 
 <a name="3D-Point-Cloud"></a>
 
@@ -284,6 +330,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2011.12001
 - Code: https://github.com/qq456cvb/CanonicalVoting
+
+<a name="3D-Object-Tracking"></a>
+
+# 3D目标跟踪(3D Object Tracking)
+
+**Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds**
+
+- Paper: https://arxiv.org/abs/2203.01730
+- Code: https://github.com/Ghostish/Open3DSOT
 
 <a name="3D-Human-Pose-Estimation"></a>
 
@@ -320,6 +375,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Homepage: https://banmo-www.github.io/
 - Paper: https://arxiv.org/abs/2112.12761
 - Code: https://github.com/facebookresearch/banmo
+- 中文解读：https://mp.weixin.qq.com/s/NMHP8-xWwrX40vpGx55Qew
 
 <a name="Depth-Estimation"></a>
 
@@ -371,6 +427,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Leveraging Self-Supervision for Cross-Domain Crowd Counting**
 
 - Paper: https://arxiv.org/abs/2103.16291
+- Code: None
+
+<a name="Medical-Image"></a>
+
+# 医学图像(Medical Image)
+
+**BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation**
+
+- Paper: https://arxiv.org/abs/2203.02533
 - Code: None
 
 <a name="Scene-Graph-Generation"></a>
