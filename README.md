@@ -35,6 +35,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
+- [3D重建(3D Reconstruction)](#3D-R)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [车道线检测(Lane Detection)](#Lane-Detection)
 - [图像修复(Image Inpainting)](#Image-Inpainting)
@@ -301,6 +302,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2112.00726
 - Code: https://github.com/cv-rits/MonoScene
+
+<a name="3D-R"></a>
+
+# 3D重建(3D Reconstruction)
+
+**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**
+
+- Homepage: https://banmo-www.github.io/
+- Paper: https://arxiv.org/abs/2112.12761
+- Code: https://github.com/facebookresearch/banmo
 
 <a name="Depth-Estimation"></a>
 
