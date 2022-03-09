@@ -289,6 +289,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 # 3D人体姿态估计(3D Human Pose Estimation)
 
+**MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation**
+
+- Paper: https://arxiv.org/abs/2111.12707
+
+- Code: https://github.com/Vegetebird/MHFormer
+
+- 中文解读: https://zhuanlan.zhihu.com/p/439459426
+
 **MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video**
 
 - Paper: https://arxiv.org/abs/2203.00859
