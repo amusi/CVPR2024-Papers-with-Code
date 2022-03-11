@@ -154,6 +154,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.02891
 - Code: https://github.com/xulianuwa/MCTformer
 
+**Spatio-temporal Relation Modeling for Few-shot Action Recognition**
+
+- Paper: https://arxiv.org/abs/2112.05132
+- Code: https://github.com/Anirudh257/strm
+
 <a name="SSL"></a>
 
 # 自监督学习(Self-supervised Learning)
