@@ -29,6 +29,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [目标跟踪(Visual Tracking)](#VT)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
+- [视频理解(Video Understanding)](#VU)
 - [图像编辑(Image Editing)](#Image-Editing)
 - [Low-level Vision](#LLV)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
@@ -39,11 +40,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
 - [3D重建(3D Reconstruction)](#3D-R)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
+- [立体匹配(Stereo Matching)](#Stereo-Matching)
 - [车道线检测(Lane Detection)](#Lane-Detection)
 - [图像修复(Image Inpainting)](#Image-Inpainting)
 - [人群计数(Crowd Counting)](#Crowd-Counting)
 - [医学图像(Medical Image)](#Medical-Image)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
+- [高光谱图像重建(Hyperspectral Image Reconstruction)](#HSI)
 - [水印(Watermarking)](#Watermarking)
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
@@ -132,7 +135,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Code: https://github.com/youngwanLEE/MPViT
 
-## 应用
+## 应用(Application)
 
 **Language-based Video Editing via Multi-Modal Multi-Level Transformer**
 
@@ -159,6 +162,20 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2112.05132
 - Code: https://github.com/Anirudh257/strm
 
+**Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction**
+
+- Paper: https://arxiv.org/abs/2111.07910
+- Code: https://github.com/caiyuanhao1998/MST
+
+<a name="VLL"></a>
+
+# 视觉和语言(Vision-Language)
+
+**Conditional Prompt Learning for Vision-Language Models**
+
+- Paper: https://arxiv.org/abs/2203.05557
+- Code: https://github.com/KaiyangZhou/CoOp
+
 <a name="SSL"></a>
 
 # 自监督学习(Self-supervised Learning)
@@ -166,9 +183,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Crafting Better Contrastive Views for Siamese Representation Learning**
 
 - Paper: https://arxiv.org/abs/2202.03278
-
 - Code: https://github.com/xyupeng/ContrastiveCrop
 - 中文解读：https://mp.weixin.qq.com/s/VTP9D5f7KG9vg30U9kVI2A
+
+**HCSC: Hierarchical Contrastive Selective Coding**
+
+- Homepage: https://github.com/gyfastas/HCSC
+- Paper: https://arxiv.org/abs/2202.00455
+
+- 中文解读: https://mp.weixin.qq.com/s/jkYR8mYp-e645qk8kfPNKQ
 
 <a name="DA"></a>
 
@@ -246,6 +269,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Code: https://github.com/LiheYoung/ST-PlusPlus
 - 中文解读：https://mp.weixin.qq.com/s/knSnlebdtEnmrkChGM_0CA
 
+**Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels**
+
+- Homepage: https://haochen-wang409.github.io/U2PL/
+- Paper: https://arxiv.org/abs/2203.03884
+
+- Code: https://github.com/Haochen-Wang409/U2PL
+- 中文解读: https://mp.weixin.qq.com/s/-08olqE7np8A1XQzt6HAgQ
+
 <a name="Instance-Segmentation"></a>
 
 # 实例分割(Instance Segmentation)
@@ -270,6 +301,17 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.01853
 - Demo: https://youtu.be/sSPMzgtMKCE
 
+<a name="VU"></a>
+
+# 视频理解(Video Understanding)
+
+## 行为识别(Action Recognition)
+
+**Spatio-temporal Relation Modeling for Few-shot Action Recognition**
+
+- Paper: https://arxiv.org/abs/2112.05132
+- Code: https://github.com/Anirudh257/strm
+
 <a name="Image-Editing"></a>
 
 # 图像编辑(Image Editing)
@@ -293,7 +335,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 # 超分辨率(Super-Resolution)
 
-## 视频超分辨率
+## 图像超分辨率(Image Super-Resolution)
+
+**Learning the Degradation Distribution for Blind Image Super-Resolution**
+
+- Paper: https://arxiv.org/abs/2203.04962
+- Code: https://github.com/greatlog/UnpairedSR
+
+## 视频超分辨率(Video Super-Resolution)
 
 **BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment**
 
@@ -403,6 +452,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2112.02306
 - Code: None
 
+<a name="Stereo-Matching"></a>
+
+# 立体匹配(Stereo Matching)
+
+**ACVNet: Attention Concatenation Volume for Accurate and Efficient Stereo Matching**
+
+- Paper: https://arxiv.org/abs/2203.02146
+- Code: https://github.com/gangweiX/ACVNet
+
 <a name="Lane-Detection"></a>
 
 # 车道线检测(Lane Detection)
@@ -463,6 +521,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Code: https://github.com/lukasHoel/stylemesh
 - Demo：https://www.youtube.com/watch?v=ZqgiTLcNcks
+
+<a name="HSI"></a>
+
+# 高光谱图像重建(Hyperspectral Image Reconstruction)
+
+**Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction**
+
+- Paper: https://arxiv.org/abs/2111.07910
+- Code: https://github.com/caiyuanhao1998/MST
 
 <a name="Watermarking"></a>
 
