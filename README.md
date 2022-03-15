@@ -167,6 +167,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2111.07910
 - Code: https://github.com/caiyuanhao1998/MST
 
+**Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling**
+
+- Homepage: https://point-bert.ivg-research.xyz/
+
+- Paper: https://arxiv.org/abs/2111.14819
+- Code: https://github.com/lulutang0608/Point-BERT
+
 <a name="VLL"></a>
 
 # 视觉和语言(Vision-Language)
@@ -354,6 +361,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 <a name="3D-Point-Cloud"></a>
 
 # 3D点云(3D Point Cloud)
+
+**Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling**
+
+- Homepage: https://point-bert.ivg-research.xyz/
+
+- Paper: https://arxiv.org/abs/2111.14819
+- Code: https://github.com/lulutang0608/Point-BERT
 
 **A Unified Query-based Paradigm for Point Cloud Understanding**
 
