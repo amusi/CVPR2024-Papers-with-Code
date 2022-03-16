@@ -20,15 +20,18 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - [Backbone](#Backbone)
 - [CLIP](#CLIP)
+- [GAN](#GAN)
 - [NAS](#NAS)
 - [NeRF](#NeRF)
 - [Visual Transformer](#Visual-Transformer)
+- [视觉和语言(Vision-Language)](#VL)
 - [自监督学习(Self-supervised Learning)](#SSL)
 - [数据增强(Data Augmentation)](#DA)
 - [目标检测(Object Detection)](#Object-Detection)
 - [目标跟踪(Visual Tracking)](#VT)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
+- [小样本分割(Few-Shot Segmentation)](#FFS)
 - [视频理解(Video Understanding)](#VU)
 - [图像编辑(Image Editing)](#Image-Editing)
 - [Low-level Vision](#LLV)
@@ -39,6 +42,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
 - [3D重建(3D Reconstruction)](#3D-R)
+- [伪装物体检测(Camouflaged Object Detection)](#COD)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [立体匹配(Stereo Matching)](#Stereo-Matching)
 - [车道线检测(Lane Detection)](#Lane-Detection)
@@ -59,15 +63,23 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **A ConvNet for the 2020s**
 
 - Paper: https://arxiv.org/abs/2201.03545
-
 - Code: https://github.com/facebookresearch/ConvNeXt
 - 中文解读：https://mp.weixin.qq.com/s/Xg5wPYExnvTqRo6s5-2cAw
+
+**Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs**
+
+- Paper: https://arxiv.org/abs/2203.06717
+
+- Code: https://github.com/megvii-research/RepLKNet
+- Code2: https://github.com/DingXiaoH/RepLKNet-pytorch
+
+- 中文解读：https://mp.weixin.qq.com/s/_qXyIQut-JRW6VvsjaQlFg
 
 **MPViT : Multi-Path Vision Transformer for Dense Prediction**
 
 - Paper: https://arxiv.org/abs/2112.11010
-
 - Code: https://github.com/youngwanLEE/MPViT
+- 中文解读: https://mp.weixin.qq.com/s/Q9-crEOz5IYzZaNoq8oXfg
 
 <a name="CLIP"></a>
 
@@ -90,9 +102,30 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Code: https://github.com/omriav/blended-diffusion
 
+<a name="GAN"></a>
+
+# GAN
+
+**SemanticStyleGAN: Learning Compositional Generative Priors for Controllable Image Synthesis and Editing**
+
+- Homepage: https://semanticstylegan.github.io/
+
+- Paper: https://arxiv.org/abs/2112.02236
+- Demo: https://semanticstylegan.github.io/videos/demo.mp4
+
+**Style Transformer for Image Inversion and Editing**
+
+- Paper: https://arxiv.org/abs/2203.07932
+- Code: https://github.com/sapphire497/style-transformer
+
 <a name="NAS"></a>
 
 # NAS
+
+**β-DARTS: Beta-Decay Regularization for Differentiable Architecture Search**
+
+- Paper: https://arxiv.org/abs/2203.01665
+- Code: https://github.com/Sunshine-Ye/Beta-DARTS
 
 **ISNAS-DIP: Image-Specific Neural Architecture Search for Deep Image Prior**
 
@@ -120,8 +153,26 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2111.13679
 - Homepage: https://bmild.github.io/rawnerf/
-
 - Demo: https://www.youtube.com/watch?v=JtBS4KBcKVc
+
+**Urban Radiance Fields**
+
+- Homepage: https://urban-radiance-fields.github.io/
+
+- Paper: https://arxiv.org/abs/2111.14643
+- Demo: https://youtu.be/qGlq5DZT6uc
+
+**Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation**
+
+- Paper: https://arxiv.org/abs/2202.13162
+- Code: https://github.com/HexagonPrime/Pix2NeRF
+
+**HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video**
+
+- Homepage: https://grail.cs.washington.edu/projects/humannerf/
+- Paper: https://arxiv.org/abs/2201.04127
+
+- Demo: https://youtu.be/GM-RoZEymmw
 
 <a name="Visual-Transformer"></a>
 
@@ -170,11 +221,56 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling**
 
 - Homepage: https://point-bert.ivg-research.xyz/
-
 - Paper: https://arxiv.org/abs/2111.14819
 - Code: https://github.com/lulutang0608/Point-BERT
 
-<a name="VLL"></a>
+**GroupViT: Semantic Segmentation Emerges from Text Supervision**
+
+- Homepage: https://jerryxu.net/GroupViT/
+
+- Paper: https://arxiv.org/abs/2202.11094
+- Demo: https://youtu.be/DtJsWIUTW-Y
+
+**Restormer: Efficient Transformer for High-Resolution Image Restoration**
+
+- Paper: https://arxiv.org/abs/2111.09881
+- Code: https://github.com/swz30/Restormer
+
+**Splicing ViT Features for Semantic Appearance Transfer**
+
+- Homepage: https://splice-vit.github.io/
+- Paper: https://arxiv.org/abs/2201.00424
+- Code: https://github.com/omerbt/Splice
+
+**Self-supervised Video Transformer**
+
+- Homepage: https://kahnchana.github.io/svt/
+- Paper: https://arxiv.org/abs/2112.01514
+
+- Code: https://github.com/kahnchana/svt
+
+**Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers**
+
+- Paper: https://arxiv.org/abs/2203.02664
+- Code: https://github.com/rulixiang/afa
+
+**Accelerating DETR Convergence via Semantic-Aligned Matching**
+
+- Paper: https://arxiv.org/abs/2203.06883
+- Code: https://github.com/ZhangGongjie/SAM-DETR
+
+**DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**
+
+- Paper: https://arxiv.org/abs/2203.01305
+- Code: https://github.com/FengLi-ust/DN-DETR
+- 中文解读: https://mp.weixin.qq.com/s/xdMfZ_L628Ru1d1iaMny0w
+
+**Style Transformer for Image Inversion and Editing**
+
+- Paper: https://arxiv.org/abs/2203.07932
+- Code: https://github.com/sapphire497/style-transformer
+
+<a name="VL"></a>
 
 # 视觉和语言(Vision-Language)
 
@@ -186,6 +282,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 <a name="SSL"></a>
 
 # 自监督学习(Self-supervised Learning)
+
+**UniVIP: A Unified Framework for Self-Supervised Visual Pre-training**
+
+- Paper: https://arxiv.org/abs/2203.06965
+- Code: None
 
 **Crafting Better Contrastive Views for Siamese Representation Learning**
 
@@ -222,6 +323,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.01305
 - Code: https://github.com/FengLi-ust/DN-DETR
+- 中文解读: https://mp.weixin.qq.com/s/xdMfZ_L628Ru1d1iaMny0w
+
+**Accelerating DETR Convergence via Semantic-Aligned Matching**
+
+- Paper: https://arxiv.org/abs/2203.06883
+- Code: https://github.com/ZhangGongjie/SAM-DETR
 
 **Localization Distillation for Dense Object Detection**
 
@@ -268,6 +375,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.02891
 - Code: https://github.com/xulianuwa/MCTformer
 
+**Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers**
+
+- Paper: https://arxiv.org/abs/2203.02664
+- Code: https://github.com/rulixiang/afa
+
 ## 半监督语义分割
 
 **ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation**
@@ -280,9 +392,17 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Homepage: https://haochen-wang409.github.io/U2PL/
 - Paper: https://arxiv.org/abs/2203.03884
-
 - Code: https://github.com/Haochen-Wang409/U2PL
 - 中文解读: https://mp.weixin.qq.com/s/-08olqE7np8A1XQzt6HAgQ
+
+## 无监督语义分割
+
+**GroupViT: Semantic Segmentation Emerges from Text Supervision**
+
+- Homepage: https://jerryxu.net/GroupViT/
+
+- Paper: https://arxiv.org/abs/2202.11094
+- Demo: https://youtu.be/DtJsWIUTW-Y
 
 <a name="Instance-Segmentation"></a>
 
@@ -308,9 +428,25 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.01853
 - Demo: https://youtu.be/sSPMzgtMKCE
 
+<a name="FFS"></a>
+
+# 小样本分割(Few-Shot Segmentation)
+
+**Learning What Not to Segment: A New Perspective on Few-Shot Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.07615
+- Code: https://github.com/chunbolang/BAM
+
 <a name="VU"></a>
 
 # 视频理解(Video Understanding)
+
+**Self-supervised Video Transformer**
+
+- Homepage: https://kahnchana.github.io/svt/
+- Paper: https://arxiv.org/abs/2112.01514
+
+- Code: https://github.com/kahnchana/svt
 
 ## 行为识别(Action Recognition)
 
@@ -319,15 +455,33 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2112.05132
 - Code: https://github.com/Anirudh257/strm
 
+## 动作检测(Action Detection)
+
+**End-to-End Semi-Supervised Learning for Video Action Detection**
+
+- Paper: https://arxiv.org/abs/2203.04251
+- Code: None
+
 <a name="Image-Editing"></a>
 
 # 图像编辑(Image Editing)
 
+**Style Transformer for Image Inversion and Editing**
+
+- Paper: https://arxiv.org/abs/2203.07932
+- Code: https://github.com/sapphire497/style-transformer
+
 **Blended Diffusion for Text-driven Editing of Natural Images**
 
 - Paper: https://arxiv.org/abs/2111.14818
-
 - Code: https://github.com/omriav/blended-diffusion
+
+**SemanticStyleGAN: Learning Compositional Generative Priors for Controllable Image Synthesis and Editing**
+
+- Homepage: https://semanticstylegan.github.io/
+
+- Paper: https://arxiv.org/abs/2112.02236
+- Demo: https://semanticstylegan.github.io/videos/demo.mp4
 
 <a name="LLV"></a>
 
@@ -337,6 +491,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2111.15362
 - Code: None
+
+**Restormer: Efficient Transformer for High-Resolution Image Restoration**
+
+- Paper: https://arxiv.org/abs/2111.09881
+- Code: https://github.com/swz30/Restormer
 
 <a name="Super-Resolution"></a>
 
@@ -444,6 +603,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2112.12761
 - Code: https://github.com/facebookresearch/banmo
 - 中文解读：https://mp.weixin.qq.com/s/NMHP8-xWwrX40vpGx55Qew
+
+<a name="COD"></a>
+
+# 伪装物体检测(Camouflaged Object Detection)
+
+**Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection**
+
+- Paper: https://arxiv.org/abs/2203.02688
+- Code: https://github.com/lartpang/ZoomNet
 
 <a name="Depth-Estimation"></a>
 
@@ -589,10 +757,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Homepage: https://charigyang.github.io/abouttime/
 - Paper: https://arxiv.org/abs/2111.09162
-
 - Code: https://github.com/charigyang/itsabouttime
-
 - Demo: https://youtu.be/cbiMACA6dRc
+
+**Splicing ViT Features for Semantic Appearance Transfer**
+
+- Homepage: https://splice-vit.github.io/
+- Paper: https://arxiv.org/abs/2201.00424
+- Code: https://github.com/omerbt/Splice
 
 <a name="Others"></a>
 
