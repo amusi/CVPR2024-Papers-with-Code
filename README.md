@@ -38,6 +38,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [3D点云(3D Point Cloud)](#3D-Point-Cloud)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
+- [3D语义分割(3D Semantic Segmentation)](#3DSS)
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
@@ -558,6 +559,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2011.12001
 - Code: https://github.com/qq456cvb/CanonicalVoting
 
+<a name="3DSS"></a>
+
+# 3D语义分割(3D Semantic Segmentation)
+
+**Scribble-Supervised LiDAR Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.08537
+- Dataset: https://github.com/ouenal/scribblekitti
+
 <a name="3D-Object-Tracking"></a>
 
 # 3D目标跟踪(3D Object Tracking)
@@ -741,8 +751,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Kubric: A scalable dataset generator**
 
 - Paper: https://arxiv.org/abs/2203.03570
-
 - Code: https://github.com/google-research/kubric
+
+**Scribble-Supervised LiDAR Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.08537
+- Dataset: https://github.com/ouenal/scribblekitti
 
 <a name="New-Tasks"></a>
 
