@@ -51,6 +51,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [人群计数(Crowd Counting)](#Crowd-Counting)
 - [医学图像(Medical Image)](#Medical-Image)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
+- [弱监督物体检测(Weakly Supervised Object Localization)](#WSOL)
 - [高光谱图像重建(Hyperspectral Image Reconstruction)](#HSI)
 - [水印(Watermarking)](#Watermarking)
 - [数据集(Datasets)](#Datasets)
@@ -713,6 +714,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Code: https://github.com/lukasHoel/stylemesh
 - Demo：https://www.youtube.com/watch?v=ZqgiTLcNcks
+
+<a name="WSOL"></a>
+
+# 弱监督物体检测(Weakly Supervised Object Localization)
+
+**Weakly Supervised Object Localization as Domain Adaption**
+
+- Paper: https://arxiv.org/abs/2203.01714
+- Code: https://github.com/zh460045050/DA-WSOL_CVPR2022
 
 <a name="HSI"></a>
 
