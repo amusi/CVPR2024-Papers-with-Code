@@ -353,9 +353,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Focal and Global Knowledge Distillation for Detectors**
 
 - Paper: https://arxiv.org/abs/2111.11837
-
 - Code: https://github.com/yzd-v/FGD
 - 中文解读：https://mp.weixin.qq.com/s/yDkreTudC8JL2V2ETsADwQ
+
+**A Dual Weighting Label Assignment Scheme for Object Detection**
+
+- Paper: https://arxiv.org/abs/2203.09730
+- Code: https://github.com/strongwolf/DW
 
 <a name="VT"></a>
 
