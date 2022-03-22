@@ -272,6 +272,17 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.07932
 - Code: https://github.com/sapphire497/style-transformer
 
+**MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer**
+
+- Paper: https://arxiv.org/abs/2203.10981
+
+- Code: https://github.com/kuanchihhuang/MonoDTR
+
+**Mask Transfiner for High-Quality Instance Segmentation**
+
+- Paper: https://arxiv.org/abs/2111.13673
+- Code: https://github.com/SysCV/transfiner 
+
 <a name="VL"></a>
 
 # 视觉和语言(Vision-Language)
@@ -414,6 +425,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.04074
 - Code: https://github.com/zhang-tao-whu/e2ec
+
+**Mask Transfiner for High-Quality Instance Segmentation**
+
+- Paper: https://arxiv.org/abs/2111.13673
+- Code: https://github.com/SysCV/transfiner 
 
 ## 自监督实例分割
 
@@ -559,6 +575,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2011.12001
 - Code: https://github.com/qq456cvb/CanonicalVoting
+
+**MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer**
+
+- Paper: https://arxiv.org/abs/2203.10981
+
+- Code: https://github.com/kuanchihhuang/MonoDTR
 
 <a name="3DSS"></a>
 
