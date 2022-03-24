@@ -292,6 +292,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.05557
 - Code: https://github.com/KaiyangZhou/CoOp
 
+**Bridging Video-text Retrieval with Multiple Choice Question**
+
+- Paper: https://arxiv.org/abs/2201.04850
+
+- Code: https://github.com/TencentARC/MCQ
+
 <a name="SSL"></a>
 
 # 自监督学习(Self-supervised Learning)
