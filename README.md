@@ -338,6 +338,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 # 目标检测(Object Detection)
 
+**BoxeR: Box-Attention for 2D and 3D Transformers**
+- Paper: https://arxiv.org/abs/2111.13087
+- Code: https://github.com/kienduynguyen/BoxeR
+- 中文解读：https://mp.weixin.qq.com/s/UnUJJBwcAsRgz6TnQf_b7w
+
 **DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**
 
 - Paper: https://arxiv.org/abs/2203.01305
@@ -430,6 +435,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 <a name="Instance-Segmentation"></a>
 
 # 实例分割(Instance Segmentation)
+
+**BoxeR: Box-Attention for 2D and 3D Transformers**
+- Paper: https://arxiv.org/abs/2111.13087
+- Code: https://github.com/kienduynguyen/BoxeR
+- 中文解读：https://mp.weixin.qq.com/s/UnUJJBwcAsRgz6TnQf_b7w
 
 **E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation**
 
@@ -574,6 +584,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 <a name="3D-Object-Detection"></a>
 
 # 3D目标检测(3D Object Detection)
+
+**BoxeR: Box-Attention for 2D and 3D Transformers**
+- Paper: https://arxiv.org/abs/2111.13087
+- Code: https://github.com/kienduynguyen/BoxeR
+- 中文解读：https://mp.weixin.qq.com/s/UnUJJBwcAsRgz6TnQf_b7w
 
 **Embracing Single Stride 3D Object Detector with Sparse Transformer**
 
