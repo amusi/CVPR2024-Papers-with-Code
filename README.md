@@ -610,6 +610,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.01730
 - Code: https://github.com/Ghostish/Open3DSOT
 
+**PTTR: Relational 3D Point Cloud Object Tracking with Transformer**
+
+- Paper: https://arxiv.org/abs/2112.02857
+- Code: https://github.com/Jasonkks/PTTR 
+
 <a name="3D-Human-Pose-Estimation"></a>
 
 # 3D人体姿态估计(3D Human Pose Estimation)
