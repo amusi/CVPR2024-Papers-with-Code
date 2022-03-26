@@ -632,6 +632,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.00859
 - Code: None
 
+**Distribution-Aware Single-Stage Models for Multi-Person 3D Pose Estimation**
+
+- Paper: https://arxiv.org/abs/2203.07697
+- Code: None
+- 中文解读：https://mp.weixin.qq.com/s/L_F28IFLXvs5R4V9TTUpRw
+
 <a name="3DSSC"></a>
 
 # 3D语义场景补全(3D Semantic Scene Completion)
