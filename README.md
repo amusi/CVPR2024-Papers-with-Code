@@ -51,6 +51,8 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [人群计数(Crowd Counting)](#Crowd-Counting)
 - [医学图像(Medical Image)](#Medical-Image)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
+- [参考视频目标分割(Referring Video Object Segmentation)](#R-VOS)
+- [风格迁移(Style Transfer)](#ST)
 - [弱监督物体检测(Weakly Supervised Object Localization)](#WSOL)
 - [高光谱图像重建(Hyperspectral Image Reconstruction)](#HSI)
 - [水印(Watermarking)](#Watermarking)
@@ -82,6 +84,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2112.11010
 - Code: https://github.com/youngwanLEE/MPViT
 - 中文解读: https://mp.weixin.qq.com/s/Q9-crEOz5IYzZaNoq8oXfg
+
+**MetaFormer is Actually What You Need for Vision**
+
+- Paper: https://arxiv.org/abs/2111.11418
+- Code: https://github.com/sail-sg/poolformer
 
 <a name="CLIP"></a>
 
@@ -185,8 +192,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **MPViT : Multi-Path Vision Transformer for Dense Prediction**
 
 - Paper: https://arxiv.org/abs/2112.11010
-
 - Code: https://github.com/youngwanLEE/MPViT
+
+**MetaFormer is Actually What You Need for Vision**
+
+- Paper: https://arxiv.org/abs/2111.11418
+- Code: https://github.com/sail-sg/poolformer
 
 ## 应用(Application)
 
@@ -281,7 +292,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Mask Transfiner for High-Quality Instance Segmentation**
 
 - Paper: https://arxiv.org/abs/2111.13673
-- Code: https://github.com/SysCV/transfiner 
+- Code: https://github.com/SysCV/transfiner
+
+**Language as Queries for Referring Video Object Segmentation**
+
+- Paper: https://arxiv.org/abs/2201.00487
+- Code:  https://github.com/wjn922/ReferFormer
 
 <a name="VL"></a>
 
@@ -760,6 +776,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2112.12970
 - Code: None
+
+<a name="R-VOS"></a>
+
+# 参考视频目标分割(Referring Video Object Segmentation)
+
+**Language as Queries for Referring Video Object Segmentation**
+
+- Paper: https://arxiv.org/abs/2201.00487
+- Code:  https://github.com/wjn922/ReferFormer
 
 <a name="ST"></a>
 
