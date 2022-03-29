@@ -298,6 +298,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2201.00487
 - Code:  https://github.com/wjn922/ReferFormer
+- 中文解读：https://mp.weixin.qq.com/s/MkQT8QWSYoYVhJ1RSF6oPQ
+
+**X-Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for 3D Dense Captioning**
+
+- Paper: https://arxiv.org/abs/2203.00843
+- Code: https://github.com/CurryYuan/X-Trans2Cap
 
 <a name="VL"></a>
 
@@ -845,6 +851,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.03570
 - Code: https://github.com/google-research/kubric
+- 中文解读：https://mp.weixin.qq.com/s/mJ8HzY6C0GifxsErJIS3Mg
 
 **Scribble-Supervised LiDAR Semantic Segmentation**
 
@@ -880,5 +887,10 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Kubric: A scalable dataset generator**
 
 - Paper: https://arxiv.org/abs/2203.03570
-
 - Code: https://github.com/google-research/kubric
+- 中文解读：https://mp.weixin.qq.com/s/mJ8HzY6C0GifxsErJIS3Mg
+
+**X-Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for 3D Dense Captioning**
+
+- Paper: https://arxiv.org/abs/2203.00843
+- Code: https://github.com/CurryYuan/X-Trans2Cap
