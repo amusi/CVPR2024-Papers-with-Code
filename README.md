@@ -305,6 +305,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.00843
 - Code: https://github.com/CurryYuan/X-Trans2Cap
 
+**AdaMixer: A Fast-Converging Query-Based Object Detector**
+
+- Paper(Oral): https://arxiv.org/abs/2203.16507
+- Code: https://github.com/MCG-NJU/AdaMixer
+
+**Omni-DETR: Omni-Supervised Object Detection with Transformers**
+
+- Paper: https://arxiv.org/abs/2203.16089
+- Code: https://github.com/amazon-research/omni-detr
+
 <a name="VL"></a>
 
 # 视觉和语言(Vision-Language)
@@ -393,6 +403,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.09730
 - Code: https://github.com/strongwolf/DW
+
+**AdaMixer: A Fast-Converging Query-Based Object Detector**
+
+- Paper(Oral): https://arxiv.org/abs/2203.16507
+- Code: https://github.com/MCG-NJU/AdaMixer
+
+**Omni-DETR: Omni-Supervised Object Detection with Transformers**
+
+- Paper: https://arxiv.org/abs/2203.16089
+- Code: https://github.com/amazon-research/omni-detr
 
 <a name="VT"></a>
 
