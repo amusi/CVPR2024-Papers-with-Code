@@ -85,16 +85,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Code: https://github.com/youngwanLEE/MPViT
 - 中文解读: https://mp.weixin.qq.com/s/Q9-crEOz5IYzZaNoq8oXfg
 
-**MetaFormer is Actually What You Need for Vision**
-
-- Paper: https://arxiv.org/abs/2111.11418
-- Code: https://github.com/sail-sg/poolformer
-
 **Mobile-Former: Bridging MobileNet and Transformer**
 
 - Paper: https://arxiv.org/abs/2108.05895
 
 - Code: None
+
+**MetaFormer is Actually What You Need for Vision**
+
+- Paper: https://arxiv.org/abs/2111.11418
+- Code: https://github.com/sail-sg/poolformer
 
 <a name="CLIP"></a>
 
