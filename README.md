@@ -90,6 +90,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2111.11418
 - Code: https://github.com/sail-sg/poolformer
 
+**Mobile-Former: Bridging MobileNet and Transformer**
+
+- Paper: https://arxiv.org/abs/2108.05895
+
+- Code: None
+
 <a name="CLIP"></a>
 
 # CLIP
@@ -198,6 +204,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2111.11418
 - Code: https://github.com/sail-sg/poolformer
+
+**Mobile-Former: Bridging MobileNet and Transformer**
+
+- Paper: https://arxiv.org/abs/2108.05895
+
+- Code: None
 
 ## 应用(Application)
 
