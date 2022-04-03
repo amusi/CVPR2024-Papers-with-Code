@@ -53,6 +53,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [参考视频目标分割(Referring Video Object Segmentation)](#R-VOS)
 - [风格迁移(Style Transfer)](#ST)
+- [Adversarial Examples(对抗样本)](#AE)
 - [弱监督物体检测(Weakly Supervised Object Localization)](#WSOL)
 - [高光谱图像重建(Hyperspectral Image Reconstruction)](#HSI)
 - [水印(Watermarking)](#Watermarking)
@@ -841,6 +842,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Code: https://github.com/lukasHoel/stylemesh
 - Demo：https://www.youtube.com/watch?v=ZqgiTLcNcks
+
+<a name="AE"></a>
+
+# Adversarial Examples(对抗样本)
+
+**Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon**
+
+- Paper: https://arxiv.org/abs/2203.03818
+- Code: https://github.com/hncszyq/ShadowAttack
 
 <a name="WSOL"></a>
 
