@@ -438,8 +438,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **TCTrack: Temporal Contexts for Aerial Tracking**
 
 - Paper: https://arxiv.org/abs/2203.01885
-
 - Code: https://github.com/vision4robotics/TCTrack
+
+## 多目标跟踪(Multi-Object Tracking)
+
+**Learning of Global Objective for Network Flow in Multi-Object Tracking**
+
+- Paper: https://arxiv.org/abs/2203.16210
+- Code: None
 
 <a name="Semantic-Segmentation"></a>
 
