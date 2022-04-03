@@ -942,3 +942,8 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.00843
 - Code: https://github.com/CurryYuan/X-Trans2Cap
+
+**Balanced MSE for Imbalanced Visual Regression**
+
+- Paper(Oral): https://arxiv.org/abs/2203.16427
+- Code: https://github.com/jiawei-ren/BalancedMSE
