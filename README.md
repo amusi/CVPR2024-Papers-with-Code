@@ -48,6 +48,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [立体匹配(Stereo Matching)](#Stereo-Matching)
 - [车道线检测(Lane Detection)](#Lane-Detection)
 - [图像修复(Image Inpainting)](#Image-Inpainting)
+- [人脸识别(Face Recognition)](#Face-Recognition)
 - [人群计数(Crowd Counting)](#Crowd-Counting)
 - [医学图像(Medical Image)](#Medical-Image)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
@@ -794,6 +795,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.00867
 
 - Code: https://github.com/DQiaole/ZITS_inpainting
+
+Face-Recognition<a name="Face-Recognition"></a>
+
+# 人脸识别(Face Recognition)
+
+**AdaFace: Quality Adaptive Margin for Face Recognition**
+
+- Paper(Oral): https://arxiv.org/abs/2204.00964 
+- Code: https://github.com/mk-minchul/AdaFace
 
 <a name="Crowd-Counting"></a>
 
