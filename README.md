@@ -48,6 +48,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [立体匹配(Stereo Matching)](#Stereo-Matching)
 - [车道线检测(Lane Detection)](#Lane-Detection)
 - [图像修复(Image Inpainting)](#Image-Inpainting)
+- [图像检索(Image Retrieval)](#Image-Retrieval)
 - [人脸识别(Face Recognition)](#Face-Recognition)
 - [人群计数(Crowd Counting)](#Crowd-Counting)
 - [医学图像(Medical Image)](#Medical-Image)
@@ -796,7 +797,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Code: https://github.com/DQiaole/ZITS_inpainting
 
-Face-Recognition<a name="Face-Recognition"></a>
+<a name="Image-Retrieval"></a>
+
+# 图像检索(Image Retrieval)
+
+**Correlation Verification for Image Retrieval**
+
+- Paper(Oral): https://arxiv.org/abs/2204.01458
+- Code: https://github.com/sungonce/CVNet
+
+<a name="Face-Recognition"></a>
 
 # 人脸识别(Face Recognition)
 
