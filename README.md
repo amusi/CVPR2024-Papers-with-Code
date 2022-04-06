@@ -58,6 +58,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [风格迁移(Style Transfer)](#ST)
 - [Adversarial Examples(对抗样本)](#AE)
 - [弱监督物体检测(Weakly Supervised Object Localization)](#WSOL)
+- [雷达目标检测(Radar Object Detection)](#ROD)
 - [高光谱图像重建(Hyperspectral Image Reconstruction)](#HSI)
 - [水印(Watermarking)](#Watermarking)
 - [数据集(Datasets)](#Datasets)
@@ -899,6 +900,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.01714
 - Code: https://github.com/zh460045050/DA-WSOL_CVPR2022
+
+<a name="ROD"></a>
+
+# 雷达目标检测(Radar Object Detection)
+
+**Exploiting Temporal Relations on Radar Perception for Autonomous Driving**
+
+- Paper: https://arxiv.org/abs/2204.01184
+- Code: None
 
 <a name="HSI"></a>
 
