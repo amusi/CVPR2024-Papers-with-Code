@@ -780,6 +780,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2112.02306
 - Code: None
 
+**P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior**
+
+- Paper: https://arxiv.org/abs/2204.02091
+- Code: https://github.com/SysCV/P3Depth
+
 <a name="Stereo-Matching"></a>
 
 # 立体匹配(Stereo Matching)
