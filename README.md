@@ -60,6 +60,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [弱监督物体检测(Weakly Supervised Object Localization)](#WSOL)
 - [雷达目标检测(Radar Object Detection)](#ROD)
 - [高光谱图像重建(Hyperspectral Image Reconstruction)](#HSI)
+- [图像拼接(Image Stitching)](#Image-Stitching)
 - [水印(Watermarking)](#Watermarking)
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
@@ -93,13 +94,18 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Mobile-Former: Bridging MobileNet and Transformer**
 
 - Paper: https://arxiv.org/abs/2108.05895
-
 - Code: None
+- 中文解读：https://mp.weixin.qq.com/s/yo5KmB2Y7t2R4jiOKI87HQ
 
 **MetaFormer is Actually What You Need for Vision**
 
 - Paper: https://arxiv.org/abs/2111.11418
 - Code: https://github.com/sail-sg/poolformer
+
+**Shunted Self-Attention via Multi-Scale Token Aggregation**
+
+-  Paper(Oral): https://arxiv.org/abs/2111.15193
+- Code: https://github.com/OliverRensu/Shunted-Transformer
 
 <a name="CLIP"></a>
 
@@ -213,8 +219,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Mobile-Former: Bridging MobileNet and Transformer**
 
 - Paper: https://arxiv.org/abs/2108.05895
-
 - Code: None
+- 中文解读：https://mp.weixin.qq.com/s/yo5KmB2Y7t2R4jiOKI87HQ
+
+**Shunted Self-Attention via Multi-Scale Token Aggregation**
+
+-  Paper(Oral): https://arxiv.org/abs/2111.15193
+- Code: https://github.com/OliverRensu/Shunted-Transformer
 
 ## 应用(Application)
 
@@ -919,6 +930,18 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2111.07910
 - Code: https://github.com/caiyuanhao1998/MST
 
+<a name="Image-Stitching"></a>
+
+# 图像拼接(Image Stitching)
+
+**Deep Rectangling for Image Stitching: A Learning Baseline**
+
+- Paper(Oral): https://arxiv.org/abs/2203.03831
+
+- Code: https://github.com/nie-lang/DeepRectangling
+- Dataset: https://github.com/nie-lang/DeepRectangling
+- 中文解读：https://mp.weixin.qq.com/s/lp5AnrtO_9urp-Fv6Z0l2Q
+
 <a name="Watermarking"></a>
 
 # 水印(Watermarking)
@@ -954,6 +977,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.08537
 - Dataset: https://github.com/ouenal/scribblekitti
+
+**Deep Rectangling for Image Stitching: A Learning Baseline**
+
+- Paper(Oral): https://arxiv.org/abs/2203.03831
+
+- Code: https://github.com/nie-lang/DeepRectangling
+- Dataset: https://github.com/nie-lang/DeepRectangling
+- 中文解读：https://mp.weixin.qq.com/s/lp5AnrtO_9urp-Fv6Z0l2Q
 
 <a name="New-Tasks"></a>
 
