@@ -981,10 +981,18 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Deep Rectangling for Image Stitching: A Learning Baseline**
 
 - Paper(Oral): https://arxiv.org/abs/2203.03831
-
 - Code: https://github.com/nie-lang/DeepRectangling
 - Dataset: https://github.com/nie-lang/DeepRectangling
 - 中文解读：https://mp.weixin.qq.com/s/lp5AnrtO_9urp-Fv6Z0l2Q
+
+**ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer**
+
+- Homepage: https://ai.stanford.edu/~rhgao/objectfolder2.0/
+
+- Paper: https://arxiv.org/abs/2204.02389
+- Dataset: https://github.com/rhgao/ObjectFolder
+
+- Demo：https://youtu.be/e5aToT3LkRA
 
 <a name="New-Tasks"></a>
 
