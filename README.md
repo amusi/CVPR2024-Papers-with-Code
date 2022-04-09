@@ -761,6 +761,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Code: None
 - 中文解读：https://mp.weixin.qq.com/s/L_F28IFLXvs5R4V9TTUpRw
 
+**MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image**
+
+- Paper: https://arxiv.org/abs/2112.02753
+- Code: https://github.com/SeanChenxy/HandMesh
+- 中文解读：https://zhuanlan.zhihu.com/p/494755253
+
 <a name="3DSSC"></a>
 
 # 3D语义场景补全(3D Semantic Scene Completion)
