@@ -22,6 +22,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [CLIP](#CLIP)
 - [GAN](#GAN)
 - [NAS](#NAS)
+- [OCR](#OCR)
 - [NeRF](#NeRF)
 - [Visual Transformer](#Visual-Transformer)
 - [视觉和语言(Vision-Language)](#VL)
@@ -64,7 +65,6 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [水印(Watermarking)](#Watermarking)
 - [Grounded Situation Recognition](#GSR)
 - [Zero-shot Learning](#ZSL)
-
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -160,6 +160,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2111.15362
 - Code: None
+
+<a name="OCR"></a>
+
+# OCR
+
+**SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition**
+
+- Paper: https://arxiv.org/abs/2203.10209
+
+- Code: https://github.com/mxin262/SwinTextSpotter
 
 <a name="NeRF"></a>
 
@@ -345,6 +355,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.16089
 - Code: https://github.com/amazon-research/omni-detr
+
+**SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition**
+
+- Paper: https://arxiv.org/abs/2203.10209
+
+- Code: https://github.com/mxin262/SwinTextSpotter
 
 <a name="VL"></a>
 
