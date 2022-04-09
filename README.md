@@ -62,6 +62,9 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [高光谱图像重建(Hyperspectral Image Reconstruction)](#HSI)
 - [图像拼接(Image Stitching)](#Image-Stitching)
 - [水印(Watermarking)](#Watermarking)
+- [Grounded Situation Recognition](#GSR)
+- [Zero-shot Learning](#ZSL)
+
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -882,6 +885,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2201.00487
 - Code:  https://github.com/wjn922/ReferFormer
 
+**ReSTR: Convolution-free Referring Image Segmentation Using Transformers**
+
+- Paper: https://arxiv.org/abs/2203.16768
+- Code: None
+
 <a name="ST"></a>
 
 # 风格迁移(Style Transfer)
@@ -950,6 +958,24 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2104.13450
 - Code: None
+
+<a name="GSR"></a>
+
+# Grounded Situation Recognition
+
+**Collaborative Transformers for Grounded Situation Recognition**
+
+- Paper: https://arxiv.org/abs/2203.16518
+- Code: https://github.com/jhcho99/CoFormer
+
+<a name="ZSL"></a>
+
+# Zero-shot Learning
+
+**Unseen Classes at a Later Time? No Problem**
+
+- Paper: https://arxiv.org/abs/2203.16517
+- Code: https://github.com/sumitramalagi/Unseen-classes-at-a-later-time
 
 <a name="Datasets"></a>
 
