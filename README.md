@@ -110,6 +110,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 -  Paper(Oral): https://arxiv.org/abs/2111.15193
 - Code: https://github.com/OliverRensu/Shunted-Transformer
 
+**TVConv: Efficient Translation Variant Convolution for Layout-aware Visual Processing**
+
+- Paper: http://arxiv.org/abs/2203.10489
+- Code: https://github.com/JierunChen/TVConv
+
 <a name="CLIP"></a>
 
 # CLIP
@@ -256,6 +261,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2112.06375
 - Code: https://github.com/TuSimple/SST
+- 中文解读：https://zhuanlan.zhihu.com/p/476056546
 
 **Multi-class Token Transformer for Weakly Supervised Semantic Segmentation**
 
@@ -361,6 +367,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.10209
 
 - Code: https://github.com/mxin262/SwinTextSpotter
+
+**TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting**
+
+- Paper(Oral): https://arxiv.org/abs/2204.01018
+- Code: https://github.com/SvipRepetitionCounting/TransRAC
 
 <a name="VL"></a>
 
@@ -518,6 +529,18 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Code: https://github.com/Haochen-Wang409/U2PL
 - 中文解读: https://mp.weixin.qq.com/s/-08olqE7np8A1XQzt6HAgQ
 
+**Perturbed and Strict Mean Teachers for Semi-supervised Semantic Segmentation**
+
+- Paper: https://arxiv.org/pdf/2111.12903.pdf
+- Code: https://github.com/yyliu01/PS-MT
+
+## 域自适应语义分割
+
+**Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2111.12940
+- Code: https://github.com/BIT-DA/RIPU
+
 ## 无监督语义分割
 
 **GroupViT: Semantic Segmentation Emerges from Text Supervision**
@@ -578,8 +601,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Homepage: https://kahnchana.github.io/svt/
 - Paper: https://arxiv.org/abs/2112.01514
-
 - Code: https://github.com/kahnchana/svt
+
+**TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting**
+
+- Paper(Oral): https://arxiv.org/abs/2204.01018
+- Code: https://github.com/SvipRepetitionCounting/TransRAC
 
 ## 行为识别(Action Recognition)
 
@@ -883,6 +910,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.02533
 - Code: None
 
+**Anti-curriculum Pseudo-labelling for Semi-supervised Medical Image Classification**
+
+- Paper: https://arxiv.org/abs/2111.12918
+
+- Code: https://github.com/FBLADL/ACPL
+
 <a name="Scene-Graph-Generation"></a>
 
 # 场景图生成(Scene Graph Generation)
@@ -1030,11 +1063,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer**
 
 - Homepage: https://ai.stanford.edu/~rhgao/objectfolder2.0/
-
 - Paper: https://arxiv.org/abs/2204.02389
 - Dataset: https://github.com/rhgao/ObjectFolder
-
 - Demo：https://youtu.be/e5aToT3LkRA
+
+**Shape from Polarization for Complex Scenes in the Wild**
+
+- Homepage: https://chenyanglei.github.io/sfpwild/index.html
+- Paper: https://arxiv.org/abs/2112.11377
+- Code: https://github.com/ChenyangLEI/sfp-wild
 
 <a name="New-Tasks"></a>
 
@@ -1077,3 +1114,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper(Oral): https://arxiv.org/abs/2203.16427
 - Code: https://github.com/jiawei-ren/BalancedMSE
+
+**SNUG: Self-Supervised Neural Dynamic Garments**
+
+- Homepage: http://mslab.es/projects/SNUG/
+- Paper(Oral): https://arxiv.org/abs/2204.02219
+- Code: https://github.com/isantesteban/snug
+
+**Shape from Polarization for Complex Scenes in the Wild**
+
+- Homepage: https://chenyanglei.github.io/sfpwild/index.html
+- Paper: https://arxiv.org/abs/2112.11377
+- Code: https://github.com/ChenyangLEI/sfp-wild
