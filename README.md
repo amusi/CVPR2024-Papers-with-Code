@@ -486,6 +486,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.01885
 - Code: https://github.com/vision4robotics/TCTrack
 
+## 多模态目标跟踪
+
+**Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline**
+
+- Homepage: https://zhang-pengyu.github.io/DUT-VTUAV/
+
+- Paper: https://arxiv.org/abs/2204.04120
+
 ## 多目标跟踪(Multi-Object Tracking)
 
 **Learning of Global Objective for Network Flow in Multi-Object Tracking**
@@ -1072,6 +1080,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Homepage: https://chenyanglei.github.io/sfpwild/index.html
 - Paper: https://arxiv.org/abs/2112.11377
 - Code: https://github.com/ChenyangLEI/sfp-wild
+
+**Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline**
+
+- Homepage: https://zhang-pengyu.github.io/DUT-VTUAV/
+
+- Paper: https://arxiv.org/abs/2204.04120
 
 <a name="New-Tasks"></a>
 
