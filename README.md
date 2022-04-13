@@ -28,6 +28,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [视觉和语言(Vision-Language)](#VL)
 - [自监督学习(Self-supervised Learning)](#SSL)
 - [数据增强(Data Augmentation)](#DA)
+- [知识蒸馏(Knowledge Distillation)](#KD)
 - [目标检测(Object Detection)](#Object-Detection)
 - [目标跟踪(Visual Tracking)](#VT)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
@@ -63,6 +64,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [高光谱图像重建(Hyperspectral Image Reconstruction)](#HSI)
 - [图像拼接(Image Stitching)](#Image-Stitching)
 - [水印(Watermarking)](#Watermarking)
+- [Action Counting](#AC)
 - [Grounded Situation Recognition](#GSR)
 - [Zero-shot Learning](#ZSL)
 - [数据集(Datasets)](#Datasets)
@@ -151,6 +153,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.07932
 - Code: https://github.com/sapphire497/style-transformer
+
+**Unsupervised Image-to-Image Translation with Generative Prior**
+
+- Homepage: https://www.mmlab-ntu.com/project/gpunit/
+- Paper: https://arxiv.org/abs/2204.03641
+- Code: https://github.com/williamyang1991/GP-UNIT
 
 <a name="NAS"></a>
 
@@ -424,6 +432,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2103.15375
 - Code: None
 
+<a name="KD"></a>
+
+# 知识蒸馏(Knowledge Distillation)
+
+**Decoupled Knowledge Distillation**
+
+- Paper: https://arxiv.org/abs/2203.08679
+- Code: https://github.com/megvii-research/mdistiller
+- 中文解读：https://mp.weixin.qq.com/s/-4AA0zKIXh9Ei9-vc5jOhw
+
 <a name="Object-Detection"></a>
 
 # 目标检测(Object Detection)
@@ -616,6 +634,19 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper(Oral): https://arxiv.org/abs/2204.01018
 - Code: https://github.com/SvipRepetitionCounting/TransRAC
 
+**FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment**
+
+- Paper(Oral): https://arxiv.org/abs/2204.03646
+
+- Dataset: https://github.com/xujinglin/FineDiving
+- Code: https://github.com/xujinglin/FineDiving
+- 中文解读：https://mp.weixin.qq.com/s/8t12Y34eMNwvJr8PeryWXg
+
+**Dual-AI: Dual-path Actor Interaction Learning for Group Activity Recognition**
+
+- Paper(Oral): https://arxiv.org/abs/2204.02148
+- Code: None
+
 ## 行为识别(Action Recognition)
 
 **Spatio-temporal Relation Modeling for Few-shot Action Recognition**
@@ -747,8 +778,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer**
 
 - Paper: https://arxiv.org/abs/2203.10981
-
 - Code: https://github.com/kuanchihhuang/MonoDTR
+
+**HyperDet3D: Learning a Scene-conditioned 3D Object Detector**
+
+- Paper: https://arxiv.org/abs/2204.05599
+- Code: None
 
 <a name="3DSS"></a>
 
@@ -1016,6 +1051,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2104.13450
 - Code: None
 
+<a name="AC"></a>
+
+# Action Counting
+
+**TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting**
+
+- Paper(Oral): https://arxiv.org/abs/2204.01018
+- Dataset: https://svip-lab.github.io/dataset/RepCount_dataset.html
+- Code: https://github.com/SvipRepetitionCounting/TransRAC
+
 <a name="GSR"></a>
 
 # Grounded Situation Recognition
@@ -1084,8 +1129,21 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline**
 
 - Homepage: https://zhang-pengyu.github.io/DUT-VTUAV/
-
 - Paper: https://arxiv.org/abs/2204.04120
+
+**TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting**
+
+- Paper(Oral): https://arxiv.org/abs/2204.01018
+- Dataset: https://svip-lab.github.io/dataset/RepCount_dataset.html
+- Code: https://github.com/SvipRepetitionCounting/TransRAC
+
+**FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment**
+
+- Paper(Oral): https://arxiv.org/abs/2204.03646
+
+- Dataset: https://github.com/xujinglin/FineDiving
+- Code: https://github.com/xujinglin/FineDiving
+- 中文解读：https://mp.weixin.qq.com/s/8t12Y34eMNwvJr8PeryWXg
 
 <a name="New-Tasks"></a>
 
@@ -1140,3 +1198,18 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Homepage: https://chenyanglei.github.io/sfpwild/index.html
 - Paper: https://arxiv.org/abs/2112.11377
 - Code: https://github.com/ChenyangLEI/sfp-wild
+
+**LASER: LAtent SpacE Rendering for 2D Visual Localization**
+
+- Paper(Oral): https://arxiv.org/abs/2204.00157
+- Code: None
+
+**Single-Photon Structured Light**
+
+- Paper(Oral): https://arxiv.org/abs/2204.05300
+- Code: None
+
+**3DeformRS: Certifying Spatial Deformations on Point Clouds**
+
+- Paper: https://arxiv.org/abs/2204.05687
+- Code: None
