@@ -1140,10 +1140,17 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment**
 
 - Paper(Oral): https://arxiv.org/abs/2204.03646
-
 - Dataset: https://github.com/xujinglin/FineDiving
 - Code: https://github.com/xujinglin/FineDiving
 - 中文解读：https://mp.weixin.qq.com/s/8t12Y34eMNwvJr8PeryWXg
+
+**Aesthetic Text Logo Synthesis via Content-aware Layout Inferring**
+
+- Paper: https://arxiv.org/abs/2204.02701
+- Dataset: https://github.com/yizhiwang96/TextLogoLayout
+- Code: https://github.com/yizhiwang96/TextLogoLayout
+
+论文下载链接：
 
 <a name="New-Tasks"></a>
 
@@ -1213,3 +1220,9 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2204.05687
 - Code: None
+
+**Aesthetic Text Logo Synthesis via Content-aware Layout Inferring**
+
+- Paper: https://arxiv.org/abs/2204.02701
+- Dataset: https://github.com/yizhiwang96/TextLogoLayout
+- Code: https://github.com/yizhiwang96/TextLogoLayout
