@@ -21,6 +21,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [Backbone](#Backbone)
 - [CLIP](#CLIP)
 - [GAN](#GAN)
+- [GNN](#GNN)
 - [NAS](#NAS)
 - [OCR](#OCR)
 - [NeRF](#NeRF)
@@ -33,6 +34,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [目标跟踪(Visual Tracking)](#VT)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
+- [小样本分类(Few-Shot Classification)](#FFC)
 - [小样本分割(Few-Shot Segmentation)](#FFS)
 - [视频理解(Video Understanding)](#VU)
 - [图像编辑(Image Editing)](#Image-Editing)
@@ -159,6 +161,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Homepage: https://www.mmlab-ntu.com/project/gpunit/
 - Paper: https://arxiv.org/abs/2204.03641
 - Code: https://github.com/williamyang1991/GP-UNIT
+
+<a name="GNN"></a>
+
+# GNN
+
+**OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks**
+
+- Paper: https://wanyu-lin.github.io/assets/publications/wanyu-cvpr2022.pdf 
+- Code: https://github.com/WanyuGroup/CVPR2022-OrphicX
 
 <a name="NAS"></a>
 
@@ -381,6 +392,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper(Oral): https://arxiv.org/abs/2204.01018
 - Code: https://github.com/SvipRepetitionCounting/TransRAC
 
+**Collaborative Transformers for Grounded Situation Recognition**
+
+- Paper: https://arxiv.org/abs/2203.16518
+- Code: https://github.com/jhcho99/CoFormer
+
 <a name="VL"></a>
 
 # 视觉和语言(Vision-Language)
@@ -490,6 +506,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.16089
 - Code: https://github.com/amazon-research/omni-detr
 
+**SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection**
+
+- Paper(Oral): https://arxiv.org/abs/2203.06398
+- Code: https://github.com/CityU-AIM-Group/SIGMA
+
 <a name="VT"></a>
 
 # 目标跟踪(Visual Tracking)
@@ -522,6 +543,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 <a name="Semantic-Segmentation"></a>
 
 # 语义分割(Semantic Segmentation)
+
+**Novel Class Discovery in Semantic Segmentation**
+
+- Homepage: https://ncdss.github.io/
+- Paper: https://arxiv.org/abs/2112.01900
+- Code: https://github.com/HeliosZhao/NCDSS
 
 ## 弱监督语义分割
 
@@ -610,6 +637,20 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.01853
 - Demo: https://youtu.be/sSPMzgtMKCE
 
+<a name="FFC"></a>
+
+# 小样本分类(Few-Shot Classification)
+
+**Integrative Few-Shot Learning for Classification and Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.15712
+- Code: https://github.com/dahyun-kang/ifsl
+
+**Learning to Affiliate: Mutual Centralized Learning for Few-shot Classification**
+
+- Paper: https://arxiv.org/abs/2106.05517
+- Code: https://github.com/LouieYang/MCL
+
 <a name="FFS"></a>
 
 # 小样本分割(Few-Shot Segmentation)
@@ -618,6 +659,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.07615
 - Code: https://github.com/chunbolang/BAM
+
+**Integrative Few-Shot Learning for Classification and Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.15712
+- Code: https://github.com/dahyun-kang/ifsl
 
 <a name="VU"></a>
 
@@ -1003,6 +1049,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.03818
 - Code: https://github.com/hncszyq/ShadowAttack
 
+**LAS-AT: Adversarial Training with Learnable Attack Strategy**
+
+- Paper(Oral): https://arxiv.org/abs/2203.06616
+- Code: https://github.com/jiaxiaojunQAQ/LAS-AT
+
 <a name="WSOL"></a>
 
 # 弱监督物体检测(Weakly Supervised Object Localization)
@@ -1226,3 +1277,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2204.02701
 - Dataset: https://github.com/yizhiwang96/TextLogoLayout
 - Code: https://github.com/yizhiwang96/TextLogoLayout
+
+**Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes**
+
+- Paper: https://arxiv.org/abs/2203.13412
+- Code: https://github.com/zjsong/SSPL
+
+**Robust and Accurate Superquadric Recovery: a Probabilistic Approach**
+
+- Paper(Oral): https://arxiv.org/abs/2111.14517
+- Code: https://github.com/bmlklwx/EMS-superquadric_fitting
