@@ -831,6 +831,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2204.05599
 - Code: None
 
+**OccAM's Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data**
+
+- Paper: https://arxiv.org/abs/2204.06577
+- Code: https://github.com/dschinagl/occam
+
 <a name="3DSS"></a>
 
 # 3D语义分割(3D Semantic Segmentation)
