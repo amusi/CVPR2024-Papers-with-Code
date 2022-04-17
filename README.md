@@ -836,6 +836,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2204.06577
 - Code: https://github.com/dschinagl/occam
 
+**DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection**
+
+- Homepage: https://thudair.baai.ac.cn/index
+
+- Paper: https://arxiv.org/abs/2204.05575
+- Code: https://github.com/AIR-THU/DAIR-V2X
+
 <a name="3DSS"></a>
 
 # 3D语义分割(3D Semantic Segmentation)
@@ -1206,7 +1213,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Dataset: https://github.com/yizhiwang96/TextLogoLayout
 - Code: https://github.com/yizhiwang96/TextLogoLayout
 
-论文下载链接：
+**DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection**
+
+- Homepage: https://thudair.baai.ac.cn/index
+
+- Paper: https://arxiv.org/abs/2204.05575
+- Code: https://github.com/AIR-THU/DAIR-V2X
 
 <a name="New-Tasks"></a>
 
