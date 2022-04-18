@@ -511,7 +511,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper(Oral): https://arxiv.org/abs/2203.06398
 - Code: https://github.com/CityU-AIM-Group/SIGMA
 
-<a name="VT"></a>
+## 半监督目标检测
+
+**Dense Learning based Semi-Supervised Object Detection**
+
+- Paper: https://arxiv.org/abs/2204.07300
+
+- Code: https://github.com/chenbinghui1/DSL
 
 # 目标跟踪(Visual Tracking)
 
@@ -960,10 +966,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Rethinking Efficient Lane Detection via Curve Modeling**
 
 - Paper: https://arxiv.org/abs/2203.02431
-
 - Code: https://github.com/voldemortX/pytorch-auto-drive
-
 - Demo：https://user-images.githubusercontent.com/32259501/148680744-a18793cd-f437-461f-8c3a-b909c9931709.mp4
+
+**A Keypoint-based Global Association Network for Lane Detection**
+
+- Paper: https://arxiv.org/abs/2204.07335
+- Code: https://github.com/Wolfwjs/GANet
 
 <a name="Image-Inpainting"></a>
 
