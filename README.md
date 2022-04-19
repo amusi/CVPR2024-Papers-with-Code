@@ -643,6 +643,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.01853
 - Demo: https://youtu.be/sSPMzgtMKCE
 
+**Temporally Efficient Vision Transformer for Video Instance Segmentation**
+
+- Paper: https://arxiv.org/abs/2204.08412
+
+- Code: https://github.com/hustvl/TeViT
+
 <a name="FFC"></a>
 
 # 小样本分类(Few-Shot Classification)
@@ -811,6 +817,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 # 3D目标检测(3D Object Detection)
 
+**Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds**
+
+- Paper(Oral): https://arxiv.org/abs/2203.11139
+
+- Code: https://github.com/yifanzhang713/IA-SSD
+
+- Demo: https://www.youtube.com/watch?v=3jP2o9KXunA
+
 **BoxeR: Box-Attention for 2D and 3D Transformers**
 - Paper: https://arxiv.org/abs/2111.13087
 - Code: https://github.com/kienduynguyen/BoxeR
@@ -845,7 +859,6 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection**
 
 - Homepage: https://thudair.baai.ac.cn/index
-
 - Paper: https://arxiv.org/abs/2204.05575
 - Code: https://github.com/AIR-THU/DAIR-V2X
 
@@ -949,6 +962,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2204.02091
 - Code: https://github.com/SysCV/P3Depth
+
+**Multi-Frame Self-Supervised Depth with Transformers**
+
+- Homepage: https://sites.google.com/tri.global/depthformer
+
+- Paper: https://arxiv.org/abs/2204.07616
+- Code: None
 
 <a name="Stereo-Matching"></a>
 
