@@ -25,6 +25,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [NAS](#NAS)
 - [OCR](#OCR)
 - [NeRF](#NeRF)
+- [3D Face](#3D Face)
 - [Visual Transformer](#Visual-Transformer)
 - [视觉和语言(Vision-Language)](#VL)
 - [自监督学习(Self-supervised Learning)](#SSL)
@@ -57,8 +58,10 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [人脸识别(Face Recognition)](#Face-Recognition)
 - [人群计数(Crowd Counting)](#Crowd-Counting)
 - [医学图像(Medical Image)](#Medical-Image)
+- [视频生成(Video Generation)](#Video Generation)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [参考视频目标分割(Referring Video Object Segmentation)](#R-VOS)
+-  [步态识别(Gait Recognition)](#GR)
 - [风格迁移(Style Transfer)](#ST)
 - [Adversarial Examples(对抗样本)](#AE)
 - [弱监督物体检测(Weakly Supervised Object Localization)](#WSOL)
@@ -162,6 +165,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2204.03641
 - Code: https://github.com/williamyang1991/GP-UNIT
 
+**StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2**
+
+- Homepage: https://universome.github.io/stylegan-v
+
+- Paper: https://arxiv.org/abs/2112.14683
+- Code: https://github.com/universome/stylegan-v
+
 <a name="GNN"></a>
 
 # GNN
@@ -236,6 +246,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2201.04127
 
 - Demo: https://youtu.be/GM-RoZEymmw
+
+<a name="3D Face"></a>
+
+# 3D Face
+
+**ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations**
+
+- Paper: https://arxiv.org/abs/2203.14510
+- Code: https://github.com/MingwuZheng/ImFace 
 
 <a name="Visual-Transformer"></a>
 
@@ -573,6 +592,22 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.02664
 - Code: https://github.com/rulixiang/afa
 
+**CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.02668
+- Code: https://github.com/CVI-SZU/CLIMS 
+
+**CCAM: Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.13505
+- Code: https://github.com/CVI-SZU/CCAM 
+
+**FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation**
+
+- Homeapage: http://cvlab.postech.ac.kr/research/FIFO/
+- Paper(Oral): https://arxiv.org/abs/2204.01587
+- Code: https://github.com/sohyun-l/FIFO 
+
 ## 半监督语义分割
 
 **ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation**
@@ -908,6 +943,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Code: None
 - 中文解读：https://mp.weixin.qq.com/s/L_F28IFLXvs5R4V9TTUpRw
 
+**BEV: Putting People in their Place: Monocular Regression of 3D People in Depth**
+
+- Homepage: https://arthur151.github.io/BEV/BEV.html
+- Paper: https://arxiv.org/abs/2112.08274
+- Code: https://github.com/Arthur151/ROMP
+- Dataset: https://github.com/Arthur151/Relative_Human
+- Demo: https://www.youtube.com/watch?v=Q62fj_6AxRI
+
 <a name="3DSSC"></a>
 
 # 3D语义场景补全(3D Semantic Scene Completion)
@@ -1046,6 +1089,19 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Code: https://github.com/FBLADL/ACPL
 
+<a name="Video Generation"></a>
+
+# 视频生成(Video Generation)
+
+**StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2**
+
+- Homepage: https://universome.github.io/stylegan-v
+- Paper: https://arxiv.org/abs/2112.14683
+
+- Code: https://github.com/universome/stylegan-v
+
+- Demo: https://kaust-cair.s3.amazonaws.com/stylegan-v/stylegan-v.mp4
+
 <a name="Scene-Graph-Generation"></a>
 
 # 场景图生成(Scene Graph Generation)
@@ -1068,6 +1124,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.16768
 - Code: None
+
+<a name="GR"></a>
+
+# 步态识别(Gait Recognition)
+
+**Gait Recognition in the Wild with Dense 3D Representations and A Benchmark**
+
+- Homepage: https://gait3d.github.io/
+- Paper: https://arxiv.org/abs/2204.02569
+- Code: https://github.com/Gait3D/Gait3D-Benchmark
 
 <a name="ST"></a>
 
@@ -1333,3 +1399,8 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper(Oral): https://arxiv.org/abs/2111.14517
 - Code: https://github.com/bmlklwx/EMS-superquadric_fitting
+
+**Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence**
+
+- Paper: https://arxiv.org/abs/2203.00911
+- Code: None
