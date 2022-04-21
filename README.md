@@ -668,7 +668,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **FreeSOLO: Learning to Segment Objects without Annotations**
 
 - Paper: https://arxiv.org/abs/2202.12181
-- Code: None
+- Code: https://github.com/NVlabs/FreeSOLO
 
 ## 视频实例分割
 
