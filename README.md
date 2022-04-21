@@ -26,6 +26,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [OCR](#OCR)
 - [NeRF](#NeRF)
 - [3D Face](#3D Face)
+- [长尾分布(Long-Tail)](#Long-Tail)
 - [Visual Transformer](#Visual-Transformer)
 - [视觉和语言(Vision-Language)](#VL)
 - [自监督学习(Self-supervised Learning)](#SSL)
@@ -37,6 +38,8 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [小样本分类(Few-Shot Classification)](#FFC)
 - [小样本分割(Few-Shot Segmentation)](#FFS)
+- [图像抠图(Image Matting)](#Matting)
+
 - [视频理解(Video Understanding)](#VU)
 - [图像编辑(Image Editing)](#Image-Editing)
 - [Low-level Vision](#LLV)
@@ -49,6 +52,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
 - [3D重建(3D Reconstruction)](#3D-R)
+- [行人重识别(Person Re-identification)](#ReID)
 - [伪装物体检测(Camouflaged Object Detection)](#COD)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [立体匹配(Stereo Matching)](#Stereo-Matching)
@@ -256,6 +260,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.14510
 - Code: https://github.com/MingwuZheng/ImFace 
 
+<a name="Long-Tail"></a>
+
+# 长尾分布(Long-Tail)
+
+**Retrieval Augmented Classification for Long-Tail Visual Recognition**
+
+- Paper: https://arxiv.org/abs/2202.11233
+- Code: None
+
 <a name="Visual-Transformer"></a>
 
 # Visual Transformer
@@ -415,6 +428,21 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.16518
 - Code: https://github.com/jhcho99/CoFormer
+
+**NFormer: Robust Person Re-identification with Neighbor Transformer**
+
+- Paper: https://arxiv.org/abs/2204.09331
+- Code: https://github.com/haochenheheda/NFormer
+
+**Boosting Robustness of Image Matting with Context Assembling and Strong Data Augmentation**
+
+- Paper: https://arxiv.org/abs/2201.06889
+- Code: None
+
+**Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer**
+
+- Paper(Oral): https://arxiv.org/abs/2204.08680
+- Code: https://github.com/zengwang430521/TCFormer
 
 <a name="VL"></a>
 
@@ -712,6 +740,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.15712
 - Code: https://github.com/dahyun-kang/ifsl
 
+<a name="Matting"></a>
+
+# 图像抠图(Image Matting)
+
+**Boosting Robustness of Image Matting with Context Assembling and Strong Data Augmentation**
+
+- Paper: https://arxiv.org/abs/2201.06889
+- Code: None
+
 <a name="VU"></a>
 
 # 视频理解(Video Understanding)
@@ -808,6 +845,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Code: https://github.com/open-mmlab/mmediting
 - Code: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
 - 中文解读：https://mp.weixin.qq.com/s/HZTwYfphixyLHxlbCAxx4g
+
+**Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling**
+
+- Paper: https://arxiv.org/abs/2204.07114
+- Code: None
 
 <a name="Deblur"></a>
 
@@ -970,6 +1012,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2112.12761
 - Code: https://github.com/facebookresearch/banmo
 - 中文解读：https://mp.weixin.qq.com/s/NMHP8-xWwrX40vpGx55Qew
+
+<a name="ReID"></a>
+
+# 行人重识别(Person Re-identification)
+
+**NFormer: Robust Person Re-identification with Neighbor Transformer**
+
+- Paper: https://arxiv.org/abs/2204.09331
+- Code: https://github.com/haochenheheda/NFormer
 
 <a name="COD"></a>
 
@@ -1404,3 +1455,8 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.00911
 - Code: None
+
+**Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer**
+
+- Paper(Oral): https://arxiv.org/abs/2204.08680
+- Code: https://github.com/zengwang430521/TCFormer
