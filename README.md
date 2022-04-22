@@ -695,7 +695,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Mask Transfiner for High-Quality Instance Segmentation**
 
 - Paper: https://arxiv.org/abs/2111.13673
-- Code: https://github.com/SysCV/transfiner 
+- Code: https://github.com/SysCV/transfiner
+
+**Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity**
+
+- Homepage: https://sites.google.com/view/generic-grouping/
+
+- Paper: https://arxiv.org/abs/2204.06107
+- Code: https://github.com/facebookresearch/Generic-Grouping
 
 ## 自监督实例分割
 
