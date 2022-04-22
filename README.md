@@ -444,6 +444,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper(Oral): https://arxiv.org/abs/2204.08680
 - Code: https://github.com/zengwang430521/TCFormer
 
+**A New Dataset and Transformer for Stereoscopic Video Super-Resolution**
+
+- Paper: https://arxiv.org/abs/2204.10039
+- Code: https://github.com/H-deep/Trans-SVSR/
+- Dataset: http://shorturl.at/mpwGX
+
 <a name="VL"></a>
 
 # 视觉和语言(Vision-Language)
@@ -850,6 +856,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2204.07114
 - Code: None
+
+**A New Dataset and Transformer for Stereoscopic Video Super-Resolution**
+
+- Paper: https://arxiv.org/abs/2204.10039
+- Code: https://github.com/H-deep/Trans-SVSR/
+- Dataset: http://shorturl.at/mpwGX
 
 <a name="Deblur"></a>
 
@@ -1362,9 +1374,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection**
 
 - Homepage: https://thudair.baai.ac.cn/index
-
 - Paper: https://arxiv.org/abs/2204.05575
 - Code: https://github.com/AIR-THU/DAIR-V2X
+
+**A New Dataset and Transformer for Stereoscopic Video Super-Resolution**
+
+- Paper: https://arxiv.org/abs/2204.10039
+- Code: https://github.com/H-deep/Trans-SVSR/
+- Dataset: http://shorturl.at/mpwGX
 
 <a name="New-Tasks"></a>
 
