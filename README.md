@@ -36,10 +36,10 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [目标跟踪(Visual Tracking)](#VT)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
+- [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [小样本分类(Few-Shot Classification)](#FFC)
 - [小样本分割(Few-Shot Segmentation)](#FFS)
 - [图像抠图(Image Matting)](#Matting)
-
 - [视频理解(Video Understanding)](#VU)
 - [图像编辑(Image Editing)](#Image-Editing)
 - [Low-level Vision](#LLV)
@@ -57,6 +57,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [立体匹配(Stereo Matching)](#Stereo-Matching)
 - [车道线检测(Lane Detection)](#Lane-Detection)
+- [光流估计(Optical Flow Estimation)](#Optical-Flow-Estimation)
 - [图像修复(Image Inpainting)](#Image-Inpainting)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
 - [人脸识别(Face Recognition)](#Face-Recognition)
@@ -450,6 +451,18 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Code: https://github.com/H-deep/Trans-SVSR/
 - Dataset: http://shorturl.at/mpwGX
 
+**Safe Self-Refinement for Transformer-based Domain Adaptation**
+
+- Paper: https://arxiv.org/abs/2204.07683
+- Code: https://github.com/tsun/SSRT
+
+**Fast Point Transformer**
+
+- Homepage: http://cvlab.postech.ac.kr/research/FPT/
+
+- Paper: https://arxiv.org/abs/2112.04702
+- Code: https://github.com/POSTECH-CVLab/FastPointTransformer
+
 <a name="VL"></a>
 
 # 视觉和语言(Vision-Language)
@@ -725,6 +738,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Code: https://github.com/hustvl/TeViT
 
+<a name="Panoptic-Segmentation"></a>
+
+# 全景分割(Panoptic Segmentation)
+
+**Panoptic SegFormer: Delving Deeper into Panoptic Segmentation with Transformers**
+
+- Paper: https://arxiv.org/abs/2109.03814
+- Code: https://github.com/zhiqi-li/Panoptic-SegFormer
+
 <a name="FFC"></a>
 
 # 小样本分类(Few-Shot Classification)
@@ -908,6 +930,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2112.02413
 - Code: https://github.com/ZrrSkywalker/PointCLIP
+
+**Fast Point Transformer**
+
+- Homepage: http://cvlab.postech.ac.kr/research/FPT/
+
+- Paper: https://arxiv.org/abs/2112.04702
+- Code: https://github.com/POSTECH-CVLab/FastPointTransformer
 
 <a name="3D-Object-Detection"></a>
 
@@ -1106,6 +1135,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2204.07335
 - Code: https://github.com/Wolfwjs/GANet
+
+<a name="Optical-Flow-Estimation"></a>
+
+# 光流估计(Optical Flow Estimation)
+
+**Imposing Consistency for Optical Flow Estimation**
+
+- Paper: https://arxiv.org/abs/2204.07262
+- Code: None
 
 <a name="Image-Inpainting"></a>
 
@@ -1484,3 +1522,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper(Oral): https://arxiv.org/abs/2204.08680
 - Code: https://github.com/zengwang430521/TCFormer
+
+**DeepDPM: Deep Clustering With an Unknown Number of Clusters**
+
+- Paper: https://arxiv.org/abs/2203.14309
+- Code: https://github.com/BGU-CS-VIL/DeepDPM
+
+**ZeroCap: Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**
+
+- Paper: https://arxiv.org/abs/2111.14447
+- Code: https://github.com/YoadTew/zero-shot-image-to-text
