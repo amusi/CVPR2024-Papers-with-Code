@@ -56,6 +56,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [伪装物体检测(Camouflaged Object Detection)](#COD)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [立体匹配(Stereo Matching)](#Stereo-Matching)
+- [特征匹配(Feature Matching)](#FM)
 - [车道线检测(Lane Detection)](#Lane-Detection)
 - [光流估计(Optical Flow Estimation)](#Optical-Flow-Estimation)
 - [图像修复(Image Inpainting)](#Image-Inpainting)
@@ -66,9 +67,10 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [视频生成(Video Generation)](#Video Generation)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [参考视频目标分割(Referring Video Object Segmentation)](#R-VOS)
--  [步态识别(Gait Recognition)](#GR)
+- [步态识别(Gait Recognition)](#GR)
 - [风格迁移(Style Transfer)](#ST)
-- [Adversarial Examples(对抗样本)](#AE)
+- [异常检测(Anomaly Detection](#AD)
+- [对抗样本(Adversarial Examples)](#AE)
 - [弱监督物体检测(Weakly Supervised Object Localization)](#WSOL)
 - [雷达目标检测(Radar Object Detection)](#ROD)
 - [高光谱图像重建(Hyperspectral Image Reconstruction)](#HSI)
@@ -77,6 +79,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [Action Counting](#AC)
 - [Grounded Situation Recognition](#GSR)
 - [Zero-shot Learning](#ZSL)
+- [DeepFakes](#DeepFakes)
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -126,6 +129,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: http://arxiv.org/abs/2203.10489
 - Code: https://github.com/JierunChen/TVConv
+
+**Learned Queries for Efficient Local Attention**
+
+- Paper(Oral): https://arxiv.org/abs/2112.11435
+- Code: https://github.com/moabarar/qna
 
 <a name="CLIP"></a>
 
@@ -297,6 +305,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 -  Paper(Oral): https://arxiv.org/abs/2111.15193
 - Code: https://github.com/OliverRensu/Shunted-Transformer
 
+**Learned Queries for Efficient Local Attention**
+
+- Paper(Oral): https://arxiv.org/abs/2112.11435
+- Code: https://github.com/moabarar/qna
+
 ## 应用(Application)
 
 **Language-based Video Editing via Multi-Modal Multi-Level Transformer**
@@ -459,9 +472,14 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Fast Point Transformer**
 
 - Homepage: http://cvlab.postech.ac.kr/research/FPT/
-
 - Paper: https://arxiv.org/abs/2112.04702
 - Code: https://github.com/POSTECH-CVLab/FastPointTransformer
+
+**Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval**
+
+- Paper: https://arxiv.org/abs/2204.09730
+
+- Code: https://github.com/mshukor/TFood
 
 <a name="VL"></a>
 
@@ -497,8 +515,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Homepage: https://github.com/gyfastas/HCSC
 - Paper: https://arxiv.org/abs/2202.00455
-
 - 中文解读: https://mp.weixin.qq.com/s/jkYR8mYp-e645qk8kfPNKQ
+
+**DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis**
+
+- Paper: https://arxiv.org/abs/2204.10437
+
+- Code: https://github.com/JLiangLab/DiRA
 
 <a name="DA"></a>
 
@@ -774,6 +797,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.15712
 - Code: https://github.com/dahyun-kang/ifsl
+
+**Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2204.10638
+- Code: None
 
 <a name="Matting"></a>
 
@@ -1121,6 +1149,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.02146
 - Code: https://github.com/gangweiX/ACVNet
 
+<a name="FM"></a>
+
+# 特征匹配(Feature Matching)
+
+**ClusterGNN: Cluster-based Coarse-to-Fine Graph Neural Network for Efficient Feature Matching**
+
+- Paper: https://arxiv.org/abs/2204.11700
+- Code: None
+
 <a name="Lane-Detection"></a>
 
 # 车道线检测(Lane Detection)
@@ -1144,6 +1181,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2204.07262
 - Code: None
+
+**Deep Equilibrium Optical Flow Estimation**
+
+- Paper: https://arxiv.org/abs/2204.08442
+- Code: https://github.com/locuslab/deq-flow
 
 <a name="Image-Inpainting"></a>
 
@@ -1194,8 +1236,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Anti-curriculum Pseudo-labelling for Semi-supervised Medical Image Classification**
 
 - Paper: https://arxiv.org/abs/2111.12918
-
 - Code: https://github.com/FBLADL/ACPL
+
+**DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis**
+
+- Paper: https://arxiv.org/abs/2204.10437
+
+- Code: https://github.com/JLiangLab/DiRA
 
 <a name="Video Generation"></a>
 
@@ -1255,9 +1302,24 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Code: https://github.com/lukasHoel/stylemesh
 - Demo：https://www.youtube.com/watch?v=ZqgiTLcNcks
 
-<a name="AE"></a>
+<a name="AD"></a>
 
-# Adversarial Examples(对抗样本)
+# 异常检测(Anomaly Detection)
+
+**UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection**
+
+- Paper: https://arxiv.org/abs/2111.08644
+
+- Dataset: https://github.com/lilygeorgescu/UBnormal
+
+**Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection**
+
+- Paper(Oral): https://arxiv.org/abs/2111.09099
+- Code: https://github.com/ristea/sspcab
+
+对抗样本)<a name="AE"></a>
+
+# 对抗样本(Adversarial Examples)
 
 **Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon**
 
@@ -1345,6 +1407,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.16517
 - Code: https://github.com/sumitramalagi/Unseen-classes-at-a-later-time
 
+<a name="DeepFakes"></a>
+
+# DeepFakes
+
+**Detecting Deepfakes with Self-Blended Images**
+
+- Paper(Oral): https://arxiv.org/abs/2204.08376
+
+- Code: https://github.com/mapooon/SelfBlendedImages
+
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
@@ -1427,6 +1499,20 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2204.10039
 - Code: https://github.com/H-deep/Trans-SVSR/
 - Dataset: http://shorturl.at/mpwGX
+
+**Putting People in their Place: Monocular Regression of 3D People in Depth**
+
+- Homepage: https://arthur151.github.io/BEV/BEV.html
+- Paper: https://arxiv.org/abs/2112.08274
+
+- Code:https://github.com/Arthur151/ROMP
+- Dataset: https://github.com/Arthur151/Relative_Human
+
+**UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection**
+
+- Paper: https://arxiv.org/abs/2111.08644
+
+- Dataset: https://github.com/lilygeorgescu/UBnormal
 
 <a name="New-Tasks"></a>
 
@@ -1532,3 +1618,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2111.14447
 - Code: https://github.com/YoadTew/zero-shot-image-to-text
+
+**Proto2Proto: Can you recognize the car, the way I do?**
+
+- Paper: https://arxiv.org/abs/2204.11830
+- Code: https://github.com/archmaester/proto2proto
+
+**Putting People in their Place: Monocular Regression of 3D People in Depth**
+
+- Homepage: https://arthur151.github.io/BEV/BEV.html
+- Paper: https://arxiv.org/abs/2112.08274
+
+- Code:https://github.com/Arthur151/ROMP
+- Dataset: https://github.com/Arthur151/Relative_Human
