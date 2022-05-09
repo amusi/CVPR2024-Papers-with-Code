@@ -22,6 +22,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - [CLIP](#CLIP)
 - [GAN](#GAN)
 - [GNN](#GNN)
+- [MLP](#MLP)
 - [NAS](#NAS)
 - [OCR](#OCR)
 - [NeRF](#NeRF)
@@ -135,6 +136,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper(Oral): https://arxiv.org/abs/2112.11435
 - Code: https://github.com/moabarar/qna
 
+**RepMLPNet: Hierarchical Vision MLP with Re-parameterized Locality**
+
+- Paper: https://arxiv.org/abs/2112.11081
+- Code: https://github.com/DingXiaoH/RepMLP
+
 <a name="CLIP"></a>
 
 # CLIP
@@ -193,6 +199,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://wanyu-lin.github.io/assets/publications/wanyu-cvpr2022.pdf 
 - Code: https://github.com/WanyuGroup/CVPR2022-OrphicX
+
+<a name="MLP"></a>
+
+# MLP
+
+**RepMLPNet: Hierarchical Vision MLP with Re-parameterized Locality**
+
+- Paper: https://arxiv.org/abs/2112.11081
+- Code: https://github.com/DingXiaoH/RepMLP
 
 <a name="NAS"></a>
 
