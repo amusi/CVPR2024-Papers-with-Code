@@ -187,9 +187,18 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2**
 
 - Homepage: https://universome.github.io/stylegan-v
-
 - Paper: https://arxiv.org/abs/2112.14683
 - Code: https://github.com/universome/stylegan-v
+
+**OSSGAN: Open-set Semi-supervised Image Generation**
+
+- Paper: https://arxiv.org/abs/2204.14249
+- Code: https://github.com/raven38/OSSGAN
+
+**Neural Texture Extraction and Distribution for Controllable Person Image Synthesis**
+
+- Paper: https://arxiv.org/abs/2204.06160
+- Code: https://github.com/RenYurui/Neural-Texture-Extraction-Distribution
 
 <a name="GNN"></a>
 
@@ -650,6 +659,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2203.16210
 - Code: None
 
+**DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion**
+
+- Homepage: https://dancetrack.github.io
+- Paper: https://arxiv.org/abs/2111.14690
+- Code: https://github.com/DanceTrack/DanceTrack
+
 <a name="Semantic-Segmentation"></a>
 
 # 语义分割(Semantic Segmentation)
@@ -918,6 +933,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2111.09881
 - Code: https://github.com/swz30/Restormer
+
+**Robust Equivariant Imaging: a fully unsupervised framework for learning to image from noisy and partial measurements**
+
+- Paper(Oral): https://arxiv.org/abs/2111.12855
+- Code: https://github.com/edongdongchen/REI
 
 <a name="Super-Resolution"></a>
 
@@ -1217,6 +1237,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2204.08442
 - Code: https://github.com/locuslab/deq-flow
 
+**GMFlow: Learning Optical Flow via Global Matching**
+
+- Paper(Oral): https://arxiv.org/abs/2111.13680
+- Code: https://github.com/haofeixu/gmflow
+
 <a name="Image-Inpainting"></a>
 
 # 图像修复(Image Inpainting)
@@ -1360,6 +1385,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper(Oral): https://arxiv.org/abs/2203.06616
 - Code: https://github.com/jiaxiaojunQAQ/LAS-AT
+
+**Segment and Complete: Defending Object Detectors against Adversarial Patch Attacks with Robust Patch Detection**
+
+- Paper: https://arxiv.org/abs/2112.04532
+- Code: https://github.com/joellliu/SegmentAndComplete
 
 <a name="WSOL"></a>
 
@@ -1665,4 +1695,9 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Homepage: https://light-field-neural-rendering.github.io/
 - Paper(Oral): https://arxiv.org/abs/2112.09687
-- Code: https://github.com/google-research/google-research/tree/master/light_field_neural_rendering 
+- Code: https://github.com/google-research/google-research/tree/master/light_field_neural_rendering
+
+**Neural Texture Extraction and Distribution for Controllable Person Image Synthesis**
+
+- Paper: https://arxiv.org/abs/2204.06160
+- Code: https://github.com/RenYurui/Neural-Texture-Extraction-Distribution
