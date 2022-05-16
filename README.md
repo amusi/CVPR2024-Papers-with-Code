@@ -663,7 +663,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Homepage: https://dancetrack.github.io
 - Paper: https://arxiv.org/abs/2111.14690
-- Code: https://github.com/DanceTrack/DanceTrack
+- Dataset: https://github.com/DanceTrack/DanceTrack
 
 <a name="Semantic-Segmentation"></a>
 
@@ -1571,8 +1571,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection**
 
 - Paper: https://arxiv.org/abs/2111.08644
-
 - Dataset: https://github.com/lilygeorgescu/UBnormal
+
+**DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion**
+
+- Homepage: https://dancetrack.github.io
+- Paper: https://arxiv.org/abs/2111.14690
+- Dataset: https://github.com/DanceTrack/DanceTrack
 
 <a name="New-Tasks"></a>
 
