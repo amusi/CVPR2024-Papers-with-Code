@@ -660,6 +660,16 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2112.01900
 - Code: https://github.com/HeliosZhao/NCDSS
 
+**Deep Hierarchical Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.14335
+- Code: https://github.com/0liliulei/HieraSeg 
+
+**Rethinking Semantic Segmentation: A Prototype View**
+
+- Paper: https://arxiv.org/abs/2203.15102
+- Code: https://github.com/tfzhou/ProtoSeg 
+
 ## 弱监督语义分割
 
 **Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation**
@@ -692,6 +702,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Homeapage: http://cvlab.postech.ac.kr/research/FIFO/
 - Paper(Oral): https://arxiv.org/abs/2204.01587
 - Code: https://github.com/sohyun-l/FIFO 
+
+**Regional Semantic Contrast and Aggregation for Weakly Supervised Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2203.09653
+- Code: https://github.com/maeve07/RCA.git
 
 ## 半监督语义分割
 
@@ -1643,6 +1658,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Homepage: https://arthur151.github.io/BEV/BEV.html
 - Paper: https://arxiv.org/abs/2112.08274
-
 - Code:https://github.com/Arthur151/ROMP
 - Dataset: https://github.com/Arthur151/Relative_Human
+
+**Light Field Neural Rendering**
+
+- Homepage: https://light-field-neural-rendering.github.io/
+- Paper(Oral): https://arxiv.org/abs/2112.09687
+- Code: https://github.com/google-research/google-research/tree/master/light_field_neural_rendering 
