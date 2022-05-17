@@ -502,8 +502,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval**
 
 - Paper: https://arxiv.org/abs/2204.09730
-
 - Code: https://github.com/mshukor/TFood
+
+**DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2111.14887
+- Code: https://github.com/lhoyer/DAFormer
 
 <a name="VL"></a>
 
@@ -683,7 +687,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Rethinking Semantic Segmentation: A Prototype View**
 
 - Paper: https://arxiv.org/abs/2203.15102
-- Code: https://github.com/tfzhou/ProtoSeg 
+- Code: https://github.com/tfzhou/ProtoSeg
 
 ## 弱监督语义分割
 
@@ -749,6 +753,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2111.12940
 - Code: https://github.com/BIT-DA/RIPU
+
+**DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2111.14887
+- Code: https://github.com/lhoyer/DAFormer
 
 ## 无监督语义分割
 
