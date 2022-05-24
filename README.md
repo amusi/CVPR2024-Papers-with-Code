@@ -521,8 +521,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Bridging Video-text Retrieval with Multiple Choice Question**
 
 - Paper: https://arxiv.org/abs/2201.04850
-
 - Code: https://github.com/TencentARC/MCQ
+
+**Visual Abductive Reasoning**
+
+- Paper: https://arxiv.org/abs/2203.14040
+- Code: https://github.com/leonnnop/VAR
 
 <a name="SSL"></a>
 
@@ -686,7 +690,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 **Rethinking Semantic Segmentation: A Prototype View**
 
-- Paper: https://arxiv.org/abs/2203.15102
+- Paper(Oral): https://arxiv.org/abs/2203.15102
 - Code: https://github.com/tfzhou/ProtoSeg
 
 ## 弱监督语义分割
@@ -812,7 +816,6 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Temporally Efficient Vision Transformer for Video Instance Segmentation**
 
 - Paper: https://arxiv.org/abs/2204.08412
-
 - Code: https://github.com/hustvl/TeViT
 
 <a name="Panoptic-Segmentation"></a>
@@ -823,6 +826,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2109.03814
 - Code: https://github.com/zhiqi-li/Panoptic-SegFormer
+
+**Large-scale Video Panoptic Segmentation in the Wild: A Benchmark**
+
+- Paper: https://github.com/VIPSeg-Dataset/VIPSeg-Dataset/blob/main/VIPSeg2022.pdf
+- Code: https://github.com/VIPSeg-Dataset/VIPSeg-Dataset
+- Dataset: https://github.com/VIPSeg-Dataset/VIPSeg-Dataset 
 
 <a name="FFC"></a>
 
@@ -1588,6 +1597,17 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2111.14690
 - Dataset: https://github.com/DanceTrack/DanceTrack
 
+**Visual Abductive Reasoning**
+
+- Paper: https://arxiv.org/abs/2203.14040
+- Code: https://github.com/leonnnop/VAR
+
+**Large-scale Video Panoptic Segmentation in the Wild: A Benchmark**
+
+- Paper: https://github.com/VIPSeg-Dataset/VIPSeg-Dataset/blob/main/VIPSeg2022.pdf
+- Code: https://github.com/VIPSeg-Dataset/VIPSeg-Dataset
+- Dataset: https://github.com/VIPSeg-Dataset/VIPSeg-Dataset 
+
 <a name="New-Tasks"></a>
 
 # 新任务(New Task)
@@ -1609,6 +1629,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Homepage: https://splice-vit.github.io/
 - Paper: https://arxiv.org/abs/2201.00424
 - Code: https://github.com/omerbt/Splice
+
+**Visual Abductive Reasoning**
+
+- Paper: https://arxiv.org/abs/2203.14040
+- Code: https://github.com/leonnnop/VAR
 
 <a name="Others"></a>
 
@@ -1715,3 +1740,8 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2204.06160
 - Code: https://github.com/RenYurui/Neural-Texture-Extraction-Distribution
+
+**Locality-Aware Inter-and Intra-Video Reconstruction for Self-Supervised Correspondence Learning**
+
+- Paper: https://arxiv.org/abs/2203.14333
+- Code: https://github.com/0liliulei/LIIR  
