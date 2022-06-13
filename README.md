@@ -509,6 +509,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2111.14887
 - Code: https://github.com/lhoyer/DAFormer
 
+**Stratified Transformer for 3D Point Cloud Segmentation**
+
+- Paper: https://arxiv.org/pdf/2203.14508.pdf
+- Code: https://github.com/dvlab-research/Stratified-Transformer 
+
 <a name="VL"></a>
 
 # 视觉和语言(Vision-Language)
@@ -564,10 +569,10 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2202.12513
 - Code: https://github.com/DensoITLab/TeachAugment
 
-**AlignMix: Improving representation by interpolating aligned features**
+**AlignMixup: Improving Representations By Interpolating Aligned Features**
 
 - Paper: https://arxiv.org/abs/2103.15375
-- Code: None
+- Code: https://github.com/shashankvkt/AlignMixup_CVPR22 
 
 <a name="KD"></a>
 
@@ -768,9 +773,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **GroupViT: Semantic Segmentation Emerges from Text Supervision**
 
 - Homepage: https://jerryxu.net/GroupViT/
-
 - Paper: https://arxiv.org/abs/2202.11094
 - Demo: https://youtu.be/DtJsWIUTW-Y
+
+## 少样本语义分割
+
+**Generalized Few-shot Semantic Segmentation**
+
+- Paper: https://jiaya.me/papers/cvpr22_zhuotao.pdf
+- Code: https://github.com/dvlab-research/GFS-Seg 
 
 <a name="Instance-Segmentation"></a>
 
@@ -1030,9 +1041,18 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Fast Point Transformer**
 
 - Homepage: http://cvlab.postech.ac.kr/research/FPT/
-
 - Paper: https://arxiv.org/abs/2112.04702
 - Code: https://github.com/POSTECH-CVLab/FastPointTransformer
+
+**RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds**
+
+- Paper: https://arxiv.org/abs/2205.11028
+- Code: https://github.com/gxd1994/RCP
+
+**The Devil is in the Pose: Ambiguity-free 3D Rotation-invariant Learning via Pose-aware Convolution**
+
+- Paper: https://arxiv.org/abs/2205.15210
+- Code: https://github.com/GostInShell/PaRI-Conv 
 
 <a name="3D-Object-Detection"></a>
 
@@ -1091,6 +1111,11 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://arxiv.org/abs/2203.08537
 - Dataset: https://github.com/ouenal/scribblekitti
+
+**Stratified Transformer for 3D Point Cloud Segmentation**
+
+- Paper: https://arxiv.org/pdf/2203.14508.pdf
+- Code: https://github.com/dvlab-research/Stratified-Transformer 
 
 <a name="3D-Object-Tracking"></a>
 
