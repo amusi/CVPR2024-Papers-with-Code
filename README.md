@@ -1362,7 +1362,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
  **SGTR: End-to-end Scene Graph Generation with Transformer**
 
 - Paper: https://arxiv.org/abs/2112.12970
-- Code: None
+- Code: https://github.com/scarecrow0/sgtr
 
 <a name="R-VOS"></a>
 
