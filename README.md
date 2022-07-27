@@ -1026,7 +1026,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **A Unified Query-based Paradigm for Point Cloud Understanding**
 
 - Paper: https://arxiv.org/abs/2203.01252
-- Code: None 
+- Code: https://github.com/dvlab-research/deepvision3d
 
 **CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**
 
