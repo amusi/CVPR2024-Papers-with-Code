@@ -1329,7 +1329,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation**
 
 - Paper: https://arxiv.org/abs/2203.02533
-- Code: None
+- Code: https://github.com/wannature/BoostMIS
 
 **Anti-curriculum Pseudo-labelling for Semi-supervised Medical Image Classification**
 
