@@ -1705,7 +1705,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **3DeformRS: Certifying Spatial Deformations on Point Clouds**
 
 - Paper: https://arxiv.org/abs/2204.05687
-- Code: None
+- Code: https://github.com/gaperezsa/3deformrs
 
 **Aesthetic Text Logo Synthesis via Content-aware Layout Inferring**
 
