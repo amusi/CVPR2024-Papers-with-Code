@@ -926,7 +926,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **End-to-End Semi-Supervised Learning for Video Action Detection**
 
 - Paper: https://arxiv.org/abs/2203.04251
-- Code: None
+- Code: https://github.com/AKASH2907/pi-consistency-activity-detection
 
 <a name="Image-Editing"></a>
 
