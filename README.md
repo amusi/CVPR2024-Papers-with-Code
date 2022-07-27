@@ -344,7 +344,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video**
 
 - Paper: https://arxiv.org/abs/2203.00859
-- Code: None
+- Code: https://github.com/JinluZhang1126/MixSTE
 
 **Embracing Single Stride 3D Object Detector with Sparse Transformer**
 
