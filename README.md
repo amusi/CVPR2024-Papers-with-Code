@@ -1214,7 +1214,7 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion**
 
 - Paper: https://arxiv.org/abs/2203.00838
-- Code: None
+- Code: https://github.com/yuyanli0831/omnifusion
 
 **Toward Practical Self-Supervised Monocular Indoor Depth Estimation**
 
