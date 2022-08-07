@@ -1103,6 +1103,12 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 - Paper: https://arxiv.org/abs/2204.05575
 - Code: https://github.com/AIR-THU/DAIR-V2X
 
+**Ithaca365: Dataset and Driving Perception under Repeated and Challenging Weather Conditions**
+
+- Homepage: https://ithaca365.mae.cornell.edu/
+
+- Paper: https://arxiv.org/abs/2208.01166
+
 <a name="3DSS"></a>
 
 # 3D语义分割(3D Semantic Segmentation)
@@ -1115,7 +1121,15 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 **Stratified Transformer for 3D Point Cloud Segmentation**
 
 - Paper: https://arxiv.org/pdf/2203.14508.pdf
-- Code: https://github.com/dvlab-research/Stratified-Transformer 
+- Code: https://github.com/dvlab-research/Stratified-Transformer
+
+# 3D实例分割(3D Instance Segmentation)
+
+**Ithaca365: Dataset and Driving Perception under Repeated and Challenging Weather Conditions**
+
+- Homepage: https://ithaca365.mae.cornell.edu/
+
+- Paper: https://arxiv.org/abs/2208.01166
 
 <a name="3D-Object-Tracking"></a>
 
@@ -1631,7 +1645,13 @@ CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCM
 
 - Paper: https://github.com/VIPSeg-Dataset/VIPSeg-Dataset/blob/main/VIPSeg2022.pdf
 - Code: https://github.com/VIPSeg-Dataset/VIPSeg-Dataset
-- Dataset: https://github.com/VIPSeg-Dataset/VIPSeg-Dataset 
+- Dataset: https://github.com/VIPSeg-Dataset/VIPSeg-Dataset
+
+**Ithaca365: Dataset and Driving Perception under Repeated and Challenging Weather Conditions**
+
+- Homepage: https://ithaca365.mae.cornell.edu/
+
+- Paper: https://arxiv.org/abs/2208.01166
 
 <a name="New-Tasks"></a>
 
