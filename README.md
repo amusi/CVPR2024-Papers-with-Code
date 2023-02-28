@@ -2,7 +2,9 @@
 
 [CVPR 2023](https://cvpr2023.thecvf.com/) 论文和开源项目合集(papers with code)！
 
-- [ ] CVPR 2023 收录列表ID：待更新（预计2023.02.27-28 公布ID）
+**25.78% = 2360 / 9155**
+
+CVPR2023 decisions are now available on OpenReview! This year, wereceived a record number of **9155** submissions (a 12% increase over CVPR2022), and accepted **2360** papers, for a 25.78% acceptance rate.
 
 
 > 注1：欢迎各位大佬提交issue，分享CVPR 2023论文和开源项目！
@@ -22,14 +24,17 @@
 
 - [Backbone](#Backbone)
 - [CLIP](#CLIP)
+- [MAE](#MAE)
 - [GAN](#GAN)
 - [GNN](#GNN)
 - [MLP](#MLP)
 - [NAS](#NAS)
 - [OCR](#OCR)
 - [NeRF](#NeRF)
+- [DETR](#DETR)
+- [Diffusion Models(扩散模型)](#Diffusion)
 - [长尾分布(Long-Tail)](#Long-Tail)
-- [Visual Transformer](#Visual-Transformer)
+- [Vision Transformer](#Vision-Transformer)
 - [视觉和语言(Vision-Language)](#VL)
 - [自监督学习(Self-supervised Learning)](#SSL)
 - [数据增强(Data Augmentation)](#DA)
@@ -90,4 +95,64 @@
 
 # Backbone
 
-- [ ] TODO
+**Integrally Pre-Trained Transformer Pyramid Networks** 
+
+- Paper: https://arxiv.org/abs/2211.12735
+- Code: https://github.com/sunsmarterjie/iTPN
+
+**Stitchable Neural Networks**
+
+- Homepage: https://snnet.github.io/
+- Paper: https://arxiv.org/abs/2302.06586
+- Code: https://github.com/ziplab/SN-Net
+
+<a name="MAE"></a>
+
+# MAE
+
+**Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders** 
+
+- Paper: https://arxiv.org/abs/2212.06785
+- Code: https://github.com/ZrrSkywalker/I2P-MAE
+
+<a name="DETR"></a>
+
+# DETR
+
+**DETRs with Hybrid Matching**
+
+- Paper: https://arxiv.org/abs/2207.13080
+- Code: https://github.com/HDETR
+
+# Diffusion Models(扩散模型)
+
+ Video Probabilistic Diffusion Models in Projected Latent Space 
+
+- Homepage: https://sihyun.me/PVDM/
+- Paper: https://arxiv.org/abs/2302.07685
+- Code: https://github.com/sihyun-yu/PVDM
+
+# Vision Transformer
+
+**Integrally Pre-Trained Transformer Pyramid Networks** 
+
+- Paper: https://arxiv.org/abs/2211.12735
+- Code: https://github.com/sunsmarterjie/iTPN
+
+<a name="VL"></a>
+
+# 视觉和语言(Vision-Language)
+
+ GIVL: Improving Geographical Inclusivity of Vision-Language Models with Pre-Training Methods 
+
+- Paper: https://arxiv.org/abs/2301.01893
+- Code: None
+
+<a name="Object-Detection"></a>
+
+# 目标检测(Object Detection)
+
+**DETRs with Hybrid Matching**
+
+- Paper: https://arxiv.org/abs/2207.13080
+- Code: https://github.com/HDETR
