@@ -115,6 +115,16 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2212.06785
 - Code: https://github.com/ZrrSkywalker/I2P-MAE
 
+<a name="NeRF"></a>
+
+# NeRF
+
+**NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior**
+
+- Home: https://nope-nerf.active.vision/
+- Paper: https://arxiv.org/abs/2212.07388
+- Code: None
+
 <a name="DETR"></a>
 
 # DETR
@@ -126,11 +136,16 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 # Diffusion Models(扩散模型)
 
- Video Probabilistic Diffusion Models in Projected Latent Space 
+**Video Probabilistic Diffusion Models in Projected Latent Space** 
 
 - Homepage: https://sihyun.me/PVDM/
 - Paper: https://arxiv.org/abs/2302.07685
 - Code: https://github.com/sihyun-yu/PVDM
+
+**Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models**
+
+- Paper: https://arxiv.org/abs/2211.10655
+- Code: None
 
 # Vision Transformer
 
@@ -143,7 +158,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 # 视觉和语言(Vision-Language)
 
- GIVL: Improving Geographical Inclusivity of Vision-Language Models with Pre-Training Methods 
+**GIVL: Improving Geographical Inclusivity of Vision-Language Models with Pre-Training Methods**
 
 - Paper: https://arxiv.org/abs/2301.01893
 - Code: None
@@ -152,7 +167,17 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 # 目标检测(Object Detection)
 
+**YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors**
+
+- Paper: https://arxiv.org/abs/2207.02696
+- Code: https://github.com/WongKinYiu/yolov7
+
 **DETRs with Hybrid Matching**
 
 - Paper: https://arxiv.org/abs/2207.13080
 - Code: https://github.com/HDETR
+
+**Enhanced Training of Query-Based Object Detection via Selective Query Recollection**
+
+- Paper: https://arxiv.org/abs/2212.07593
+- Code: https://github.com/Fangyi-Chen/SQR
