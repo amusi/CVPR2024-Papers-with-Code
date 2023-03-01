@@ -38,14 +38,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [视觉和语言(Vision-Language)](#VL)
 - [自监督学习(Self-supervised Learning)](#SSL)
 - [数据增强(Data Augmentation)](#DA)
-- [知识蒸馏(Knowledge Distillation)](#KD)
 - [目标检测(Object Detection)](#Object-Detection)
 - [目标跟踪(Visual Tracking)](#VT)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
-- [小样本分类(Few-Shot Classification)](#FFC)
-- [小样本分割(Few-Shot Segmentation)](#FFS)
 - [图像抠图(Image Matting)](#Matting)
 - [视频理解(Video Understanding)](#VU)
 - [图像编辑(Image Editing)](#Image-Editing)
@@ -59,34 +56,9 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
 - [3D重建(3D Reconstruction)](#3D-R)
-- [行人重识别(Person Re-identification)](#ReID)
-- [伪装物体检测(Camouflaged Object Detection)](#COD)
-- [深度估计(Depth Estimation)](#Depth-Estimation)
-- [立体匹配(Stereo Matching)](#Stereo-Matching)
-- [特征匹配(Feature Matching)](#FM)
-- [车道线检测(Lane Detection)](#Lane-Detection)
-- [光流估计(Optical Flow Estimation)](#Optical-Flow-Estimation)
-- [图像修复(Image Inpainting)](#Image-Inpainting)
-- [图像检索(Image Retrieval)](#Image-Retrieval)
-- [人脸识别(Face Recognition)](#Face-Recognition)
-- [人群计数(Crowd Counting)](#Crowd-Counting)
 - [医学图像(Medical Image)](#Medical-Image)
 - [视频生成(Video Generation)](#Video Generation)
-- [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
-- [参考视频目标分割(Referring Video Object Segmentation)](#R-VOS)
-- [步态识别(Gait Recognition)](#GR)
-- [风格迁移(Style Transfer)](#ST)
-- [异常检测(Anomaly Detection](#AD)
-- [对抗样本(Adversarial Examples)](#AE)
-- [弱监督物体检测(Weakly Supervised Object Localization)](#WSOL)
-- [雷达目标检测(Radar Object Detection)](#ROD)
-- [高光谱图像重建(Hyperspectral Image Reconstruction)](#HSI)
-- [图像拼接(Image Stitching)](#Image-Stitching)
-- [水印(Watermarking)](#Watermarking)
-- [Action Counting](#AC)
-- [Grounded Situation Recognition](#GSR)
-- [Zero-shot Learning](#ZSL)
-- [DeepFakes](#DeepFakes)
+- [知识蒸馏(Knowledge Distillation)](#KD)
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -133,6 +105,15 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2207.13080
 - Code: https://github.com/HDETR
+
+<a name="NAS"></a>
+
+# NAS
+
+**PA&DA: Jointly Sampling PAth and DAta for Consistent NAS**
+
+- Paper: https://arxiv.org/abs/2302.14772
+- Code: https://github.com/ShunLu91/PA-DA
 
 # Diffusion Models(扩散模型)
 
@@ -181,3 +162,26 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2212.07593
 - Code: https://github.com/Fangyi-Chen/SQR
+
+<a name="KD"></a>
+
+# 知识蒸馏(Knowledge Distillation)
+
+**Learning to Retain while Acquiring: Combating Distribution-Shift in Adversarial Data-Free Knowledge Distillation**
+
+- Paper: https://arxiv.org/abs/2302.14290
+- Code: None
+
+<a name="Others"></a>
+
+# 其他(Others)
+
+**Interactive Segmentation as Gaussian Process Classification**
+
+- Paper: https://arxiv.org/abs/2302.14578
+- Code: None
+
+**Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger**
+
+- Paper: https://arxiv.org/abs/2302.14677
+- Code: None
