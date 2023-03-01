@@ -97,6 +97,16 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2212.07388
 - Code: None
 
+**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures**
+
+- Paper: https://arxiv.org/abs/2211.07600
+- Code: https://github.com/eladrich/latent-nerf
+
+**NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis**
+
+- Paper: https://arxiv.org/abs/2301.08556
+- Code: None
+
 <a name="DETR"></a>
 
 # DETR
@@ -128,6 +138,17 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2211.10655
 - Code: None
 
+**Imagic: Text-Based Real Image Editing with Diffusion Models**
+
+- Homepage: https://imagic-editing.github.io/
+- Paper: https://arxiv.org/abs/2210.09276
+- Code: None
+
+**Parallel Diffusion Models of Operator and Image for Blind Inverse Problems**
+
+- Paper: https://arxiv.org/abs/2211.10656
+- Code: None
+
 # Vision Transformer
 
 **Integrally Pre-Trained Transformer Pyramid Networks** 
@@ -143,6 +164,16 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2301.01893
 - Code: None
+
+**Teaching Structured Vision&Language Concepts to Vision&Language Models**
+
+- Paper: https://arxiv.org/abs/2211.11733
+- Code: None
+
+**Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks**
+
+- Paper: https://arxiv.org/abs/2211.09808
+- Code: https://github.com/fundamentalvision/Uni-Perceiver
 
 <a name="Object-Detection"></a>
 
@@ -185,3 +216,32 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2302.14677
 - Code: None
+
+**SplineCam: Exact Visualization and Characterization of Deep Network Geometry and Decision Boundaries**
+
+- Homepage: http://bit.ly/splinecam
+- Paper: https://arxiv.org/abs/2302.12828
+- Code: None
+
+**SCOTCH and SODA: A Transformer Video Shadow Detection Framework**
+
+- Paper: https://arxiv.org/abs/2211.06885
+- Code: None
+
+**DeepMapping2: Self-Supervised Large-Scale LiDAR Map Optimization**
+
+- Homepage: https://ai4ce.github.io/DeepMapping2/
+- Paper: https://arxiv.org/abs/2212.06331
+- None: https://github.com/ai4ce/DeepMapping2
+
+**RelightableHands: Efficient Neural Relighting of Articulated Hand Models**
+
+- Homepage: https://sh8.io/#/relightable_hands
+- Paper: https://arxiv.org/abs/2302.04866
+- Code: None
+
+**Token Turing Machines**
+
+- Paper: https://arxiv.org/abs/2211.09119
+- Code: None
+
