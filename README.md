@@ -190,6 +190,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2211.09808
 - Code: https://github.com/fundamentalvision/Uni-Perceiver
 
+**Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training**
+
+- Paper: https://arxiv.org/abs/2303.00040
+- Code: None
+
 <a name="Object-Detection"></a>
 
 # 目标检测(Object Detection)
