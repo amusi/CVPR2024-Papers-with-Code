@@ -33,6 +33,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [NeRF](#NeRF)
 - [DETR](#DETR)
 - [Diffusion Models(扩散模型)](#Diffusion)
+- [Avatars](#Avatars)
 - [长尾分布(Long-Tail)](#Long-Tail)
 - [Vision Transformer](#Vision-Transformer)
 - [视觉和语言(Vision-Language)](#VL)
@@ -57,8 +58,9 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
 - [3D重建(3D Reconstruction)](#3D-R)
 - [医学图像(Medical Image)](#Medical-Image)
-- [视频生成(Video Generation)](#Video Generation)
+- [视频生成(Video Generation)](#Video-Generation)
 - [知识蒸馏(Knowledge Distillation)](#KD)
+- [轨迹预测Trajectory Prediction)](#TP)
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -125,6 +127,8 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2302.14772
 - Code: https://github.com/ShunLu91/PA-DA
 
+<a name="Diffusion"></a>
+
 # Diffusion Models(扩散模型)
 
 **Video Probabilistic Diffusion Models in Projected Latent Space** 
@@ -155,6 +159,17 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2211.12735
 - Code: https://github.com/sunsmarterjie/iTPN
+
+<a name="Avatars"></a>
+
+# Avatars
+
+**Structured 3D Features for Reconstructing Relightable and Animatable Avatars**
+
+- Homepage: https://enriccorona.github.io/s3f/
+- Paper: https://arxiv.org/abs/2212.06820
+- Code: None
+- Demo: https://www.youtube.com/watch?v=mcZGcQ6L-2s
 
 <a name="VL"></a>
 
@@ -194,6 +209,17 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2212.07593
 - Code: https://github.com/Fangyi-Chen/SQR
 
+<a name="VT"></a>
+
+[目标跟踪(Visual Tracking)](#VT)
+
+# 目标跟踪(Object Tracking)
+
+**Simple Cues Lead to a Strong Multi-Object Tracker**
+
+- Paper: https://arxiv.org/abs/2206.04656
+- Code: None
+
 <a name="KD"></a>
 
 # 知识蒸馏(Knowledge Distillation)
@@ -201,6 +227,15 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 **Learning to Retain while Acquiring: Combating Distribution-Shift in Adversarial Data-Free Knowledge Distillation**
 
 - Paper: https://arxiv.org/abs/2302.14290
+- Code: None
+
+<a name="TP"></a>
+
+# Trajectory Prediction
+
+**IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction**
+
+- Paper:  https://arxiv.org/abs/2303.00575
 - Code: None
 
 <a name="Others"></a>
@@ -245,3 +280,31 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2211.09119
 - Code: None
 
+**Single Image Backdoor Inversion via Robust Smoothed Classifiers**
+
+- Paper: https://arxiv.org/abs/2303.00215
+- Code: https://github.com/locuslab/smoothinv
+
+**To fit or not to fit: Model-based Face Reconstruction and Occlusion Segmentation from Weak Supervision**
+
+- Paper: https://arxiv.org/abs/2106.09614
+- Code: https://github.com/unibas-gravis/Occlusion-Robust-MoFA
+
+**HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics**
+
+- Homepage: https://dolorousrtur.github.io/hood/
+- Paper: https://arxiv.org/abs/2212.07242
+- Code: https://github.com/dolorousrtur/hood
+- Demo: https://www.youtube.com/watch?v=cBttMDPrUYY
+
+**A Whac-A-Mole Dilemma: Shortcuts Come in Multiples Where Mitigating One Amplifies Others**
+
+- Paper: https://arxiv.org/abs/2212.04825
+- Code: https://github.com/facebookresearch/Whac-A-Mole.git
+
+**RelightableHands: Efficient Neural Relighting of Articulated Hand Models**
+
+- Homepage: https://sh8.io/#/relightable_hands
+- Paper: https://arxiv.org/abs/2302.04866
+- Code: None
+- Demo: https://sh8.io/static/media/teacher_video.923d87957fe0610730c2.mp4
