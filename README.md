@@ -332,3 +332,13 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2303.01052
 - Code: None
+
+**UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy**
+
+- Paper: https://arxiv.org/abs/2303.00938
+- Code: None
+
+**Disentangling Orthogonal Planes for Indoor Panoramic Room Layout Estimation with Cross-Scale Distortion Awareness**
+
+- Paper: https://arxiv.org/abs/2303.00971
+- Code: https://github.com/zhijieshen-bjtu/DOPNet
