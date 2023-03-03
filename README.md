@@ -243,6 +243,15 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper:  https://arxiv.org/abs/2303.00575
 - Code: None
 
+<a name="VQA"></a>
+
+# 视觉问答(Visual Question Answering)
+
+**MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering**
+
+- Paper:  https://arxiv.org/abs/2303.01239
+- Code: https://github.com/jingjing12110/MixPHM
+
 <a name="Others"></a>
 
 # 其他(Others)
@@ -313,3 +322,13 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2302.04866
 - Code: None
 - Demo: https://sh8.io/static/media/teacher_video.923d87957fe0610730c2.mp4
+
+**Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation**
+
+- Paper: https://arxiv.org/abs/2303.00914
+- Code: None
+
+**Demystifying Causal Features on Adversarial Examples and Causal Inoculation for Robust Network by Adversarial Instrumental Variable Regression**
+
+- Paper: https://arxiv.org/abs/2303.01052
+- Code: None
