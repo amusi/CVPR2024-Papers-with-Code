@@ -60,6 +60,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [医学图像(Medical Image)](#Medical-Image)
 - [视频生成(Video Generation)](#Video-Generation)
 - [知识蒸馏(Knowledge Distillation)](#KD)
+- [三维重建(3D Reconstruction)](#3D-Reconstruction)
 - [轨迹预测Trajectory Prediction)](#TP)
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
@@ -109,6 +110,12 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2301.08556
 - Code: None
 
+**Panoptic Lifting for 3D Scene Understanding with Neural Fields**
+
+- Homepage: https://nihalsid.github.io/panoptic-lifting/
+- Paper: https://arxiv.org/abs/2212.09802
+- Code: None
+
 <a name="DETR"></a>
 
 # DETR
@@ -153,12 +160,24 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2211.10656
 - Code: None
 
+**DiffRF: Rendering-guided 3D Radiance Field Diffusion**
+
+- Homepage: https://sirwyver.github.io/DiffRF/
+- Paper: https://arxiv.org/abs/2212.01206
+- Code: None
+
 # Vision Transformer
 
 **Integrally Pre-Trained Transformer Pyramid Networks** 
 
 - Paper: https://arxiv.org/abs/2211.12735
 - Code: https://github.com/sunsmarterjie/iTPN
+
+**Mask3D: Pre-training 2D Vision Transformers by Learning Masked 3D Priors**
+
+- Homepage: https://niessnerlab.org/projects/hou2023mask3d.html
+- Paper: https://arxiv.org/abs/2302.14746
+- Code: None
 
 <a name="Avatars"></a>
 
@@ -225,7 +244,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2206.04656
 - Code: None
 
-<a name="KD"></a>
+3D Reconstruction<a name="KD"></a>
 
 # 知识蒸馏(Knowledge Distillation)
 
@@ -234,9 +253,23 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2302.14290
 - Code: None
 
+<a name="3D-Reconstruction"></a>
+
+# 三维重建(3D Reconstruction)
+
+**OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields**
+
+- Paper: https://arxiv.org/abs/2211.12886
+- Code: None
+
+**SparsePose: Sparse-View Camera Pose Regression and Refinement**
+
+- Paper: https://arxiv.org/abs/2211.16991
+- Code: None
+
 <a name="TP"></a>
 
-# Trajectory Prediction
+# 轨迹预测(Trajectory Prediction)
 
 **IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction**
 
@@ -342,3 +375,10 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2303.00971
 - Code: https://github.com/zhijieshen-bjtu/DOPNet
+
+**Learning Neural Parametric Head Models**
+
+- Homepage: https://simongiebenhain.github.io/NPHM)
+- Paper: https://arxiv.org/abs/2212.02761
+- Code: None
+
