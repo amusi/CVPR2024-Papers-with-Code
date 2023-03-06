@@ -48,7 +48,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [视频理解(Video Understanding)](#VU)
 - [图像编辑(Image Editing)](#Image-Editing)
 - [Low-level Vision](#LLV)
-- [超分辨率(Super-Resolution)](#Super-Resolution)
+- [超分辨率(Super-Resolution)](#SR)
 - [去模糊(Deblur)](#Deblur)
 - [3D点云(3D Point Cloud)](#3D-Point-Cloud)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
@@ -166,6 +166,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2212.01206
 - Code: None
 
+**MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**
+
+- Paper: https://arxiv.org/abs/2212.09478
+- Code: https://github.com/researchmm/MM-Diffusion
+
 # Vision Transformer
 
 **Integrally Pre-Trained Transformer Pyramid Networks** 
@@ -178,6 +183,12 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Homepage: https://niessnerlab.org/projects/hou2023mask3d.html
 - Paper: https://arxiv.org/abs/2302.14746
 - Code: None
+
+**Learning Trajectory-Aware Transformer for Video Super-Resolution**
+
+- Paper: https://arxiv.org/abs/2204.04216
+
+- Code: https://github.com/researchmm/TTVSR
 
 <a name="Avatars"></a>
 
@@ -235,8 +246,6 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 <a name="VT"></a>
 
-[目标跟踪(Visual Tracking)](#VT)
-
 # 目标跟踪(Object Tracking)
 
 **Simple Cues Lead to a Strong Multi-Object Tracker**
@@ -244,7 +253,19 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2206.04656
 - Code: None
 
-3D Reconstruction<a name="KD"></a>
+<a name="SR"></a>
+
+# 超分辨率(Video Super-Resolution)
+
+## 视频超分辨率
+
+**Learning Trajectory-Aware Transformer for Video Super-Resolution**
+
+- Paper: https://arxiv.org/abs/2204.04216
+
+- Code: https://github.com/researchmm/TTVSR
+
+<a name="KD"></a>
 
 # 知识蒸馏(Knowledge Distillation)
 
@@ -382,3 +403,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2212.02761
 - Code: None
 
+**A Meta-Learning Approach to Predicting Performance and Data Requirements**
+
+- Paper: https://arxiv.org/abs/2303.01598
+- Code: None
