@@ -20,7 +20,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 ![](CVer学术交流群.png)
 
-## 【CVPR 2023 论文开源目录】
+# 【CVPR 2023 论文开源目录】
 
 - [Backbone](#Backbone)
 - [CLIP](#CLIP)
@@ -61,7 +61,9 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [视频生成(Video Generation)](#Video-Generation)
 - [知识蒸馏(Knowledge Distillation)](#KD)
 - [三维重建(3D Reconstruction)](#3D-Reconstruction)
-- [轨迹预测Trajectory Prediction)](#TP)
+- [轨迹预测(Trajectory Prediction)](#TP)
+- [视觉问答(Visual Question Answering)](#VQA)
+- [手语识别(Sign Language Recognition)](#SLR)
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -225,6 +227,16 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2303.00040
 - Code: None
 
+**CapDet: Unifying Dense Captioning and Open-World Detection Pretraining**
+
+- Paper: https://arxiv.org/abs/2303.02489
+- Code: None
+
+**FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks**
+
+- Paper: https://arxiv.org/abs/2303.02483
+- Code: None
+
 <a name="Object-Detection"></a>
 
 # 目标检测(Object Detection)
@@ -288,6 +300,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2211.16991
 - Code: None
 
+**NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction**
+
+- Paper: https://arxiv.org/abs/2303.02375
+- Code: None
+
 <a name="TP"></a>
 
 # 轨迹预测(Trajectory Prediction)
@@ -305,6 +322,25 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper:  https://arxiv.org/abs/2303.01239
 - Code: https://github.com/jingjing12110/MixPHM
+
+<a name="SLR"></a>
+
+# 手语识别(Sign Language Recognition)
+
+**Continuous Sign Language Recognition with Correlation Network**
+
+Paper: https://arxiv.org/abs/2303.03202
+
+Code: https://github.com/hulianyuyy/CorrNet.
+
+<a name="Datasets"></a>
+
+# 数据集(Datasets)
+
+**Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes**
+
+- Paper: https://arxiv.org/abs/2303.02760
+- Code: None
 
 <a name="Others"></a>
 
@@ -407,3 +443,30 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2303.01598
 - Code: None
+
+**MACARONS: Mapping And Coverage Anticipation with RGB Online Self-Supervision**
+
+- Homepage: https://imagine.enpc.fr/~guedona/MACARONS/
+- Paper: https://arxiv.org/abs/2303.03315
+- Code: None
+
+**Masked Images Are Counterfactual Samples for Robust Fine-tuning**
+
+- Paper: https://arxiv.org/abs/2303.03052
+- Code: None
+
+**HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling**
+
+- Paper: https://arxiv.org/abs/2303.02700
+- Code: None
+
+**Decompose, Adjust, Compose: Effective Normalization by Playing with Frequency for Domain Generalization**
+
+- Paper: https://arxiv.org/abs/2303.02328
+- Code: None
+
+**Gradient Norm Aware Minimization Seeks First-Order Flatness and Improves Generalization**
+
+- Paper: https://arxiv.org/abs/2303.03108
+- Code: None
+
