@@ -64,6 +64,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [轨迹预测(Trajectory Prediction)](#TP)
 - [视觉问答(Visual Question Answering)](#VQA)
 - [手语识别(Sign Language Recognition)](#SLR)
+- [视频预测(Video Prediction)](#Video-Prediction)
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -82,6 +83,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Homepage: https://snnet.github.io/
 - Paper: https://arxiv.org/abs/2302.06586
 - Code: https://github.com/ziplab/SN-Net
+
+**Run, Don't Walk: Chasing Higher FLOPS for Faster Neural Networks**
+
+- Paper: https://arxiv.org/abs/2303.03667
+- Code: https://github.com/JierunChen/FasterNet 
 
 <a name="MAE"></a>
 
@@ -237,6 +243,12 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2303.02483
 - Code: None
 
+**Meta-Explore: Exploratory Hierarchical Vision-and-Language Navigation Using Scene Object Spectrum Grounding**
+
+- Homepage: https://rllab-snu.github.io/projects/Meta-Explore/doc.html
+- Paper: https://arxiv.org/abs/2303.04077
+- Code: None
+
 <a name="Object-Detection"></a>
 
 # 目标检测(Object Detection)
@@ -331,7 +343,16 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 Paper: https://arxiv.org/abs/2303.03202
 
-Code: https://github.com/hulianyuyy/CorrNet.
+Code: https://github.com/hulianyuyy/CorrNet
+
+<a name="Video-Prediction"></a>
+
+# 视频预测(Video Prediction)
+
+**MOSO: Decomposing MOtion, Scene and Object for Video Prediction**
+
+- Paper: https://arxiv.org/abs/2303.03684
+- Code: https://github.com/anonymous202203/MOSO
 
 <a name="Datasets"></a>
 
