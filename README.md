@@ -44,6 +44,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
+- [参考图像分割(Referring Image Segmentation )](#RIS)
 - [图像抠图(Image Matting)](#Matting)
 - [视频理解(Video Understanding)](#VU)
 - [图像编辑(Image Editing)](#Image-Editing)
@@ -56,11 +57,12 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
-- [3D重建(3D Reconstruction)](#3D-R)
 - [医学图像(Medical Image)](#Medical-Image)
+- [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
 - [知识蒸馏(Knowledge Distillation)](#KD)
 - [三维重建(3D Reconstruction)](#3D-Reconstruction)
+- [深度估计(Depth Estimation)](#Depth-Estimation)
 - [轨迹预测(Trajectory Prediction)](#TP)
 - [视觉问答(Visual Question Answering)](#VQA)
 - [手语识别(Sign Language Recognition)](#SLR)
@@ -89,6 +91,13 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2303.03667
 - Code: https://github.com/JierunChen/FasterNet 
 
+<a name="CLIP"></a>
+
+**GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis**
+
+- Paper: https://arxiv.org/abs/2301.12959
+- Code: https://github.com/tobran/GALIP 
+
 <a name="MAE"></a>
 
 # MAE
@@ -97,6 +106,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2212.06785
 - Code: https://github.com/ZrrSkywalker/I2P-MAE
+
+**Generic-to-Specific Distillation of Masked Autoencoders**
+
+- Paper: https://arxiv.org/abs/2302.14771
+- Code: https://github.com/pengzhiliang/G2SD
 
 <a name="NeRF"></a>
 
@@ -179,6 +193,12 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2212.09478
 - Code: https://github.com/researchmm/MM-Diffusion
 
+**HouseDiffusion: Vector Floorplan Generation via a Diffusion Model with Discrete and Continuous Denoising**
+
+- Homepage: https://aminshabani.github.io/housediffusion/
+- Paper: https://arxiv.org/abs/2211.13287
+- Code: https://github.com/aminshabani/house_diffusion 
+
 # Vision Transformer
 
 **Integrally Pre-Trained Transformer Pyramid Networks** 
@@ -195,8 +215,13 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 **Learning Trajectory-Aware Transformer for Video Super-Resolution**
 
 - Paper: https://arxiv.org/abs/2204.04216
-
 - Code: https://github.com/researchmm/TTVSR
+
+**Vision Transformers are Parameter-Efficient Audio-Visual Learners**
+
+- Homepage: https://yanbo.ml/project_page/LAVISH/
+
+- Code: https://github.com/GenjiB/LAVISH 
 
 <a name="Avatars"></a>
 
@@ -249,6 +274,21 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2303.04077
 - Code: None
 
+**All in One: Exploring Unified Video-Language Pre-training**
+
+- Paper: https://arxiv.org/abs/2203.07303
+- Code: https://github.com/showlab/all-in-one
+
+**Position-guided Text Prompt for Vision Language Pre-training**
+
+- Paper: https://arxiv.org/abs/2212.09737
+- Code: https://github.com/sail-sg/ptp
+
+**EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding**
+
+- Paper: https://arxiv.org/abs/2209.14941
+- Code: https://github.com/yanmin-wu/EDA 
+
 <a name="Object-Detection"></a>
 
 # 目标检测(Object Detection)
@@ -277,6 +317,14 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2206.04656
 - Code: None
 
+<a name="RIS"></a>
+
+# 参考图像分割(Referring Image Segmentation )
+
+- Paper: https://arxiv.org/abs/2302.07387 
+
+- Code: None
+
 <a name="SR"></a>
 
 # 超分辨率(Video Super-Resolution)
@@ -289,6 +337,31 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Code: https://github.com/researchmm/TTVSR
 
+<a name="3DSSC"></a>
+
+# 3D语义场景补全(3D Semantic Scene Completion)
+
+- Paper: https://arxiv.org/abs/2302.12251
+- Code: https://github.com/NVlabs/VoxFormer 
+
+<a name="Image-Generation"></a>
+
+# 图像生成(Image Generation)
+
+**GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis**
+
+- Paper: https://arxiv.org/abs/2301.12959
+- Code: https://github.com/tobran/GALIP 
+
+<a name="Video-Generation"></a>
+
+# 视频生成(Video Generation)
+
+**MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**
+
+- Paper: https://arxiv.org/abs/2212.09478
+- Code: https://github.com/researchmm/MM-Diffusion
+
 <a name="KD"></a>
 
 # 知识蒸馏(Knowledge Distillation)
@@ -297,6 +370,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2302.14290
 - Code: None
+
+**Generic-to-Specific Distillation of Masked Autoencoders**
+
+- Paper: https://arxiv.org/abs/2302.14771
+- Code: https://github.com/pengzhiliang/G2SD
 
 <a name="3D-Reconstruction"></a>
 
@@ -316,6 +394,27 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2303.02375
 - Code: None
+
+**Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition**
+
+- Homepage: https://moygcc.github.io/vid2avatar/
+- Paper: https://arxiv.org/abs/2302.11566
+- Code: https://github.com/MoyGcc/vid2avatar
+- Demo: https://youtu.be/EGi47YeIeGQ
+
+**To fit or not to fit: Model-based Face Reconstruction and Occlusion Segmentation from Weak Supervision**
+
+- Paper: https://arxiv.org/abs/2106.09614
+- Code: https://github.com/unibas-gravis/Occlusion-Robust-MoFA
+
+<a name="Depth-Estimation"></a>
+
+# 深度估计(Depth Estimation)
+
+**Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation**
+
+- Paper: https://arxiv.org/abs/2211.13202
+- Code: https://github.com/noahzn/Lite-Mono 
 
 <a name="TP"></a>
 
@@ -491,3 +590,7 @@ Code: https://github.com/hulianyuyy/CorrNet
 - Paper: https://arxiv.org/abs/2303.03108
 - Code: None
 
+**Unlearnable Clusters: Towards Label-agnostic Unlearnable Examples**
+
+- Paper: https://arxiv.org/abs/2301.01217
+- Code: https://github.com/jiamingzhang94/Unlearnable-Clusters 
