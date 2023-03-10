@@ -44,6 +44,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
+- [医学图像分割(Medical Image Segmentation)](#MIS)
 - [参考图像分割(Referring Image Segmentation )](#RIS)
 - [图像抠图(Image Matting)](#Matting)
 - [视频理解(Video Understanding)](#VU)
@@ -61,6 +62,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
 - [知识蒸馏(Knowledge Distillation)](#KD)
+- [异常检测(Anomaly Detection)](#AD)
 - [三维重建(3D Reconstruction)](#3D-Reconstruction)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [轨迹预测(Trajectory Prediction)](#TP)
@@ -317,6 +319,15 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2206.04656
 - Code: None
 
+<a name="MIS"></a>
+
+# 医学图像分割(Medical Image Segmentation)
+
+**Label-Free Liver Tumor Segmentation**
+
+- Paper: https://arxiv.org/abs/2210.14845
+- Code: https://github.com/MrGiovanni/SyntheticTumors 
+
 <a name="RIS"></a>
 
 # 参考图像分割(Referring Image Segmentation )
@@ -353,6 +364,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2301.12959
 - Code: https://github.com/tobran/GALIP 
 
+**MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis**
+
+- Paper: https://arxiv.org/abs/2211.09117
+- Code: https://github.com/LTH14/mage
+
 <a name="Video-Generation"></a>
 
 # 视频生成(Video Generation)
@@ -375,6 +391,15 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2302.14771
 - Code: https://github.com/pengzhiliang/G2SD
+
+<a name="AD"></a>
+
+# 异常检测(Anomaly Detection)
+
+**Deep Feature In-painting for Unsupervised Anomaly Detection in X-ray Images**
+
+- Paper: https://arxiv.org/abs/2111.13495
+- Code: https://github.com/tiangexiang/SQUID 
 
 <a name="3D-Reconstruction"></a>
 
