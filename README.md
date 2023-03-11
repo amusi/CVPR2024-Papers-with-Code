@@ -222,8 +222,12 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 **Vision Transformers are Parameter-Efficient Audio-Visual Learners**
 
 - Homepage: https://yanbo.ml/project_page/LAVISH/
+- Code: https://github.com/GenjiB/LAVISH
 
-- Code: https://github.com/GenjiB/LAVISH 
+**Where We Are and What We're Looking At: Query Based Worldwide Image Geo-localization Using Hierarchies and Scenes**
+
+- Paper: https://arxiv.org/abs/2303.04249
+- Code: None
 
 <a name="Avatars"></a>
 
@@ -619,3 +623,18 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2301.01217
 - Code: https://github.com/jiamingzhang94/Unlearnable-Clusters 
+
+**Where We Are and What We're Looking At: Query Based Worldwide Image Geo-localization Using Hierarchies and Scenes**
+
+- Paper: https://arxiv.org/abs/2303.04249
+- Code: None
+
+**UniHCP: A Unified Model for Human-Centric Perceptions**
+
+- Paper: https://arxiv.org/abs/2303.02936
+- Code: https://github.com/OpenGVLab/UniHCP
+
+**CUDA: Convolution-based Unlearnable Datasets**
+
+- Paper: https://arxiv.org/abs/2303.04278
+- Code: https://github.com/vinusankars/Convolution-based-Unlearnability
