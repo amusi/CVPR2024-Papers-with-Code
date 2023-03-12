@@ -66,6 +66,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [三维重建(3D Reconstruction)](#3D-Reconstruction)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [轨迹预测(Trajectory Prediction)](#TP)
+- [图像描述(Image Captioning)](#Image-Captioning)
 - [视觉问答(Visual Question Answering)](#VQA)
 - [手语识别(Sign Language Recognition)](#SLR)
 - [视频预测(Video Prediction)](#Video-Prediction)
@@ -293,7 +294,17 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 **EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding**
 
 - Paper: https://arxiv.org/abs/2209.14941
-- Code: https://github.com/yanmin-wu/EDA 
+- Code: https://github.com/yanmin-wu/EDA
+
+**CapDet: Unifying Dense Captioning and Open-World Detection Pretraining**
+
+- Paper: https://arxiv.org/abs/2303.02489
+- Code: None
+
+**FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks**
+
+- Paper: https://arxiv.org/abs/2303.02483
+- Code: https://github.com/BrandonHanx/FAME-ViL
 
 <a name="Object-Detection"></a>
 
@@ -453,6 +464,15 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper:  https://arxiv.org/abs/2303.00575
 - Code: None
+
+<a name="Image-Captioning"></a>
+
+# 图像描述(Image Captioning)
+
+**ConZIC: Controllable Zero-shot Image Captioning by Sampling-Based Polishing**
+
+- Paper: https://arxiv.org/abs/2303.02437
+- Code: Node
 
 <a name="VQA"></a>
 
@@ -638,3 +658,13 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2303.04278
 - Code: https://github.com/vinusankars/Convolution-based-Unlearnability
+
+**Masked Images Are Counterfactual Samples for Robust Fine-tuning**
+
+- Paper: https://arxiv.org/abs/2303.03052
+- Code: None
+
+**AdaptiveMix: Robust Feature Representation via Shrinking Feature Space**
+
+- Paper: https://arxiv.org/abs/2303.01559
+- Code: https://github.com/WentianZhang-ML/AdaptiveMix 
