@@ -45,7 +45,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [医学图像分割(Medical Image Segmentation)](#MIS)
-- [参考图像分割(Referring Image Segmentation )](#RIS)
+- [参考图像分割(Referring Image Segmentation)](#RIS)
 - [图像抠图(Image Matting)](#Matting)
 - [视频理解(Video Understanding)](#VU)
 - [图像编辑(Image Editing)](#Image-Editing)
@@ -53,7 +53,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [超分辨率(Super-Resolution)](#SR)
 - [去模糊(Deblur)](#Deblur)
 - [3D点云(3D Point Cloud)](#3D-Point-Cloud)
-- [3D目标检测(3D Object Detection)](#3D-Object-Detection)
+- [3D目标检测(3D Object Detection)](#3DOD)
 - [3D语义分割(3D Semantic Segmentation)](#3DSS)
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
@@ -61,7 +61,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [医学图像(Medical Image)](#Medical-Image)
 - [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
+- [视频理解(Video Understanding)](#Video-Understanding)
+- [文本检测(Text Detection)](#Text-Detection)
 - [知识蒸馏(Knowledge Distillation)](#KD)
+- [模型剪枝(Model Pruning)](#Pruning)
+- [图像压缩(Image Compression)](#IC)
 - [异常检测(Anomaly Detection)](#AD)
 - [三维重建(3D Reconstruction)](#3D-Reconstruction)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
@@ -70,6 +74,8 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [视觉问答(Visual Question Answering)](#VQA)
 - [手语识别(Sign Language Recognition)](#SLR)
 - [视频预测(Video Prediction)](#Video-Prediction)
+- [新视点合成(Novel View Synthesis)](#NVS)
+
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -94,7 +100,19 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2303.03667
 - Code: https://github.com/JierunChen/FasterNet 
 
+**BiFormer: Vision Transformer with Bi-Level Routing Attention**
+
+- Paper: None
+- Code: https://github.com/rayleizhu/BiFormer 
+
+**DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network**
+
+- Paper: https://arxiv.org/abs/2303.02165
+- Code: https://github.com/alibaba/lightweight-neural-architecture-search 
+
 <a name="CLIP"></a>
+
+# CLIP
 
 **GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis**
 
@@ -159,6 +177,17 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2302.14772
 - Code: https://github.com/ShunLu91/PA-DA
 
+<a name="Avatars"></a>
+
+# Avatars
+
+**Structured 3D Features for Reconstructing Relightable and Animatable Avatars**
+
+- Homepage: https://enriccorona.github.io/s3f/
+- Paper: https://arxiv.org/abs/2212.06820
+- Code: None
+- Demo: https://www.youtube.com/watch?v=mcZGcQ6L-2s
+
 <a name="Diffusion"></a>
 
 # Diffusion Models(扩散模型)
@@ -202,6 +231,16 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2211.13287
 - Code: https://github.com/aminshabani/house_diffusion 
 
+**TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets**
+
+- Paper: https://arxiv.org/abs/2303.05762
+- Code: https://github.com/chenweixin107/TrojDiff
+
+**Back to the Source: Diffusion-Driven Adaptation to Test-Time Corruption**
+
+- Paper: https://arxiv.org/abs/2207.03442
+- Code: https://github.com/shiyegao/DDA 
+
 # Vision Transformer
 
 **Integrally Pre-Trained Transformer Pyramid Networks** 
@@ -230,16 +269,20 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2303.04249
 - Code: None
 
-<a name="Avatars"></a>
+**DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets**
 
-# Avatars
+- Paper: https://arxiv.org/abs/2301.06051
+- Code: https://github.com/Haiyang-W/DSVT
 
-**Structured 3D Features for Reconstructing Relightable and Animatable Avatars**
+**DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting**
 
-- Homepage: https://enriccorona.github.io/s3f/
-- Paper: https://arxiv.org/abs/2212.06820
-- Code: None
-- Demo: https://www.youtube.com/watch?v=mcZGcQ6L-2s
+- Paper: https://arxiv.org/abs/2211.10772
+- Code link: https://github.com/ViTAE-Transformer/DeepSolo
+
+**BiFormer: Vision Transformer with Bi-Level Routing Attention**
+
+- Paper: None
+- Code: https://github.com/rayleizhu/BiFormer 
 
 <a name="VL"></a>
 
@@ -347,13 +390,45 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 # 参考图像分割(Referring Image Segmentation )
 
+**PolyFormer: Referring Image Segmentation as Sequential Polygon Generation**
+
 - Paper: https://arxiv.org/abs/2302.07387 
 
 - Code: None
 
+<a name="3D-Point-Cloud"></a>
+
+# 3D点云(3D-Point-Cloud)
+
+**Physical-World Optical Adversarial Attacks on 3D Face Recognition**
+
+- Paper: https://arxiv.org/abs/2205.13412
+- Code: https://github.com/PolyLiYJ/SLAttack.git 
+
+<a name="3DOD"></a>
+
+# 3D目标检测(3D Object Detection)
+
+**DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets**
+
+- Paper: https://arxiv.org/abs/2301.06051
+- Code: https://github.com/Haiyang-W/DSVT 
+
+<a name="3DSSC"></a>
+
+# 3D语义场景补全(3D Semantic Scene Completion)
+
+- Paper: https://arxiv.org/abs/2302.12251
+- Code: https://github.com/NVlabs/VoxFormer 
+
 <a name="SR"></a>
 
 # 超分辨率(Video Super-Resolution)
+
+**Super-Resolution Neural Operator**
+
+- Paper: https://arxiv.org/abs/2303.02584
+- Code: https://github.com/2y7c3/Super-Resolution-Neural-Operator 
 
 ## 视频超分辨率
 
@@ -362,13 +437,6 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2204.04216
 
 - Code: https://github.com/researchmm/TTVSR
-
-<a name="3DSSC"></a>
-
-# 3D语义场景补全(3D Semantic Scene Completion)
-
-- Paper: https://arxiv.org/abs/2302.12251
-- Code: https://github.com/NVlabs/VoxFormer 
 
 <a name="Image-Generation"></a>
 
@@ -393,6 +461,24 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2212.09478
 - Code: https://github.com/researchmm/MM-Diffusion
 
+<a name="Video-Understanding"></a>
+
+# 视频理解(Video Understanding)
+
+**Learning Transferable Spatiotemporal Representations from Natural Script Knowledge**
+
+- Paper: https://arxiv.org/abs/2209.15280
+- Code: https://github.com/TencentARC/TVTS 
+
+<a name="Text-Detection"></a>
+
+# 文本检测(Text Detection)
+
+**DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting**
+
+- Paper: https://arxiv.org/abs/2211.10772
+- Code link: https://github.com/ViTAE-Transformer/DeepSolo
+
 <a name="KD"></a>
 
 # 知识蒸馏(Knowledge Distillation)
@@ -406,6 +492,24 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2302.14771
 - Code: https://github.com/pengzhiliang/G2SD
+
+<a name="Pruning"></a>
+
+# 模型剪枝(Model Pruning)
+
+**DepGraph: Towards Any Structural Pruning**
+
+- Paper: https://arxiv.org/abs/2301.12900
+- Code: https://github.com/VainF/Torch-Pruning 
+
+<a name="IC"></a>
+
+# 图像压缩(Image Compression)
+
+**Context-Based Trit-Plane Coding for Progressive Image Compression**
+
+- Paper: https://arxiv.org/abs/2303.05715
+- Code: https://github.com/seungminjeon-github/CTC
 
 <a name="AD"></a>
 
@@ -446,6 +550,17 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2106.09614
 - Code: https://github.com/unibas-gravis/Occlusion-Robust-MoFA
+
+**Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction**
+
+- Paper: https://arxiv.org/abs/2303.05937
+- Code: None
+
+**3D Cinemagraphy from a Single Image**
+
+- Homepage: https://xingyi-li.github.io/3d-cinemagraphy/
+- Paper: https://arxiv.org/abs/2303.05724
+- Code: https://github.com/xingyi-li/3d-cinemagraphy
 
 <a name="Depth-Estimation"></a>
 
@@ -501,6 +616,16 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2303.03684
 - Code: https://github.com/anonymous202203/MOSO
+
+<a name="NVS"></a>
+
+# 新视点合成(Novel View Synthesis)
+
+ **3D Video Loops from Asynchronous Input**
+
+- Homepage: https://limacv.github.io/VideoLoop3D_web/
+- Paper: https://arxiv.org/abs/2303.05312
+- Code: https://github.com/limacv/VideoLoop3D 
 
 <a name="Datasets"></a>
 
@@ -668,3 +793,18 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2303.01559
 - Code: https://github.com/WentianZhang-ML/AdaptiveMix 
+
+**Physical-World Optical Adversarial Attacks on 3D Face Recognition**
+
+- Paper: https://arxiv.org/abs/2205.13412
+- Code: https://github.com/PolyLiYJ/SLAttack.git
+
+**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**
+
+- Paper: https://arxiv.org/abs/2301.06281
+- Code: https://carlyx.github.io/DPE/ 
+
+**SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation**
+
+- Paper: https://arxiv.org/abs/2211.12194
+- Code: https://github.com/Winfredy/SadTalker 
