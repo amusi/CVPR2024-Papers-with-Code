@@ -117,7 +117,12 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 **GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis**
 
 - Paper: https://arxiv.org/abs/2301.12959
-- Code: https://github.com/tobran/GALIP 
+- Code: https://github.com/tobran/GALIP
+
+**DeltaEdit: Exploring Text-free Training for Text-driven Image Manipulation**
+
+- Paper: https://arxiv.org/abs/2303.06285
+- Code: https://github.com/Yueming6568/DeltaEdit 
 
 <a name="MAE"></a>
 
@@ -132,6 +137,15 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2302.14771
 - Code: https://github.com/pengzhiliang/G2SD
+
+<a name="GAN"></a>
+
+# GAN
+
+**DeltaEdit: Exploring Text-free Training for Text-driven Image Manipulation**
+
+- Paper: https://arxiv.org/abs/2303.06285
+- Code: https://github.com/Yueming6568/DeltaEdit 
 
 <a name="NeRF"></a>
 
@@ -368,6 +382,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2212.07593
 - Code: https://github.com/Fangyi-Chen/SQR
 
+**Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection**
+
+- Paper: https://arxiv.org/abs/2303.05892
+- Code: https://github.com/LutingWang/OADP
+
 <a name="VT"></a>
 
 # 目标跟踪(Object Tracking)
@@ -376,6 +395,15 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2206.04656
 - Code: None
+
+<a name="Semantic-Segmentation"></a>
+
+# 语义分割(Semantic Segmentation)
+
+**Efficient Semantic Segmentation by Altering Resolutions for Compressed Videos**
+
+- Paper: https://arxiv.org/abs/2303.07224
+- Code: https://github.com/THU-LYJ-Lab/AR-Seg
 
 <a name="MIS"></a>
 
@@ -561,6 +589,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Homepage: https://xingyi-li.github.io/3d-cinemagraphy/
 - Paper: https://arxiv.org/abs/2303.05724
 - Code: https://github.com/xingyi-li/3d-cinemagraphy
+
+**Revisiting Rotation Averaging: Uncertainties and Robust Losses**
+
+- Paper: https://arxiv.org/abs/2303.05195
+- Code https://github.com/zhangganlin/GlobalSfMpy 
 
 <a name="Depth-Estimation"></a>
 
