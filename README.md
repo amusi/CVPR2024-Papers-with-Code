@@ -34,6 +34,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [DETR](#DETR)
 - [Diffusion Models(扩散模型)](#Diffusion)
 - [Avatars](#Avatars)
+- [ReID(重识别)](#ReID)
 - [长尾分布(Long-Tail)](#Long-Tail)
 - [Vision Transformer](#Vision-Transformer)
 - [视觉和语言(Vision-Language)](#VL)
@@ -75,6 +76,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [手语识别(Sign Language Recognition)](#SLR)
 - [视频预测(Video Prediction)](#Video-Prediction)
 - [新视点合成(Novel View Synthesis)](#NVS)
+- [Zero-Shot Learning(零样本学习)](#ZSL)
 
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
@@ -109,6 +111,16 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2303.02165
 - Code: https://github.com/alibaba/lightweight-neural-architecture-search 
+
+**Vision Transformer with Super Token Sampling**
+
+- Paper: https://arxiv.org/abs/2211.11167
+- Code: https://github.com/hhb072/SViT
+
+Hard Patches Mining for Masked Image Modeling
+
+- Paper: None
+- Code: None
 
 <a name="CLIP"></a>
 
@@ -201,6 +213,15 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2212.06820
 - Code: None
 - Demo: https://www.youtube.com/watch?v=mcZGcQ6L-2s
+
+<a name="ReID"></a>
+
+# ReID(重识别)
+
+Clothing-Change Feature Augmentation for Person Re-Identification
+
+- Paper: None
+- Code: None
 
 <a name="Diffusion"></a>
 
@@ -296,7 +317,22 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 **BiFormer: Vision Transformer with Bi-Level Routing Attention**
 
 - Paper: None
-- Code: https://github.com/rayleizhu/BiFormer 
+- Code: https://github.com/rayleizhu/BiFormer
+
+**Vision Transformer with Super Token Sampling**
+
+- Paper: https://arxiv.org/abs/2211.11167
+- Code: https://github.com/hhb072/SViT
+
+**BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision**
+
+- Paper: https://arxiv.org/abs/2211.10439
+- Code: None
+
+BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye View Semantic Segmentation
+
+- Paper: None
+- Code: None
 
 <a name="VL"></a>
 
@@ -441,6 +477,16 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2301.06051
 - Code: https://github.com/Haiyang-W/DSVT 
+
+**FrustumFormer: Adaptive Instance-aware Resampling for Multi-view 3D Detection**
+
+- Paper:  https://arxiv.org/abs/2301.04467
+- Code: None
+
+**3D Video Object Detection with Learnable Object-Centric Global Optimization**
+
+- Paper: None
+- Code: None
 
 <a name="3DSSC"></a>
 
@@ -660,6 +706,20 @@ Code: https://github.com/hulianyuyy/CorrNet
 - Paper: https://arxiv.org/abs/2303.05312
 - Code: https://github.com/limacv/VideoLoop3D 
 
+<a name="ZSL"></a>
+
+# Zero-Shot Learning(零样本学习)
+
+**Bi-directional Distribution Alignment for Transductive Zero-Shot Learning**
+
+- Paper: https://arxiv.org/abs/2303.08698
+- Code: https://github.com/Zhicaiwww/Bi-VAEGAN
+
+**Semantic Prompt for Few-Shot Learning**
+
+- Paper: None
+- Code: None
+
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
@@ -840,4 +900,30 @@ Code: https://github.com/hulianyuyy/CorrNet
 **SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation**
 
 - Paper: https://arxiv.org/abs/2211.12194
-- Code: https://github.com/Winfredy/SadTalker 
+- Code: https://github.com/Winfredy/SadTalker
+
+**Intrinsic Physical Concepts Discovery with Object-Centric Predictive Models**
+
+- Paper: None
+- Code: None
+
+**Sharpness-Aware Gradient Matching for Domain Generalization**
+
+- Paper: None
+- Code: https://github.com/Wang-pengfei/SAGM
+
+**Mind the Label-shift for Augmentation-based Graph Out-of-distribution Generalization**
+
+- Paper: None
+- Code: None
+
+**Blind Video Deflickering by Neural Filtering with a Flawed Atlas**
+
+- Homepage:  https://chenyanglei.github.io/deflicker 
+- Paper: None
+- Code: None
+
+**RiDDLE: Reversible and Diversified De-identification with Latent Encryptor**
+
+- Paper: None
+- Code:  https://github.com/ldz666666/RiDDLE 
