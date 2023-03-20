@@ -48,7 +48,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [医学图像分割(Medical Image Segmentation)](#MIS)
 - [参考图像分割(Referring Image Segmentation)](#RIS)
 - [图像抠图(Image Matting)](#Matting)
-- [视频理解(Video Understanding)](#VU)
+
 - [图像编辑(Image Editing)](#Image-Editing)
 - [Low-level Vision](#LLV)
 - [超分辨率(Super-Resolution)](#SR)
@@ -63,6 +63,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
 - [视频理解(Video Understanding)](#Video-Understanding)
+- [行为检测(Action Detection)](#Action-Detection)
 - [文本检测(Text Detection)](#Text-Detection)
 - [知识蒸馏(Knowledge Distillation)](#KD)
 - [模型剪枝(Model Pruning)](#Pruning)
@@ -77,6 +78,8 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [视频预测(Video Prediction)](#Video-Prediction)
 - [新视点合成(Novel View Synthesis)](#NVS)
 - [Zero-Shot Learning(零样本学习)](#ZSL)
+- [立体匹配(Stereo Matching)](#Stereo-Matching)
+- [场景图生成(Scene Graph Generation)](#SGG)
 
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
@@ -185,6 +188,12 @@ Hard Patches Mining for Masked Image Modeling
 - Paper: https://arxiv.org/abs/2212.09802
 - Code: None
 
+**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**
+
+- Homepage: https://redrock303.github.io/nerflix/
+- Paper: https://arxiv.org/abs/2303.06919 
+- Code: None
+
 <a name="DETR"></a>
 
 # DETR
@@ -218,10 +227,15 @@ Hard Patches Mining for Masked Image Modeling
 
 # ReID(重识别)
 
-Clothing-Change Feature Augmentation for Person Re-Identification
+**Clothing-Change Feature Augmentation for Person Re-Identification**
 
 - Paper: None
 - Code: None
+
+**MSINet: Twins Contrastive Search of Multi-Scale Interaction for Object ReID**
+
+- Paper: https://arxiv.org/abs/2303.07065
+- Code: https://github.com/vimar-gu/MSINet
 
 <a name="Diffusion"></a>
 
@@ -276,6 +290,11 @@ Clothing-Change Feature Augmentation for Person Re-Identification
 - Paper: https://arxiv.org/abs/2207.03442
 - Code: https://github.com/shiyegao/DDA 
 
+**DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration**
+
+- Paper: https://arxiv.org/abs/2303.06885
+- Code: None
+
 # Vision Transformer
 
 **Integrally Pre-Trained Transformer Pyramid Networks** 
@@ -316,7 +335,7 @@ Clothing-Change Feature Augmentation for Person Re-Identification
 
 **BiFormer: Vision Transformer with Bi-Level Routing Attention**
 
-- Paper: None
+- Paper: https://arxiv.org/abs/2303.08810
 - Code: https://github.com/rayleizhu/BiFormer
 
 **Vision Transformer with Super Token Sampling**
@@ -398,6 +417,12 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 
 - Paper: https://arxiv.org/abs/2303.02483
 - Code: https://github.com/BrandonHanx/FAME-ViL
+
+**Align and Attend: Multimodal Summarization with Dual Contrastive Losses**
+
+- Homepage: https://boheumd.github.io/A2Summ/
+- Paper: https://arxiv.org/abs/2303.07284
+- Code: https://github.com/boheumd/A2Summ
 
 <a name="Object-Detection"></a>
 
@@ -495,6 +520,15 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 - Paper: https://arxiv.org/abs/2302.12251
 - Code: https://github.com/NVlabs/VoxFormer 
 
+<a name="LLV"></a>
+
+# Low-level Vision
+
+**Causal-IR: Learning Distortion Invariant Representation for Image Restoration from A Causality Perspective**
+
+- Paper: https://arxiv.org/abs/2303.06859
+- Code: https://github.com/lixinustc/Casual-IR-DIL 
+
 <a name="SR"></a>
 
 # 超分辨率(Video Super-Resolution)
@@ -542,7 +576,16 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 **Learning Transferable Spatiotemporal Representations from Natural Script Knowledge**
 
 - Paper: https://arxiv.org/abs/2209.15280
-- Code: https://github.com/TencentARC/TVTS 
+- Code: https://github.com/TencentARC/TVTS
+
+<a name="Action-Detection"></a>
+
+# 行为检测(Action Detection)
+
+**TriDet: Temporal Action Detection with Relative Boundary Modeling**
+
+- Paper: https://arxiv.org/abs/2303.07347
+- Code: https://github.com/dingfengshi/TriDet 
 
 <a name="Text-Detection"></a>
 
@@ -641,6 +684,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 - Paper: https://arxiv.org/abs/2303.05195
 - Code https://github.com/zhangganlin/GlobalSfMpy 
 
+**FFHQ-UV: Normalized Facial UV-Texture Dataset for 3D Face Reconstruction**
+
+- Paper: https://arxiv.org/abs/2211.13874
+- Code: https://github.com/csbhr/FFHQ-UV 
+
 <a name="Depth-Estimation"></a>
 
 # 深度估计(Depth Estimation)
@@ -720,6 +768,24 @@ Code: https://github.com/hulianyuyy/CorrNet
 - Paper: None
 - Code: None
 
+<a name="Stereo-Matching"></a>
+
+# 立体匹配(Stereo Matching)
+
+**Iterative Geometry Encoding Volume for Stereo Matching**
+
+- Paper: https://arxiv.org/abs/2303.06615
+- Code: https://github.com/gangweiX/IGEV
+
+<a name="SGG"></a>
+
+# 场景图生成(Scene Graph Generation)
+
+**Prototype-based Embedding Network for Scene Graph Generation**
+
+- Paper: https://arxiv.org/abs/2303.07096
+- Code: None
+
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
@@ -728,6 +794,12 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2303.02760
 - Code: None
+
+**Align and Attend: Multimodal Summarization with Dual Contrastive Losses**
+
+- Homepage: https://boheumd.github.io/A2Summ/
+- Paper: https://arxiv.org/abs/2303.07284
+- Code: https://github.com/boheumd/A2Summ
 
 <a name="Others"></a>
 
@@ -927,3 +999,28 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: None
 - Code:  https://github.com/ldz666666/RiDDLE 
+
+**PoseExaminer: Automated Testing of Out-of-Distribution Robustness in Human Pose and Shape Estimation**
+
+- Paper: https://arxiv.org/abs/2303.07337
+- Code: None
+
+**Upcycling Models under Domain and Category Shift**
+
+- Paper: https://arxiv.org/abs/2303.07110
+- Code: https://github.com/ispc-lab/GLC
+
+**Modality-Agnostic Debiasing for Single Domain Generalization**
+
+- Paper: https://arxiv.org/abs/2303.07123
+- Code: None
+
+**Progressive Open Space Expansion for Open-Set Model Attribution**
+
+- Paper: https://arxiv.org/abs/2303.06877
+- Code: None
+
+**Dynamic Neural Network for Multi-Task Learning Searching across Diverse Network Topologies**
+
+- Paper: https://arxiv.org/abs/2303.06856
+- Code: None
