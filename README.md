@@ -46,9 +46,9 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [医学图像分割(Medical Image Segmentation)](#MIS)
+- [视频目标分割(Video Object Segmentation)](#VOS)
 - [参考图像分割(Referring Image Segmentation)](#RIS)
 - [图像抠图(Image Matting)](#Matting)
-
 - [图像编辑(Image Editing)](#Image-Editing)
 - [Low-level Vision](#LLV)
 - [超分辨率(Super-Resolution)](#SR)
@@ -80,7 +80,6 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [Zero-Shot Learning(零样本学习)](#ZSL)
 - [立体匹配(Stereo Matching)](#Stereo-Matching)
 - [场景图生成(Scene Graph Generation)](#SGG)
-
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -475,6 +474,15 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 - Paper: https://arxiv.org/abs/2210.14845
 - Code: https://github.com/MrGiovanni/SyntheticTumors 
 
+<a name="VOS"></a>
+
+# 视频目标分割（Video Object Segmentation）
+
+**Two-shot Video Object Segmentation**
+
+- Paper: https://arxiv.org/abs/2303.12078
+- Code: https://github.com/yk-pku/Two-shot-Video-Object-Segmentation
+
 <a name="RIS"></a>
 
 # 参考图像分割(Referring Image Segmentation )
@@ -512,6 +520,15 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 
 - Paper: None
 - Code: None
+
+<a name="3DOD"></a>
+
+# 3D语义分割(3D Semantic Segmentation)
+
+**Less is More: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2303.11203
+- Code: https://github.com/l1997i/lim3d 
 
 <a name="3DSSC"></a>
 
@@ -1023,4 +1040,24 @@ Code: https://github.com/hulianyuyy/CorrNet
 **Dynamic Neural Network for Multi-Task Learning Searching across Diverse Network Topologies**
 
 - Paper: https://arxiv.org/abs/2303.06856
+- Code: None
+
+**GFPose: Learning 3D Human Pose Prior with Gradient Fields**
+
+- Paper: https://arxiv.org/abs/2212.08641
+- Code: https://github.com/Embracing/GFPose 
+
+**PRISE: Demystifying Deep Lucas-Kanade with Strongly Star-Convex Constraints for Multimodel Image Alignment**
+
+- Paper: https://arxiv.org/abs/2303.11526
+- Code: https://github.com/Zhang-VISLab
+
+**Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings**
+
+- Paper: https://arxiv.org/abs/2303.11502
+- Code: None
+
+**Boundary Unlearning**
+
+- Paper: https://arxiv.org/abs/2303.11570
 - Code: None
