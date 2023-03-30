@@ -427,6 +427,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 
 # 目标检测(Object Detection)
 
+**Consistent-Teacher: Towards Reducing Inconsistent Pseudo-targets in Semi-supervised Object Detection** (Hightlight)
+
+- Paper: https://arxiv.org/abs/2209.01589
+- Code: https://github.com/Adamdad/ConsistentTeacher
+
 **YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors**
 
 - Paper: https://arxiv.org/abs/2207.02696
