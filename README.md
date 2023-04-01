@@ -80,6 +80,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [Zero-Shot Learning(零样本学习)](#ZSL)
 - [立体匹配(Stereo Matching)](#Stereo-Matching)
 - [场景图生成(Scene Graph Generation)](#SGG)
+- [隐式神经表示(Implicit Neural Representations)](#INR)
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -803,6 +804,15 @@ Code: https://github.com/hulianyuyy/CorrNet
 - Paper: https://arxiv.org/abs/2303.07096
 - Code: None
 
+<a name="INR"></a>
+
+# 隐式神经表示(Implicit Neural Representations)
+
+**Polynomial Implicit Neural Representations For Large Diverse Datasets**
+
+- Paper: https://arxiv.org/abs/2303.11424
+- Code: https://github.com/Rajhans0/Poly_INR
+
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
@@ -817,6 +827,16 @@ Code: https://github.com/hulianyuyy/CorrNet
 - Homepage: https://boheumd.github.io/A2Summ/
 - Paper: https://arxiv.org/abs/2303.07284
 - Code: https://github.com/boheumd/A2Summ
+
+**GeoNet: Benchmarking Unsupervised Adaptation across Geographies**
+
+- Homepage: https://tarun005.github.io/GeoNet/
+- Paper: https://arxiv.org/abs/2303.15443
+
+**CelebV-Text: A Large-Scale Facial Text-Video Dataset**
+
+- Homepage: https://celebv-text.github.io/
+- Paper: https://arxiv.org/abs/2303.14717
 
 <a name="Others"></a>
 
@@ -1061,3 +1081,23 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2303.11570
 - Code: None
+
+**ImageNet-E: Benchmarking Neural Network Robustness via Attribute Editing**
+
+- Paper: https://arxiv.org/abs/2303.17096
+- Code: https://github.com/alibaba/easyrobust
+
+**Zero-shot Model Diagnosis**
+
+- Paper: https://arxiv.org/abs/2303.15441
+- Code: None
+
+**GeoNet: Benchmarking Unsupervised Adaptation across Geographies**
+
+- Homepage: https://tarun005.github.io/GeoNet/
+- Paper: https://arxiv.org/abs/2303.15443
+
+**Quantum Multi-Model Fitting**
+
+- Paper: https://arxiv.org/abs/2303.15444
+- Code: https://github.com/FarinaMatteo/qmmf
