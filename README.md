@@ -424,6 +424,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 - Paper: https://arxiv.org/abs/2303.07284
 - Code: https://github.com/boheumd/A2Summ
 
+**Multi-Modal Representation Learning with Text-Driven Soft Masks**
+
+- Paper: https://arxiv.org/abs/2304.00719
+- Code: None
+
 <a name="Object-Detection"></a>
 
 # 目标检测(Object Detection)
@@ -547,6 +552,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 - Paper: https://arxiv.org/abs/2303.06859
 - Code: https://github.com/lixinustc/Casual-IR-DIL 
 
+**Burstormer: Burst Image Restoration and Enhancement Transformer**
+
+- Paper: https://arxiv.org/abs/2304.01194
+- Code: http://github.com/akshaydudhane16/Burstormer
+
 <a name="SR"></a>
 
 # 超分辨率(Video Super-Resolution)
@@ -595,6 +605,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 
 - Paper: https://arxiv.org/abs/2209.15280
 - Code: https://github.com/TencentARC/TVTS
+
+**Frame Flexible Network**
+
+- Paper: https://arxiv.org/abs/2303.14817
+- Code: https://github.com/BeSpontaneous/FFN
 
 <a name="Action-Detection"></a>
 
@@ -1101,3 +1116,8 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2303.15444
 - Code: https://github.com/FarinaMatteo/qmmf
+
+**DivClust: Controlling Diversity in Deep Clustering**
+
+- Paper: https://arxiv.org/abs/2304.01042
+- Code: None
