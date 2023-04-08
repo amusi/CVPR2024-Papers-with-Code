@@ -81,6 +81,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [立体匹配(Stereo Matching)](#Stereo-Matching)
 - [场景图生成(Scene Graph Generation)](#SGG)
 - [隐式神经表示(Implicit Neural Representations)](#INR)
+- [图像质量评价(Image Quality Assessment)](#IQA)
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -295,6 +296,12 @@ Hard Patches Mining for Masked Image Modeling
 - Paper: https://arxiv.org/abs/2303.06885
 - Code: None
 
+**Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion**
+
+- Homepage: https://nv-tlabs.github.io/trace-pace/
+- Paper: https://arxiv.org/abs/2304.01893
+- Code: None
+
 # Vision Transformer
 
 **Integrally Pre-Trained Transformer Pyramid Networks** 
@@ -427,6 +434,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 **Multi-Modal Representation Learning with Text-Driven Soft Masks**
 
 - Paper: https://arxiv.org/abs/2304.00719
+- Code: None
+
+**Learning to Name Classes for Vision and Language Models**
+
+- Paper: https://arxiv.org/abs/2304.01830
 - Code: None
 
 <a name="Object-Detection"></a>
@@ -587,6 +599,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 
 - Paper: https://arxiv.org/abs/2211.09117
 - Code: https://github.com/LTH14/mage
+
+**Toward Verifiable and Reproducible Human Evaluation for Text-to-Image Generation**
+
+- Paper: https://arxiv.org/abs/2304.01816
+- Code: None
 
 <a name="Video-Generation"></a>
 
@@ -749,6 +766,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 - Paper: https://arxiv.org/abs/2303.02437
 - Code: Node
 
+**Cross-Domain Image Captioning with Discriminative Finetuning**
+
+- Paper: https://arxiv.org/abs/2304.01662
+- Code: None
+
 <a name="VQA"></a>
 
 # 视觉问答(Visual Question Answering)
@@ -810,6 +832,11 @@ Code: https://github.com/hulianyuyy/CorrNet
 - Paper: https://arxiv.org/abs/2303.06615
 - Code: https://github.com/gangweiX/IGEV
 
+**Learning the Distribution of Errors in Stereo Matching for Joint Disparity and Uncertainty Estimation**
+
+- Paper: https://arxiv.org/abs/2304.00152
+- Code: None
+
 <a name="SGG"></a>
 
 # 场景图生成(Scene Graph Generation)
@@ -827,6 +854,15 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2303.11424
 - Code: https://github.com/Rajhans0/Poly_INR
+
+<a name="IQA"></a>
+
+# 图像质量评价(Image Quality Assessment)
+
+**Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild**
+
+- Paper: https://arxiv.org/abs/2304.00451
+- Code: None
 
 <a name="Datasets"></a>
 
@@ -1120,4 +1156,37 @@ Code: https://github.com/hulianyuyy/CorrNet
 **DivClust: Controlling Diversity in Deep Clustering**
 
 - Paper: https://arxiv.org/abs/2304.01042
+- Code: None
+
+**Neural Volumetric Memory for Visual Locomotion Control**
+
+- Homepage: https://rchalyang.github.io/NVM
+- Paper: https://arxiv.org/abs/2304.01201
+- Code: https://rchalyang.github.io/NVM
+
+**MonoHuman: Animatable Human Neural Field from Monocular Video**
+
+- Homepage: https://yzmblog.github.io/projects/MonoHuman/
+- Paper: https://arxiv.org/abs/2304.02001
+- Code: https://github.com/Yzmblog/MonoHuman
+
+**Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion**
+
+- Homepage: https://nv-tlabs.github.io/trace-pace/
+- Paper: https://arxiv.org/abs/2304.01893
+- Code: None
+
+**Bridging the Gap between Model Explanations in Partially Annotated Multi-label Classification**
+
+- Paper: https://arxiv.org/abs/2304.01804
+- Code: None
+
+**HyperCUT: Video Sequence from a Single Blurry Image using Unsupervised Ordering**
+
+- Paper: https://arxiv.org/abs/2304.01686
+- Code: None
+
+**On the Stability-Plasticity Dilemma of Class-Incremental Learning**
+
+- Paper: https://arxiv.org/abs/2304.01663
 - Code: None
