@@ -59,6 +59,8 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
+- [3D配准(3D Registration)](#3D-Registration)
+
 - [医学图像(Medical Image)](#Medical-Image)
 - [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
@@ -224,6 +226,11 @@ Hard Patches Mining for Masked Image Modeling
 - Code: None
 - Demo: https://www.youtube.com/watch?v=mcZGcQ6L-2s
 
+**Learning Personalized High Quality Volumetric Head Avatars from Monocular RGB Videos**
+
+- Homepage: https://augmentedperception.github.io/monoavatar/
+- Paper: https://arxiv.org/abs/2304.01436
+
 <a name="ReID"></a>
 
 # ReID(重识别)
@@ -301,6 +308,22 @@ Hard Patches Mining for Masked Image Modeling
 - Homepage: https://nv-tlabs.github.io/trace-pace/
 - Paper: https://arxiv.org/abs/2304.01893
 - Code: None
+
+**Generative Diffusion Prior for Unified Image Restoration and Enhancement**
+
+- Paper: https://arxiv.org/abs/2304.01247
+- Code: None
+
+<a name="Long-Tail"></a>
+
+# 长尾分布(Long-Tail)
+
+**Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation**
+
+- Paper: https://arxiv.org/abs/2304.01279
+- Code: None
+
+<a name="Vision-Transformer"></a>
 
 # Vision Transformer
 
@@ -518,7 +541,12 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 **Physical-World Optical Adversarial Attacks on 3D Face Recognition**
 
 - Paper: https://arxiv.org/abs/2205.13412
-- Code: https://github.com/PolyLiYJ/SLAttack.git 
+- Code: https://github.com/PolyLiYJ/SLAttack.git
+
+**IterativePFN: True Iterative Point Cloud Filtering**
+
+- Paper: https://arxiv.org/abs/2304.01529
+- Code: https://github.com/ddsediri/IterativePFN
 
 <a name="3DOD"></a>
 
@@ -554,6 +582,15 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 
 - Paper: https://arxiv.org/abs/2302.12251
 - Code: https://github.com/NVlabs/VoxFormer 
+
+<a name="3D-Registration"></a>
+
+# 3D配准(3D Registration)
+
+**Robust Outlier Rejection for 3D Registration with Variational Bayes**
+
+- Paper: https://arxiv.org/abs/2304.01514
+- Code: https://github.com/Jiang-HB/VBReg
 
 <a name="LLV"></a>
 
@@ -1190,3 +1227,13 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2304.01663
 - Code: None
+
+**Defending Against Patch-based Backdoor Attacks on Self-Supervised Learning**
+
+- Paper: https://arxiv.org/abs/2304.01482
+- Code: None
+
+**VNE: An Effective Method for Improving Deep Representation by Manipulating Eigenvalue Distribution**
+
+- Paper: https://arxiv.org/abs/2304.01434
+- Code: https://github.com/jaeill/CVPR23-VNE
