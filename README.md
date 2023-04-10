@@ -123,10 +123,15 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2211.11167
 - Code: https://github.com/hhb072/SViT
 
-Hard Patches Mining for Masked Image Modeling
+**Hard Patches Mining for Masked Image Modeling**
 
 - Paper: None
 - Code: None
+
+**SMPConv: Self-moving Point Representations for Continuous Convolution**
+
+- Paper: https://arxiv.org/abs/2304.02330
+- Code: https://github.com/sangnekim/SMPConv
 
 <a name="CLIP"></a>
 
@@ -196,6 +201,12 @@ Hard Patches Mining for Masked Image Modeling
 - Homepage: https://redrock303.github.io/nerflix/
 - Paper: https://arxiv.org/abs/2303.06919 
 - Code: None
+
+**HNeRV: A Hybrid Neural Representation for Videos**
+
+- Homepage: https://haochen-rye.github.io/HNeRV
+- Paper: https://arxiv.org/abs/2304.02633
+- Code: https://github.com/haochen-rye/HNeRV
 
 <a name="DETR"></a>
 
@@ -567,6 +578,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 - Paper: None
 - Code: None
 
+**Hierarchical Supervision and Shuffle Data Augmentation for 3D Semi-Supervised Object Detection**
+
+- Paper: https://arxiv.org/abs/2304.01464
+- Code: https://github.com/azhuantou/HSSDA
+
 <a name="3DOD"></a>
 
 # 3D语义分割(3D Semantic Segmentation)
@@ -640,6 +656,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 **Toward Verifiable and Reproducible Human Evaluation for Text-to-Image Generation**
 
 - Paper: https://arxiv.org/abs/2304.01816
+- Code: None
+
+**Few-shot Semantic Image Synthesis with Class Affinity Transfer**
+
+- Paper: https://arxiv.org/abs/2304.02321
 - Code: None
 
 <a name="Video-Generation"></a>
@@ -806,6 +827,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 **Cross-Domain Image Captioning with Discriminative Finetuning**
 
 - Paper: https://arxiv.org/abs/2304.01662
+- Code: None
+
+**Model-Agnostic Gender Debiased Image Captioning**
+
+- Paper: https://arxiv.org/abs/2304.03693
 - Code: None
 
 <a name="VQA"></a>
@@ -1237,3 +1263,14 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2304.01434
 - Code: https://github.com/jaeill/CVPR23-VNE
+
+**Detecting and Grounding Multi-Modal Media Manipulation**
+
+- Homepage: https://rshaojimmy.github.io/Projects/MultiModal-DeepFake
+- Paper: https://arxiv.org/abs/2304.02556
+- Code: https://github.com/rshaojimmy/MultiModal-DeepFake
+
+**Meta-causal Learning for Single Domain Generalization**
+
+- Paper: https://arxiv.org/abs/2304.03709
+- Code: None
