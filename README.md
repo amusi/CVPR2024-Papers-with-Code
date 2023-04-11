@@ -32,6 +32,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [OCR](#OCR)
 - [NeRF](#NeRF)
 - [DETR](#DETR)
+- [Prompt](#Prompt)
 - [Diffusion Models(扩散模型)](#Diffusion)
 - [Avatars](#Avatars)
 - [ReID(重识别)](#ReID)
@@ -60,7 +61,6 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
 - [3D配准(3D Registration)](#3D-Registration)
-
 - [医学图像(Medical Image)](#Medical-Image)
 - [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
@@ -217,6 +217,15 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2207.13080
 - Code: https://github.com/HDETR
 
+<a name="Prompt"></a>
+
+# Prompt
+
+**Diversity-Aware Meta Visual Prompting**
+
+- Paper: https://arxiv.org/abs/2303.08138
+- Code: https://github.com/shikiw/DAM-VP 
+
 <a name="NAS"></a>
 
 # NAS
@@ -255,6 +264,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 
 - Paper: https://arxiv.org/abs/2303.07065
 - Code: https://github.com/vimar-gu/MSINet
+
+**Shape-Erased Feature Learning for Visible-Infrared Person Re-Identification**
+
+- Paper: https://arxiv.org/abs/2304.04205
+- Code: None
 
 <a name="Diffusion"></a>
 
@@ -325,6 +339,11 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2304.01247
 - Code: None
 
+**Conditional Image-to-Video Generation with Latent Flow Diffusion Models**
+
+- Paper: https://arxiv.org/abs/2303.13744
+- Code: https://github.com/nihaomiao/CVPR23_LFDM 
+
 <a name="Long-Tail"></a>
 
 # 长尾分布(Long-Tail)
@@ -389,9 +408,14 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - Paper: https://arxiv.org/abs/2211.10439
 - Code: None
 
-BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye View Semantic Segmentation
+**BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye View Semantic Segmentation**
 
 - Paper: None
+- Code: None
+
+Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention
+
+- Paper: https://arxiv.org/abs/2304.03282
 - Code: None
 
 <a name="VL"></a>
@@ -517,13 +541,18 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 - Paper: https://arxiv.org/abs/2303.07224
 - Code: https://github.com/THU-LYJ-Lab/AR-Seg
 
+**FREDOM: Fairness Domain Adaptation Approach to Semantic Scene Understanding**
+
+- Paper: https://arxiv.org/abs/2304.02135
+- Code: https://github.com/uark-cviu/FREDOM
+
 <a name="MIS"></a>
 
 # 医学图像分割(Medical Image Segmentation)
 
 **Label-Free Liver Tumor Segmentation**
 
-- Paper: https://arxiv.org/abs/2210.14845
+- Paper: https://arxiv.org/abs/2303.14869
 - Code: https://github.com/MrGiovanni/SyntheticTumors 
 
 <a name="VOS"></a>
@@ -534,6 +563,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 
 - Paper: https://arxiv.org/abs/2303.12078
 - Code: https://github.com/yk-pku/Two-shot-Video-Object-Segmentation
+
+ **Under Video Object Segmentation Section**
+
+- Paper: https://arxiv.org/abs/2303.07815
+- Code: None
 
 <a name="RIS"></a>
 
@@ -663,6 +697,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 - Paper: https://arxiv.org/abs/2304.02321
 - Code: None
 
+**TopNet: Transformer-based Object Placement Network for Image Compositing**
+
+- Paper: https://arxiv.org/abs/2304.03372
+- Code: None
+
 <a name="Video-Generation"></a>
 
 # 视频生成(Video Generation)
@@ -671,6 +710,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 
 - Paper: https://arxiv.org/abs/2212.09478
 - Code: https://github.com/researchmm/MM-Diffusion
+
+**Conditional Image-to-Video Generation with Latent Flow Diffusion Models**
+
+- Paper: https://arxiv.org/abs/2303.13744
+- Code: https://github.com/nihaomiao/CVPR23_LFDM 
 
 <a name="Video-Understanding"></a>
 
@@ -685,6 +729,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 
 - Paper: https://arxiv.org/abs/2303.14817
 - Code: https://github.com/BeSpontaneous/FFN
+
+**Masked Motion Encoding for Self-Supervised Video Representation Learning**
+
+- Paper: https://arxiv.org/abs/2210.06096
+- Code: https://github.com/XinyuSun/MME 
 
 <a name="Action-Detection"></a>
 
@@ -797,6 +846,13 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 - Paper: https://arxiv.org/abs/2211.13874
 - Code: https://github.com/csbhr/FFHQ-UV 
 
+**A Hierarchical Representation Network for Accurate and Detailed Face Reconstruction from In-The-Wild Images**
+
+- Homepage: https://younglbw.github.io/HRN-homepage/ 
+
+- Paper: https://arxiv.org/abs/2302.14434
+- Code: https://github.com/youngLBW/HRN
+
 <a name="Depth-Estimation"></a>
 
 # 深度估计(Depth Estimation)
@@ -814,6 +870,11 @@ BAEFormer: Bi-directional and Early Interaction Transformers for Bird’s Eye Vi
 
 - Paper:  https://arxiv.org/abs/2303.00575
 - Code: None
+
+**EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning**
+
+- Paper: https://arxiv.org/abs/2303.10876
+- Code: https://github.com/MediaBrain-SJTU/EqMotion 
 
 <a name="Image-Captioning"></a>
 
@@ -1274,3 +1335,8 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2304.03709
 - Code: None
+
+**Disentangling Writer and Character Styles for Handwriting Generation**
+
+- Paper: https://arxiv.org/abs/2303.14736
+- Code: https://github.com/dailenson/SDT
