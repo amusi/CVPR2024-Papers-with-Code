@@ -968,7 +968,7 @@ Code: https://github.com/hulianyuyy/CorrNet
 **Prototype-based Embedding Network for Scene Graph Generation**
 
 - Paper: https://arxiv.org/abs/2303.07096
-- Code: None
+- Code: https://github.com/vl-group/penet
 
 <a name="INR"></a>
 
