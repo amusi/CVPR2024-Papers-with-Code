@@ -554,7 +554,63 @@ Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention
 **Label-Free Liver Tumor Segmentation**
 
 - Paper: https://arxiv.org/abs/2303.14869
-- Code: https://github.com/MrGiovanni/SyntheticTumors 
+- Code: https://github.com/MrGiovanni/SyntheticTumors
+
+**SDC-UDA: Volumetric Unsupervised Domain Adaptation Framework for Slice-Direction Continuous Cross-Modality Medical Image Segmentation**
+
+- Paper: None
+- Code: None
+
+**Directional Connectivity-based Segmentation of Medical Images**
+
+- Paper: https://arxiv.org/abs/2304.00145
+- Code: https://github.com/Zyun-Y/DconnNet
+
+**Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation**
+
+- Paper: https://arxiv.org/abs/2305.00673
+- Code: https://github.com/DeepMed-Lab-ECNU/BCP
+
+**Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization**
+
+- Paper: https://arxiv.org/abs/2304.00212
+- Code: None
+
+**Fair Federated Medical Image Segmentation via Client Contribution Estimation**
+
+- Paper: https://arxiv.org/abs/2303.16520
+- Code: https://github.com/NVIDIA/NVFlare/tree/dev/research/fed-ce
+
+**Pseudo-label Guided Contrastive Learning for Semi-supervised Medical Image Segmentation**
+
+- Paper: None
+- Code: None
+
+**Ambiguous Medical Image Segmentation using Diffusion Models**
+
+- Homepage: https://aimansnigdha.github.io/cimd/
+- Paper: https://arxiv.org/abs/2304.04745
+- Code: https://github.com/aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models
+
+**Orthogonal Annotation Benefits Barely-supervised Medical Image Segmentation**
+
+- Paper: https://arxiv.org/abs/2303.13090
+- Code: https://github.com/HengCai-NJU/DeSCO
+
+**MCF: Mutual Correction Framework for Semi-Supervised Medical Image Segmentation**
+
+- Paper: None
+- Code: None
+
+**Rethinking Few-Shot Medical Segmentation: A Vector Quantization View**
+
+- Paper: None
+- Code: None
+
+**MagicNet: Semi-Supervised Multi-Organ Segmentation via Magic-Cube Partition and Recovery**
+
+- Paper: https://arxiv.org/abs/2301.01767
+- Code: https://github.com/DeepMed-Lab-ECNU/MagicNet
 
 <a name="VOS"></a>
 
