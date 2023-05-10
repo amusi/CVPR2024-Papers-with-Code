@@ -74,6 +74,7 @@ CVPR2023 decisions are now available on OpenReview! This year, wereceived a reco
 - [三维重建(3D Reconstruction)](#3D-Reconstruction)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [轨迹预测(Trajectory Prediction)](#TP)
+- [车道线检测(Lane Detection)](#Lane-Detection)
 - [图像描述(Image Captioning)](#Image-Captioning)
 - [视觉问答(Visual Question Answering)](#VQA)
 - [手语识别(Sign Language Recognition)](#SLR)
@@ -875,6 +876,20 @@ Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention
 
 - Paper: https://arxiv.org/abs/2303.10876
 - Code: https://github.com/MediaBrain-SJTU/EqMotion 
+
+<a name="Lane-Detection"></a>
+
+# 车道线检测(Lane Detection)
+
+**Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection**
+
+- Paper: https://arxiv.org/abs/2301.02371
+- Code: https://github.com/tusen-ai/Anchor3DLane
+
+**BEV-LaneDet: An Efficient 3D Lane Detection Based on Virtual Camera via Key-Points**
+
+- Paper:  https://arxiv.org/abs/2210.06006v3 
+- Code:  https://github.com/gigo-team/bev_lane_det 
 
 <a name="Image-Captioning"></a>
 
