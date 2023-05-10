@@ -556,11 +556,6 @@ Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention
 - Paper: https://arxiv.org/abs/2303.14869
 - Code: https://github.com/MrGiovanni/SyntheticTumors
 
-**SDC-UDA: Volumetric Unsupervised Domain Adaptation Framework for Slice-Direction Continuous Cross-Modality Medical Image Segmentation**
-
-- Paper: None
-- Code: None
-
 **Directional Connectivity-based Segmentation of Medical Images**
 
 - Paper: https://arxiv.org/abs/2304.00145
@@ -581,11 +576,6 @@ Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention
 - Paper: https://arxiv.org/abs/2303.16520
 - Code: https://github.com/NVIDIA/NVFlare/tree/dev/research/fed-ce
 
-**Pseudo-label Guided Contrastive Learning for Semi-supervised Medical Image Segmentation**
-
-- Paper: None
-- Code: None
-
 **Ambiguous Medical Image Segmentation using Diffusion Models**
 
 - Homepage: https://aimansnigdha.github.io/cimd/
@@ -597,6 +587,11 @@ Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention
 - Paper: https://arxiv.org/abs/2303.13090
 - Code: https://github.com/HengCai-NJU/DeSCO
 
+**MagicNet: Semi-Supervised Multi-Organ Segmentation via Magic-Cube Partition and Recovery**
+
+- Paper: https://arxiv.org/abs/2301.01767
+- Code: https://github.com/DeepMed-Lab-ECNU/MagicNet
+
 **MCF: Mutual Correction Framework for Semi-Supervised Medical Image Segmentation**
 
 - Paper: None
@@ -607,10 +602,15 @@ Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention
 - Paper: None
 - Code: None
 
-**MagicNet: Semi-Supervised Multi-Organ Segmentation via Magic-Cube Partition and Recovery**
+**Pseudo-label Guided Contrastive Learning for Semi-supervised Medical Image Segmentation**
 
-- Paper: https://arxiv.org/abs/2301.01767
-- Code: https://github.com/DeepMed-Lab-ECNU/MagicNet
+- Paper: None
+- Code: None
+
+**SDC-UDA: Volumetric Unsupervised Domain Adaptation Framework for Slice-Direction Continuous Cross-Modality Medical Image Segmentation**
+
+- Paper: None
+- Code: None
 
 <a name="VOS"></a>
 
