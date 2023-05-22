@@ -1,10 +1,10 @@
 # CVPR 2023 论文和开源项目合集(Papers with Code)
 
-[CVPR 2023](https://cvpr2023.thecvf.com/) 论文和开源项目合集(papers with code)！
+[CVPR 2023](https://openaccess.thecvf.com/CVPR2023?day=all) 论文和开源项目合集(papers with code)！
 
 **25.78% = 2360 / 9155**
 
-CVPR2023 decisions are now available on OpenReview! This year, wereceived a record number of **9155** submissions (a 12% increase over CVPR2022), and accepted **2360** papers, for a 25.78% acceptance rate.
+CVPR 2023 decisions are now available on OpenReview! This year, wereceived a record number of **9155** submissions (a 12% increase over CVPR 2022), and accepted **2360** papers, for a 25.78% acceptance rate.
 
 
 > 注1：欢迎各位大佬提交issue，分享CVPR 2023论文和开源项目！
