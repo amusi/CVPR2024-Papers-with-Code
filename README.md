@@ -209,6 +209,12 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 - Paper: https://arxiv.org/abs/2304.02633
 - Code: https://github.com/haochen-rye/HNeRV
 
+**NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images**
+
+- Homepage: https://xmeng525.github.io/xiaoxumeng.github.io/projects/cvpr23_neat 
+- Paper: https://arxiv.org/abs/2303.12012
+- Code: https://github.com/xmeng525/NeAT
+
 <a name="DETR"></a>
 
 # DETR
@@ -909,6 +915,12 @@ Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention
 
 - Paper: https://arxiv.org/abs/2302.14434
 - Code: https://github.com/youngLBW/HRN
+
+**NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images**
+
+- Homepage: https://xmeng525.github.io/xiaoxumeng.github.io/projects/cvpr23_neat 
+- Paper: https://arxiv.org/abs/2303.12012
+- Code: https://github.com/xmeng525/NeAT
 
 <a name="Depth-Estimation"></a>
 
