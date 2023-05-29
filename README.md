@@ -48,19 +48,22 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
 - [医学图像分割(Medical Image Segmentation)](#MIS)
 - [视频目标分割(Video Object Segmentation)](#VOS)
+- [视频实例分割(Video Instance Segmentation)](#VIS)
 - [参考图像分割(Referring Image Segmentation)](#RIS)
 - [图像抠图(Image Matting)](#Matting)
 - [图像编辑(Image Editing)](#Image-Editing)
 - [Low-level Vision](#LLV)
 - [超分辨率(Super-Resolution)](#SR)
+- [去噪(Denoising)](#Denoising)
 - [去模糊(Deblur)](#Deblur)
 - [3D点云(3D Point Cloud)](#3D-Point-Cloud)
 - [3D目标检测(3D Object Detection)](#3DOD)
 - [3D语义分割(3D Semantic Segmentation)](#3DSS)
 - [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
-- [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
 - [3D配准(3D Registration)](#3D-Registration)
+- [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
+- [3D人体Mesh估计(3D Human Mesh Estimation)](#3D-Human-Pose-Estimation)
 - [医学图像(Medical Image)](#Medical-Image)
 - [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
@@ -82,6 +85,7 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 - [新视点合成(Novel View Synthesis)](#NVS)
 - [Zero-Shot Learning(零样本学习)](#ZSL)
 - [立体匹配(Stereo Matching)](#Stereo-Matching)
+- [特征匹配(Feature Matching)](#Feature-Matching)
 - [场景图生成(Scene Graph Generation)](#SGG)
 - [隐式神经表示(Implicit Neural Representations)](#INR)
 - [图像质量评价(Image Quality Assessment)](#IQA)
@@ -548,6 +552,11 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 - Paper: https://arxiv.org/abs/2206.04656
 - Code: None
 
+**Joint Visual Grounding and Tracking with Natural Language Specification**
+
+- Paper: https://arxiv.org/abs/2303.12027
+- Code: https://github.com/lizhou-cs/JointNLT 
+
 <a name="Semantic-Segmentation"></a>
 
 # 语义分割(Semantic Segmentation)
@@ -641,6 +650,15 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 - Paper: https://arxiv.org/abs/2303.07815
 - Code: None
 
+<a name="VIS"></a>
+
+# 视频实例分割(Video Instance Segmentation)
+
+**Mask-Free Video Instance Segmentation**
+
+- Paper: https://arxiv.org/abs/2303.15904
+- Code: https://github.com/SysCV/MaskFreeVis 
+
 <a name="RIS"></a>
 
 # 参考图像分割(Referring Image Segmentation )
@@ -664,6 +682,12 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 
 - Paper: https://arxiv.org/abs/2304.01529
 - Code: https://github.com/ddsediri/IterativePFN
+
+**Attention-based Point Cloud Edge Sampling**
+
+- Homepage: https://junweizheng93.github.io/publications/APES/APES.html 
+- Paper: https://arxiv.org/abs/2302.14673
+- Code: https://github.com/JunweiZheng93/APES
 
 <a name="3DOD"></a>
 
@@ -714,6 +738,19 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 - Paper: https://arxiv.org/abs/2304.01514
 - Code: https://github.com/Jiang-HB/VBReg
 
+<a name="3D-Human-Pose-Estimation"></a>
+
+# 3D人体姿态估计(3D Human Pose Estimation)
+
+<a name="3D-Human-Mesh-Estimation"></a>
+
+# 3D人体Mesh估计(3D Human Mesh Estimation)
+
+**3D Human Mesh Estimation from Virtual Markers**
+
+- Paper: https://arxiv.org/abs/2303.11726
+- Code: https://github.com/ShirleyMaxx/VirtualMarker 
+
 <a name="LLV"></a>
 
 # Low-level Vision
@@ -744,6 +781,17 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 - Paper: https://arxiv.org/abs/2204.04216
 
 - Code: https://github.com/researchmm/TTVSR
+
+Denoising<a name="Denoising"></a>
+
+# 去噪(Denoising)
+
+## 图像去噪(Image Denoising)
+
+**Masked Image Training for Generalizable Deep Image Denoising**
+
+- Paper- : https://arxiv.org/abs/2303.13132
+- Code: https://github.com/haoyuc/MaskedDenoising 
 
 <a name="Image-Generation"></a>
 
@@ -1051,6 +1099,16 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2304.00152
 - Code: None
+
+<a name="Feature-Matching"></a>
+
+# 特征匹配(Feature Matching)
+
+**Adaptive Spot-Guided Transformer for Consistent Local Feature Matching**
+
+- Homepage: [https://astr2023.github.io](https://astr2023.github.io/) 
+- Paper: https://arxiv.org/abs/2303.16624
+- Code: https://github.com/ASTR2023/ASTR
 
 <a name="SGG"></a>
 
@@ -1443,3 +1501,13 @@ Code: https://github.com/hulianyuyy/CorrNet
 - Homepage: https://toytiny.github.io/publication/23-cmflow-cvpr/index.html 
 - Paper: https://arxiv.org/abs/2303.00462
 - Code: https://github.com/Toytiny/CMFlow
+
+**Marching-Primitives: Shape Abstraction from Signed Distance Function**
+
+- Paper: https://arxiv.org/abs/2303.13190
+- Code: https://github.com/ChirikjianLab/Marching-Primitives
+
+**Towards Trustable Skin Cancer Diagnosis via Rewriting Model's Decision**
+
+- Paper: https://arxiv.org/abs/2303.00885
+- Code: None
