@@ -134,6 +134,11 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 - Paper: https://arxiv.org/abs/2304.02330
 - Code: https://github.com/sangnekim/SMPConv
 
+**Making Vision Transformers Efficient from A Token Sparsification View**
+
+- Paper: https://arxiv.org/abs/2303.08685
+- Code: https://github.com/changsn/STViT-R 
+
 <a name="CLIP"></a>
 
 # CLIP
@@ -270,6 +275,11 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 
 - Paper: https://arxiv.org/abs/2304.04205
 - Code: None
+
+**Large-scale Training Data Search for Object Re-identification**
+
+- Paper: https://arxiv.org/abs/2303.16186
+- Code: https://github.com/yorkeyao/SnP 
 
 <a name="Diffusion"></a>
 
@@ -414,10 +424,15 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 - Paper: None
 - Code: None
 
-Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention
+**Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention**
 
 - Paper: https://arxiv.org/abs/2304.03282
 - Code: None
+
+**Making Vision Transformers Efficient from A Token Sparsification View**
+
+- Paper: https://arxiv.org/abs/2303.08685
+- Code: https://github.com/changsn/STViT-R 
 
 <a name="VL"></a>
 
@@ -790,7 +805,12 @@ Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention
 **Masked Motion Encoding for Self-Supervised Video Representation Learning**
 
 - Paper: https://arxiv.org/abs/2210.06096
-- Code: https://github.com/XinyuSun/MME 
+- Code: https://github.com/XinyuSun/MME
+
+**MARLIN: Masked Autoencoder for facial video Representation LearnING**
+
+- Paper: https://arxiv.org/abs/2211.06627
+- Code: https://github.com/ControlNet/MARLIN 
 
 <a name="Action-Detection"></a>
 
@@ -1411,3 +1431,15 @@ Code: https://github.com/hulianyuyy/CorrNet
 
 - Paper: https://arxiv.org/abs/2303.14736
 - Code: https://github.com/dailenson/SDT
+
+**DexArt: Benchmarking Generalizable Dexterous Manipulation with Articulated Objects**
+
+- Homepage: https://www.chenbao.tech/dexart/
+
+- Code: https://github.com/Kami-code/dexart-release
+
+**Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision**
+
+- Homepage: https://toytiny.github.io/publication/23-cmflow-cvpr/index.html 
+- Paper: https://arxiv.org/abs/2303.00462
+- Code: https://github.com/Toytiny/CMFlow
