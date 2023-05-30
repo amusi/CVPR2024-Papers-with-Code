@@ -618,23 +618,28 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 
 **MCF: Mutual Correction Framework for Semi-Supervised Medical Image Segmentation**
 
-- Paper: None
-- Code: None
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Wang_MCF_Mutual_Correction_Framework_for_Semi-Supervised_Medical_Image_Segmentation_CVPR_2023_paper.html
+- Code: https://github.com/WYC-321/MCF
 
 **Rethinking Few-Shot Medical Segmentation: A Vector Quantization View**
 
-- Paper: None
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Rethinking_Few-Shot_Medical_Segmentation_A_Vector_Quantization_View_CVPR_2023_paper.html
 - Code: None
 
 **Pseudo-label Guided Contrastive Learning for Semi-supervised Medical Image Segmentation**
 
-- Paper: None
-- Code: None
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Basak_Pseudo-Label_Guided_Contrastive_Learning_for_Semi-Supervised_Medical_Image_Segmentation_CVPR_2023_paper.html
+- Code: https://github.com/hritam-98/PatchCL-MedSeg
 
 **SDC-UDA: Volumetric Unsupervised Domain Adaptation Framework for Slice-Direction Continuous Cross-Modality Medical Image Segmentation**
 
-- Paper: None
+- Paper: https://arxiv.org/abs/2305.11012
 - Code: None
+
+**DoNet: Deep De-overlapping Network for Cytology Instance Segmentation**
+
+- Paper: https://arxiv.org/abs/2303.14373
+- Code: https://github.com/DeepDoNet/DoNet
 
 <a name="VOS"></a>
 
