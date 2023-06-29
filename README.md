@@ -295,6 +295,12 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 - Paper: https://arxiv.org/abs/2302.07685
 - Code: https://github.com/sihyun-yu/PVDM
 
+**Self-Guided Diffusion Models** 
+
+- Homepage: http://taohu.me/sgdm
+- Paper: https://arxiv.org/abs/2210.06462
+- Code: https://github.com/dongzhuoyao/self-guided-diffusion-models
+
 **Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models**
 
 - Paper: https://arxiv.org/abs/2211.10655
