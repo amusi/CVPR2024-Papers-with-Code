@@ -67,7 +67,7 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 - [医学图像(Medical Image)](#Medical-Image)
 - [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
-- [视频理解(Video Understanding)](#Video-Understanding)
+- [视频理解(Video Understanding)](#%E8%A7%86%E9%A2%91%E7%90%86%E8%A7%A3video-understanding)
 - [行为检测(Action Detection)](#Action-Detection)
 - [文本检测(Text Detection)](#Text-Detection)
 - [知识蒸馏(Knowledge Distillation)](#KD)
@@ -844,6 +844,10 @@ Denoising<a name="Denoising"></a>
 <a name="Video-Understanding"></a>
 
 # 视频理解(Video Understanding)
+
+- Paper: https://arxiv.org/abs/2304.08025
+- Code: https://github.com/TonyLianLong/RCF-UnsupVideoSeg
+- Project page: https://rcf-video.github.io/
 
 **Learning Transferable Spatiotemporal Representations from Natural Script Knowledge**
 
