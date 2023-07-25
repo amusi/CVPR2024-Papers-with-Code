@@ -64,7 +64,7 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 - [3D配准(3D Registration)](#3D-Registration)
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D人体Mesh估计(3D Human Mesh Estimation)](#3D-Human-Pose-Estimation)
-- [医学图像(Medical Image)](#Medical-Image)
+- [医学图像分析(Medical Image Analysis)](#Medical-Image-Analysis)
 - [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
 - [视频理解(Video Understanding)](#Video-Understanding)
@@ -798,6 +798,20 @@ Denoising<a name="Denoising"></a>
 - Paper- : https://arxiv.org/abs/2303.13132
 - Code: https://github.com/haoyuc/MaskedDenoising 
 
+<a name="Medical-Image-Analysis"></a>
+
+# 医学图像分析(Medical Image Analysis)
+
+**Towards Trustable Skin Cancer Diagnosis via Rewriting Model's Decision**
+
+- Paper: https://arxiv.org/abs/2303.00885
+- Code: None
+
+**Image Quality-aware Diagnosis via Meta-knowledge Co-embedding**
+
+- Paper: https://arxiv.org/abs/2303.15038
+- Code: https://github.com/chehx/MKCNetv
+
 <a name="Image-Generation"></a>
 
 # 图像生成(Image Generation)
@@ -1512,7 +1526,3 @@ Code: https://github.com/hulianyuyy/CorrNet
 - Paper: https://arxiv.org/abs/2303.13190
 - Code: https://github.com/ChirikjianLab/Marching-Primitives
 
-**Towards Trustable Skin Cancer Diagnosis via Rewriting Model's Decision**
-
-- Paper: https://arxiv.org/abs/2303.00885
-- Code: None
