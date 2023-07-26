@@ -678,6 +678,12 @@ CVPR 2023 decisions are now available on OpenReview! This year, wereceived a rec
 
 # 3D点云(3D-Point-Cloud)
 
+**Hyperspherical Embedding for Point Cloud Completion**
+
+- Homepage: https://haomengz.github.io/hyperpc/ 
+- Paper: https://arxiv.org/pdf/2307.05634.pdf
+- Code: https://github.com/haomengz/HyperPC
+
 **Physical-World Optical Adversarial Attacks on 3D Face Recognition**
 
 - Paper: https://arxiv.org/abs/2205.13412
