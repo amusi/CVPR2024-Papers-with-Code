@@ -1,10 +1,6 @@
-# CVPR 2023 论文和开源项目合集(Papers with Code)
+# CVPR 2024 论文和开源项目合集(Papers with Code)
 
 CVPR 2024 decisions are now available on OpenReview！
-
-**25.78% = 2360 / 9155**
-
-CVPR 2023 decisions are now available on OpenReview! This year, wereceived a record number of **9155** submissions (a 12% increase over CVPR 2022), and accepted **2360** papers, for a 25.78% acceptance rate.
 
 
 > 注1：欢迎各位大佬提交issue，分享CVPR 2024论文和开源项目！
