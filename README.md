@@ -20,6 +20,7 @@ CVPR 2024 decisions are now available on OpenReview！
 # 【CVPR 2024 论文开源目录】
 
 - [3DGS](#3DGS)
+- [Avatars](#Avatars)
 - [Backbone](#Backbone)
 - [CLIP](#CLIP)
 - [MAE](#MAE)
@@ -33,7 +34,6 @@ CVPR 2024 decisions are now available on OpenReview！
 - [DETR](#DETR)
 - [Prompt](#Prompt)
 - [Diffusion Models(扩散模型)](#Diffusion)
-- [Avatars](#Avatars)
 - [ReID(重识别)](#ReID)
 - [长尾分布(Long-Tail)](#Long-Tail)
 - [Vision Transformer](#Vision-Transformer)
@@ -99,9 +99,28 @@ CVPR 2024 decisions are now available on OpenReview！
 **Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**
 
 - Homepage: https://city-super.github.io/scaffold-gs/
-
 - Paper: https://arxiv.org/abs/2312.00109
 - Code: https://github.com/city-super/Scaffold-GS
+
+**GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis**
+
+- Homepage: https://shunyuanzheng.github.io/GPS-Gaussian 
+- Paper: https://arxiv.org/abs/2312.02155
+- Code: https://github.com/ShunyuanZheng/GPS-Gaussian
+
+**GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians**
+
+- Paper: https://arxiv.org/abs/2312.02134
+- Code: https://github.com/huliangxiao/GaussianAvatar 
+
+<a name="Avatars"></a>
+
+# Avatars
+
+**GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians**
+
+- Paper: https://arxiv.org/abs/2312.02134
+- Code: https://github.com/huliangxiao/GaussianAvatar 
 
 <a name="Backbone"></a>
 
@@ -132,7 +151,14 @@ CVPR 2024 decisions are now available on OpenReview！
 
 # GAN
 
+<a name="OCR"></a>
 
+# OCR
+
+**An Empirical Study of Scaling Law for OCR**
+
+- Paper: https://arxiv.org/abs/2401.00028
+- Code: https://github.com/large-ocr-model/large-ocr-model.github.io 
 
 <a name="NeRF"></a>
 
@@ -164,10 +190,6 @@ CVPR 2024 decisions are now available on OpenReview！
 <a name="NAS"></a>
 
 # NAS
-
-<a name="Avatars"></a>
-
-# Avatars
 
 <a name="ReID"></a>
 
@@ -222,7 +244,10 @@ CVPR 2024 decisions are now available on OpenReview！
 
 # 语义分割(Semantic Segmentation)
 
+**Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**
 
+- Paper: https://arxiv.org/abs/2312.04265
+- Code: https://github.com/w1oves/Rein 
 
 <a name="MIS"></a>
 
@@ -239,6 +264,11 @@ CVPR 2024 decisions are now available on OpenReview！
 <a name="3DOD"></a>
 
 # 3D目标检测(3D Object Detection)
+
+**PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2312.08371
+- Code: https://github.com/kuanchihhuang/PTT 
 
 <a name="3DOD"></a>
 
@@ -305,5 +335,9 @@ CVPR 2024 decisions are now available on OpenReview！
 **Object Recognition as Next Token Prediction**
 
 - Paper: https://arxiv.org/abs/2312.02142
-
 - Code: https://github.com/kaiyuyue/nxtp
+
+**ParameterNet: Parameters Are All You Need for Large-scale Visual Pretraining of Mobile Networks**
+
+- Paper: https://arxiv.org/abs/2306.14525
+- Code: https://parameternet.github.io/ 
