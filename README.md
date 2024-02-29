@@ -135,7 +135,10 @@ CVPR 2024 decisions are now available on OpenReview！
 
 # CLIP
 
+**Alpha-CLIP: A CLIP Model Focusing on Wherever You Want**
 
+- Paper: https://arxiv.org/abs/2312.03818
+- Code: https://github.com/SunzeY
 
 <a name="MAE"></a>
 
