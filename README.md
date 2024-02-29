@@ -111,7 +111,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians**
 
 - Paper: https://arxiv.org/abs/2312.02134
-- Code: https://github.com/huliangxiao/GaussianAvatar 
+- Code: https://github.com/huliangxiao/GaussianAvatar
+
+**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**
+
+- Paper: https://arxiv.org/abs/2311.14521
+- Code: https://github.com/buaacyw/GaussianEditor 
 
 <a name="Avatars"></a>
 
@@ -274,6 +279,16 @@ CVPR 2024 decisions are now available on OpenReview！
 
 # 3D语义分割(3D Semantic Segmentation)
 
+<a name="Image-Editing"></a>
+
+# 图像编辑(Image Editing)
+
+**Edit One for All: Interactive Batch Image Editing**
+
+- Homepage: https://thaoshibe.github.io/edit-one-for-all 
+- Paper: https://arxiv.org/abs/2401.10219
+- Code: https://github.com/thaoshibe/edit-one-for-all
+
 <a name="LLV"></a>
 
 # Low-level Vision
@@ -319,12 +334,20 @@ CVPR 2024 decisions are now available on OpenReview！
 **Residual Denoising Diffusion Models**
 
 - Paper: https://arxiv.org/abs/2308.13712
-
 - Code: https://github.com/nachifur/RDDM
+
+**UniGS: Unified Representation for Image Generation and Segmentation**
+
+- Paper: https://arxiv.org/abs/2312.01985
 
 <a name="Video-Generation"></a>
 
 # 视频生成(Video Generation)
+
+**Vlogger: Make Your Dream A Vlog**
+
+- Paper: https://arxiv.org/abs/2401.09414
+- Code: https://github.com/Vchitect/Vlogger
 
 <a name="Video-Understanding"></a>
 
@@ -341,3 +364,20 @@ CVPR 2024 decisions are now available on OpenReview！
 
 - Paper: https://arxiv.org/abs/2306.14525
 - Code: https://parameternet.github.io/ 
+
+**Seamless Human Motion Composition with Blended Positional Encodings**
+
+- Paper: https://arxiv.org/abs/2402.15509
+- Code: https://github.com/BarqueroGerman/FlowMDM 
+
+**LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning**
+
+- Homepage:  https://ll3da.github.io/ 
+
+- Paper: https://arxiv.org/abs/2311.18651
+- Code: https://github.com/Open3DA/LL3DA
+
+ **CLOVA: A Closed-LOop Visual Assistant with Tool Usage and Update**
+
+- Homepage: https://clova-tool.github.io/ 
+- Paper: https://arxiv.org/abs/2312.10908
