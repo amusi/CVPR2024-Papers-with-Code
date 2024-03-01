@@ -45,6 +45,7 @@ CVPR 2024 decisions are now available on OpenReview！
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
+- [医学图像(Medical Image)](#MI)
 - [医学图像分割(Medical Image Segmentation)](#MIS)
 - [视频目标分割(Video Object Segmentation)](#VOS)
 - [视频实例分割(Video Instance Segmentation)](#VIS)
@@ -55,6 +56,7 @@ CVPR 2024 decisions are now available on OpenReview！
 - [超分辨率(Super-Resolution)](#SR)
 - [去噪(Denoising)](#Denoising)
 - [去模糊(Deblur)](#Deblur)
+- [自动驾驶(Autonomous Driving)](#Autonomous-Driving)
 - [3D点云(3D Point Cloud)](#3D-Point-Cloud)
 - [3D目标检测(3D Object Detection)](#3DOD)
 - [3D语义分割(3D Semantic Segmentation)](#3DSS)
@@ -148,9 +150,15 @@ CVPR 2024 decisions are now available on OpenReview！
 **EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI**
 
 - Homepage: https://tai-wang.github.io/embodiedscan/
-
 - Paper: https://arxiv.org/abs/2312.16170
 - Code: https://github.com/OpenRobotLab/EmbodiedScan
+
+**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**
+
+- Homepage: https://iranqin.github.io/MP5.github.io/ 
+
+- Paper: https://arxiv.org/abs/2312.07472
+- Code: https://github.com/IranQin/MP5
 
 <a name="GAN"></a>
 
@@ -189,8 +197,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration**
 
 - Paper: https://arxiv.org/abs/2311.04257
-
 - Code: https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2
+
+**Link-Context Learning for Multimodal LLMs**
+
+- Paper: https://arxiv.org/abs/2308.07891
+- Code: https://github.com/isekai-portal/Link-Context-Learning/tree/main 
 
 <a name="NAS"></a>
 
@@ -252,13 +264,46 @@ CVPR 2024 decisions are now available on OpenReview！
 **Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**
 
 - Paper: https://arxiv.org/abs/2312.04265
-- Code: https://github.com/w1oves/Rein 
+- Code: https://github.com/w1oves/Rein
+
+**SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2311.15537
+- Code: https://github.com/xb534/SED 
+
+<a name="MI"></a>
+
+# 医学图像(Medical Image)
+
+**Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology**
+
+- Paper: https://arxiv.org/abs/2402.17228
+- Code: https://github.com/DearCaat/RRT-MIL
+
+**VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis**
+
+- Paper: https://arxiv.org/abs/2402.17300
+- Code: https://github.com/Luffy03/VoCo
+
+**ChAda-ViT : Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images**
+
+- Paper: https://arxiv.org/abs/2311.15264
+- Code: https://github.com/nicoboou/chada_vit 
 
 <a name="MIS"></a>
 
 # 医学图像分割(Medical Image Segmentation)
 
 
+
+<a name="Autonomous-Driving"></a>
+
+# 自动驾驶(Autonomous Driving)
+
+**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**
+
+- Paper: https://arxiv.org/abs/2310.08370
+- Code: https://github.com/Nightmare-n/UniPAD 
 
 <a name="3D-Point-Cloud"></a>
 
@@ -273,7 +318,11 @@ CVPR 2024 decisions are now available on OpenReview！
 **PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**
 
 - Paper: https://arxiv.org/abs/2312.08371
-- Code: https://github.com/kuanchihhuang/PTT 
+- Code: https://github.com/kuanchihhuang/PTT
+
+**UniMODE: Unified Monocular 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2402.18573 
 
 <a name="3DOD"></a>
 
@@ -353,6 +402,12 @@ CVPR 2024 decisions are now available on OpenReview！
 
 # 视频理解(Video Understanding)
 
+**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**
+
+Paper: https://arxiv.org/abs/2311.17005
+
+Code: https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2 
+
 # 其他(Others)
 
 **Object Recognition as Next Token Prediction**
@@ -381,3 +436,8 @@ CVPR 2024 decisions are now available on OpenReview！
 
 - Homepage: https://clova-tool.github.io/ 
 - Paper: https://arxiv.org/abs/2312.10908
+
+**MoMask: Generative Masked Modeling of 3D Human Motions**
+
+- Paper: https://arxiv.org/abs/2312.00063
+- Code: https://github.com/EricGuo5513/momask-codes 
