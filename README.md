@@ -211,7 +211,10 @@ CVPR 2024 decisions are now available on OpenReview！
 <a name="ReID"></a>
 
 # ReID(重识别)
+**UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity**
 
+- Paper: https://arxiv.org/abs/2312.03441
+- Code: https://github.com/zplusdragon/ufinebench
 <a name="Diffusion"></a>
 
 # Diffusion Models(扩散模型)
