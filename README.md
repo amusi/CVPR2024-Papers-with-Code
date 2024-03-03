@@ -19,7 +19,7 @@ CVPR 2024 decisions are now available on OpenReview！
 
 # 【CVPR 2024 论文开源目录】
 
-- [3DGS](#3DGS)
+- [3DGS(Gaussian Splatting)](#3DGS)
 - [Avatars](#Avatars)
 - [Backbone](#Backbone)
 - [CLIP](#CLIP)
@@ -96,7 +96,7 @@ CVPR 2024 decisions are now available on OpenReview！
 
 <a name="3DGS"></a>
 
-# 3DGS
+# 3DGS(Gaussian Splatting)
 
 **Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**
 
@@ -120,6 +120,18 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2311.14521
 - Code: https://github.com/buaacyw/GaussianEditor 
 
+**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**
+
+- Homepage: https://ingra14m.github.io/Deformable-Gaussians/ 
+- Paper: https://arxiv.org/abs/2309.13101
+- Code: https://github.com/ingra14m/Deformable-3D-Gaussians
+
+**SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes**
+
+- Homepage: https://yihua7.github.io/SC-GS-web/ 
+- Paper: https://arxiv.org/abs/2312.14937
+- Code: https://github.com/yihua7/SC-GS
+
 <a name="Avatars"></a>
 
 # Avatars
@@ -137,7 +149,10 @@ CVPR 2024 decisions are now available on OpenReview！
 
 # CLIP
 
+**Alpha-CLIP: A CLIP Model Focusing on Wherever You Want**
 
+- Paper: https://arxiv.org/abs/2312.03818
+- Code: https://github.com/SunzeY/AlphaCLIP 
 
 <a name="MAE"></a>
 
@@ -156,9 +171,13 @@ CVPR 2024 decisions are now available on OpenReview！
 **MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**
 
 - Homepage: https://iranqin.github.io/MP5.github.io/ 
-
 - Paper: https://arxiv.org/abs/2312.07472
 - Code: https://github.com/IranQin/MP5
+
+**LEMON: Learning 3D Human-Object Interaction Relation from 2D Images**
+
+- Paper: https://arxiv.org/abs/2312.08963
+- Code: https://github.com/yyvhang/lemon_3d 
 
 <a name="GAN"></a>
 
@@ -226,8 +245,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **Residual Denoising Diffusion Models**
 
 - Paper: https://arxiv.org/abs/2308.13712
-
 - Code: https://github.com/nachifur/RDDM
+
+**DeepCache: Accelerating Diffusion Models for Free**
+
+- Paper: https://arxiv.org/abs/2312.00858
+- Code: https://github.com/horseee/DeepCache 
 
 <a name="Vision-Transformer"></a>
 
@@ -397,6 +420,13 @@ CVPR 2024 decisions are now available on OpenReview！
 
 - Paper: https://arxiv.org/abs/2401.09414
 - Code: https://github.com/Vchitect/Vlogger
+
+**VBench: Comprehensive Benchmark Suite for Video Generative Models**
+
+- Homepage: https://vchitect.github.io/VBench-project/ 
+
+- Paper: https://arxiv.org/abs/2311.17982
+- Code: https://github.com/Vchitect/VBench
 
 <a name="Video-Understanding"></a>
 
