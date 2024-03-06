@@ -145,6 +145,16 @@ CVPR 2024 decisions are now available on OpenReview！
 
 # Backbone
 
+**RepViT: Revisiting Mobile CNN From ViT Perspective**
+
+- Paper: https://arxiv.org/abs/2307.09283
+- Code: https://github.com/THU-MIG/RepViT
+
+**TransNeXt: Robust Foveal Visual Perception for Vision Transformers**
+
+- Paper: https://arxiv.org/abs/2311.17132
+- Code: https://github.com/DaiShiResearch/TransNeXt
+
 <a name="CLIP"></a>
 
 # CLIP
@@ -223,6 +233,11 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2308.07891
 - Code: https://github.com/isekai-portal/Link-Context-Learning/tree/main 
 
+**OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**
+
+- Paper: https://arxiv.org/abs/2311.17911
+- Code: https://github.com/shikiw/OPERA 
+
 <a name="NAS"></a>
 
 # NAS
@@ -260,6 +275,11 @@ CVPR 2024 decisions are now available on OpenReview！
 
 - Paper: https://arxiv.org/abs/2311.17132
 - Code: https://github.com/DaiShiResearch/TransNeXt
+
+**RepViT: Revisiting Mobile CNN From ViT Perspective**
+
+- Paper: https://arxiv.org/abs/2307.09283
+- Code: https://github.com/THU-MIG/RepViT 
 
 <a name="VL"></a>
 
@@ -373,7 +393,12 @@ CVPR 2024 decisions are now available on OpenReview！
 
 <a name="SR"></a>
 
-# 超分辨率(Video Super-Resolution)
+# 超分辨率(Super-Resolution)
+
+**SeD: Semantic-Aware Discriminator for Image Super-Resolution**
+
+- Paper: https://arxiv.org/abs/2402.19387
+- Code: https://github.com/lbc12345/SeD 
 
 <a name="Denoising"></a>
 
@@ -434,9 +459,22 @@ CVPR 2024 decisions are now available on OpenReview！
 
 **MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**
 
-Paper: https://arxiv.org/abs/2311.17005
+- Paper: https://arxiv.org/abs/2311.17005
+- Code: https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2 
 
-Code: https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2 
+<a name="KD"></a>
+
+# 知识蒸馏(Knowledge Distillation)
+
+**Logit Standardization in Knowledge Distillation**
+
+- Paper: https://arxiv.org/abs/2403.01427
+- Code: https://github.com/sunshangquan/logit-standardization-KD
+
+**Efficient Dataset Distillation via Minimax Diffusion**
+
+- Paper: https://arxiv.org/abs/2311.15529
+- Code: https://github.com/vimar-gu/MinimaxDiffusion 
 
 # 其他(Others)
 
@@ -470,4 +508,11 @@ Code: https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2
 **MoMask: Generative Masked Modeling of 3D Human Motions**
 
 - Paper: https://arxiv.org/abs/2312.00063
-- Code: https://github.com/EricGuo5513/momask-codes 
+- Code: https://github.com/EricGuo5513/momask-codes
+
+ **Amodal Ground Truth and Completion in the Wild**
+
+- Homepage: https://www.robots.ox.ac.uk/~vgg/research/amodal/ 
+
+- Paper: https://arxiv.org/abs/2312.17247
+- Code: https://github.com/Championchess/Amodal-Completion-in-the-Wild
