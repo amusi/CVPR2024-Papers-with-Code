@@ -90,6 +90,7 @@ CVPR 2024 decisions are now available on OpenReview！
 - [场景图生成(Scene Graph Generation)](#SGG)
 - [隐式神经表示(Implicit Neural Representations)](#INR)
 - [图像质量评价(Image Quality Assessment)](#IQA)
+- [视频质量评价(Video Quality Assessment)](#Video-Quality-Assessment)
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -131,6 +132,12 @@ CVPR 2024 decisions are now available on OpenReview！
 - Homepage: https://yihua7.github.io/SC-GS-web/ 
 - Paper: https://arxiv.org/abs/2312.14937
 - Code: https://github.com/yihua7/SC-GS
+
+**Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis**
+
+- Homepage: https://oppo-us-research.github.io/SpacetimeGaussians-website/ 
+- Paper: https://arxiv.org/abs/2312.16812
+- Code: https://github.com/oppo-us-research/SpacetimeGaussians
 
 <a name="Avatars"></a>
 
@@ -200,7 +207,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **An Empirical Study of Scaling Law for OCR**
 
 - Paper: https://arxiv.org/abs/2401.00028
-- Code: https://github.com/large-ocr-model/large-ocr-model.github.io 
+- Code: https://github.com/large-ocr-model/large-ocr-model.github.io
+
+**ODM: A Text-Image Further Alignment Pre-training Approach for Scene Text Detection and Spotting**
+
+- Paper: https://arxiv.org/abs/2403.00303
+- Code: https://github.com/PriNing/ODM 
 
 <a name="NeRF"></a>
 
@@ -236,7 +248,17 @@ CVPR 2024 decisions are now available on OpenReview！
 **OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**
 
 - Paper: https://arxiv.org/abs/2311.17911
-- Code: https://github.com/shikiw/OPERA 
+- Code: https://github.com/shikiw/OPERA
+
+**Making Large Multimodal Models Understand Arbitrary Visual Prompts**
+
+- Homepage: https://vip-llava.github.io/ 
+- Paper: https://arxiv.org/abs/2312.00784
+
+**Pink: Unveiling the power of referential comprehension for multi-modal llms**
+
+- Paper: https://arxiv.org/abs/2310.00582
+- Code: https://github.com/SY-Xuan/Pink 
 
 <a name="NAS"></a>
 
@@ -294,6 +316,11 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2304.08069
 - Code: https://github.com/lyuwenyu/RT-DETR
 
+**Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation**
+
+- Paper: https://arxiv.org/abs/2312.01220
+- Code: https://github.com/ZPDu/Boosting-Object-Detection-with-Zero-Shot-Day-Night-Domain-Adaptation 
+
 <a name="VT"></a>
 
 # 目标跟踪(Object Tracking)
@@ -346,7 +373,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**
 
 - Paper: https://arxiv.org/abs/2310.08370
-- Code: https://github.com/Nightmare-n/UniPAD 
+- Code: https://github.com/Nightmare-n/UniPAD
+
+**Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications**
+
+- Paper: https://arxiv.org/abs/2311.17663
+- Code: https://github.com/haomo-ai/Cam4DOcc 
 
 <a name="3D-Point-Cloud"></a>
 
@@ -380,6 +412,16 @@ CVPR 2024 decisions are now available on OpenReview！
 - Homepage: https://thaoshibe.github.io/edit-one-for-all 
 - Paper: https://arxiv.org/abs/2401.10219
 - Code: https://github.com/thaoshibe/edit-one-for-all
+
+<a name="Video-Editing"></a>
+
+# 视频编辑(Video Editing)
+
+**MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers**
+
+- Homepage:  [https://maskint.github.io](https://maskint.github.io/) 
+
+- Paper: https://arxiv.org/abs/2312.12468
 
 <a name="LLV"></a>
 
@@ -474,7 +516,20 @@ CVPR 2024 decisions are now available on OpenReview！
 **Efficient Dataset Distillation via Minimax Diffusion**
 
 - Paper: https://arxiv.org/abs/2311.15529
-- Code: https://github.com/vimar-gu/MinimaxDiffusion 
+- Code: https://github.com/vimar-gu/MinimaxDiffusion
+
+<a name="Video-Quality-Assessment"></a>
+
+# 视频质量评价(Video Quality Assessment)
+
+**KVQ: Kaleidoscope Video Quality Assessment for Short-form Videos**
+
+- Homepage: https://lixinustc.github.io/projects/KVQ/ 
+
+- Paper: https://arxiv.org/abs/2402.07220
+- Code: https://github.com/lixinustc/KVQ-Challenge-CVPR-NTIRE2024
+
+<a name="Others"></a>
 
 # 其他(Others)
 
@@ -513,6 +568,10 @@ CVPR 2024 decisions are now available on OpenReview！
  **Amodal Ground Truth and Completion in the Wild**
 
 - Homepage: https://www.robots.ox.ac.uk/~vgg/research/amodal/ 
-
 - Paper: https://arxiv.org/abs/2312.17247
 - Code: https://github.com/Championchess/Amodal-Completion-in-the-Wild
+
+**Improved Visual Grounding through Self-Consistent Explanations**
+
+- Paper: https://arxiv.org/abs/2312.04554
+- Code: https://github.com/uvavision/SelfEQ 
