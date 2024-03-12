@@ -139,6 +139,12 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2312.16812
 - Code: https://github.com/oppo-us-research/SpacetimeGaussians
 
+**DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization**
+
+- Homepage: https://fictionarry.github.io/DNGaussian/
+- Paper: https://arxiv.org/abs/2403.06912
+- Code: https://github.com/Fictionarry/DNGaussian
+
 <a name="Avatars"></a>
 
 # Avatars
@@ -146,7 +152,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians**
 
 - Paper: https://arxiv.org/abs/2312.02134
-- Code: https://github.com/huliangxiao/GaussianAvatar 
+- Code: https://github.com/huliangxiao/GaussianAvatar
+
+**Real-Time Simulated Avatar from Head-Mounted Sensors**
+
+- Homepage: https://www.zhengyiluo.com/SimXR/
+- Paper: https://arxiv.org/abs/2403.06862
 
 <a name="Backbone"></a>
 
@@ -258,7 +269,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **Pink: Unveiling the power of referential comprehension for multi-modal llms**
 
 - Paper: https://arxiv.org/abs/2310.00582
-- Code: https://github.com/SY-Xuan/Pink 
+- Code: https://github.com/SY-Xuan/Pink
+
+**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**
+
+- Paper: https://arxiv.org/abs/2311.08046
+- Code: https://github.com/PKU-YuanGroup/Chat-UniVi 
 
 <a name="NAS"></a>
 
@@ -378,7 +394,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications**
 
 - Paper: https://arxiv.org/abs/2311.17663
-- Code: https://github.com/haomo-ai/Cam4DOcc 
+- Code: https://github.com/haomo-ai/Cam4DOcc
+
+**Memory-based Adapters for Online 3D Scene Perception**
+
+- Paper: https://arxiv.org/abs/2403.06974
+- Code: https://github.com/xuxw98/Online3D
 
 <a name="3D-Point-Cloud"></a>
 
@@ -397,7 +418,7 @@ CVPR 2024 decisions are now available on OpenReview！
 
 **UniMODE: Unified Monocular 3D Object Detection**
 
-- Paper: https://arxiv.org/abs/2402.18573 
+- Paper: https://arxiv.org/abs/2402.18573
 
 <a name="3DOD"></a>
 
@@ -430,8 +451,11 @@ CVPR 2024 decisions are now available on OpenReview！
 **Residual Denoising Diffusion Models**
 
 - Paper: https://arxiv.org/abs/2308.13712
-
 - Code: https://github.com/nachifur/RDDM
+
+**Boosting Image Restoration via Priors from Pre-trained Models**
+
+- Paper: https://arxiv.org/abs/2403.06793
 
 <a name="SR"></a>
 
@@ -478,6 +502,11 @@ CVPR 2024 decisions are now available on OpenReview！
 **UniGS: Unified Representation for Image Generation and Segmentation**
 
 - Paper: https://arxiv.org/abs/2312.01985
+
+**Multi-Instance Generation Controller for Text-to-Image Synthesis**
+
+- Paper: https://arxiv.org/abs/2402.05408
+- Code: https://github.com/limuloo/migc 
 
 <a name="Video-Generation"></a>
 
