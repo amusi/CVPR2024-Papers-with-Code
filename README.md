@@ -145,6 +145,16 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2403.06912
 - Code: https://github.com/Fictionarry/DNGaussian
 
+**4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**
+
+- Paper: https://arxiv.org/abs/2310.08528
+- Code: https://github.com/hustvl/4DGaussians
+
+**GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models**
+
+- Paper: https://arxiv.org/abs/2310.08529
+- Code: https://github.com/hustvl/GaussianDreamer
+
 <a name="Avatars"></a>
 
 # Avatars
@@ -337,6 +347,11 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2312.01220
 - Code: https://github.com/ZPDu/Boosting-Object-Detection-with-Zero-Shot-Day-Night-Domain-Adaptation 
 
+**YOLO-World: Real-Time Open-Vocabulary Object Detection**
+
+- Paper: https://arxiv.org/abs/2401.17270
+- Code: https://github.com/AILab-CVC/YOLO-World
+
 <a name="VT"></a>
 
 # 目标跟踪(Object Tracking)
@@ -400,6 +415,16 @@ CVPR 2024 decisions are now available on OpenReview！
 
 - Paper: https://arxiv.org/abs/2403.06974
 - Code: https://github.com/xuxw98/Online3D
+
+**Symphonize 3D Semantic Scene Completion with Contextual Instance Queries**
+
+- Paper: https://arxiv.org/abs/2306.15670
+- Code: https://github.com/hustvl/Symphonies
+
+**A Real-world Large-scale Dataset for Roadside Cooperative Perception**
+
+- Paper: https://arxiv.org/abs/2403.10145
+- Code: https://github.com/AIR-THU/DAIR-RCooper
 
 <a name="3D-Point-Cloud"></a>
 
@@ -557,6 +582,15 @@ CVPR 2024 decisions are now available on OpenReview！
 
 - Paper: https://arxiv.org/abs/2402.07220
 - Code: https://github.com/lixinustc/KVQ-Challenge-CVPR-NTIRE2024
+
+<a name="Datasets"></a>
+
+# 数据集(Datasets)
+
+**A Real-world Large-scale Dataset for Roadside Cooperative Perception**
+
+- Paper: https://arxiv.org/abs/2403.10145
+- Code: https://github.com/AIR-THU/DAIR-RCooper
 
 <a name="Others"></a>
 
