@@ -68,6 +68,7 @@ CVPR 2024 decisions are now available on OpenReview！
 - [医学图像(Medical Image)](#Medical-Image)
 - [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
+- [3D生成(3D Generation)](#3D-Generation)
 - [视频理解(Video Understanding)](#Video-Understanding)
 - [行为检测(Action Detection)](#Action-Detection)
 - [文本检测(Text Detection)](#Text-Detection)
@@ -239,6 +240,11 @@ CVPR 2024 decisions are now available on OpenReview！
 
 # NeRF
 
+**PIE-NeRF🍕: Physics-based Interactive Elastodynamics with NeRF**
+
+- Paper: https://arxiv.org/abs/2311.13099
+- Code: https://github.com/FYTalon/pienerf/ 
+
 <a name="DETR"></a>
 
 # DETR
@@ -284,7 +290,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**
 
 - Paper: https://arxiv.org/abs/2311.08046
-- Code: https://github.com/PKU-YuanGroup/Chat-UniVi 
+- Code: https://github.com/PKU-YuanGroup/Chat-UniVi
+
+**OneLLM: One Framework to Align All Modalities with Language**
+
+- Paper: https://arxiv.org/abs/2312.03700
+- Code: https://github.com/csuhan/OneLLM 
 
 <a name="NAS"></a>
 
@@ -293,6 +304,11 @@ CVPR 2024 decisions are now available on OpenReview！
 <a name="ReID"></a>
 
 # ReID(重识别)
+
+**Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification**
+
+- Paper: https://arxiv.org/abs/2403.10254
+- Code: https://github.com/924973292/EDITOR 
 
 <a name="Diffusion"></a>
 
@@ -313,7 +329,24 @@ CVPR 2024 decisions are now available on OpenReview！
 **DeepCache: Accelerating Diffusion Models for Free**
 
 - Paper: https://arxiv.org/abs/2312.00858
-- Code: https://github.com/horseee/DeepCache 
+- Code: https://github.com/horseee/DeepCache
+
+**DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations**
+
+- Homepage: https://tianhao-qi.github.io/DEADiff/ 
+
+- Paper: https://arxiv.org/abs/2403.06951
+- Code: https://github.com/Tianhao-Qi/DEADiff_code
+
+**SVGDreamer: Text Guided SVG Generation with Diffusion Model**
+
+- Paper: https://arxiv.org/abs/2312.16476
+- Code: https://ximinng.github.io/SVGDreamer-project/
+
+**InteractDiffusion: Interaction-Control for Text-to-Image Diffusion Model**
+
+- Paper: https://arxiv.org/abs/2312.05849
+- Code: https://github.com/jiuntian/interactdiffusion
 
 <a name="Vision-Transformer"></a>
 
@@ -332,6 +365,11 @@ CVPR 2024 decisions are now available on OpenReview！
 <a name="VL"></a>
 
 # 视觉和语言(Vision-Language)
+
+**PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**
+
+- Paper: https://arxiv.org/abs/2403.02781
+- Code: https://github.com/zhengli97/PromptKD 
 
 <a name="Object-Detection"></a>
 
@@ -425,6 +463,11 @@ CVPR 2024 decisions are now available on OpenReview！
 
 - Paper: https://arxiv.org/abs/2403.10145
 - Code: https://github.com/AIR-THU/DAIR-RCooper
+
+**Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**
+
+- Paper: https://arxiv.org/abs/2403.07535
+- Code: https://github.com/Junda24/AFNet 
 
 <a name="3D-Point-Cloud"></a>
 
@@ -531,7 +574,17 @@ CVPR 2024 decisions are now available on OpenReview！
 **Multi-Instance Generation Controller for Text-to-Image Synthesis**
 
 - Paper: https://arxiv.org/abs/2402.05408
-- Code: https://github.com/limuloo/migc 
+- Code: https://github.com/limuloo/migc
+
+**SVGDreamer: Text Guided SVG Generation with Diffusion Model**
+
+- Paper: https://arxiv.org/abs/2312.16476
+- Code: https://ximinng.github.io/SVGDreamer-project/
+
+**InteractDiffusion: Interaction-Control for Text-to-Image Diffusion Model**
+
+- Paper: https://arxiv.org/abs/2312.05849
+- Code: https://github.com/jiuntian/interactdiffusion
 
 <a name="Video-Generation"></a>
 
@@ -548,6 +601,21 @@ CVPR 2024 decisions are now available on OpenReview！
 
 - Paper: https://arxiv.org/abs/2311.17982
 - Code: https://github.com/Vchitect/VBench
+
+<a name="3D-Generation"></a>
+
+# 3D生成
+
+**CityDreamer: Compositional Generative Model of Unbounded 3D Cities**
+
+- Homepage: https://haozhexie.com/project/city-dreamer/ 
+- Paper: https://arxiv.org/abs/2309.00610
+- Code: https://github.com/hzxie/city-dreamer
+
+**LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**
+
+- Paper: https://arxiv.org/abs/2311.11284
+- Code: https://github.com/EnVision-Research/LucidDreamer 
 
 <a name="Video-Understanding"></a>
 
