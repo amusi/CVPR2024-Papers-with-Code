@@ -473,6 +473,10 @@ CVPR 2024 decisions are now available on OpenReview！
 
 # 3D点云(3D-Point-Cloud)
 
+**Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis**
+
+- Paper: https://arxiv.org/abs/2403.01439
+- Code: https://github.com/LMD0311/DAPT
 
 
 <a name="3DOD"></a>
