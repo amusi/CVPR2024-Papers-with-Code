@@ -649,6 +649,12 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2311.17002
 - Code: https://github.com/ali-vilab/Ranni
 
+**DiffusionLight: Light Probes for Free by Painting a Chrome Ball**
+
+- Homepage: https://diffusionlight.github.io/
+- Paper: https://arxiv.org/abs/2312.09168
+- Code: https://github.com/DiffusionLight/DiffusionLight
+
 <a name="Video-Generation"></a>
 
 # 视频生成(Video Generation)
