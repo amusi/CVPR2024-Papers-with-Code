@@ -28,12 +28,13 @@ CVPR 2024 decisions are now available on OpenReview！
 - [GAN](#GAN)
 - [GNN](#GNN)
 - [多模态大语言模型(MLLM)](#MLLM)
+- [大语言模型(LLM)](#LLM)
 - [NAS](#NAS)
 - [OCR](#OCR)
 - [NeRF](#NeRF)
 - [DETR](#DETR)
 - [Prompt](#Prompt)
-- [Diffusion Models(扩散模型)](#Diffusion)
+- [扩散模型(Diffusion Models)](#Diffusion)
 - [ReID(重识别)](#ReID)
 - [长尾分布(Long-Tail)](#Long-Tail)
 - [Vision Transformer](#Vision-Transformer)
@@ -41,6 +42,7 @@ CVPR 2024 decisions are now available on OpenReview！
 - [自监督学习(Self-supervised Learning)](#SSL)
 - [数据增强(Data Augmentation)](#DA)
 - [目标检测(Object Detection)](#Object-Detection)
+- [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [目标跟踪(Visual Tracking)](#VT)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
@@ -75,7 +77,6 @@ CVPR 2024 decisions are now available on OpenReview！
 - [知识蒸馏(Knowledge Distillation)](#KD)
 - [模型剪枝(Model Pruning)](#Pruning)
 - [图像压缩(Image Compression)](#IC)
-- [异常检测(Anomaly Detection)](#AD)
 - [三维重建(3D Reconstruction)](#3D-Reconstruction)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [轨迹预测(Trajectory Prediction)](#TP)
@@ -191,7 +192,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **Alpha-CLIP: A CLIP Model Focusing on Wherever You Want**
 
 - Paper: https://arxiv.org/abs/2312.03818
-- Code: https://github.com/SunzeY/AlphaCLIP 
+- Code: https://github.com/SunzeY/AlphaCLIP
+
+**FairCLIP: Harnessing Fairness in Vision-Language Learning**
+
+- Paper: https://arxiv.org/abs/2403.19949
+- Code: https://github.com/Harvard-Ophthalmology-AI-Lab/FairCLIP
 
 <a name="MAE"></a>
 
@@ -254,6 +260,11 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2304.08069
 - Code: https://github.com/lyuwenyu/RT-DETR
 
+**Salience DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement**
+
+- Paper: https://arxiv.org/abs/2403.16131
+- Code: https://github.com/xiuqhou/Salience-DETR
+
 <a name="Prompt"></a>
 
 # Prompt
@@ -295,7 +306,16 @@ CVPR 2024 decisions are now available on OpenReview！
 **OneLLM: One Framework to Align All Modalities with Language**
 
 - Paper: https://arxiv.org/abs/2312.03700
-- Code: https://github.com/csuhan/OneLLM 
+- Code: https://github.com/csuhan/OneLLM
+
+<a name="LLM"></a>
+
+# 大语言模型(LLM)
+
+**VTimeLLM: Empower LLM to Grasp Video Moments**
+
+- Paper: https://arxiv.org/abs/2311.18445
+- Code: https://github.com/huangb23/VTimeLLM 
 
 <a name="NAS"></a>
 
@@ -312,7 +332,7 @@ CVPR 2024 decisions are now available on OpenReview！
 
 <a name="Diffusion"></a>
 
-# Diffusion Models(扩散模型)
+# 扩散模型(Diffusion Models)
 
 **InstanceDiffusion: Instance-level Control for Image Generation**
 
@@ -348,6 +368,17 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2312.05849
 - Code: https://github.com/jiuntian/interactdiffusion
 
+**MMA-Diffusion: MultiModal Attack on Diffusion Models**
+
+- Paper: https://arxiv.org/abs/2311.17516
+- Code: https://github.com/yangyijune/MMA-Diffusion
+
+**VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models**
+
+- Homeoage: https://video-motion-customization.github.io/ 
+- Paper: https://arxiv.org/abs/2312.00845
+- Code: https://github.com/HyeonHo99/Video-Motion-Customization
+
 <a name="Vision-Transformer"></a>
 
 # Vision Transformer
@@ -369,7 +400,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**
 
 - Paper: https://arxiv.org/abs/2403.02781
-- Code: https://github.com/zhengli97/PromptKD 
+- Code: https://github.com/zhengli97/PromptKD
+
+**FairCLIP: Harnessing Fairness in Vision-Language Learning**
+
+- Paper: https://arxiv.org/abs/2403.19949
+- Code: https://github.com/Harvard-Ophthalmology-AI-Lab/FairCLIP
 
 <a name="Object-Detection"></a>
 
@@ -390,11 +426,28 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2401.17270
 - Code: https://github.com/AILab-CVC/YOLO-World
 
+**Salience DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement**
+
+- Paper: https://arxiv.org/abs/2403.16131
+- Code: https://github.com/xiuqhou/Salience-DETR
+
+<a name="Anomaly-Detection"></a>
+
+# 异常检测(Anomaly Detection)
+
+**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**
+
+- Paper: https://arxiv.org/abs/2310.12790
+- Code: https://github.com/mala-lab/AHL
+
 <a name="VT"></a>
 
 # 目标跟踪(Object Tracking)
 
+**Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**
 
+- Paper: https://arxiv.org/abs/2403.04700
+- Code: https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT 
 
 <a name="Semantic-Segmentation"></a>
 
@@ -532,7 +585,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **SeD: Semantic-Aware Discriminator for Image Super-Resolution**
 
 - Paper: https://arxiv.org/abs/2402.19387
-- Code: https://github.com/lbc12345/SeD 
+- Code: https://github.com/lbc12345/SeD
+
+**APISR: Anime Production Inspired Real-World Anime Super-Resolution**
+
+- Paper: https://arxiv.org/abs/2403.01598
+- Code: https://github.com/Kiteretsu77/APISR 
 
 <a name="Denoising"></a>
 
@@ -586,6 +644,11 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2312.05849
 - Code: https://github.com/jiuntian/interactdiffusion
 
+**Ranni: Taming Text-to-Image Diffusion for Accurate Prompt Following**
+
+- Paper: https://arxiv.org/abs/2311.17002
+- Code: https://github.com/ali-vilab/Ranni
+
 <a name="Video-Generation"></a>
 
 # 视频生成(Video Generation)
@@ -598,9 +661,14 @@ CVPR 2024 decisions are now available on OpenReview！
 **VBench: Comprehensive Benchmark Suite for Video Generative Models**
 
 - Homepage: https://vchitect.github.io/VBench-project/ 
-
 - Paper: https://arxiv.org/abs/2311.17982
 - Code: https://github.com/Vchitect/VBench
+
+**VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models**
+
+- Homeoage: https://video-motion-customization.github.io/ 
+- Paper: https://arxiv.org/abs/2312.00845
+- Code: https://github.com/HyeonHo99/Video-Motion-Customization
 
 <a name="3D-Generation"></a>
 
@@ -639,6 +707,25 @@ CVPR 2024 decisions are now available on OpenReview！
 
 - Paper: https://arxiv.org/abs/2311.15529
 - Code: https://github.com/vimar-gu/MinimaxDiffusion
+
+<a name="Stereo-Matching"></a>
+
+# 立体匹配(Stereo Matching)
+
+**Neural Markov Random Field for Stereo Matching**
+
+- Paper: https://arxiv.org/abs/2403.11193
+- Code: https://github.com/aeolusguan/NMRF 
+
+<a name="SGG"></a>
+
+# 场景图生成(Scene Graph Generation)
+
+**HiKER-SGG: Hierarchical Knowledge Enhanced Robust Scene Graph Generation**
+
+- Homepage: https://zhangce01.github.io/HiKER-SGG/ 
+- Paper : https://arxiv.org/abs/2403.12033
+- Code: https://github.com/zhangce01/HiKER-SGG
 
 <a name="Video-Quality-Assessment"></a>
 
@@ -705,4 +792,16 @@ CVPR 2024 decisions are now available on OpenReview！
 **Improved Visual Grounding through Self-Consistent Explanations**
 
 - Paper: https://arxiv.org/abs/2312.04554
-- Code: https://github.com/uvavision/SelfEQ 
+- Code: https://github.com/uvavision/SelfEQ
+
+**ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**
+
+- Homepage: https://chenshuang-zhang.github.io/imagenet_d/
+- Paper: https://arxiv.org/abs/2403.18775
+- Code: https://github.com/chenshuang-zhang/imagenet_d
+
+**Learning from Synthetic Human Group Activities**
+
+- Homepage: https://cjerry1243.github.io/M3Act/ 
+- Paper  https://arxiv.org/abs/2306.16772
+- Code: https://github.com/cjerry1243/M3Act
