@@ -308,6 +308,11 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2312.03700
 - Code: https://github.com/csuhan/OneLLM
 
+**Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models**
+
+- Paper: https://arxiv.org/abs/2311.06607
+- Code: https://github.com/Yuliang-Liu/Monkey
+  
 <a name="LLM"></a>
 
 # 大语言模型(LLM)
@@ -375,7 +380,7 @@ CVPR 2024 decisions are now available on OpenReview！
 
 **VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models**
 
-- Homeoage: https://video-motion-customization.github.io/ 
+- Homepage: https://video-motion-customization.github.io/ 
 - Paper: https://arxiv.org/abs/2312.00845
 - Code: https://github.com/HyeonHo99/Video-Motion-Customization
 
@@ -666,9 +671,15 @@ CVPR 2024 decisions are now available on OpenReview！
 
 **VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models**
 
-- Homeoage: https://video-motion-customization.github.io/ 
+- Homepage: https://video-motion-customization.github.io/ 
 - Paper: https://arxiv.org/abs/2312.00845
 - Code: https://github.com/HyeonHo99/Video-Motion-Customization
+
+**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**
+
+- HomePage: https://qiuyu96.github.io/CoDeF/
+- Paper: https://arxiv.org/abs/2308.07926
+- Code: https://github.com/qiuyu96/CoDeF
 
 <a name="3D-Generation"></a>
 
@@ -708,8 +719,17 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2311.15529
 - Code: https://github.com/vimar-gu/MinimaxDiffusion
 
-<a name="Stereo-Matching"></a>
+<a name="Depth-Estimation"></a>
 
+# 深度估计(Depth Estimation)
+
+**Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation**
+
+- Homepage: https://depth-anything.github.io/
+- Paper: https://arxiv.org/abs/2401.10891
+- Code: https://github.com/LiheYoung/Depth-Anything
+  
+<a name="Stereo-Matching"></a>
 # 立体匹配(Stereo Matching)
 
 **Neural Markov Random Field for Stereo Matching**
