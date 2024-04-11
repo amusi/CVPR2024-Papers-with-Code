@@ -715,7 +715,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **Neural Markov Random Field for Stereo Matching**
 
 - Paper: https://arxiv.org/abs/2403.11193
-- Code: https://github.com/aeolusguan/NMRF 
+- Code: https://github.com/aeolusguan/NMRF
+
+**MoCha-Stereo: Motif Channel Attention Network for Stereo Matching**
+
+- Paper: https://arxiv.org/abs/2404.06842
+- Code: https://github.com/ZYangChen/MoCha-Stereo
 
 <a name="SGG"></a>
 
