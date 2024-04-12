@@ -805,3 +805,9 @@ CVPR 2024 decisions are now available on OpenReview！
 - Homepage: https://cjerry1243.github.io/M3Act/ 
 - Paper  https://arxiv.org/abs/2306.16772
 - Code: https://github.com/cjerry1243/M3Act
+
+**MindBridge: A Cross-Subject Brain Decoding Framework**
+
+- Homepage: https://littlepure2333.github.io/MindBridge/
+- Paper  https://arxiv.org/abs/2404.07850
+- Code: https://github.com/littlepure2333/MindBridge
