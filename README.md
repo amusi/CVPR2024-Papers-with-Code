@@ -330,6 +330,12 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2403.10254
 - Code: https://github.com/924973292/EDITOR 
 
+**Noisy-Correspondence Learning for Text-to-Image Person Re-identification**
+
+- Paper: https://arxiv.org/abs/2308.09911
+
+- Code : https://github.com/QinYang79/RDE 
+
 <a name="Diffusion"></a>
 
 # 扩散模型(Diffusion Models)
@@ -391,7 +397,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **RepViT: Revisiting Mobile CNN From ViT Perspective**
 
 - Paper: https://arxiv.org/abs/2307.09283
-- Code: https://github.com/THU-MIG/RepViT 
+- Code: https://github.com/THU-MIG/RepViT
+
+**A General and Efficient Training for Transformer via Token Expansion**
+
+- Paper: https://arxiv.org/abs/2404.00672
+- Code: https://github.com/Osilly/TokenExpansion 
 
 <a name="VL"></a>
 
@@ -520,7 +531,12 @@ CVPR 2024 decisions are now available on OpenReview！
 **Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**
 
 - Paper: https://arxiv.org/abs/2403.07535
-- Code: https://github.com/Junda24/AFNet 
+- Code: https://github.com/Junda24/AFNet
+
+**Traffic Scene Parsing through the TSP6K Dataset**
+
+- Paper: https://arxiv.org/pdf/2303.02835.pdf
+- Code: https://github.com/PengtaoJiang/TSP6K 
 
 <a name="3D-Point-Cloud"></a>
 
@@ -597,6 +613,15 @@ CVPR 2024 decisions are now available on OpenReview！
 # 去噪(Denoising)
 
 ## 图像去噪(Image Denoising)
+
+<a name="3D-Human-Pose-Estimation"></a>
+
+# 3D人体姿态估计(3D Human Pose Estimation)
+
+**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**
+
+- Paper: https://arxiv.org/abs/2311.12028
+- Code: https://github.com/NationalGAILab/HoT 
 
 <a name="Image-Generation"></a>
 
@@ -747,6 +772,11 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2403.10145
 - Code: https://github.com/AIR-THU/DAIR-RCooper
 
+**Traffic Scene Parsing through the TSP6K Dataset**
+
+- Paper: https://arxiv.org/pdf/2303.02835.pdf
+- Code: https://github.com/PengtaoJiang/TSP6K 
+
 <a name="Others"></a>
 
 # 其他(Others)
@@ -805,3 +835,21 @@ CVPR 2024 decisions are now available on OpenReview！
 - Homepage: https://cjerry1243.github.io/M3Act/ 
 - Paper  https://arxiv.org/abs/2306.16772
 - Code: https://github.com/cjerry1243/M3Act
+
+**A Cross-Subject Brain Decoding Framework**
+
+- Homepage: https://littlepure2333.github.io/MindBridge/
+- Paper: https://arxiv.org/abs/2404.07850
+- Code: https://github.com/littlepure2333/MindBridge
+
+**Multi-Task Dense Prediction via Mixture of Low-Rank Experts**
+
+- Paper : https://arxiv.org/abs/2403.17749
+- Code: https://github.com/YuqiYang213/MLoRE
+
+**Contrastive Mean-Shift Learning for Generalized Category Discovery**
+
+- Homepage: https://postech-cvlab.github.io/cms/ 
+- Paper: https://arxiv.org/abs/2404.09451
+- Code: https://github.com/sua-choi/CMS
+  
