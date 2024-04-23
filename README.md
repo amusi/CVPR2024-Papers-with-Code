@@ -171,6 +171,12 @@ CVPR 2024 decisions are now available on OpenReview！
 - Homepage: https://www.zhengyiluo.com/SimXR/
 - Paper: https://arxiv.org/abs/2403.06862
 
+**SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting**
+
+- Homepage: https://initialneil.github.io/SplattingAvatar
+- Paper: https://arxiv.org/abs/2403.05087
+- Code: https://github.com/initialneil/SplattingAvatar
+
 <a name="Backbone"></a>
 
 # Backbone
