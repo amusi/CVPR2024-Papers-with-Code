@@ -265,6 +265,11 @@ CVPR 2024 decisions are now available on OpenReview！
 - Paper: https://arxiv.org/abs/2403.16131
 - Code: https://github.com/xiuqhou/Salience-DETR
 
+**MS-DETR: Efficient DETR Training with Mixed Supervision**
+
+- Paper: https://arxiv.org/pdf/2401.03989
+- Code: https://github.com/Atten4Vis/MS-DETR
+
 <a name="Prompt"></a>
 
 # Prompt
@@ -441,6 +446,11 @@ CVPR 2024 decisions are now available on OpenReview！
 
 - Paper: https://arxiv.org/abs/2403.16131
 - Code: https://github.com/xiuqhou/Salience-DETR
+
+**MS-DETR: Efficient DETR Training with Mixed Supervision**
+
+- Paper: https://arxiv.org/pdf/2401.03989
+- Code: https://github.com/Atten4Vis/MS-DETR
 
 <a name="Anomaly-Detection"></a>
 
