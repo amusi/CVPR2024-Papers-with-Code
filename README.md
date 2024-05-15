@@ -852,4 +852,11 @@ CVPR 2024 decisions are now available on OpenReview！
 - Homepage: https://postech-cvlab.github.io/cms/ 
 - Paper: https://arxiv.org/abs/2404.09451
 - Code: https://github.com/sua-choi/CMS
+
+**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation
+**
+
+- Homepage: https://udonda.github.io/RALF/
+- Paper: https://arxiv.org/abs/2311.13602
+- Code: https://github.com/CyberAgentAILab/RALF
   
